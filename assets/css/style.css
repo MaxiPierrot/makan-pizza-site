@@ -275,16 +275,15 @@ body.nav-open {
 }
 
 .hero__inner {
-  max-width: 640px;
+  max-width: 480px;
   margin: 0 auto;
 }
 
 .hero__logo {
   width: 100%;
+  max-width: 300px;
   height: auto;
-  border-radius: 10px;
-  box-shadow: 0 6px 20px rgba(31, 58, 52, 0.15);
-  margin-bottom: 1.8rem;
+  margin-bottom: 1.5rem;
 }
 
 .hero__tagline {
@@ -761,10 +760,16 @@ body.nav-open {
   text-align: center;
 }
 
+.footer__logo-wrap {
+  background-color: var(--cream-light);
+  border-radius: 14px;
+  padding: 0.8rem 1.2rem;
+}
+
 .footer__logo {
-  width: 90px;
+  width: 130px;
   height: auto;
-  border-radius: 50%;
+  display: block;
 }
 
 .footer__social {
@@ -802,7 +807,9 @@ body.nav-open {
 
 @media (min-width: 800px) {
   .prestations__grid {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 760px;
+    margin: 0 auto;
   }
 
   .idees-recette__grid {

@@ -40,7 +40,7 @@
 <!-- ===================== HERO ===================== -->
 <header class="hero" id="hero">
   <div class="hero__inner">
-    <img class="hero__logo" src="assets/images/hero-banner.png" alt="Makan Pizza — pizza napolitaine à Lyon">
+    <img class="hero__logo" src="assets/images/logo.png" alt="Makan Pizza — logo">
     <p class="hero__tagline">Pizza napolitaine à domicile ou ailleurs...</p>
     <a href="#contact" class="btn btn--primary">Réserver une prestation</a>
   </div>
@@ -91,7 +91,7 @@
     <h2 class="section-title">Les ateliers</h2>
     <p class="prestations__intro">
       Apprendre à faire une vraie pizza, chez vous, avec les bons gestes —
-      trois formats selon votre niveau, votre équipement et vos envies.
+      deux formats selon votre niveau, votre équipement et vos envies.
     </p>
     <p class="prestations__note">
       Ces ateliers sont ouverts à tous, sans niveau requis : l'objectif est
@@ -166,6 +166,11 @@
         </p>
       </div>
 
+      <!--
+        PAUSE : atelier "Perfectionnement" retiré temporairement de l'offre
+        (demande de Pierre, 2026-09-03). Conservé ici pour réactivation
+        future — remettre ce bloc dans .prestations__grid pour le rétablir.
+
       <div class="prestation-card">
         <h3 class="prestation-card__title">Perfectionnement</h3>
         <p class="prestation-card__meta">3h à 3h30 · 2 à 4 personnes</p>
@@ -194,6 +199,7 @@
           réfléchissent à s'équiper eux-mêmes.
         </p>
       </div>
+      -->
 
     </div>
     <p class="prestations__footnote">
@@ -297,9 +303,9 @@
     <!--
       PLACEHOLDER : lien vers le calendrier de réservation en ligne
       (SimplyBook.me — à intégrer une fois le compte configuré, avec les
-      4 services : bases maison, initiation napolitaine, perfectionnement,
-      pizza party). En attendant, ce lien peut pointer vers un mailto ou
-      rester inactif.
+      3 services actifs : bases maison, initiation napolitaine, pizza party.
+      Perfectionnement en pause, à réintégrer si l'atelier est réactivé.
+      En attendant, ce lien peut pointer vers un mailto ou rester inactif.
     -->
     <p class="contact__booking">
       <a href="#" class="btn btn--primary">Voir les créneaux disponibles</a>
@@ -368,7 +374,9 @@
 <!-- ===================== FOOTER ===================== -->
 <footer class="footer">
   <div class="container footer__inner">
-    <img class="footer__logo" src="assets/images/logo.png" alt="Makan Pizza">
+    <div class="footer__logo-wrap">
+      <img class="footer__logo" src="assets/images/logo.png" alt="Makan Pizza">
+    </div>
 
     <div class="footer__social">
       <a href="https://instagram.com/makanpizza_officiel" target="_blank" rel="noopener">Instagram @makanpizza_officiel</a>
