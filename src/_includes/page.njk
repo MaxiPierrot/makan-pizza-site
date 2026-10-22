@@ -1,0 +1,14 @@
+---
+layout: base.njk
+---
+<section class="page-hero page-hero--simple">
+  <div class="container page-hero__grid">
+    <div class="page-hero__text">
+      {% if crumb %}{% include "breadcrumb.njk" %}{% endif %}
+      <h1 class="page-title">{{ h1 }}</h1>
+      {% if lead %}<p class="page-lead">{{ lead }}</p>{% endif %}
+    </div>
+  </div>
+</section>
+
+{{ content | safe }}

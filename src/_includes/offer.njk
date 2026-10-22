@@ -1,0 +1,71 @@
+---
+layout: base.njk
+---
+<section class="page-hero">
+  <div class="container page-hero__grid{% if facts %} has-facts{% endif %}">
+    <div class="page-hero__text">
+      {% include "breadcrumb.njk" %}
+      <h1 class="page-title">{{ h1 }}</h1>
+      <p class="page-lead">{{ lead }}</p>
+    </div>
+    {% if facts %}
+    <aside class="facts" aria-label="L'essentiel">
+      <dl>
+        {% for f in facts %}
+        <div class="facts__row"><dt>{{ f.label }}</dt><dd>{{ f.value }}</dd></div>
+        {% endfor %}
+      </dl>
+    </aside>
+    {% endif %}
+  </div>
+</section>
+
+{% set heroPhoto = photoFile | photoSrc if photoFile else "" %}
+{% if heroPhoto %}
+<section class="page-photo">
+  <div class="container">
+    <div class="photo-slot page-photo__slot"><img src="{{ heroPhoto }}" alt="{{ photoAlt }}" width="1600" height="700" loading="lazy" decoding="async"></div>
+  </div>
+</section>
+{% endif %}
+
+{{ content | safe }}
+
+<section class="section section--green tarif">
+  <div class="container">
+    <h2 class="tarif__title">{{ tarifTitle }}</h2>
+    <p class="tarif__text{% if tarifLong %} tarif__text--body{% endif %}">{{ tarifText }}</p>
+    {% if tarifNote %}<p class="tarif__note">{{ site.priceNote }}</p>{% endif %}
+    <p class="tarif__actions">
+      <a href="{{ ctaHref }}" class="btn btn--primary">{{ ctaLabel }}</a>
+      {% if ctaSecondary %}<a class="link-arrow" href="{{ ctaSecondary.href }}">{{ ctaSecondary.label }} <span class="arrow" aria-hidden="true">→</span></a>{% endif %}
+    </p>
+  </div>
+</section>
+
+<nav class="related" aria-label="Voir aussi">
+  <div class="container">
+    <ul>
+      {% for l in related %}
+      <li><a class="link-arrow" href="{{ l.href }}">{{ l.label }} <span class="arrow" aria-hidden="true">→</span></a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>
+
+{% set faqItems = faq.pick(faqIds) %}
+<section class="section section--cream faq-block">
+  <div class="container">
+    <h2 class="section-title">Questions fréquentes</h2>
+    <div class="faq">
+      {% for item in faqItems %}
+      <details class="faq__item">
+        <summary>{{ item.q }}</summary>
+        <p>{{ item.a }}</p>
+      </details>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% faqLd faqItems %}
+{% serviceLd h1, description, path, servicePrice, serviceMinPrice %}

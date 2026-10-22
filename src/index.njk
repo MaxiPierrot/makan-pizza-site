@@ -1,0 +1,121 @@
+---
+layout: base.njk
+permalink: /index.html
+path: /
+preloadEmblem: true
+title: "Atelier pizza napolitaine à domicile à Lyon | Makan Pizza"
+description: "Ateliers de pizza napolitaine et pizza party chez vous, à Lyon et dans un rayon de 10 km. Je viens avec mon four. Dès 59 € par personne."
+---
+<section class="hero" id="hero">
+  <div class="container hero__grid">
+    {# Photo : déposer src/assets/images/photos/accueil-hero.webp (le bloc de couleur disparaît). Ajouter son texte alternatif ci-dessous. #}
+    <div class="photo-slot hero__photo">{% photo "accueil-hero", "", 1200, 1500, "eager" %}</div>
+    <div class="hero__text">
+      <h1 class="hero__title"><span class="line">Ateliers pizza et pizza party</span> <span class="line">à domicile, à Lyon</span></h1>
+      <p class="hero__tagline">{{ site.slogan }}</p>
+      <p class="hero__lead">Je viens chez vous avec mon four, pour un moment entre amis. On fait la pâte ensemble, en petit groupe, ou je prépare les pizzas de vos invités. Lyon et 10 km autour.</p>
+      <p class="hero__actions">
+        <a href="#ateliers" class="btn btn--primary">Voir les ateliers</a>
+        <a href="/contact" class="btn btn--secondary">Demander un devis</a>
+      </p>
+      <p class="hero__facts">4 à 6 personnes · dès 59 € par personne · Lyon et 10 km autour</p>
+    </div>
+  </div>
+</section>
+
+<section class="offers" id="ateliers">
+  <div class="container">
+    <h2 class="section-title">Ce que je propose</h2>
+    <ul class="offers__grid">
+      <li class="card">
+        <div class="photo-slot card__photo">{% photo "atelier-bases", "", 900, 600 %}</div>
+        <div class="card__body">
+          <h3 class="card__title" id="offre-bases">Bases de la pizza maison</h3>
+          <p class="card__text">Une bonne pâte et de bonnes pizzas avec le four que vous avez déjà, entre amis.</p>
+          <p class="card__meta">2h à 2h30, 4 à 6 personnes.</p>
+          <p class="card__price">59 € par personne.</p>
+          <a class="card__more" href="/atelier-pizza-lyon" aria-describedby="offre-bases">Voir l'atelier <span class="arrow" aria-hidden="true">→</span></a>
+        </div>
+      </li>
+      <li class="card">
+        <div class="photo-slot card__photo">{% photo "atelier-initiation", "", 900, 600 %}</div>
+        <div class="card__body">
+          <h3 class="card__title" id="offre-initiation">Initiation à la pizza napolitaine</h3>
+          <p class="card__text">Je viens avec mon four électrique et on fait des pizzas comme en pizzeria.</p>
+          <p class="card__meta">2h30 à 3h, 4 à 6 personnes.</p>
+          <p class="card__price">69 € par personne.</p>
+          <a class="card__more" href="/atelier-pizza-napolitaine-lyon" aria-describedby="offre-initiation">Voir l'atelier <span class="arrow" aria-hidden="true">→</span></a>
+        </div>
+      </li>
+      <li class="card">
+        <div class="photo-slot card__photo">{% photo "pizza-party", "", 900, 600 %}</div>
+        <div class="card__body">
+          <h3 class="card__title" id="offre-pizza-party">Pizza party</h3>
+          <p class="card__text">Je prépare les pizzas de vos invités sur place.</p>
+          <p class="card__price">Sur devis, à partir de 220 €.</p>
+          <a class="card__more" href="/pizza-party-domicile-lyon" aria-describedby="offre-pizza-party">Voir la pizza party <span class="arrow" aria-hidden="true">→</span></a>
+        </div>
+      </li>
+    </ul>
+    <p class="offers__note">{{ site.priceNote }}</p>
+  </div>
+</section>
+
+<section class="section section--cream">
+  <div class="container split">
+    <h2 class="section__title">Une vraie pizza napolitaine, chez vous</h2>
+    <div class="split__body">
+      <p>Une pizza napolitaine, c'est une pâte qui a fermenté longtemps, un four très chaud et une cuisson d'environ 90 secondes. Je refais ça chez vous : dans votre salon, votre jardin ou la salle de votre événement. Pour l'initiation et la pizza party, j'apporte mon four.</p>
+      <p>Je ne livre pas de pizza, je viens la faire sur place. Mes ateliers se font en petit groupe, 4 à 6 personnes au maximum. Chacun a sa place autour du plan de travail, on discute, on rigole, et on mange ensemble à la fin.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2 class="section-title">Comment ça se passe</h2>
+    <ol class="steps">
+      <li><p>Vous me dites la date, le nombre de personnes et ce que vous avez en tête, par le formulaire ou par téléphone.</p></li>
+      <li><p>Je vous réponds avec le prix et ce qu'il faut prévoir de votre côté.</p></li>
+      <li><p>Le jour J, j'arrive avec le matériel. Il ne reste qu'à mettre les mains dans la pâte avec vos amis, ou à passer à table.</p></li>
+    </ol>
+  </div>
+</section>
+
+<section class="section section--green">
+  <div class="container split">
+    <h2 class="section__title">Qui je suis</h2>
+    <div class="split__body">
+      <p>Je m'appelle Pierre. J'ai toujours aimé cuisiner. Un jour, j'ai essayé un four fait pour la pizza napolitaine, et abordable, ce qui se trouve enfin aujourd'hui. Depuis, je n'ai plus arrêté : je teste des recettes, j'invite mes amis, on goûte, on recommence. Maintenant, j'ai envie de faire partager ça au plus de monde possible.</p>
+      <p><a class="link-arrow" href="/a-propos">Lire mon histoire <span class="arrow" aria-hidden="true">→</span></a></p>
+    </div>
+  </div>
+</section>
+
+{# Bande de photos de pizzas : affichée seulement si au moins 4 fichiers existent (voir src/_data/pizzaPhotos.js) #}
+{% if pizzaPhotos.length >= 4 %}
+{% set cols = 3 if pizzaPhotos.length == 6 else pizzaPhotos.length %}
+<section class="section section--center photo-band" aria-label="Pizzas de la carte">
+  <div class="container">
+    <ul class="photo-strip" style="--cols: {{ cols }}">
+      {% for pizza in pizzaPhotos %}
+      <li><div class="photo-slot strip__photo"><img src="{{ pizza.src }}" alt="{{ pizza.alt }}" width="800" height="800" loading="lazy" decoding="async"></div></li>
+      {% endfor %}
+    </ul>
+    <p class="strip__link"><a class="link-arrow" href="/carte">Voir toute la carte <span class="arrow" aria-hidden="true">→</span></a></p>
+  </div>
+</section>
+{% endif %}
+
+{# Section avis : masquée tant qu'il n'y a pas d'avis réels (avis Google, nom autorisé par le client). #}
+
+<section class="section section--cream section--center" id="contact">
+  <div class="container">
+    <h2 class="section-title">Une date en tête ? Une idée d'événement ?</h2>
+    <p>Dites-moi la date, le nombre de personnes et l'occasion. Si vous voulez quelque chose de plus personnel, je crée un événement sur mesure : des recettes liées à votre thème, un menu pensé pour l'occasion, un déroulé à votre façon. Racontez-moi ce que vous avez en tête, je vous réponds avec une proposition et un prix.</p>
+    <p class="date-cta__actions">
+      <a href="/contact" class="btn btn--primary">Demander un devis</a>
+      <a href="tel:{{ site.phoneIntl }}" class="btn btn--secondary">Appeler le {{ site.phone }}</a>
+    </p>
+  </div>
+</section>

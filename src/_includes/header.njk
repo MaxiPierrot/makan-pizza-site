@@ -1,0 +1,25 @@
+<nav class="site-nav" id="site-nav" aria-label="Navigation principale">
+  <div class="container site-nav__inner">
+    <a href="/" class="site-nav__brand" aria-label="Makan Pizza, accueil"><img class="site-nav__logo" src="/assets/images/logo-trim.webp" alt="" width="50" height="60"></a>
+    <a href="tel:{{ site.phoneIntl }}" class="site-nav__call" aria-label="Appeler le {{ site.phone }}">{{ site.phone }}</a>
+    <button class="site-nav__toggle" id="navToggle" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="navMenu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <ul class="site-nav__menu" id="navMenu">
+      <li class="has-sub">
+        <a href="/#ateliers">Ateliers</a>
+        <ul class="site-nav__sub">
+          <li><a href="/atelier-pizza-lyon"{% if path == "/atelier-pizza-lyon" %} aria-current="page"{% endif %}>Bases de la pizza maison</a></li>
+          <li><a href="/atelier-pizza-napolitaine-lyon"{% if path == "/atelier-pizza-napolitaine-lyon" %} aria-current="page"{% endif %}>Initiation napolitaine</a></li>
+        </ul>
+      </li>
+      <li><a href="/pizza-party-domicile-lyon"{% if path == "/pizza-party-domicile-lyon" %} aria-current="page"{% endif %}>Pizza party</a></li>
+      <li><a href="/carte"{% if path == "/carte" %} aria-current="page"{% endif %}>La carte</a></li>
+      <li><a href="/a-propos"{% if path == "/a-propos" %} aria-current="page"{% endif %}>À propos</a></li>
+      <li><a href="/contact"{% if path == "/contact" %} aria-current="page"{% endif %}>Contact</a></li>
+      <li class="site-nav__cta-item"><a href="/contact" class="btn btn--primary">Demander un devis</a></li>
+    </ul>
+  </div>
+</nav>

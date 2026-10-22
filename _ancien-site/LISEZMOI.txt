@@ -1,0 +1,2 @@
+Archive de l'ancien site (avant la refonte). Ces fichiers ne sont ni construits ni publiés : Eleventy ne lit que le dossier src, et Netlify publie uniquement _site.
+Les liens vers les images et la feuille de style y sont anciens et ne fonctionnent plus.

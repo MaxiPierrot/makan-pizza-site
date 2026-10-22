@@ -1,0 +1,67 @@
+---
+layout: page.njk
+permalink: /contact.html
+path: /contact
+crumb: "Contact"
+title: "Demander un devis ou une date | Makan Pizza"
+description: "Demandez un devis pour une pizza party ou une date pour un atelier pizza à domicile à Lyon. Je vous réponds par email ou par téléphone."
+h1: "Demander un devis ou une date"
+lead: "Les dates d'ateliers ne sont pas encore ouvertes à la réservation en ligne. Écrivez-moi avec la date qui vous arrange, le nombre de personnes et l'occasion. Je vous réponds par email ou par téléphone."
+---
+{# Emplacement du widget de réservation (SimplyBook) : à ajouter ici quand il sera branché, puis adapter le texte d'introduction. #}
+<section class="section">
+  <div class="container contact-grid">
+    <form class="form" name="contact" method="POST" action="/merci" data-netlify="true" netlify-honeypot="bot-field">
+      <input type="hidden" name="form-name" value="contact">
+      <p class="form__hp" aria-hidden="true"><label>Ne pas remplir <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+
+      <div class="form__row">
+        <label for="nom">Nom <span class="req" aria-hidden="true">*</span></label>
+        <input type="text" id="nom" name="nom" autocomplete="name" required aria-required="true">
+      </div>
+      <div class="form__row">
+        <label for="email">Email <span class="req" aria-hidden="true">*</span></label>
+        <input type="email" id="email" name="email" autocomplete="email" required aria-required="true">
+      </div>
+      <div class="form__row">
+        <label for="telephone">Téléphone</label>
+        <input type="tel" id="telephone" name="telephone" autocomplete="tel">
+      </div>
+      <div class="form__row">
+        <label for="atelier">Type de demande</label>
+        <select id="atelier" name="type_de_demande">
+          <option value="bases">Atelier Bases</option>
+          <option value="initiation">Initiation napolitaine</option>
+          <option value="pizza-party">Pizza party</option>
+          <option value="sur-mesure">Événement sur mesure</option>
+          <option value="autre">Autre</option>
+        </select>
+      </div>
+      <div class="form__cols">
+        <div class="form__row">
+          <label for="date">Date souhaitée</label>
+          <input type="date" id="date" name="date_souhaitee">
+        </div>
+        <div class="form__row">
+          <label for="personnes">Nombre de personnes</label>
+          <input type="number" id="personnes" name="nombre_de_personnes" min="1" inputmode="numeric">
+        </div>
+      </div>
+      <div class="form__row">
+        <label for="commune">Quartier ou commune</label>
+        <input type="text" id="commune" name="quartier_ou_commune" autocomplete="address-level2">
+      </div>
+      <div class="form__row">
+        <label for="message">Message <span class="req" aria-hidden="true">*</span></label>
+        <textarea id="message" name="message" rows="6" required aria-required="true"></textarea>
+      </div>
+      <p class="form__legend"><span class="req" aria-hidden="true">*</span> Champ obligatoire</p>
+      <button type="submit" class="btn btn--primary">Envoyer ma demande</button>
+    </form>
+
+    <aside class="contact-card" aria-label="Coordonnées">
+      <p><a href="tel:{{ site.phoneIntl }}">{{ site.phone }}</a></p>
+      <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+    </aside>
+  </div>
+</section>

@@ -1,0 +1,28 @@
+{
+  "name": "makan-pizza-site",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxiPierrot/makan-pizza-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MaxiPierrot/makan-pizza-site/issues"
+  },
+  "homepage": "https://github.com/MaxiPierrot/makan-pizza-site#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.7",
+    "@fontsource/caveat": "^5.3.0",
+    "@fontsource/jost": "^5.3.0",
+    "@fontsource/playfair-display": "^5.3.0",
+    "sharp": "^0.35.5"
+  }
+}

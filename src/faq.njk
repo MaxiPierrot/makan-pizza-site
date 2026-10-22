@@ -1,0 +1,22 @@
+---
+layout: page.njk
+permalink: /faq.html
+path: /faq
+crumb: "Questions fréquentes"
+title: "Questions fréquentes sur les ateliers pizza à domicile | Makan Pizza"
+description: "Four, durée, nombre de personnes, allergies, zone de déplacement : les réponses aux questions les plus posées sur les ateliers et la pizza party à Lyon."
+h1: "Questions fréquentes"
+---
+<section class="section">
+  <div class="container">
+    <div class="faq">
+      {% for item in faq.items %}
+      <details class="faq__item">
+        <summary>{{ item.q }}</summary>
+        <p>{{ item.a }}</p>
+      </details>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% faqLd faq.items %}

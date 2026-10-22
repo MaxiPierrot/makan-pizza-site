@@ -1,0 +1,46 @@
+---
+layout: page.njk
+permalink: /carte.html
+path: /carte
+crumb: "La carte"
+title: "Les pizzas de la carte | Makan Pizza"
+description: "Margherita, Savoyarde, Diavola, Morta-Bella : les pizzas que je prépare pour les pizza party et les ateliers à domicile, à Lyon."
+h1: "La carte"
+lead: "Voici les pizzas de la carte, des classiques et des créations plus originales. Pour une pizza party, on choisit ensemble."
+---
+{% macro pizzaCard(p) %}
+<li class="menu-card">
+  {% set src = p.photo | photoSrc %}
+  {% if src %}<div class="photo-slot menu-card__photo"><img src="{{ src }}" alt="Pizza {{ p.name }} : {{ p.desc }}" width="800" height="600" loading="lazy" decoding="async"></div>{% endif %}
+  <div class="menu-card__body">
+    {% if p.signature %}<p class="menu-card__badge">Ma pizza signature</p>{% endif %}
+    <h3 class="menu-card__name">{{ p.name }}</h3>
+    <p class="menu-card__desc">{{ p.desc }}</p>
+    {% if p.after %}<p class="menu-card__after">{{ p.after }}</p>{% endif %}
+  </div>
+</li>
+{% endmacro %}
+
+<section class="section">
+  <div class="container">
+    <h2 class="section-title">Pizzas classiques</h2>
+    <ul class="menu-grid">
+      {% for p in carte.classiques %}{{ pizzaCard(p) }}{% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section section--cream">
+  <div class="container">
+    <h2 class="section-title">Pizzas spéciales</h2>
+    <ul class="menu-grid">
+      {% for p in carte.speciales %}{{ pizzaCard(p) }}{% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section section--center">
+  <div class="container">
+    <p class="cta-row"><a href="/contact?atelier=pizza-party" class="btn btn--primary">Demander un devis pour une pizza party</a></p>
+  </div>
+</section>
