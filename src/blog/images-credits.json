@@ -1,0 +1,90 @@
+{
+  "pizza-napolitaine-four-a-bois-cuisson": {
+    "source": "Unsplash",
+    "urlPage": "https://unsplash.com/photos/pizza-baking-in-wood-fired-oven-vHRFraV4U00",
+    "urlImage": "https://images.unsplash.com/photo-1622880833523-7cf1c0bd4296",
+    "auteur": "Fabrizio Pullara",
+    "licence": "Unsplash License",
+    "urlLicence": "https://unsplash.com/license",
+    "verifieLe": "2026-10-22",
+    "largeur": 1600,
+    "hauteur": 1067
+  },
+  "four-a-bois-exterieur-pizza-sur-pelle": {
+    "source": "Unsplash",
+    "urlPage": "https://unsplash.com/photos/a-pizza-is-being-removed-from-a-wood-fired-oven-j8D70Olobng",
+    "urlImage": "https://images.unsplash.com/photo-1752434348362-a869e7688fa8",
+    "auteur": "Claudio Schwarz",
+    "licence": "Unsplash License",
+    "urlLicence": "https://unsplash.com/license",
+    "verifieLe": "2026-10-22",
+    "largeur": 1600,
+    "hauteur": 1169
+  },
+  "mains-boule-de-pate-farine": {
+    "source": "Unsplash",
+    "urlPage": "https://unsplash.com/photos/person-holding-white-dough-on-white-table-AxXT3kFd_Gg",
+    "urlImage": "https://images.unsplash.com/photo-1619710282877-638d7ee1e45d",
+    "auteur": "Max Saeling",
+    "licence": "Unsplash License",
+    "urlLicence": "https://unsplash.com/license",
+    "verifieLe": "2026-10-22",
+    "largeur": 1600,
+    "hauteur": 1067
+  },
+  "mains-petrissage-pate-pizza": {
+    "source": "Unsplash",
+    "urlPage": "https://unsplash.com/photos/hands-kneading-dough-dusted-with-flour-zZq_Iopl5_Q",
+    "urlImage": "https://images.unsplash.com/photo-1755211516523-e17d13978a1b",
+    "auteur": "Merrilee Schultz",
+    "licence": "Unsplash License",
+    "urlLicence": "https://unsplash.com/license",
+    "verifieLe": "2026-10-22",
+    "largeur": 1600,
+    "hauteur": 1066
+  },
+  "pizzas-partagees-table-amis": {
+    "source": "Unsplash",
+    "urlPage": "https://unsplash.com/photos/a-person-making-pizzas-T_PbUhfwd0U",
+    "urlImage": "https://images.unsplash.com/photo-1651981075280-9a9e01acbff0",
+    "auteur": "Daniel",
+    "licence": "Unsplash License",
+    "urlLicence": "https://unsplash.com/license",
+    "verifieLe": "2026-10-22",
+    "largeur": 1600,
+    "hauteur": 1067
+  },
+  "atelier-pizza-domicile-lyon-pate": {
+    "usage": "site (page Atelier Bases)",
+    "source": "Pexels",
+    "urlPage": "https://www.pexels.com/photo/crop-women-putting-pizza-in-oven-5908219/",
+    "urlImage": "https://images.pexels.com/photos/5908219/pexels-photo-5908219.jpeg",
+    "auteur": "Katerina Holmes",
+    "licence": "Pexels License (Free)",
+    "urlLicence": "https://www.pexels.com/license/",
+    "verifieLe": "2026-10-22",
+    "remarque": "Photo libre provisoire, recadrée pour ne montrer aucun visage. A remplacer par une photo de Pierre."
+  },
+  "atelier-bases": {
+    "usage": "site (page Atelier Bases)",
+    "source": "Pexels",
+    "urlPage": "https://www.pexels.com/photo/crop-women-putting-pizza-in-oven-5908219/",
+    "urlImage": "https://images.pexels.com/photos/5908219/pexels-photo-5908219.jpeg",
+    "auteur": "Katerina Holmes",
+    "licence": "Pexels License (Free)",
+    "urlLicence": "https://www.pexels.com/license/",
+    "verifieLe": "2026-10-22",
+    "remarque": "Photo libre provisoire, recadrée pour ne montrer aucun visage. A remplacer par une photo de Pierre."
+  },
+  "four-electrique-domestique-pizza-en-cuisson": {
+    "source": "Pexels",
+    "urlPage": "https://www.pexels.com/photo/crop-women-putting-pizza-in-oven-5908219/",
+    "urlImage": "https://images.pexels.com/photos/5908219/pexels-photo-5908219.jpeg",
+    "auteur": "Katerina Holmes",
+    "licence": "Pexels License (Free)",
+    "urlLicence": "https://www.pexels.com/license/",
+    "verifieLe": "2026-10-22",
+    "largeur": 891,
+    "hauteur": 594
+  }
+}

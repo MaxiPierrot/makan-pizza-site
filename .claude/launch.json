@@ -1,6 +1,22 @@
 {
   "version": "0.0.1",
   "configurations": [
-    { "name": "site", "runtimeExecutable": "npm", "runtimeArgs": ["start"], "port": 8080 }
+    {
+      "name": "site",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "start"
+      ],
+      "port": 8080
+    },
+    {
+      "name": "site-brouillons",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "start:brouillons"
+      ],
+      "port": 8080
+    }
   ]
 }

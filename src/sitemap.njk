@@ -5,8 +5,8 @@ eleventyExcludeFromCollections: true
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- for item in collections.all %}
-{%- if item.data.path and not item.data.noindex and item.data.sitemap != false %}
-  <url><loc>{{ site.url }}{{ item.data.path }}</loc></url>
+{%- if item.url and item.data.path and not item.data.noindex and item.data.sitemap != false %}
+  <url><loc>{{ site.url }}{{ item.data.path }}</loc>{% if item.data.titre %}<lastmod>{{ (item.data.miseAJour or item.date) | isoDate }}</lastmod>{% endif %}</url>
 {%- endif %}
 {%- endfor %}
 </urlset>

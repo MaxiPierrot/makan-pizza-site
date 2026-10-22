@@ -4,7 +4,7 @@ permalink: /index.html
 path: /
 preloadEmblem: true
 title: "Atelier pizza napolitaine à domicile à Lyon | Makan Pizza"
-description: "Ateliers de pizza napolitaine et pizza party chez vous, à Lyon et dans un rayon de 10 km. Je viens avec mon four. Dès 59 € par personne."
+description: "Ateliers de pizza napolitaine et pizza party chez vous, à Lyon et dans un rayon de 10 km. Je viens avec mon four. Dès {prix.bases} € par personne."
 ---
 <section class="hero" id="hero">
   <div class="container hero__grid">
@@ -18,7 +18,7 @@ description: "Ateliers de pizza napolitaine et pizza party chez vous, à Lyon et
         <a href="#ateliers" class="btn btn--primary">Voir les ateliers</a>
         <a href="/contact" class="btn btn--secondary">Demander un devis</a>
       </p>
-      <p class="hero__facts">4 à 6 personnes · dès 59 € par personne · Lyon et 10 km autour</p>
+      <p class="hero__facts">4 à 6 personnes · dès {{ prix.bases }} € par personne · Lyon et 10 km autour</p>
     </div>
   </div>
 </section>
@@ -28,12 +28,12 @@ description: "Ateliers de pizza napolitaine et pizza party chez vous, à Lyon et
     <h2 class="section-title">Ce que je propose</h2>
     <ul class="offers__grid">
       <li class="card">
-        <div class="photo-slot card__photo">{% photo "atelier-bases", "", 900, 600 %}</div>
+        <div class="photo-slot card__photo">{% photo "atelier-bases", "Une pizza cuit sur une grille dans un four électrique domestique à la porte ouverte, dans une cuisine", 900, 600 %}</div>
         <div class="card__body">
           <h3 class="card__title" id="offre-bases">Bases de la pizza maison</h3>
           <p class="card__text">Une bonne pâte et de bonnes pizzas avec le four que vous avez déjà, entre amis.</p>
           <p class="card__meta">2h à 2h30, 4 à 6 personnes.</p>
-          <p class="card__price">59 € par personne.</p>
+          <p class="card__price">{{ prix.bases }} € par personne.</p>
           <a class="card__more" href="/atelier-pizza-lyon" aria-describedby="offre-bases">Voir l'atelier <span class="arrow" aria-hidden="true">→</span></a>
         </div>
       </li>
@@ -43,7 +43,7 @@ description: "Ateliers de pizza napolitaine et pizza party chez vous, à Lyon et
           <h3 class="card__title" id="offre-initiation">Initiation à la pizza napolitaine</h3>
           <p class="card__text">Je viens avec mon four électrique et on fait des pizzas comme en pizzeria.</p>
           <p class="card__meta">2h30 à 3h, 4 à 6 personnes.</p>
-          <p class="card__price">69 € par personne.</p>
+          <p class="card__price">{{ prix.initiation }} € par personne.</p>
           <a class="card__more" href="/atelier-pizza-napolitaine-lyon" aria-describedby="offre-initiation">Voir l'atelier <span class="arrow" aria-hidden="true">→</span></a>
         </div>
       </li>
@@ -52,7 +52,7 @@ description: "Ateliers de pizza napolitaine et pizza party chez vous, à Lyon et
         <div class="card__body">
           <h3 class="card__title" id="offre-pizza-party">Pizza party</h3>
           <p class="card__text">Je prépare les pizzas de vos invités sur place.</p>
-          <p class="card__price">Sur devis, à partir de 220 €.</p>
+          <p class="card__price">Sur devis, à partir de {{ prix.partyMin }} €.</p>
           <a class="card__more" href="/pizza-party-domicile-lyon" aria-describedby="offre-pizza-party">Voir la pizza party <span class="arrow" aria-hidden="true">→</span></a>
         </div>
       </li>
@@ -106,6 +106,8 @@ description: "Ateliers de pizza napolitaine et pizza party chez vous, à Lyon et
   </div>
 </section>
 {% endif %}
+
+{% include "blog-strip.njk" %}
 
 {# Section avis : masquée tant qu'il n'y a pas d'avis réels (avis Google, nom autorisé par le client). #}
 

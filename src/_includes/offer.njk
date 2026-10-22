@@ -6,13 +6,13 @@ layout: base.njk
     <div class="page-hero__text">
       {% include "breadcrumb.njk" %}
       <h1 class="page-title">{{ h1 }}</h1>
-      <p class="page-lead">{{ lead }}</p>
+      <p class="page-lead">{{ lead | prixTokens }}</p>
     </div>
     {% if facts %}
     <aside class="facts" aria-label="L'essentiel">
       <dl>
         {% for f in facts %}
-        <div class="facts__row"><dt>{{ f.label }}</dt><dd>{{ f.value }}</dd></div>
+        <div class="facts__row"><dt>{{ f.label }}</dt><dd>{{ f.value | prixTokens }}</dd></div>
         {% endfor %}
       </dl>
     </aside>
@@ -34,7 +34,7 @@ layout: base.njk
 <section class="section section--green tarif">
   <div class="container">
     <h2 class="tarif__title">{{ tarifTitle }}</h2>
-    <p class="tarif__text{% if tarifLong %} tarif__text--body{% endif %}">{{ tarifText }}</p>
+    <p class="tarif__text{% if tarifLong %} tarif__text--body{% endif %}">{{ tarifText | prixTokens }}</p>
     {% if tarifNote %}<p class="tarif__note">{{ site.priceNote }}</p>{% endif %}
     <p class="tarif__actions">
       <a href="{{ ctaHref }}" class="btn btn--primary">{{ ctaLabel }}</a>
@@ -68,4 +68,5 @@ layout: base.njk
   </div>
 </section>
 {% faqLd faqItems %}
-{% serviceLd h1, description, path, servicePrice, serviceMinPrice %}
+{% serviceLd h1, description | prixTokens, path, servicePrice | prixTokens, serviceMinPrice | prixTokens %}
+{% include "blog-strip.njk" %}

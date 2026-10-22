@@ -1,0 +1,26 @@
+---
+layout: page.njk
+path: /blog
+crumb: "Blog"
+title: "Blog | Makan Pizza"
+description: "Conseils pour réussir vos pizzas à la maison et organiser un atelier ou une pizza party à domicile à Lyon."
+h1: "Le blog"
+lead: "Des conseils pour réussir vos pizzas à la maison et organiser un atelier ou une pizza party à domicile."
+---
+<section class="section">
+  <div class="container">
+    <ul class="post-grid">
+      {% for a in collections.articles %}
+      <li class="card post-card">
+        {% set thumb = a.data.photos[0].fichier if a.data.photos and a.data.photos.length else "" %}
+        {% if thumb %}<div class="photo-slot card__photo"><img src="/assets/images/blog/{{ thumb }}-600.webp" alt="" width="600" height="400" loading="lazy" decoding="async"></div>{% endif %}
+        <div class="card__body">
+          <p class="card__meta"><time datetime="{{ a.date | isoDate }}">{{ a.date | dateFr }}</time>{% if a.data.brouillon %} · <span class="badge-brouillon">Brouillon</span>{% endif %}</p>
+          <h2 class="card__title"><a class="card__more post-card__link" href="{{ a.data.path }}">{{ a.data.titre | prixTokens }}</a></h2>
+          <p class="card__text">{{ a.data.description | prixTokens }}</p>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>

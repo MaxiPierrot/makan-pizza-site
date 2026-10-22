@@ -1,0 +1,83 @@
+---
+layout: base.njk
+---
+{% if brouillon %}
+<div class="draft-banner" role="note">
+  <div class="container">
+    <strong>Brouillon, non publié.</strong> Cet article n'est visible que dans l'aperçu : il reste invisible sur le site tant que sa date n'est pas passée et que <code>validé: true</code> n'est pas écrit dans son en-tête.
+  </div>
+</div>
+{% endif %}
+{% set cover = photos[0].fichier if photos and photos.length else "" %}
+<section class="page-hero page-hero--simple article-hero">
+  <div class="container">
+    {% include "breadcrumb.njk" %}
+    <h1 class="page-title">{{ titre | prixTokens }}</h1>
+    <p class="article__meta">
+      Par Pierre · <time datetime="{{ page.date | isoDate }}">{{ page.date | dateFr }}</time>
+      {%- if miseAJour %} · mis à jour le <time datetime="{{ miseAJour | isoDate }}">{{ miseAJour | dateFr }}</time>{% endif %}
+      · {{ content | readingTime }} min de lecture
+    </p>
+  </div>
+</section>
+
+{% if cover %}{% set coverFig %}{% blogphoto cover, "cover" %}{% endset %}{% endif %}
+{% if coverFig %}
+<div class="article__cover"><div class="container">{{ coverFig | safe }}</div></div>
+{% endif %}
+
+<article class="section article">
+  <div class="container">
+    <div class="article__body">
+      {{ content | safe }}
+    </div>
+  </div>
+</article>
+
+{% if questions and questions.length %}
+{% set faqItems = questions | prixTokens %}
+<section class="section faq-block">
+  <div class="container">
+    <h2 class="section-title">Questions fréquentes</h2>
+    <div class="faq">
+      {% for item in faqItems %}
+      <details class="faq__item">
+        <summary>{{ item.q }}</summary>
+        <p>{{ item.a }}</p>
+      </details>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% faqLd faqItems %}
+{% endif %}
+
+{% if sources and sources.length %}
+<section class="section section--cream article-sources" aria-labelledby="sources-titre">
+  <div class="container">
+    <div class="article__body">
+      <h2 id="sources-titre">Sources</h2>
+      <ol class="sources">
+        {% for s in sources %}
+        <li><a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.titre }}</a>{% if s.editeur %}, {{ s.editeur }}{% endif %}{% if s.consulte %} (consulté le {{ s.consulte | dateFr }}){% endif %}{% if s.note %}. {{ s.note }}{% endif %}</li>
+        {% endfor %}
+      </ol>
+    </div>
+  </div>
+</section>
+{% endif %}
+
+{% if related and related.length %}
+<nav class="related" aria-label="Voir aussi">
+  <div class="container">
+    <ul>
+      {% for l in related %}
+      <li><a class="link-arrow" href="{{ l.href }}">{{ l.label }} <span class="arrow" aria-hidden="true">→</span></a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>
+{% endif %}
+{% set stripTitle = "À lire aussi" %}
+{% include "blog-strip.njk" %}
+{% articleLd titre, description, path, page.date, miseAJour, ("/assets/images/blog/" + cover + ".webp") if coverFig else "" %}

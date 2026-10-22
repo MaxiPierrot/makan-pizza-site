@@ -1617,3 +1617,420 @@ textarea:focus-visible {
     transform: none;
   }
 }
+
+/* ===================== BLOG ===================== */
+.post-grid {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 19rem), 1fr));
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.post-card .card__title {
+  margin-bottom: 0.8rem;
+}
+
+.post-card__link {
+  margin: 0;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.post-card__link:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--mustard);
+}
+
+.badge-brouillon {
+  display: inline-block;
+  padding: 0.05rem 0.6rem;
+  border-radius: 999px;
+  background: var(--mustard);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.article__meta {
+  margin: 0;
+  font-size: var(--fs-sm);
+  font-weight: 500;
+  opacity: 0.85;
+}
+
+.article__cover {
+  background: var(--cream);
+  padding-bottom: clamp(1.6rem, 4vw, 2.6rem);
+}
+
+.article__figure {
+  margin: 0;
+}
+
+.article__figure img {
+  display: block;
+  width: 100%;
+  border-radius: var(--radius);
+  background: var(--sage);
+}
+
+.article__figure--cover img {
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  max-height: 34rem;
+}
+
+.article__figure figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.82rem;
+  opacity: 0.8;
+}
+
+.article__body {
+  max-width: 44rem;
+  margin: 0 auto;
+}
+
+.article__body p {
+  max-width: none;
+}
+
+.article__body h2 {
+  font-family: var(--font-title);
+  font-size: var(--fs-lg);
+  line-height: 1.25;
+  margin: 2.4rem 0 0.8rem;
+}
+
+.article__body h3 {
+  font-family: var(--font-title);
+  font-size: var(--fs-md);
+  margin: 1.8rem 0 0.6rem;
+}
+
+.article__body ul,
+.article__body ol {
+  padding-left: 1.3rem;
+  margin: 0 0 1.2em;
+}
+
+.article__body li {
+  margin-bottom: 0.4rem;
+}
+
+.article__body .article__figure {
+  margin: 2rem 0;
+}
+
+.article__body table {
+  display: block;
+  overflow-x: auto;
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.4rem 0;
+  font-size: 0.98rem;
+}
+
+.article__body th,
+.article__body td {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.7rem 0.8rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.article__body th {
+  font-weight: 600;
+  border-bottom-color: var(--mustard);
+}
+
+.article__body .table-wrap {
+  overflow-x: auto;
+}
+
+.sources {
+  padding-left: 1.3rem;
+  font-size: 0.95rem;
+}
+
+.article-sources h2 {
+  margin-top: 0;
+  font-family: var(--font-title);
+  font-size: var(--fs-md);
+}
+
+.faq-block .faq {
+  max-width: 44rem;
+}
+
+/* Aperçu des brouillons */
+.draft-banner {
+  background: var(--mustard);
+  color: var(--green);
+  padding: 0.7rem 0;
+  font-size: var(--fs-sm);
+  text-align: center;
+}
+
+.draft-banner code {
+  font-size: 0.85em;
+}
+
+.article__body p.a-completer {
+  background: var(--sage);
+  border-left: 4px solid var(--mustard);
+  border-radius: 6px;
+  padding: 0.8rem 1rem;
+  font-weight: 500;
+}
+
+.article__body td:first-child {
+  font-weight: 500;
+}
+
+.article__body th,
+.article__body td {
+  min-width: 8.5rem;
+}
+
+.article__body th:first-child,
+.article__body td:first-child {
+  min-width: 5.5rem;
+}
+
+/* ===================== BANDEAU D'ARTICLES (défilement latéral) ===================== */
+.blog-strip {
+  --edge: max(24px, calc((100% - 1120px) / 2 + 24px));
+  padding: var(--space-section) 0;
+  background: var(--paper);
+  overflow: hidden;
+}
+
+.blog-strip .section-title {
+  margin-bottom: 2.2rem;
+}
+
+.blog-rail {
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  scroll-snap-type: x proximity;
+  scroll-padding-inline: var(--edge);
+  scrollbar-width: none;
+  padding: 0.5rem var(--edge) 1.6rem;
+  cursor: grab;
+  -webkit-mask-image: linear-gradient(90deg, #000 calc(100% - 4.5rem), transparent);
+  mask-image: linear-gradient(90deg, #000 calc(100% - 4.5rem), transparent);
+}
+
+.blog-rail::-webkit-scrollbar {
+  display: none;
+}
+
+.blog-rail.is-dragging {
+  cursor: grabbing;
+  scroll-snap-type: none;
+  user-select: none;
+}
+
+.blog-rail.is-end {
+  -webkit-mask-image: none;
+  mask-image: none;
+}
+
+.blog-rail ul {
+  display: flex;
+  gap: 1.4rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: max-content;
+}
+
+.blog-card {
+  position: relative;
+  flex: 0 0 min(80vw, 22rem);
+  scroll-snap-align: start;
+  display: flex;
+  flex-direction: column;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  overflow: hidden;
+  transition: transform 0.4s var(--ease, ease), box-shadow 0.4s var(--ease, ease);
+}
+
+.blog-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 22px 36px -24px rgba(31, 58, 52, 0.6);
+}
+
+.blog-card__media {
+  aspect-ratio: 4 / 3;
+  background: var(--sage);
+  overflow: hidden;
+}
+
+.blog-card__media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.9s var(--ease, ease);
+  -webkit-user-drag: none;
+}
+
+.blog-card:hover .blog-card__media img {
+  transform: scale(1.05);
+}
+
+.blog-card__body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 1.4rem 1.5rem 1.6rem;
+}
+
+.blog-card__meta {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin: 0 0 0.7rem;
+  font-size: 0.82rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  opacity: 0.8;
+}
+
+.blog-card__title {
+  margin: 0;
+  font-family: var(--font-title);
+  font-size: 1.28rem;
+  line-height: 1.3;
+}
+
+.blog-card__link {
+  text-decoration: none;
+}
+
+/* Toute la carte est cliquable */
+.blog-card__link::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+}
+
+.blog-card__link:focus-visible {
+  outline: none;
+}
+
+.blog-card__link:focus-visible::after {
+  outline: 3px solid var(--green);
+  outline-offset: -3px;
+  border-radius: var(--radius);
+}
+
+.blog-card__more {
+  margin: auto 0 0;
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--line);
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.blog-card:hover .blog-card__more .arrow {
+  transform: translateX(4px);
+}
+
+.blog-strip__bar {
+  display: flex;
+  align-items: center;
+  gap: 1.6rem;
+}
+
+.blog-strip__bar[hidden] {
+  display: none;
+}
+
+.blog-strip__progress {
+  position: relative;
+  flex: 1;
+  height: 2px;
+  background: var(--line);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.blog-strip__progress span {
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 30%;
+  background: var(--mustard);
+  border-radius: 2px;
+  transform: translateX(var(--x, 0));
+  transition: transform 0.15s linear;
+}
+
+.blog-strip__buttons {
+  display: flex;
+  gap: 0.6rem;
+}
+
+.blog-strip__btn {
+  display: grid;
+  place-items: center;
+  width: 46px;
+  height: 46px;
+  padding: 0;
+  border: 1.5px solid var(--green);
+  border-radius: 50%;
+  background: transparent;
+  color: var(--green);
+  font: inherit;
+  font-size: 1.15rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: background-color 0.25s ease, color 0.25s ease, opacity 0.25s ease;
+}
+
+.blog-strip__btn:hover:not(:disabled) {
+  background: var(--green);
+  color: var(--white);
+}
+
+.blog-strip__btn:disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+
+.blog-strip__all {
+  margin: 1.8rem auto 0;
+  text-align: center;
+}
+
+.blog-strip__all a {
+  font-weight: 600;
+}
+
+@media (max-width: 640px) {
+  .blog-strip__buttons {
+    display: none;
+  }
+}
+
+/* Titre de carte : trait moutarde qui se trace au survol (remplace « Lire l'article ») */
+.blog-card__title .blog-card__link {
+  background: linear-gradient(var(--mustard), var(--mustard)) left bottom / 0 3px no-repeat;
+  padding-bottom: 0.15rem;
+  transition: background-size 0.5s var(--ease, ease);
+}
+
+.blog-card:hover .blog-card__link,
+.blog-card__link:focus-visible {
+  background-size: 100% 3px;
+}
+
+.blog-card__body {
+  padding-bottom: 1.8rem;
+}

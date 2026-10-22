@@ -3,16 +3,16 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{{ title }}</title>
-<meta name="description" content="{{ description }}">
+<title>{{ title | prixTokens }}</title>
+<meta name="description" content="{{ description | prixTokens }}">
 <meta name="theme-color" content="#f3e9d8">
 <link rel="canonical" href="{{ site.url }}{{ path }}">
 {% if noindex %}<meta name="robots" content="noindex">{% endif %}
-<meta property="og:type" content="website">
+<meta property="og:type" content="{{ ogType or 'website' }}">
 <meta property="og:locale" content="fr_FR">
 <meta property="og:site_name" content="{{ site.name }}">
-<meta property="og:title" content="{{ title }}">
-<meta property="og:description" content="{{ description }}">
+<meta property="og:title" content="{{ title | prixTokens }}">
+<meta property="og:description" content="{{ description | prixTokens }}">
 <meta property="og:url" content="{{ site.url }}{{ path }}">
 <meta property="og:image" content="{{ site.url }}/assets/images/og-makan-pizza.jpg">
 <meta property="og:image:width" content="1200">
@@ -20,8 +20,8 @@
 <meta property="og:image:alt" content="Logo Makan Pizza">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="{{ site.url }}/assets/images/og-makan-pizza.jpg">
-<meta name="twitter:title" content="{{ title }}">
-<meta name="twitter:description" content="{{ description }}">
+<meta name="twitter:title" content="{{ title | prixTokens }}">
+<meta name="twitter:description" content="{{ description | prixTokens }}">
 <link rel="preload" href="/assets/fonts/jost-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/jost-latin-500-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/jost-latin-600-normal.woff2" as="font" type="font/woff2" crossorigin>
@@ -49,7 +49,12 @@
   "@type": "BreadcrumbList",
   "itemListElement": [
     { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "{{ site.url }}/" },
-    { "@type": "ListItem", "position": 2, "name": "{{ crumb }}", "item": "{{ site.url }}{{ path }}" }
+{%- if crumbParent %}
+    { "@type": "ListItem", "position": 2, "name": {{ crumbParent.label | dump | safe }}, "item": "{{ site.url }}{{ crumbParent.href }}" },
+    { "@type": "ListItem", "position": 3, "name": {{ crumb | prixTokens | dump | safe }}, "item": "{{ site.url }}{{ path }}" }
+{%- else %}
+    { "@type": "ListItem", "position": 2, "name": {{ crumb | dump | safe }}, "item": "{{ site.url }}{{ path }}" }
+{%- endif %}
   ]
 }
 </script>

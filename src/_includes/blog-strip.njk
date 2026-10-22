@@ -1,0 +1,30 @@
+{% set strip = collections.articles | sansPage(path) %}
+{% if strip.length %}
+<section class="blog-strip" aria-labelledby="blog-strip-title" data-strip>
+  <div class="container">
+    <h2 class="section-title" id="blog-strip-title">{{ stripTitle or "Le blog" }}</h2>
+  </div>
+  <div class="blog-rail" data-rail role="region" aria-label="Articles du blog, défilement horizontal" tabindex="0">
+    <ul>
+      {% for a in strip %}
+      {% set thumb = a.data.photos[0].fichier if a.data.photos and a.data.photos.length else "" %}
+      <li class="blog-card">
+        <div class="blog-card__media">{% if thumb %}<img src="/assets/images/blog/{{ thumb }}-600.webp" alt="" width="600" height="400" loading="lazy" decoding="async">{% endif %}</div>
+        <div class="blog-card__body">
+          <p class="blog-card__meta"><time datetime="{{ a.date | isoDate }}">{{ a.date | dateFr }}</time>{% if a.data.brouillon %}<span class="badge-brouillon">Brouillon</span>{% endif %}</p>
+          <h3 class="blog-card__title"><a class="blog-card__link" href="{{ a.data.path }}">{{ a.data.titre | prixTokens }}</a></h3>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="container blog-strip__bar" data-bar>
+    <div class="blog-strip__progress" aria-hidden="true"><span data-thumb></span></div>
+    <div class="blog-strip__buttons">
+      <button type="button" class="blog-strip__btn" data-prev aria-label="Articles précédents"><span aria-hidden="true">←</span></button>
+      <button type="button" class="blog-strip__btn" data-next aria-label="Articles suivants"><span aria-hidden="true">→</span></button>
+    </div>
+  </div>
+  <p class="blog-strip__all"><a class="link-arrow" href="/blog">Voir tous les articles <span class="arrow" aria-hidden="true">→</span></a></p>
+</section>
+{% endif %}

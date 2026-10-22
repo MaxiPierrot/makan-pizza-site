@@ -59,6 +59,7 @@ if (!reduceMotion && 'IntersectionObserver' in window) {
     '.steps > li',
     '.photo-strip > li',
     '.menu-grid > li',
+    '.blog-rail > li',
   ].join(', ');
   const vh = window.innerHeight;
 
@@ -112,3 +113,78 @@ if (requestType) {
     requestType.value = known.includes(wanted) ? wanted : 'autre';
   }
 }
+
+// Bandeau d'articles : boutons précédent/suivant, barre de progression, glisser à la souris.
+// Sans JavaScript, le bandeau défile quand même (tactile, molette, clavier).
+document.querySelectorAll('[data-strip]').forEach((strip) => {
+  const rail = strip.querySelector('[data-rail]');
+  const bar = strip.querySelector('[data-bar]');
+  const thumb = strip.querySelector('[data-thumb]');
+  const prev = strip.querySelector('[data-prev]');
+  const next = strip.querySelector('[data-next]');
+  if (!rail || !bar) return;
+
+  const update = () => {
+    const max = rail.scrollWidth - rail.clientWidth;
+    const scrollable = max > 2;
+    bar.hidden = !scrollable;
+    rail.classList.toggle('is-end', !scrollable || rail.scrollLeft >= max - 2);
+    if (!scrollable) return;
+    const ratio = rail.clientWidth / rail.scrollWidth;
+    thumb.style.width = `${Math.max(ratio, 0.12) * 100}%`;
+    const track = thumb.parentElement.clientWidth;
+    const travel = track - thumb.offsetWidth;
+    thumb.style.setProperty('--x', `${(rail.scrollLeft / max) * travel}px`);
+    prev.disabled = rail.scrollLeft <= 2;
+    next.disabled = rail.scrollLeft >= max - 2;
+  };
+
+  const step = () => {
+    const card = rail.querySelector('li');
+    return card ? card.getBoundingClientRect().width + parseFloat(getComputedStyle(card.parentElement).columnGap || 0) : rail.clientWidth * 0.8;
+  };
+  const go = (dir) => rail.scrollBy({ left: dir * step(), behavior: reduceMotion ? 'auto' : 'smooth' });
+
+  prev.addEventListener('click', () => go(-1));
+  next.addEventListener('click', () => go(1));
+  rail.addEventListener('scroll', () => requestAnimationFrame(update), { passive: true });
+  window.addEventListener('resize', update);
+  rail.addEventListener('keydown', (e) => {
+    if (e.target !== rail) return;
+    if (e.key === 'ArrowRight') { e.preventDefault(); go(1); }
+    if (e.key === 'ArrowLeft') { e.preventDefault(); go(-1); }
+  });
+
+  // Glisser à la souris (le tactile défile déjà seul)
+  let startX = 0;
+  let startLeft = 0;
+  let dragging = false;
+  let moved = false;
+  rail.addEventListener('pointerdown', (e) => {
+    if (e.pointerType !== 'mouse' || e.button !== 0) return;
+    dragging = true;
+    moved = false;
+    startX = e.clientX;
+    startLeft = rail.scrollLeft;
+  });
+  window.addEventListener('pointermove', (e) => {
+    if (!dragging) return;
+    const dx = e.clientX - startX;
+    if (!moved && Math.abs(dx) > 6) {
+      moved = true;
+      rail.classList.add('is-dragging');
+    }
+    if (moved) rail.scrollLeft = startLeft - dx;
+  });
+  window.addEventListener('pointerup', () => {
+    if (!dragging) return;
+    dragging = false;
+    rail.classList.remove('is-dragging');
+  });
+  rail.addEventListener('click', (e) => {
+    if (moved) { e.preventDefault(); e.stopPropagation(); moved = false; }
+  }, true);
+
+  update();
+  window.addEventListener('load', update);
+});

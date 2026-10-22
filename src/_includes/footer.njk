@@ -16,6 +16,9 @@
     </div>
 
     <ul class="footer__links">
+      {%- if collections.articles.length %}
+      <li><a href="/blog">Blog</a></li>
+      {%- endif %}
       <li><a href="/mentions-legales">Mentions légales</a></li>
       <li><a href="/cgv">Conditions générales</a></li>
       <li><a href="/confidentialite">Confidentialité</a></li>

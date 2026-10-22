@@ -1,6 +1,9 @@
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <ol>
     <li><a href="/">Accueil</a></li>
+    {%- if crumbParent %}
+    <li><a href="{{ crumbParent.href }}">{{ crumbParent.label }}</a></li>
+    {%- endif %}
     <li><span aria-current="page">{{ crumb }}</span></li>
   </ol>
 </nav>

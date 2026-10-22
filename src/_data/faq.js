@@ -1,8 +1,9 @@
 // Questions fréquentes : source unique pour /faq, les blocs FAQ des pages d'offre
 // et le balisage FAQPage. Textes repris de 02-contenu-pages.md.
+const prix = require("./prix.js");
 // La question « Que dois-je prévoir chez moi ? » est exclue (réponse entre crochets, non publiable).
 const items = [
-  { id: "four", q: "Faut-il un four spécial ?", a: "Pour l'atelier Bases, un four domestique suffit, avec une pierre à pizza si vous en avez une (sinon, comptez environ 50 € pour la pierre et quelques accessoires). Pour l'initiation et la pizza party, j'apporte mon four." },
+  { id: "four", q: "Faut-il un four spécial ?", a: `Pour l'atelier Bases, un four domestique suffit, avec une pierre à pizza si vous en avez une (sinon, comptez environ ${prix.accessoiresBases} € pour la pierre et quelques accessoires). Pour l'initiation et la pizza party, j'apporte mon four.` },
   { id: "debutant", q: "Je suis débutant, est-ce que ça va ?", a: "Oui. Aucun niveau n'est demandé, et personne n'est jugé sur sa pizza. Si elle n'est pas ronde, elle sera bonne quand même." },
   { id: "nombre", q: "Combien de personnes pour un atelier ?", a: "De 4 à 6 personnes. Je garde les groupes petits exprès : chacun a sa place autour du plan de travail, on discute et on rigole, et je peux m'occuper de tout le monde. Pour une pizza party, le nombre d'invités se discute au moment du devis." },
   { id: "duree", q: "Combien de temps dure un atelier ?", a: "Les Bases durent de 2h à 2h30. L'initiation dure de 2h30 à 3h." },
