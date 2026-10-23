@@ -11,7 +11,7 @@ lead: "Voici les pizzas de la carte, des classiques et des créations plus origi
 {% macro pizzaCard(p) %}
 <li class="menu-card">
   {% set src = p.photo | photoSrc %}
-  {% if src %}<div class="photo-slot menu-card__photo"><img src="{{ src }}" alt="Pizza {{ p.name }} : {{ p.desc }}" width="800" height="600" loading="lazy" decoding="async"></div>{% endif %}
+  {% if src %}<div class="photo-slot menu-card__photo"><img src="{{ src }}" alt="{{ p.photoAlt or ('Pizza ' + p.name + ' : ' + p.desc) }}" width="800" height="600" loading="lazy" decoding="async"></div>{% endif %}
   <div class="menu-card__body">
     {% if p.signature %}<p class="menu-card__badge">Ma pizza signature</p>{% endif %}
     <h3 class="menu-card__name">{{ p.name }}</h3>

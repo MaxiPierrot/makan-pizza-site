@@ -4,12 +4,16 @@
 const fs = require("fs");
 
 const pizzas = [
-  { file: "pizza-margherita-lyon", alt: "Pizza Margherita : base tomate, mozzarella fior di latte et basilic" },
+  // Photos libres provisoires (voir src/blog/images-credits.json, "provisoire": true) : le texte alternatif décrit ce qu'on voit.
+  // Remplacer le fichier par une photo de la vraie pizza, puis remettre le texte de la recette.
+  { file: "pizza-margherita-lyon", alt: "Pizza margherita napolitaine vue du dessus, au bord gonflé et tacheté, avec mozzarella, basilic et parmesan" },
   { file: "pizza-savoyarde-lyon", alt: "Pizza Savoyarde : base blanche, oignons confits, pommes de terre, poitrine fumée et reblochon" },
-  { file: "pizza-morta-bella-lyon", alt: "Pizza Morta-Bella : base ricotta au pesto de pistache, scamorza fumée, mortadelle, pistache, basilic et stracciatella" },
-  { file: "pizza-diavola-lyon", alt: "Pizza Diavola : base tomate, mozzarella fior di latte, Parmigiano Reggiano et spianata" },
+  { file: "pizza-morta-bella-lyon", alt: "Vue du dessus d'une pizza napolitaine blanche garnie de roses de mortadelle, de burrata et de petits éclats verts, à côté d'autres pizzas" },
   { file: "pizza-chevre-miel-lyon", alt: "Pizza chèvre-miel : base blanche, mozzarella fior di latte, chèvre frais, miel et noix" },
-  { file: "pizza-parma-lyon", alt: "Pizza Parma : base tomate, mozzarella fior di latte, jambon de Parme, roquette et tomates cerises" },
+  { file: "pizza-parma-lyon", alt: "Vue du dessus d'une pizza napolitaine au bord gonflé, garnie de roquette, de burrata et de tomates" },
+  { file: "pizza-reine-lyon", alt: "Pizza napolitaine au bord gonflé et tacheté, garnie de jambon, de champignons et d'oignons nouveaux, sur un plat gris" },
+  { file: "pizza-napolitaine-aubergines-lyon", alt: "Vue du dessus d'une pizza napolitaine au bord gonflé, garnie d'aubergines et de touches de fromage frais, dans une assiette" },
+  { file: "pizza-napolitaine-tomates-lyon", alt: "Pizza napolitaine au bord gonflé, garnie de tomates fraîches, de mozzarella et de basilic, avec un filet de crème balsamique" },
 ];
 
 module.exports = pizzas

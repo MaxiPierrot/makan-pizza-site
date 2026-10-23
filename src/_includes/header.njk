@@ -18,6 +18,7 @@
       <li><a href="/pizza-party-domicile-lyon"{% if path == "/pizza-party-domicile-lyon" %} aria-current="page"{% endif %}>Pizza party</a></li>
       <li><a href="/carte"{% if path == "/carte" %} aria-current="page"{% endif %}>La carte</a></li>
       <li><a href="/a-propos"{% if path == "/a-propos" %} aria-current="page"{% endif %}>À propos</a></li>
+      <li><a href="/faq"{% if path == "/faq" %} aria-current="page"{% endif %}>FAQ</a></li>
       {%- if collections.articles.length %}
       <li><a href="/blog"{% if path == "/blog" or (path and path.startsWith("/blog/")) %} aria-current="page"{% endif %}>Blog</a></li>
       {%- endif %}

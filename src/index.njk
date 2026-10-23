@@ -9,7 +9,7 @@ description: "Ateliers de pizza napolitaine et pizza party chez vous, à Lyon et
 <section class="hero" id="hero">
   <div class="container hero__grid">
     {# Photo : déposer src/assets/images/photos/accueil-hero.webp (le bloc de couleur disparaît). Ajouter son texte alternatif ci-dessous. #}
-    <div class="photo-slot hero__photo">{% photo "accueil-hero", "", 1200, 1500, "eager" %}</div>
+    <div class="photo-slot hero__photo"><picture><source media="(max-width: 899px)" srcset="/assets/images/photos/accueil-hero-mobile.webp" width="800" height="500"><img src="/assets/images/photos/accueil-hero.webp" alt="Vue du dessus d'une pizza napolitaine au bord gonflé et tacheté, avec sauce tomate, mozzarella et feuilles de basilic, dans une assiette creuse" width="900" height="1125" loading="eager" decoding="async" fetchpriority="high"></picture></div>
     <div class="hero__text">
       <h1 class="hero__title"><span class="line">Ateliers pizza et pizza party</span> <span class="line">à domicile, à Lyon</span></h1>
       <p class="hero__tagline">{{ site.slogan }}</p>
@@ -38,7 +38,7 @@ description: "Ateliers de pizza napolitaine et pizza party chez vous, à Lyon et
         </div>
       </li>
       <li class="card">
-        <div class="photo-slot card__photo">{% photo "atelier-initiation", "", 900, 600 %}</div>
+        <div class="photo-slot card__photo">{% photo "atelier-initiation", "Gros plan sur le bord gonflé et tacheté d'une pizza napolitaine, avec sauce tomate, mozzarella et basilic", 900, 600 %}</div>
         <div class="card__body">
           <h3 class="card__title" id="offre-initiation">Initiation à la pizza napolitaine</h3>
           <p class="card__text">Je viens avec mon four électrique et on fait des pizzas comme en pizzeria.</p>
@@ -48,7 +48,7 @@ description: "Ateliers de pizza napolitaine et pizza party chez vous, à Lyon et
         </div>
       </li>
       <li class="card">
-        <div class="photo-slot card__photo">{% photo "pizza-party", "", 900, 600 %}</div>
+        <div class="photo-slot card__photo">{% photo "pizza-party", "Une pizza margherita napolitaine découpée en quatre parts, au bord gonflé et tacheté, avec une main de chaque côté du plateau", 900, 600 %}</div>
         <div class="card__body">
           <h3 class="card__title" id="offre-pizza-party">Pizza party</h3>
           <p class="card__text">Je prépare les pizzas de vos invités sur place.</p>
@@ -106,6 +106,23 @@ description: "Ateliers de pizza napolitaine et pizza party chez vous, à Lyon et
   </div>
 </section>
 {% endif %}
+
+{% set faqItems = faq.pick(["choisir", "prix-atelier", "prix-party", "zone", "reservation"]) %}
+<section class="section section--cream faq-block" id="faq">
+  <div class="container">
+    <h2 class="section-title">Questions fréquentes</h2>
+    <div class="faq">
+      {% for item in faqItems %}
+      <details class="faq__item">
+        <summary>{{ item.q }}</summary>
+        <p>{{ item.a | faqHtml | safe }}</p>
+      </details>
+      {% endfor %}
+    </div>
+    <p class="strip__link"><a class="link-arrow" href="/faq">Toutes les questions <span class="arrow" aria-hidden="true">→</span></a></p>
+  </div>
+</section>
+{% faqLd faqItems %}
 
 {% include "blog-strip.njk" %}
 
