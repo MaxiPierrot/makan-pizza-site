@@ -19,14 +19,14 @@ Ce fichier contient tous les textes du site, page par page. Il remplace le conte
 
 **Pied de page**
 - `Pizza napolitaine à domicile ou ailleurs...`
-- `Lyon et 10 km autour. Je me déplace chez vous.`
+- `Lyon et 10 km autour, plus loin sur devis. Je me déplace chez vous.`
 - `06 99 17 18 38 · contact@makanpizza.com`
 - Liens : Instagram @makanpizza_officiel · Facebook @makanpizzaofficiel
 - Liens légaux : Mentions légales · Conditions générales · Confidentialité
 - `Makan Pizza, micro-entreprise. SIREN 108 365 578. SIRET : 108 365 578 00013`
 
 **Phrase sur les prix et le périmètre** (sous chaque tarif) :
-`Prix pour un déplacement dans un rayon de 10 km autour de Lyon. Au-delà, un complément peut s'appliquer : je vous le précise dans le devis.`
+`Prix pour un déplacement dans un rayon de 10 km autour de Lyon. Au-delà, je peux aussi me déplacer si l'événement le justifie : des frais de déplacement s'ajoutent, je les précise dans le devis.`
 
 ---
 
@@ -163,7 +163,7 @@ Dites-le-moi dès la demande. J'en tiens compte pour le devis. Pour une allergie
 Je m'occupe de tout : les ingrédients, la pâte, le four, la préparation et la cuisson des pizzas sur place. Le nombre de pizzas dépend du nombre d'invités et du temps dont je dispose : je vous dis ce qui est réaliste dans le devis.
 
 **H2 : Le prix**
-Chaque événement est différent, donc tout se fait sur devis. À partir de 220 €. [À CONFIRMER] Dans les 10 km autour de Lyon, le déplacement est inclus. Au-delà, je précise le complément dans le devis.
+Chaque événement est différent, donc tout se fait sur devis. À partir de 220 €. [À CONFIRMER] Dans les 10 km autour de Lyon, le déplacement est inclus. Au-delà, je peux aussi me déplacer si l'événement le justifie : des frais de déplacement s'ajoutent, je les précise dans le devis.
 
 **Bouton** : `Demander un devis` (/contact?atelier=pizza-party) · lien secondaire : `Un événement sur mesure ?` (/contact?atelier=sur-mesure)
 
@@ -256,7 +256,7 @@ Je pense qu'une vraie pizza coûte peu à faire soi-même, et que c'est une bonn
 
 **H1** : Questions fréquentes
 
-Source unique des textes : `src/_data/faq.js` (les chiffres viennent de `src/_data/prix.js`). Le texte ci-dessous est une copie de lecture, régénérée le 23 oct 2026. Page : sommaire en haut, 6 intertitres, une ancre par question. Blocs par offre : Bases (four, debutant, duree, ingredients, prix-atelier), Initiation (prix-atelier, napolitaine, nombre, duree, zone), Pizza party (prix-party, nombre-party, interieur, choix-pizzas, allergies), avec les mêmes réponses.
+Source unique des textes : `src/_data/faq.js` (les chiffres viennent de `src/_data/prix.js`). Le texte ci-dessous est une copie de lecture, régénérée le 23 oct 2026. Page : sommaire en haut, 6 intertitres, une ancre par question. Blocs par offre : Bases (four, debutant, duree, ingredients, prix-atelier), Initiation (prix-atelier, napolitaine, nombre, duree, zone), Pizza party (prix-party, nombre-party, interieur, choix-pizzas, allergies), avec les mêmes réponses. Accueil : choisir, prix-atelier, prix-party, zone, reservation.
 
 ### Choisir sa formule
 
@@ -293,13 +293,13 @@ Oui, sur devis, selon l'événement. C'est plus simple quand des bénévoles peu
 ### Prix, zone et déplacement
 
 **Combien coûte un atelier pizza à domicile à Lyon ?**
-L'atelier Bases coûte 59 € par personne et l'initiation à la pizza napolitaine 69 € par personne, à partir de 4 personnes. Le déplacement est inclus dans un rayon de 10 km. Pour un groupe de 5 personnes, cela fait 295 € avec les Bases et 345 € avec l'initiation.
+L'atelier Bases coûte 59 € par personne et l'initiation à la pizza napolitaine 69 € par personne, à partir de 4 personnes. Le déplacement est inclus dans un rayon de 10 km, et des frais de déplacement s'ajoutent au-delà. Pour un groupe de 5 personnes, cela fait 295 € avec les Bases et 345 € avec l'initiation.
 
 **Combien coûte un pizzaiolo à domicile pour une pizza party à Lyon ?**
-Une pizza party se fait sur devis, à partir de 220 €. Le prix dépend du nombre d'invités, de la durée, du choix des pizzas et de la distance. Dans un rayon de 10 km, le déplacement est inclus. Je vous envoie le devis après votre [demande](/contact?atelier=pizza-party).
+Une pizza party se fait sur devis, à partir de 220 €. Le prix dépend du nombre d'invités, de la durée, du choix des pizzas et de la distance. Dans un rayon de 10 km, le déplacement est inclus, et des frais de déplacement s'ajoutent au-delà. Je vous envoie le devis après votre [demande](/contact?atelier=pizza-party).
 
 **Où venez-vous, et le déplacement coûte-t-il quelque chose ?**
-Je viens à Lyon et dans un rayon de 10 km autour de Lyon 9e. Dans cette zone, le déplacement est inclus. Au-delà, un complément peut s'appliquer, je le précise dans le devis. Je facture le stationnement payant au prix réel : si vous connaissez une place gratuite près du lieu, indiquez-la-moi.
+Je viens à Lyon et dans un rayon de 10 km autour de Lyon 9e. Dans cette zone, le déplacement est inclus. Au-delà, je peux aussi me déplacer si l'événement le justifie : des frais de déplacement s'ajoutent, je les précise dans le devis. Je facture le stationnement payant au prix réel : si vous connaissez une place gratuite près du lieu, indiquez-la-moi.
 
 **Faut-il prévoir les boissons et la vaisselle ?**
 Je ne gère pas la vaisselle, elle reste de votre côté. Pour les boissons, c'est possible sur devis, selon l'événement. Dites-moi ce dont vous avez besoin dans votre demande, et je vous dis ce qui est réaliste.
@@ -448,7 +448,7 @@ Brouillon à faire relire avant publication. Les passages entre crochets ne se p
 - Cas de force majeure : report à une date convenue ensemble.
 - Droit de rétractation : [À FAIRE RELIRE : les prestations de restauration ou de loisirs fournies à une date déterminée sont exclues du délai de rétractation de 14 jours (article L221-28 du code de la consommation). L'indiquer clairement dans les CGV.]
 - Allergies et régimes : le client les signale dès la demande, j'en tiens compte dans le devis. [À DÉFINIR : formulation sur les traces d'allergènes, sans promesse « sans allergène »]
-- Frais : déplacement inclus dans un rayon de 10 km autour de Lyon, complément au-delà indiqué dans le devis. Stationnement payant facturé au prix réel.
+- Frais : déplacement inclus dans un rayon de 10 km autour de Lyon. Au-delà, je peux me déplacer si l'événement le justifie, avec des frais de déplacement indiqués dans le devis. Stationnement payant facturé au prix réel.
 - À prévoir chez le client : [À CONFIRMER : plan de travail ou table, prise électrique, espace pour le four]
 - Responsabilité et assurance : [À COMPLÉTER après souscription de la RC Pro]
 

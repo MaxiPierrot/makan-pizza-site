@@ -46,7 +46,7 @@ Si vous êtes plus de {{ prix.maxPersonnes }}, écrivez-moi par le [formulaire d
 
 **L'initiation à la pizza napolitaine** ({{ prix.initiation }} € par personne) est pour ceux qui préfèrent cuire dans un four proche de ceux d'une pizzeria. J'apporte mon four électrique, qui monte jusqu'à 500°C et cuit une pizza en 90 secondes environ. On fait toutes les étapes ensemble, une pizza après l'autre, et on goûte au fur et à mesure. Elle dure de 2h30 à 3h.
 
-Pour vous donner un ordre d'idée, pour un groupe de 5 personnes, cela fait {{ prix.bases * 5 }} € avec l'atelier Bases et {{ prix.initiation * 5 }} € avec l'initiation. Ces prix sont valables pour un déplacement dans un rayon de {{ prix.rayonKm }} km autour de Lyon. Au-delà, un complément peut s'appliquer, je le précise dans le devis.
+Pour vous donner un ordre d'idée, pour un groupe de 5 personnes, cela fait {{ prix.bases * 5 }} € avec l'atelier Bases et {{ prix.initiation * 5 }} € avec l'initiation. Ces prix sont valables pour un déplacement dans un rayon de {{ prix.rayonKm }} km autour de Lyon. Au-delà, je peux aussi me déplacer si l'événement le justifie : des frais de déplacement s'ajoutent, je les précise dans le devis.
 
 ### Un mélange d'atelier et de pizza party
 

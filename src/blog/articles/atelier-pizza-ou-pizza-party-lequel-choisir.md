@@ -46,7 +46,7 @@ Je propose trois formules à domicile, à Lyon et dans un rayon de {{ prix.rayon
 | Four | Le vôtre | Le mien, électrique | Le mien |
 | Prix | {{ prix.bases }} € par personne | {{ prix.initiation }} € par personne | Sur devis, à partir de {{ prix.partyMin }} € |
 
-Prix pour un déplacement dans un rayon de {{ prix.rayonKm }} km autour de Lyon. Au-delà, un complément peut s'appliquer, je le précise dans le devis.
+Prix pour un déplacement dans un rayon de {{ prix.rayonKm }} km autour de Lyon. Au-delà, je peux aussi me déplacer si l'événement le justifie : des frais de déplacement s'ajoutent, je les précise dans le devis.
 
 ## L'atelier Bases : réussir ses pizzas avec le four de la maison
 

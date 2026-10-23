@@ -14,7 +14,7 @@ questions:
   - q: "À partir de quel prix ?"
     a: "À partir de {prix.partyMin} €, sur devis. Chaque événement est différent, donc le prix exact se fixe avec vous, après votre demande."
   - q: "Le déplacement est-il compris ?"
-    a: "Oui, dans un rayon de {prix.rayonKm} km autour de Lyon. Au-delà, un complément peut s'appliquer, je le précise dans le devis. Le stationnement payant est facturé au prix réel."
+    a: "Oui, dans un rayon de {prix.rayonKm} km autour de Lyon. Au-delà, je peux aussi me déplacer si l'événement le justifie : des frais de déplacement s'ajoutent, je les précise dans le devis. Le stationnement payant est facturé au prix réel."
   - q: "Que dois-je acheter pour la soirée ?"
     a: "Rien pour les pizzas : je m'occupe de tout, les ingrédients, la pâte, le four, la préparation et la cuisson sur place."
   - q: "Comment réserver ?"
@@ -54,7 +54,7 @@ Pour éviter l'attente, je peux aussi proposer des focaccias préparées avant, 
 
 ### La distance
 
-Dans les {{ prix.rayonKm }} km autour de Lyon, le déplacement est inclus dans le prix. Au-delà, un complément peut s'appliquer et je le précise dans le devis. Le stationnement payant est facturé au prix réel. Si vous connaissez une place gratuite près du lieu de la soirée, dites-le-moi, c'est mieux pour tout le monde.
+Dans les {{ prix.rayonKm }} km autour de Lyon, le déplacement est inclus dans le prix. Au-delà, je peux aussi me déplacer si l'événement le justifie : des frais de déplacement s'ajoutent, je les précise dans le devis. Le stationnement payant est facturé au prix réel. Si vous connaissez une place gratuite près du lieu de la soirée, dites-le-moi, c'est mieux pour tout le monde.
 
 ### Un événement sur mesure
 
