@@ -2034,3 +2034,55 @@ textarea:focus-visible {
 .blog-card__body {
   padding-bottom: 1.8rem;
 }
+
+/* Page FAQ : sommaire et sections */
+.faq-toc {
+  max-width: 46rem;
+  margin: 0 auto 2.4rem;
+  padding: 1.2rem 1.4rem;
+  background: var(--cream, #f3e9d8);
+  border-radius: 12px;
+}
+
+.faq-toc__title {
+  margin: 0 0 0.6rem;
+  font-family: var(--font-title);
+  font-size: var(--fs-md);
+  font-weight: 700;
+}
+
+.faq-toc ol {
+  margin: 0;
+  padding-left: 1.3rem;
+}
+
+.faq-toc li {
+  padding: 0.2rem 0;
+}
+
+.faq-toc a {
+  text-underline-offset: 4px;
+}
+
+.faq-section {
+  margin: 0 0 2.8rem;
+}
+
+.faq-section__title {
+  max-width: 46rem;
+  margin: 0 auto 0.8rem;
+  font-family: var(--font-title);
+  font-size: var(--fs-lg, 1.6rem);
+  scroll-margin-top: 6rem;
+}
+
+.faq__item {
+  scroll-margin-top: 6rem;
+}
+
+.faq__item p a {
+  text-decoration: underline;
+  text-decoration-color: var(--mustard);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}

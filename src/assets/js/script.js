@@ -188,3 +188,19 @@ document.querySelectorAll('[data-strip]').forEach((strip) => {
   update();
   window.addEventListener('load', update);
 });
+
+// FAQ : un lien vers une question (#ancre) ouvre la réponse correspondante.
+(function () {
+  const openFromHash = () => {
+    const id = decodeURIComponent(location.hash.slice(1));
+    if (!id) return;
+    const el = document.getElementById(id);
+    if (el && el.matches('details.faq__item')) {
+      el.open = true;
+      requestAnimationFrame(() => el.scrollIntoView());
+    }
+  };
+  window.addEventListener('hashchange', openFromHash);
+  window.addEventListener('DOMContentLoaded', openFromHash);
+  window.addEventListener('load', openFromHash);
+})();

@@ -31,6 +31,10 @@ module.exports = function (eleventyConfig) {
 
   // Données structurées (JSON-LD) des pages
   const ld = (obj) => `<script type="application/ld+json">\n${JSON.stringify(obj, null, 2).replace(/</g, "\\u003c")}\n</script>`;
+  // Réponses de la FAQ : [texte](/page) devient un lien dans la page, et du texte seul dans le balisage.
+  const faqLink = /\[([^\]]+)\]\(([^)]+)\)/g;
+  const htmlEsc = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  eleventyConfig.addFilter("faqHtml", (text) => htmlEsc(text).replace(faqLink, '<a href="$2">$1</a>'));
   eleventyConfig.addShortcode("faqLd", (items) =>
     ld({
       "@context": "https://schema.org",
@@ -38,7 +42,7 @@ module.exports = function (eleventyConfig) {
       mainEntity: items.map((i) => ({
         "@type": "Question",
         name: i.q,
-        acceptedAnswer: { "@type": "Answer", text: i.a },
+        acceptedAnswer: { "@type": "Answer", text: String(i.a).replace(faqLink, "$1") },
       })),
     })
   );

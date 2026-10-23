@@ -4,19 +4,32 @@ permalink: /faq.html
 path: /faq
 crumb: "Questions fréquentes"
 title: "Questions fréquentes sur les ateliers pizza à domicile | Makan Pizza"
-description: "Four, durée, nombre de personnes, allergies, zone de déplacement : les réponses aux questions les plus posées sur les ateliers et la pizza party à Lyon."
+description: "Prix, durée, nombre de personnes, allergies, zone de déplacement, annulation : les réponses aux questions les plus posées sur les ateliers et la pizza party à Lyon."
 h1: "Questions fréquentes"
 ---
-<section class="section">
+<section class="section faq-page">
   <div class="container">
-    <div class="faq">
-      {% for item in faq.items %}
-      <details class="faq__item">
-        <summary>{{ item.q }}</summary>
-        <p>{{ item.a }}</p>
-      </details>
-      {% endfor %}
-    </div>
+    <nav class="faq-toc" aria-label="Sommaire des questions">
+      <p class="faq-toc__title">Sommaire</p>
+      <ol>
+        {% for s in faq.sections %}
+        <li><a href="#{{ s.id }}">{{ s.title }}</a></li>
+        {% endfor %}
+      </ol>
+    </nav>
+    {% for s in faq.sections %}
+    <section class="faq-section" aria-labelledby="{{ s.id }}">
+      <h2 class="faq-section__title" id="{{ s.id }}">{{ s.title }}</h2>
+      <div class="faq">
+        {% for item in s.items %}
+        <details class="faq__item" id="{{ item.id }}">
+          <summary>{{ item.q }}</summary>
+          <p>{{ item.a | faqHtml | safe }}</p>
+        </details>
+        {% endfor %}
+      </div>
+    </section>
+    {% endfor %}
   </div>
 </section>
 {% faqLd faq.items %}

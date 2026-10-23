@@ -61,7 +61,7 @@ layout: base.njk
       {% for item in faqItems %}
       <details class="faq__item">
         <summary>{{ item.q }}</summary>
-        <p>{{ item.a }}</p>
+        <p>{{ item.a | faqHtml | safe }}</p>
       </details>
       {% endfor %}
     </div>
