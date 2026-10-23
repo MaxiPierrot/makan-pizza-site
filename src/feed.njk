@@ -1,0 +1,25 @@
+---
+permalink: /feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Le blog Makan Pizza</title>
+  <link>{{ site.url }}/blog</link>
+  <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Conseils pour réussir vos pizzas à la maison et organiser un atelier ou une pizza party à domicile à Lyon.</description>
+  <language>fr-FR</language>
+{%- for a in collections.articles %}
+{%- if not a.data.brouillon %}
+  <item>
+    <title>{{ a.data.titre | prixTokens }}</title>
+    <link>{{ site.url }}{{ a.data.path }}</link>
+    <guid isPermaLink="true">{{ site.url }}{{ a.data.path }}</guid>
+    <pubDate>{{ a.date | rfc822 }}</pubDate>
+    <description>{{ a.data.description | prixTokens }}</description>
+  </item>
+{%- endif %}
+{%- endfor %}
+</channel>
+</rss>

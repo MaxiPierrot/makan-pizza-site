@@ -5,6 +5,7 @@ date: 2026-10-23
 validé: false
 sujet: choix-formule
 offre: atelier
+aussi: [initiation, pizza-party]
 photo_pierre: false
 photos:
   - fichier: mains-boule-de-pate-farine

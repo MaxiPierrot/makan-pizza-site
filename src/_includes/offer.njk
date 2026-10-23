@@ -53,6 +53,20 @@ layout: base.njk
   </div>
 </nav>
 
+{% set articlesLies = collections.articles | articlesPour(offre) %}
+{% if articlesLies.length %}
+<nav class="related related--articles" aria-label="Articles du blog sur ce sujet">
+  <div class="container">
+    <p class="related__title">À lire sur le blog</p>
+    <ul>
+      {% for a in articlesLies %}
+      <li><a class="link-arrow" href="{{ a.data.path }}">{{ a.data.titre | prixTokens }} <span class="arrow" aria-hidden="true">→</span></a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>
+{% endif %}
+
 {% set faqItems = faq.pick(faqIds) %}
 <section class="section section--cream faq-block">
   <div class="container">

@@ -5,6 +5,7 @@ date: 2026-10-23
 validé: false
 sujet: evjf-evg
 offre: atelier
+aussi: [pizza-party]
 photo_pierre: false
 photos:
   - fichier: pizzas-partagees-table-amis

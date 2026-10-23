@@ -974,6 +974,18 @@ textarea:focus-visible {
   gap: 0.8rem 2.2rem;
 }
 
+.related--articles {
+  padding-top: 0;
+}
+
+.related__title {
+  margin: 0 0 0.8rem;
+  text-align: center;
+  font-family: "Caveat", cursive;
+  font-size: 1.5rem;
+  color: var(--green);
+}
+
 .cta-row {
   margin: 0 auto;
 }

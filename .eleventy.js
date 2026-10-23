@@ -96,6 +96,12 @@ module.exports = function (eleventyConfig) {
   // Articles sauf celui de la page courante (bandeau « À lire aussi »)
   eleventyConfig.addFilter("sansPage", (list, path) => (list || []).filter((a) => a.data.path !== path));
 
+  // Articles liés à une offre : `offre` de l'article, ou liste `aussi` dans son en-tête.
+  eleventyConfig.addFilter("articlesPour", (list, offre) =>
+    (list || []).filter((a) => a.data.offre === offre || (a.data.aussi || []).includes(offre))
+  );
+  eleventyConfig.addFilter("rfc822", (date) => new Date(date).toUTCString());
+
   const dateFr = (date) =>
     new Intl.DateTimeFormat("fr-FR", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" }).format(new Date(date));
   eleventyConfig.addFilter("dateFr", dateFr);
