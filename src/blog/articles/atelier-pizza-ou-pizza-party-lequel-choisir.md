@@ -2,7 +2,7 @@
 titre: "Atelier pizza ou pizza party : lequel choisir ?"
 description: "Atelier ou pizza party à domicile à Lyon : comment choisir selon l'occasion, le nombre de personnes et ce que vous voulez vivre pendant la soirée."
 date: 2026-10-23
-validé: false
+validé: true
 sujet: choix-formule
 offre: atelier
 aussi: [initiation, pizza-party]

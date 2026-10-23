@@ -2,7 +2,7 @@
 titre: "Combien coûte une pizza party à domicile ?"
 description: "Ce qui fait varier le prix d'une pizza party à domicile à Lyon : invités, durée, distance. À partir de {prix.partyMin} €, déplacement inclus dans {prix.rayonKm} km."
 date: 2026-10-23
-validé: false
+validé: true
 sujet: prix
 offre: pizza-party
 photo_pierre: false

@@ -2,7 +2,7 @@
 titre: "Quel four à pizza pour la maison ?"
 description: "Four électrique, à gaz, à bois ou four ménager avec pierre : les critères pour choisir un four à pizza à la maison, le budget à prévoir et comment tester avant d'acheter."
 date: 2026-10-23
-validé: false
+validé: true
 sujet: four
 offre: initiation
 photo_pierre: false

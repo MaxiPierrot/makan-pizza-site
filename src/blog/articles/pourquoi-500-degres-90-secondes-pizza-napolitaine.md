@@ -2,7 +2,7 @@
 titre: "Pourquoi une pizza napolitaine cuit à 500 °C en 90 secondes"
 description: "485 °C à la sole, 60 à 90 secondes : ce que prévoit le cahier des charges de la napolitaine, ce que cela change dans la pizza et comment s'en approcher chez soi."
 date: 2027-01-22
-validé: false
+validé: true
 sujet: cuisson
 offre: initiation
 photo_pierre: false

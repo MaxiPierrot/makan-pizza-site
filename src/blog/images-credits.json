@@ -230,17 +230,6 @@
     "largeur": 1600,
     "hauteur": 1066
   },
-  "pizza-mozzarella-tomate-basilic-bord-gonfle": {
-    "source": "Unsplash",
-    "urlPage": "https://unsplash.com/photos/a-delicious-pizza-with-mozzarella-tomato-sauce-and-fresh-basil-qPorOVdCFzc",
-    "urlImage": "https://images.unsplash.com/photo-1784802841639-a773d10a6a14",
-    "auteur": "Alfonso Scarpa",
-    "licence": "Unsplash License",
-    "urlLicence": "https://unsplash.com/license",
-    "verifieLe": "2026-10-23",
-    "largeur": 1600,
-    "hauteur": 1067
-  },
   "pizzaiolo-etire-pate-a-pizza": {
     "source": "Unsplash",
     "urlPage": "https://unsplash.com/photos/a-baker-is-stretching-pizza-dough-XjGHM-B6PEM",
@@ -262,5 +251,16 @@
     "verifieLe": "2026-10-23",
     "largeur": 1600,
     "hauteur": 1049
+  },
+  "pizza-bord-dore-mozzarella-tomate-basilic": {
+    "source": "Unsplash",
+    "urlPage": "https://unsplash.com/photos/two-pizzas-one-with-tomatoes-and-basil-BFDriRe48wg",
+    "urlImage": "https://images.unsplash.com/photo-1759283391598-83b0ceb0faef",
+    "auteur": "Benjamin Jauregui",
+    "licence": "Unsplash License",
+    "urlLicence": "https://unsplash.com/license",
+    "verifieLe": "2026-10-23",
+    "largeur": 1600,
+    "hauteur": 1067
   }
 }

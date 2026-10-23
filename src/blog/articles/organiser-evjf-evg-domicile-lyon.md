@@ -2,7 +2,7 @@
 titre: "Organiser un EVJF ou un EVG à domicile à Lyon"
 description: "Un EVJF ou un EVG autour d'un atelier pizza chez vous, à Lyon : déroulé, nombre de personnes, budget et ce qu'il faut prévoir avant la date."
 date: 2026-10-23
-validé: false
+validé: true
 sujet: evjf-evg
 offre: atelier
 aussi: [pizza-party]
@@ -64,8 +64,6 @@ Le déroulé suit les étapes de l'atelier choisi : on commence par la pâte, on
 - **Les ingrédients.** Pour un atelier classique, les ingrédients prévus sont ceux de la pizza margherita, et les autres garnitures sont à votre charge, avec mes conseils. Pour un EVJF ou un EVG, je peux exceptionnellement m'occuper des ingrédients avec la formule mêlant atelier et pizza party : précisez-le dans votre demande.
 - **Les allergies et les régimes.** Dites-le-moi dès la demande, j'en tiens compte dans le devis. Pour une allergie sévère, parlons-en avant de réserver.
 - **Le stationnement.** Je facture le stationnement payant au prix réel. Si vous connaissez une place gratuite près du lieu, indiquez-la-moi.
-
-[À COMPLÉTER PAR PIERRE : ce qu'il faut prévoir sur place (table ou plan de travail, prise électrique, espace pour le four), à confirmer avant publication]
 
 ## Qui s'occupe de quoi dans le groupe ?
 

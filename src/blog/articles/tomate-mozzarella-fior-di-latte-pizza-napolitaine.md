@@ -2,14 +2,14 @@
 titre: "Tomate et mozzarella : pourquoi du fior di latte sur une pizza napolitaine ?"
 description: "Fior di latte, mozzarella di bufala, tomates pelées : ce que dit le cahier des charges de la pizza napolitaine et comment choisir pour une pizza maison."
 date: 2026-12-04
-validé: false
+validé: true
 sujet: ingredients
 offre: initiation
 aussi: [atelier]
 photo_pierre: false
 photos:
-  - fichier: pizza-mozzarella-tomate-basilic-bord-gonfle
-    alt: "Une pizza au bord gonflé et tacheté, garnie de sauce tomate, de morceaux de mozzarella blanche, de feuilles de basilic et de petits éclats dorés de fromage"
+  - fichier: pizza-bord-dore-mozzarella-tomate-basilic
+    alt: "Gros plan sur une pizza au bord gonflé et doré, avec des taches de cuisson, de la mozzarella fondue, des tranches de tomate et des feuilles de basilic"
 sources:
   - titre: "Règlement (UE) n° 97/2010 de la Commission du 4 février 2010 enregistrant une dénomination dans le registre des spécialités traditionnelles garanties [Pizza Napoletana (STG)]"
     url: "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:034:0007:0016:fr:PDF"
@@ -21,9 +21,16 @@ sources:
     editeur: "Vocabolario Treccani, Istituto della Enciclopedia Italiana"
     consulte: 2026-10-23
     note: "Définit le fior di latte comme un fromage gras et mou, préparé avec du lait de vache entier."
+  - titre: "Pomodoro San Marzano dell'Agro Sarnese-Nocerino"
+    url: "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000013401"
+    editeur: "Commission européenne, registre eAmbrosia"
+    consulte: 2026-10-23
+    note: "Appellation d'origine protégée (AOP) enregistrée au registre européen des indications géographiques."
 questions:
   - q: "Fior di latte ou mozzarella di bufala : laquelle choisir ?"
     a: "Les deux conviennent. La bufala est faite avec du lait de bufflonne, le fior di latte avec du lait de vache : le goût n'est pas le même. Goûtez les deux nature avant de choisir, c'est le meilleur test."
+  - q: "Peut-on mettre du fior di latte et de la bufala sur la même pizza ?"
+    a: "Rien ne l'interdit, c'est une question de goût. Personnellement, je mets le fior di latte avant la cuisson et la bufala après, et je choisis en général l'un ou l'autre. Avec une burrata, il m'arrive de faire les deux : le fior di latte cuit avec la pizza, et je pose la burrata dessus à la sortie du four."
   - q: "Faut-il cuire la sauce tomate avant ?"
     a: "Pas pour la napolitaine telle que le cahier des charges la décrit : les tomates pelées sont concassées et déposées à la cuillère sur la pâte, puis cuisent au four avec la pizza."
   - q: "Peut-on utiliser de la mozzarella râpée ?"
@@ -76,7 +83,15 @@ Le cahier des charges ne choisit pas pour vous : il autorise les deux. Quelques 
 - **L'eau.** Quelle que soit la mozzarella, égouttez-la : vous verrez mieux la différence sur la pizza.
 - **Votre four.** Goûtez aussi la pizza cuite, pas seulement la mozzarella nature : le résultat peut varier selon la durée et la température de cuisson.
 
-[À COMPLÉTER PAR PIERRE : la mozzarella et la tomate que tu utilises et pourquoi, sans nom de marque]
+## Mes habitudes : un choix personnel, pas une règle
+
+Ce qui suit, c'est ma façon de faire. Ce n'est pas une règle, et d'autres pizzaiolos font autrement : chacun a ses goûts.
+
+J'aime utiliser le fior di latte en cuisson : je le pose avant l'enfournement, il cuit avec la pizza et fond en plaques sur la tomate. J'aime la bufala après la cuisson : posée sur la pizza sortie du four, elle ne cuit pas et garde son goût de lait et sa fraîcheur.
+
+En général, je choisis l'une ou l'autre plutôt que les deux sur la même pizza. Avec une burrata, il m'arrive de faire les deux : le fior di latte cuit avec la pizza, et je pose la burrata dessus à la sortie du four.
+
+Pour la tomate, j'aime une sauce de qualité de type San Marzano. San Marzano est le nom d'une tomate de la région de Naples, qui bénéficie d'une appellation d'origine protégée (AOP) européenne : « Pomodoro San Marzano dell'Agro Sarnese-Nocerino ». Le nom San Marzano ne suffit pas à garantir cette origine : si ce point compte pour vous, regardez sur l'emballage la mention de l'appellation protégée.
 
 ## Pour une pizza maison
 

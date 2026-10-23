@@ -2,7 +2,7 @@
 titre: "De Naples à l'UNESCO : l'histoire de la pizza napolitaine"
 description: "Ce que disent les textes officiels sur l'histoire de la pizza napolitaine : premières pizzerias de Naples, STG européenne en 2010 et inscription à l'UNESCO en 2017."
 date: 2026-12-18
-validé: false
+validé: true
 sujet: histoire
 offre: initiation
 photo_pierre: false
