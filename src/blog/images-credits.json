@@ -218,5 +218,49 @@
     "largeur": 900,
     "hauteur": 900,
     "provisoire": true
+  },
+  "mains-petrissage-farine-plan-de-travail": {
+    "source": "Unsplash",
+    "urlPage": "https://unsplash.com/photos/hands-kneading-dough-dusted-with-flour-zZq_Iopl5_Q",
+    "urlImage": "https://images.unsplash.com/photo-1755211516523-e17d13978a1b",
+    "auteur": "Merrilee Schultz",
+    "licence": "Unsplash License",
+    "urlLicence": "https://unsplash.com/license",
+    "verifieLe": "2026-10-23",
+    "largeur": 1600,
+    "hauteur": 1066
+  },
+  "pizza-mozzarella-tomate-basilic-bord-gonfle": {
+    "source": "Unsplash",
+    "urlPage": "https://unsplash.com/photos/a-delicious-pizza-with-mozzarella-tomato-sauce-and-fresh-basil-qPorOVdCFzc",
+    "urlImage": "https://images.unsplash.com/photo-1784802841639-a773d10a6a14",
+    "auteur": "Alfonso Scarpa",
+    "licence": "Unsplash License",
+    "urlLicence": "https://unsplash.com/license",
+    "verifieLe": "2026-10-23",
+    "largeur": 1600,
+    "hauteur": 1067
+  },
+  "pizzaiolo-etire-pate-a-pizza": {
+    "source": "Unsplash",
+    "urlPage": "https://unsplash.com/photos/a-baker-is-stretching-pizza-dough-XjGHM-B6PEM",
+    "urlImage": "https://images.unsplash.com/photo-1749169362455-d368d57ede1f",
+    "auteur": "Benjamin Jauregui",
+    "licence": "Unsplash License",
+    "urlLicence": "https://unsplash.com/license",
+    "verifieLe": "2026-10-23",
+    "largeur": 1600,
+    "hauteur": 1067
+  },
+  "farine-blanche-plan-de-travail-bois": {
+    "source": "Unsplash",
+    "urlPage": "https://unsplash.com/photos/white-powder-on-brown-wooden-table-8CYL4WGzSQ4",
+    "urlImage": "https://images.unsplash.com/photo-1627735483792-233bf632619b",
+    "auteur": "Immo Wegmann",
+    "licence": "Unsplash License",
+    "urlLicence": "https://unsplash.com/license",
+    "verifieLe": "2026-10-23",
+    "largeur": 1600,
+    "hauteur": 1049
   }
 }
