@@ -372,6 +372,9 @@ Un imprévu peut arriver, et je cherche toujours une solution avec vous. Plus de
 **Et si c'est vous qui devez annuler ?**
 Je propose une autre date, ou je rembourse tout ce qui a été versé. C'est valable pour une maladie ou un imprévu de ma part.
 
+**Et si le lieu ne convient finalement pas ?**
+Pas de panique, on trouve une solution ensemble. Plus de 7 jours avant, vous pouvez changer le lieu, la date ou la formule sans frais. Entre 7 jours et 72 heures, je peux transformer la pizza party en atelier si le groupe et le lieu s'y prêtent, ou on reporte une fois : les ingrédients déjà achetés sont facturés au prix coûtant et je vous remets les pâtons. Moins de 72 heures avant, mêmes possibilités, avec les ingrédients et la pâte facturés. La pluie n'est jamais un motif d'annulation, l'événement peut se tenir en intérieur. Le détail est dans les [conditions générales](/cgv).
+
 **Non publiées** (voir `_brouillons/faq-non-publiees.md`) : Que dois-je prévoir chez moi ? [À CONFIRMER : table ou plan de travail, prise électrique, espace pour le four] ; baptême et communion [À CONFIRMER] ; entreprises [À CONFIRMER] ; assurance [À COMPLÉTER après souscription de la RC Pro].
 
 ---
