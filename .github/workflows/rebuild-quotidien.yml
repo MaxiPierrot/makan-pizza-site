@@ -1,0 +1,24 @@
+# Reconstruit le site chaque matin pour que les articles de blog programmés
+# (validé: true, date arrivée) apparaissent le bon jour.
+# Prérequis : un "build hook" Netlify, enregistré comme secret NETLIFY_BUILD_HOOK
+# dans les réglages du dépôt GitHub (Settings, Secrets and variables, Actions).
+# Les tâches programmées ne tournent que sur la branche par défaut (main).
+name: Reconstruction quotidienne du site
+
+on:
+  schedule:
+    - cron: "0 5 * * *" # 5 h UTC, soit 6 h ou 7 h à Lyon
+  workflow_dispatch:
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Déclencher la reconstruction sur Netlify
+        env:
+          NETLIFY_BUILD_HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}
+        run: |
+          if [ -z "$NETLIFY_BUILD_HOOK" ]; then
+            echo "Secret NETLIFY_BUILD_HOOK absent."; exit 1
+          fi
+          curl -fsS -X POST -d '{}' "$NETLIFY_BUILD_HOOK"
