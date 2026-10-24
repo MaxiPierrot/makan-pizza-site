@@ -1,20 +1,46 @@
-# Reconstruit le site chaque matin pour que les articles de blog programmés
-# (validé: true, date arrivée) apparaissent le bon jour.
+# Fait apparaître les articles de blog programmés le bon jour.
+# Chaque matin, la tâche cherche un article validé (validé: true) dont la date est
+# aujourd'hui. Si elle en trouve un, elle relance la construction du site sur Netlify.
+# Sinon elle ne fait rien : chaque mise en production Netlify consomme 15 crédits du
+# quota gratuit (300 par mois), une reconstruction quotidienne le dépasserait.
+#
 # Prérequis : un "build hook" Netlify, enregistré comme secret NETLIFY_BUILD_HOOK
 # dans les réglages du dépôt GitHub (Settings, Secrets and variables, Actions).
 # Les tâches programmées ne tournent que sur la branche par défaut (main).
-name: Reconstruction quotidienne du site
+name: Publication des articles programmés
 
 on:
   schedule:
     - cron: "0 5 * * *" # 5 h UTC, soit 6 h ou 7 h à Lyon
   workflow_dispatch:
+    inputs:
+      forcer:
+        description: "Relancer la construction même s'il n'y a pas d'article du jour"
+        type: boolean
+        default: false
 
 jobs:
   rebuild:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
+      - name: Chercher un article validé daté d'aujourd'hui
+        id: article
+        run: |
+          jour=$(TZ=Europe/Paris date +%F)
+          trouve="non"
+          for f in src/blog/articles/*.md; do
+            if grep -q "^date: $jour" "$f" && grep -q "^validé: true" "$f"; then
+              echo "Article du jour : $f"
+              trouve="oui"
+            fi
+          done
+          echo "trouve=$trouve" >> "$GITHUB_OUTPUT"
+          echo "Jour : $jour, article trouvé : $trouve"
+
       - name: Déclencher la reconstruction sur Netlify
+        if: steps.article.outputs.trouve == 'oui' || inputs.forcer == true
         env:
           NETLIFY_BUILD_HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}
         run: |
