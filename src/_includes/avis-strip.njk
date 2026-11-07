@@ -1,0 +1,26 @@
+{% if avis.liste.length %}
+<section class="blog-strip avis-strip" aria-labelledby="avis-title" data-strip>
+  <div class="container">
+    <h2 class="section-title" id="avis-title">Ils ont fait un atelier</h2>
+  </div>
+  <div class="blog-rail" data-rail role="region" aria-label="Avis de participants, défilement horizontal" tabindex="0">
+    <ul>
+      {% for a in avis.liste %}
+      <li class="avis-card">
+        <p class="avis-card__stars" aria-label="5 sur 5">★★★★★</p>
+        <blockquote class="avis-card__text">« {{ a.texte }} »</blockquote>
+        <p class="avis-card__who">{{ a.auteur }} <span>· avis Google, {{ a.date }}</span></p>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="container blog-strip__bar" data-bar>
+    <div class="blog-strip__progress" aria-hidden="true"><span data-thumb></span></div>
+    <div class="blog-strip__buttons">
+      <button type="button" class="blog-strip__btn" data-prev aria-label="Avis précédents"><span aria-hidden="true">←</span></button>
+      <button type="button" class="blog-strip__btn" data-next aria-label="Avis suivants"><span aria-hidden="true">→</span></button>
+    </div>
+  </div>
+  <p class="blog-strip__all"><a class="link-arrow" href="{{ avis.lien }}" target="_blank" rel="noopener">Voir les avis sur Google <span class="arrow" aria-hidden="true">→</span></a></p>
+</section>
+{% endif %}

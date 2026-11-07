@@ -2299,3 +2299,22 @@ textarea:focus-visible {
 }
 .btn.wa-btn:hover { background: #1ebe5b; border-color: #1ebe5b; color: #0b2e1a; }
 .wa-link .wa-icon { color: #25D366; }
+
+/* Avis de participants (même bandeau défilant que le blog) */
+.avis-card {
+  flex: 0 0 min(80vw, 20rem);
+  scroll-snap-align: start;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  padding: 1.6rem;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  transition: transform 0.4s var(--ease, ease), box-shadow 0.4s var(--ease, ease);
+}
+.avis-card:hover { transform: translateY(-4px); box-shadow: 0 22px 36px -24px rgba(43, 29, 22, 0.6); }
+.avis-card__stars { margin: 0; color: var(--mustard); letter-spacing: 0.15em; }
+.avis-card__text { margin: 0; flex: 1; font-size: 1.05rem; line-height: 1.5; }
+.avis-card__who { margin: 0; font-weight: 600; }
+.avis-card__who span { font-weight: 400; color: var(--muted, #6b584b); }
