@@ -36,7 +36,7 @@ const sections = [
     id: "personnes",
     title: "Nombre de personnes et durée",
     items: [
-      { id: "nombre", q: "Combien de personnes pour un atelier pizza ?", a: `De ${prix.minPersonnes} à ${prix.maxPersonnes} personnes. Je garde les groupes petits exprès : chacun a sa place autour du plan de travail, on discute et on rigole, et je peux m'occuper de tout le monde. Vous êtes plus nombreux ? Écrivez-moi, on regarde ce qui est possible.` },
+      { id: "nombre", q: "Combien de personnes pour un atelier pizza ?", a: `Un atelier est facturé à partir de ${prix.minPersonnes} personnes : à 2 ou 3, c'est possible, au prix de ${prix.minPersonnes}. L'idéal est de ${prix.minPersonnes} à ${prix.maxPersonnes} personnes, et je peux aller jusqu'à ${prix.maxPossible}. Je garde les groupes petits exprès : chacun a sa place autour du plan de travail, on discute et on rigole, et je peux m'occuper de tout le monde. Vous êtes plus nombreux ? Écrivez-moi, on regarde ce qui est possible.` },
       { id: "nombre-party", q: "Combien d'invités et combien de pizzas pour une pizza party ?", a: "Je prépare entre 12 et 18 pizzas par heure, selon les recettes choisies. Seul, je peux servir des pizzas à environ 25 personnes. Jusqu'à 40 personnes, c'est possible en ajoutant des focaccias préparées à l'avance, sur devis. Au-delà, je ne pourrai pas vous servir seul." },
       { id: "duree", q: "Combien de temps dure un atelier pizza ?", a: "Les Bases durent de 2h à 2h30. L'initiation dure de 2h30 à 3h." },
       { id: "duree-party", q: "Combien de temps dure une pizza party ?", a: "Cela dépend de la configuration sur place et du nombre d'invités. Je vous indique la durée dans le devis personnalisé." },

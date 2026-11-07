@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{{ title | prixTokens }}</title>
 <meta name="description" content="{{ description | prixTokens }}">
-<meta name="theme-color" content="#f3e9d8">
+<meta name="theme-color" content="#EFEBE3">
 <link rel="canonical" href="{{ site.url }}{{ path }}">
 {% if noindex %}<meta name="robots" content="noindex">{% endif %}
 <meta property="og:type" content="{{ ogType or 'website' }}">
@@ -67,6 +67,7 @@
 {{ content | safe }}
 </main>
 {% include "footer.njk" %}
+{% if not nofab %}<a class="whatsapp-fab" href="{{ site.whatsappBase }}?text={{ (whatsappText or site.whatsappText) | urlencode }}" target="_blank" rel="noopener" aria-label="Écrire sur WhatsApp à Makan Pizza">{% include "wa-icon.njk" %}</a>{% endif %}
 <script src="/assets/js/script.js"></script>
 </body>
 </html>

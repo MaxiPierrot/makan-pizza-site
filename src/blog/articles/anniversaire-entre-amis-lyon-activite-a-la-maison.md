@@ -17,7 +17,7 @@ questions:
   - q: "Peut-on offrir un atelier pizza pour un anniversaire ?"
     a: "Oui. Vous réservez un atelier, et je vous envoie un bon d'invitation à offrir. Le bon n'a pas de date limite : la date se choisit ensemble, avec la personne invitée."
   - q: "Combien d'invités au maximum ?"
-    a: "Un atelier accueille de {prix.minPersonnes} à {prix.maxPersonnes} personnes. Pour une pizza party, je peux servir des pizzas à environ 25 personnes seul, et jusqu'à 40 avec des focaccias préparées à l'avance, sur devis."
+    a: "Un atelier accueille idéalement de {prix.minPersonnes} à {prix.maxPersonnes} personnes, jusqu'à {prix.maxPossible} sur demande. Pour une pizza party, je peux servir des pizzas à environ 25 personnes seul, et jusqu'à 40 avec des focaccias préparées à l'avance, sur devis."
   - q: "Les enfants peuvent-ils participer ?"
     a: "Oui, il n'y a pas d'âge minimum. J'adapte l'atelier pour que chaque enfant puisse s'épanouir. Un adulte reste présent, environ un adulte pour quatre enfants. Indiquez l'âge des enfants dans votre demande."
   - q: "Faut-il un four spécial chez moi ?"

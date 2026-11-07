@@ -7,7 +7,7 @@
     <div class="footer__info">
       <p class="footer__slogan">{{ site.slogan }}</p>
       <p>{{ site.zone }}</p>
-      <p><a href="tel:{{ site.phoneIntl }}">{{ site.phone }}</a> · <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+      <p><a href="tel:{{ site.phoneIntl }}">{{ site.phone }}</a> · <a href="mailto:{{ site.email }}">{{ site.email }}</a> · <a class="wa-link" href="{{ site.whatsappBase }}?text={{ (whatsappText or site.whatsappText) | urlencode }}" target="_blank" rel="noopener">{% include "wa-icon.njk" %}WhatsApp</a></p>
     </div>
 
     <div class="footer__social">

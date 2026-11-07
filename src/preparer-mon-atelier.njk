@@ -1,0 +1,228 @@
+---
+layout: page.njk
+permalink: /preparer-mon-atelier.html
+path: /preparer-mon-atelier
+crumb: "Préparer mon atelier"
+noindex: true
+sitemap: false
+title: "Préparer mon atelier pizza | Makan Pizza"
+description: "Quelques questions pour préparer votre atelier pizza ou votre pizza party à domicile, avec une estimation du prix et du déplacement."
+h1: "Préparons votre atelier"
+lead: "Quelques questions pour que je vous prépare un devis juste, sans aller-retour. Comptez cinq minutes. Ce qui n'est pas encore décidé peut rester vide."
+nofab: true
+---
+{# Page envoyée en lien direct aux futurs pizzaïolos, ou remplie par Pierre pendant un appel. Non indexée.
+   Prix, zone et tarif kilométrique : src/_data/prix.js. Calcul de distance : service public de la Géoplateforme (IGN), sans clé ni cookie. #}
+<section class="section">
+  <div class="container">
+    <form class="form prep" id="prep" name="preparer-atelier" method="POST" action="/merci" data-netlify="true" netlify-honeypot="bot-field"
+      data-bases="{{ prix.bases }}" data-initiation="{{ prix.initiation }}" data-party-min="{{ prix.partyMin }}"
+      data-min="{{ prix.minPersonnes }}" data-max="{{ prix.maxPersonnes }}" data-max-possible="{{ prix.maxPossible }}"
+      data-rayon="{{ prix.rayonKm }}" data-tarif-km="{{ prix.tarifKm }}" data-acompte="{{ prix.acomptePct }}"
+      data-origine="{{ prix.origine.lon }},{{ prix.origine.lat }}">
+      <input type="hidden" name="form-name" value="preparer-atelier">
+      <p class="form__hp" aria-hidden="true"><label>Ne pas remplir <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+
+      <fieldset class="prep__block">
+        <legend class="prep__title">Vous</legend>
+        <div class="form__row">
+          <label for="p-nom">Prénom et nom <span class="req" aria-hidden="true">*</span></label>
+          <input type="text" id="p-nom" name="nom" autocomplete="name" required aria-required="true">
+        </div>
+        <div class="form__cols prep__cols">
+          <div class="form__row">
+            <label for="p-tel">Téléphone <span class="req" aria-hidden="true">*</span></label>
+            <input type="tel" id="p-tel" name="telephone" autocomplete="tel" required aria-required="true">
+          </div>
+          <div class="form__row">
+            <label for="p-email">Email <span class="req" aria-hidden="true">*</span></label>
+            <input type="email" id="p-email" name="email" autocomplete="email" required aria-required="true">
+          </div>
+        </div>
+        <div class="prep__choices" role="radiogroup" aria-label="Vous réservez pour">
+          <label class="prep__choice"><input type="radio" name="vous_etes" value="Particulier" checked><span>Pour moi et mes proches</span></label>
+          <label class="prep__choice"><input type="radio" name="vous_etes" value="Entreprise ou association"><span>Pour une entreprise ou une association</span></label>
+        </div>
+        <div class="form__row" id="p-structure-row" hidden>
+          <label for="p-structure">Nom de l'entreprise ou de l'association</label>
+          <input type="text" id="p-structure" name="structure" autocomplete="organization">
+        </div>
+      </fieldset>
+
+      <fieldset class="prep__block">
+        <legend class="prep__title">Votre atelier</legend>
+        <div class="prep__choices prep__choices--cards" role="radiogroup" aria-label="Formule">
+          <label class="prep__choice"><input type="radio" name="formule" value="Atelier Bases" data-key="bases"><span><strong>Atelier Bases</strong><small>{{ prix.bases }} € par personne, avec votre four</small></span></label>
+          <label class="prep__choice"><input type="radio" name="formule" value="Initiation napolitaine" data-key="initiation" checked><span><strong>Initiation napolitaine</strong><small>{{ prix.initiation }} € par personne, avec mon four</small></span></label>
+          <label class="prep__choice"><input type="radio" name="formule" value="Pizza party" data-key="pizza-party"><span><strong>Pizza party</strong><small>sur devis, à partir de {{ prix.partyMin }} €</small></span></label>
+          <label class="prep__choice"><input type="radio" name="formule" value="Autre envie" data-key="autre"><span><strong>Autre envie</strong><small>sur mesure, on en parle</small></span></label>
+        </div>
+        <div class="form__cols prep__cols">
+          <div class="form__row">
+            <label for="p-date">Date souhaitée</label>
+            <input type="date" id="p-date" name="date_souhaitee">
+          </div>
+          <div class="form__row">
+            <label for="p-heure">Heure d'arrivée souhaitée</label>
+            <input type="time" id="p-heure" name="heure">
+          </div>
+        </div>
+        <div class="form__row">
+          <label for="p-nb">Nombre de futurs pizzaïolos</label>
+          <div class="prep__stepper">
+            <button type="button" class="prep__step" data-step="-1" aria-label="Une personne de moins">−</button>
+            <input type="number" id="p-nb" name="nombre_de_personnes" min="1" max="40" value="4" inputmode="numeric">
+            <button type="button" class="prep__step" data-step="1" aria-label="Une personne de plus">+</button>
+          </div>
+          <p class="prep__hint" id="p-nb-hint">Un atelier se fait à partir de {{ prix.minPersonnes }} personnes facturées : à 2 ou 3, c'est possible, au prix de {{ prix.minPersonnes }}. Idéal jusqu'à {{ prix.maxPersonnes }}, possible jusqu'à {{ prix.maxPossible }}.</p>
+        </div>
+        <div class="form__cols prep__cols">
+          <div class="form__row">
+            <label for="p-enfants">Dont enfants (et leur âge)</label>
+            <input type="text" id="p-enfants" name="enfants" placeholder="par exemple 2 enfants, 8 et 11 ans">
+          </div>
+          <div class="form__row">
+            <label for="p-occasion">L'occasion</label>
+            <select id="p-occasion" name="occasion">
+              <option value="">Choisir</option>
+              <option>Entre amis</option>
+              <option>Anniversaire</option>
+              <option>EVJF ou EVG</option>
+              <option>En famille</option>
+              <option>Entreprise, équipe</option>
+              <option>Association, école</option>
+              <option>Un cadeau</option>
+              <option>Autre</option>
+            </select>
+          </div>
+        </div>
+      </fieldset>
+
+      <fieldset class="prep__block">
+        <legend class="prep__title">Où cuisine-t-on ?</legend>
+        <div class="form__row prep__address">
+          <label for="p-lieu">Adresse de l'atelier</label>
+          <input type="text" id="p-lieu" name="adresse_atelier" autocomplete="off" placeholder="Numéro, rue, commune" aria-describedby="p-km" aria-autocomplete="list" aria-controls="p-suggest">
+          <ul class="prep__suggest" id="p-suggest" hidden></ul>
+          <p class="prep__hint" id="p-km" aria-live="polite">Le déplacement est inclus jusqu'à {{ prix.rayonKm }} km de Lyon 9e. Au-delà, je l'ajoute au devis.</p>
+        </div>
+        <label class="prep__check"><input type="checkbox" id="p-meme" name="meme_adresse_pour_le_devis" value="oui" checked> C'est aussi l'adresse à mettre sur le devis</label>
+        <div class="form__row" id="p-adresse-devis-row" hidden>
+          <label for="p-adresse-devis">Adresse pour le devis</label>
+          <input type="text" id="p-adresse-devis" name="adresse_devis" autocomplete="street-address">
+        </div>
+        <div class="form__cols prep__cols">
+          <div class="form__row">
+            <label for="p-parking">Pour se garer</label>
+            <select id="p-parking" name="stationnement">
+              <option value="">Choisir</option>
+              <option>Place gratuite devant ou tout près</option>
+              <option>Stationnement payant</option>
+              <option>Je ne sais pas</option>
+            </select>
+          </div>
+          <div class="form__row">
+            <label for="p-etage">Étage et ascenseur</label>
+            <input type="text" id="p-etage" name="etage" placeholder="par exemple 3e sans ascenseur">
+          </div>
+        </div>
+        <div class="form__row">
+          <label for="p-dedans">Dedans ou dehors ?</label>
+          <select id="p-dedans" name="interieur_exterieur">
+            <option value="">Choisir</option>
+            <option>Dedans</option>
+            <option>Dehors (jardin, terrasse)</option>
+            <option>Dehors, avec un repli à l'intérieur</option>
+          </select>
+        </div>
+      </fieldset>
+
+      <fieldset class="prep__block">
+        <legend class="prep__title">Chez vous</legend>
+        <p class="prep__hint">Cochez ce qui est déjà bon. Pour le reste, on trouve une solution ensemble.</p>
+        <div class="prep__checks">
+          <label class="prep__check"><input type="checkbox" name="table_solide" value="oui"> Une table ou un plan de travail solide</label>
+          <label class="prep__check"><input type="checkbox" name="prise_electrique" value="oui"> Une prise électrique à proximité</label>
+          <label class="prep__check"><input type="checkbox" name="point_eau" value="oui"> Un point d'eau pour se laver les mains</label>
+          <label class="prep__check"><input type="checkbox" name="acces_facile" value="oui"> Un accès facile pour le four et la glacière</label>
+        </div>
+        <div class="form__cols prep__cols" id="p-bases-row" hidden>
+          <div class="form__row">
+            <label for="p-four">Votre four</label>
+            <select id="p-four" name="four">
+              <option value="">Choisir</option>
+              <option>Four électrique</option>
+              <option>Four à gaz</option>
+              <option>Four à pizza</option>
+              <option>Je ne sais pas s'il convient</option>
+            </select>
+          </div>
+          <div class="form__row">
+            <label for="p-pierre">Une pierre à pizza ?</label>
+            <select id="p-pierre" name="pierre_a_pizza">
+              <option value="">Choisir</option>
+              <option>Oui</option>
+              <option>Non, je compte en acheter une</option>
+              <option>Non, on en parle</option>
+            </select>
+          </div>
+        </div>
+      </fieldset>
+
+      <fieldset class="prep__block">
+        <legend class="prep__title">Allergies et envies</legend>
+        <div class="form__row">
+          <label for="p-allergies">Allergies</label>
+          <input type="text" id="p-allergies" name="allergies" placeholder="aucune, ou par exemple fruits à coque pour 1 personne">
+        </div>
+        <div class="form__row">
+          <label for="p-regimes">Régimes et envies</label>
+          <input type="text" id="p-regimes" name="regimes" placeholder="par exemple 2 végétariens, une pizza blanche">
+        </div>
+        <label class="prep__check"><input type="checkbox" name="info_allergenes_lue" value="oui"> J'ai bien noté que les pizzas contiennent du gluten et souvent du lait, et que l'absence de traces d'autres allergènes ne peut pas être garantie.</label>
+      </fieldset>
+
+      <fieldset class="prep__block prep__estimate" aria-labelledby="p-est-title">
+        <legend class="prep__title" id="p-est-title">Votre estimation</legend>
+        <dl class="prep__lines" aria-live="polite">
+          <div><dt id="p-l-formule">Initiation napolitaine</dt><dd id="p-v-formule">276 €</dd></div>
+          <div><dt>Déplacement</dt><dd id="p-v-km">inclus jusqu'à {{ prix.rayonKm }} km</dd></div>
+          <div class="prep__total"><dt>Total estimé</dt><dd id="p-v-total">276 €</dd></div>
+          <div><dt>Acompte de {{ prix.acomptePct }} % pour réserver la date</dt><dd id="p-v-acompte">82,80 €</dd></div>
+        </dl>
+        <p class="prep__hint">Estimation indicative : je vous envoie le devis ferme sous 24 h (sauf imprévu). Péages et stationnement payant éventuels au prix réel. TVA non applicable, art. 293 B du CGI. <a href="/cgv">Conditions générales</a>.</p>
+        <p class="prep__wa"><a class="btn wa-btn" id="p-wa" href="{{ site.whatsappBase }}?text={{ site.whatsappText | urlencode }}" target="_blank" rel="noopener">{% include "wa-icon.njk" %}Envoyer sur WhatsApp</a></p>
+        <input type="hidden" name="distance_km" id="p-h-km">
+        <input type="hidden" name="frais_deplacement_estimes" id="p-h-frais">
+        <input type="hidden" name="estimation_totale" id="p-h-total">
+      </fieldset>
+
+      <fieldset class="prep__block">
+        <legend class="prep__title">Pour finir</legend>
+        <div class="form__row">
+          <label for="p-source">Comment avez-vous connu Makan Pizza ?</label>
+          <select id="p-source" name="source">
+            <option value="">Choisir</option>
+            <option>Google ou le site</option>
+            <option>Instagram</option>
+            <option>Facebook</option>
+            <option>Un ami, la famille</option>
+            <option>J'ai déjà fait un atelier</option>
+            <option>Autre</option>
+          </select>
+        </div>
+        <div class="form__row">
+          <label for="p-message">Un mot de plus ?</label>
+          <textarea id="p-message" name="message" rows="4"></textarea>
+        </div>
+      </fieldset>
+
+      <p class="form__legend"><span class="req" aria-hidden="true">*</span> Champ obligatoire</p>
+      <div class="prep__send-error" id="p-error" role="alert" hidden></div>
+      <button type="submit" class="btn btn--primary">Envoyer ma demande</button>
+      <button type="button" class="btn btn--secondary" id="p-export">Exporter mes réponses</button>
+      <p class="prep__hint">Répondez directement sur cette page, sans la copier. Vos réponses sont gardées sur cet appareil pendant que vous écrivez : si la page se recharge, elles reviennent.</p>
+    </form>
+  </div>
+</section>
+<script src="/assets/js/preparer.js" defer></script>

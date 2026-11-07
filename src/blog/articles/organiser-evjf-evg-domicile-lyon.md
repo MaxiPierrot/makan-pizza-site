@@ -13,7 +13,7 @@ photos:
 sansSourceExterne: true
 questions:
   - q: "Combien de personnes pour un EVJF ou un EVG ?"
-    a: "De 4 à 6 personnes pour un atelier. Vous êtes plus de 6 ? Écrivez-moi, on regarde ce qui est possible."
+    a: "Un atelier est facturé à partir de 4 personnes, avec un idéal de 4 à 6 et jusqu'à 8 sur demande. Vous êtes plus de 8 ? Écrivez-moi, on regarde ce qui est possible."
   - q: "Où se déroule l'atelier ?"
     a: "Chez la future mariée ou le futur marié, ou dans le lieu que vous avez choisi, à Lyon et dans un rayon de {prix.rayonKm} km. Il n'y a pas de salle à réserver."
   - q: "Qui s'occupe des ingrédients ?"
@@ -37,7 +37,7 @@ Un atelier est aussi une activité où chacun fait quelque chose. On ne reste pa
 
 ## Combien de personnes ?
 
-Un atelier accueille de {{ prix.minPersonnes }} à {{ prix.maxPersonnes }} personnes. Je garde les groupes petits exprès : chacun a sa place autour du plan de travail, on discute et on rigole, et je peux m'occuper de tout le monde. Le minimum est de {{ prix.minPersonnes }} personnes.
+Un atelier accueille idéalement de {{ prix.minPersonnes }} à {{ prix.maxPersonnes }} personnes, et jusqu'à {{ prix.maxPossible }} sur demande. Je garde les groupes petits exprès : chacun a sa place autour du plan de travail, on discute et on rigole, et je peux m'occuper de tout le monde. Il est facturé à partir de {{ prix.minPersonnes }} personnes : à 2 ou 3, c'est possible, au prix de {{ prix.minPersonnes }}.
 
 Si vous êtes plus de {{ prix.maxPersonnes }}, écrivez-moi par le [formulaire de contact](/contact) en indiquant le nombre d'invités. On regarde ce qui est possible, et la [pizza party](/pizza-party-domicile-lyon) est une autre formule, où je prépare les pizzas sur place pendant que vous profitez de la soirée.
 

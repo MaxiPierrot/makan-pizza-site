@@ -20,7 +20,7 @@ sources:
     note: "Le cahier des charges parle d'une cuisson de 60 à 90 secondes dans un four à bois, à une température de cuisson d'environ 485 °C."
 questions:
   - q: "Combien de personnes pour un atelier ?"
-    a: "De 4 à 6 personnes. Je garde les groupes petits exprès : chacun a sa place autour du plan de travail, on discute et on rigole, et je peux m'occuper de tout le monde."
+    a: "L'atelier est facturé à partir de 4 personnes (à 2 ou 3, c'est possible, au prix de 4). L'idéal est de 4 à 6 personnes, jusqu'à 8 sur demande. Je garde les groupes petits exprès : chacun a sa place autour du plan de travail, on discute et on rigole, et je peux m'occuper de tout le monde."
   - q: "Et pour une pizza party ?"
     a: "Le nombre d'invités se discute au moment du devis. Je prépare les pizzas sur place pendant que vous restez avec vos invités."
   - q: "Faut-il un four spécial pour l'atelier ?"
@@ -80,7 +80,7 @@ C'est une formule sur devis, à partir de {{ prix.partyMin }} €. Le détail de
 
 ## Trois questions pour décider
 
-**Combien serez-vous ?** Un atelier va de {{ prix.minPersonnes }} à {{ prix.maxPersonnes }} personnes : je garde les groupes petits pour que chacun ait sa place autour du plan de travail. Pour plus d'invités, la pizza party est la formule prévue, et vous pouvez aussi m'écrire pour voir ce qui est possible.
+**Combien serez-vous ?** Un atelier est facturé à partir de {{ prix.minPersonnes }} personnes (à 2 ou 3, c'est possible, au prix de {{ prix.minPersonnes }}). L'idéal va jusqu'à {{ prix.maxPersonnes }}, et jusqu'à {{ prix.maxPossible }} sur demande : je garde les groupes petits pour que chacun ait sa place autour du plan de travail. Pour plus d'invités, la pizza party est la formule prévue, et vous pouvez aussi m'écrire pour voir ce qui est possible.
 
 **Avez-vous envie de cuisiner ou de recevoir ?** Si l'idée de faire la pâte avec vos amis vous donne envie, c'est un atelier. Si vous voulez profiter de vos invités sans toucher à la farine, c'est une pizza party.
 

@@ -46,62 +46,7 @@ if (nav) {
   update();
 }
 
-// Animations au défilement. Tout le contenu est déjà dans le HTML : on ne masque
-// que les éléments situés sous la ligne de flottaison, juste avant qu'ils
-// apparaissent. Sans JavaScript, ou si l'utilisateur préfère moins d'animations,
-// rien n'est masqué ni animé.
 const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-
-if (!reduceMotion && 'IntersectionObserver' in window) {
-  const revealSelector = [
-    'main section:not(.hero) .container > :not(ul):not(ol)',
-    '.offers__grid > li',
-    '.steps > li',
-    '.photo-strip > li',
-    '.menu-grid > li',
-    '.blog-rail > li',
-  ].join(', ');
-  const vh = window.innerHeight;
-
-  const reveal = new IntersectionObserver((entries) => {
-    entries.forEach((entry) => {
-      if (!entry.isIntersecting) return;
-      const el = entry.target;
-      reveal.unobserve(el);
-      el.classList.remove('is-pending');
-      el.classList.add('is-revealing');
-      const done = () => {
-        el.classList.remove('is-revealing');
-        el.style.removeProperty('--d');
-      };
-      el.addEventListener('transitionend', (e) => { if (e.target === el) done(); }, { once: true });
-      setTimeout(done, 1600);
-    });
-  }, { rootMargin: '0px 0px -8% 0px', threshold: 0.05 });
-
-  document.querySelectorAll(revealSelector).forEach((el) => {
-    if (el.getBoundingClientRect().top < vh) return;
-    const siblings = el.parentElement.matches('ul, ol') ? [...el.parentElement.children] : [];
-    if (siblings.length) el.style.setProperty('--d', `${(siblings.indexOf(el) % 3) * 0.1}s`);
-    el.classList.add('is-pending');
-    reveal.observe(el);
-  });
-
-  // Photos : léger zoom lent à la révélation
-  const photos = new IntersectionObserver((entries) => {
-    entries.forEach((entry) => {
-      if (!entry.isIntersecting) return;
-      entry.target.classList.add('is-in');
-      photos.unobserve(entry.target);
-    });
-  }, { threshold: 0.2 });
-
-  document.querySelectorAll('.photo-slot').forEach((slot) => {
-    if (!slot.querySelector('img') || slot.getBoundingClientRect().top < vh) return;
-    slot.classList.add('photo-zoom');
-    photos.observe(slot);
-  });
-}
 
 // Formulaire de contact : préremplit « Type de demande » avec ?atelier=...
 const requestType = document.getElementById('atelier');

@@ -50,11 +50,11 @@
 /* ===================== VARIABLES ===================== */
 :root {
   /* Palette : moutarde du logo, vert-noir, crème, blanc. */
-  --mustard: #f3c868;
-  --green: #1f3a34;
-  --green-hover: #2d5249;
-  --cream: #f3e9d8;
-  --paper: #f9f2e6;
+  --mustard: #D9A441;
+  --green: #2B1D16;
+  --green-hover: #962B17;
+  --cream: #EFEBE3;
+  --paper: #FAF9F6;
   --white: #ffffff;
   /* Teinte douce du vert sur le papier, pour les emplacements photo vides */
   --sage: color-mix(in srgb, var(--green) 13%, var(--paper));
@@ -245,7 +245,7 @@ textarea:focus-visible {
   position: absolute;
   inset: 0;
   z-index: -1;
-  background-color: rgba(249, 242, 230, 0.88);
+  background-color: rgba(250,249,246, 0.88);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
 }
@@ -257,7 +257,7 @@ textarea:focus-visible {
   right: 0;
   top: 100%;
   height: 14px;
-  background: linear-gradient(rgba(31, 58, 52, 0.09), transparent);
+  background: linear-gradient(rgba(43, 29, 22, 0.09), transparent);
   opacity: 0;
   pointer-events: none;
   transition: opacity 0.4s ease;
@@ -534,7 +534,7 @@ textarea:focus-visible {
 
 .card:hover {
   transform: translateY(-3px);
-  box-shadow: 0 18px 32px -22px rgba(31, 58, 52, 0.55);
+  box-shadow: 0 18px 32px -22px rgba(43, 29, 22, 0.55);
 }
 
 .card__photo {
@@ -1288,7 +1288,7 @@ textarea:focus-visible {
   max-width: none;
   padding-top: 2rem;
   width: 100%;
-  border-top: 1px solid rgba(243, 233, 216, 0.2);
+  border-top: 1px solid rgba(239,235,227, 0.2);
   opacity: 0.8;
 }
 
@@ -1546,71 +1546,6 @@ textarea:focus-visible {
 
 .arrow {
   transition: transform 0.3s var(--ease);
-}
-
-/* Titre de l'accueil : deux lignes qui se posent l'une après l'autre.
-   Le texte reste lisible dès le premier affichage (opacité de départ à 0,45). */
-@keyframes line-in {
-  from {
-    opacity: 0.45;
-    transform: translateY(0.35em);
-  }
-}
-
-@keyframes draw {
-  from {
-    transform: scaleX(0);
-  }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .hero__title .line {
-    animation: line-in 0.6s var(--ease) both;
-  }
-
-  .hero__title .line:nth-child(2) {
-    animation-delay: 0.12s;
-  }
-
-  .hero__title::before {
-    animation: draw 0.7s var(--ease) 0.15s both;
-  }
-
-  /* Apparition au défilement (classes posées par script.js) */
-  .is-pending {
-    opacity: 0;
-    transform: translateY(18px);
-    transition: none;
-  }
-
-  .is-revealing {
-    transition: opacity 0.6s var(--ease) var(--d, 0s), transform 0.6s var(--ease) var(--d, 0s);
-  }
-
-  /* La fine ligne moutarde se trace à l'apparition du titre */
-  .is-pending::after,
-  .is-pending::before,
-  .is-pending p::before,
-  .is-pending .card__price::before {
-    transform: scaleX(0);
-  }
-
-  .is-revealing::after,
-  .is-revealing::before,
-  .is-revealing p::before,
-  .is-revealing .card__price::before {
-    transition: transform 0.6s var(--ease) calc(var(--d, 0s) + 0.25s);
-  }
-
-  /* Photos : révélation par un zoom lent */
-  .photo-zoom img {
-    transform: scale(1.08);
-  }
-
-  .photo-zoom.is-in img {
-    transform: scale(1);
-    transition: transform 1.6s var(--ease);
-  }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -1874,7 +1809,7 @@ textarea:focus-visible {
 
 .blog-card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 22px 36px -24px rgba(31, 58, 52, 0.6);
+  box-shadow: 0 22px 36px -24px rgba(43, 29, 22, 0.6);
 }
 
 .blog-card__media {
@@ -2052,7 +1987,7 @@ textarea:focus-visible {
   max-width: 46rem;
   margin: 0 auto 2.4rem;
   padding: 1.2rem 1.4rem;
-  background: var(--cream, #f3e9d8);
+  background: var(--cream, #EFEBE3);
   border-radius: 12px;
 }
 
@@ -2098,3 +2033,269 @@ textarea:focus-visible {
   text-decoration-thickness: 2px;
   text-underline-offset: 3px;
 }
+
+.btn--primary,.site-nav__menu .btn--primary{background-color:#B5361E;border-color:#B5361E;color:#fff}.btn--primary:hover,.site-nav__menu .btn--primary:hover{background-color:#962B17;border-color:#962B17}.section--green .btn--primary{background-color:#EFEBE3;border-color:#EFEBE3;color:#2B1D16}.section--green .btn--primary:hover{background-color:#D9A441;border-color:#D9A441}
+
+/* ===================== PAGE « PRÉPARER MON ATELIER » ===================== */
+.prep {
+  max-width: 44rem;
+  gap: 1.6rem;
+}
+
+.prep__block {
+  display: grid;
+  gap: 1.1rem;
+  min-width: 0;
+  margin: 0;
+  padding: 1.4rem 1.3rem 1.5rem;
+  border: 1.5px solid var(--line);
+  border-radius: var(--radius);
+  background-color: var(--white);
+}
+
+.prep__title {
+  padding: 0 0.5rem;
+  font-family: var(--font-title);
+  font-size: var(--fs-md);
+  font-weight: 700;
+  color: var(--green);
+}
+
+.prep__cols {
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+}
+
+.prep__choices {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.prep__choices--cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+}
+
+.prep .prep__choice {
+  position: relative;
+  display: flex;
+  font-weight: 400;
+}
+
+.prep .prep__choice input {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  margin: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.prep__choice span {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.15rem;
+  width: 100%;
+  min-height: 3rem;
+  padding: 0.65rem 1rem;
+  border: 1.5px solid color-mix(in srgb, var(--green) 30%, transparent);
+  border-radius: 12px;
+  background-color: var(--white);
+  color: var(--green);
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.prep__choice small {
+  font-size: var(--fs-sm);
+  opacity: 0.85;
+}
+
+.prep__choice input:checked + span {
+  background-color: var(--mustard);
+  border-color: var(--mustard);
+}
+
+.prep__choice input:focus-visible + span {
+  outline: 3px solid var(--green);
+  outline-offset: 2px;
+}
+
+.prep__stepper {
+  display: flex;
+  max-width: 12rem;
+}
+
+.prep__step {
+  flex: none;
+  width: 3rem;
+  font-size: 1.3rem;
+  color: var(--green);
+  background-color: var(--paper);
+  border: 1.5px solid color-mix(in srgb, var(--green) 35%, transparent);
+  cursor: pointer;
+}
+
+.prep__step:first-child {
+  border-radius: 12px 0 0 12px;
+}
+
+.prep__step:last-child {
+  border-radius: 0 12px 12px 0;
+}
+
+.prep__step:focus-visible {
+  outline: 3px solid var(--green);
+  outline-offset: 2px;
+}
+
+.prep .prep__stepper input {
+  border-radius: 0;
+  border-left: 0;
+  border-right: 0;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+.prep__hint {
+  margin: 0;
+  font-size: var(--fs-sm);
+  color: color-mix(in srgb, var(--green) 80%, transparent);
+}
+
+.prep__hint--warn {
+  color: #8a2d1f;
+  font-weight: 600;
+}
+
+.prep .prep__check {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.7rem;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+.prep .prep__check input {
+  flex: none;
+  width: 1.3rem;
+  height: 1.3rem;
+  min-height: 0;
+  margin-top: 0.15rem;
+  padding: 0;
+  accent-color: var(--green);
+}
+
+.prep__checks {
+  display: grid;
+  gap: 0.7rem;
+}
+
+.prep__address {
+  position: relative;
+}
+
+.prep__suggest {
+  margin: 0;
+  padding: 0.3rem;
+  list-style: none;
+  border: 1.5px solid color-mix(in srgb, var(--green) 35%, transparent);
+  border-radius: 12px;
+  background-color: var(--white);
+}
+
+.prep__suggest button {
+  display: block;
+  width: 100%;
+  min-height: 2.75rem;
+  padding: 0.5rem 0.8rem;
+  text-align: left;
+  font: inherit;
+  color: var(--green);
+  background: none;
+  border: 0;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.prep__suggest button:hover,
+.prep__suggest button:focus-visible {
+  background-color: var(--paper);
+  outline: none;
+}
+
+.prep__estimate {
+  background-color: var(--paper);
+}
+
+.prep__lines {
+  display: grid;
+  gap: 0.5rem;
+  margin: 0;
+  font-variant-numeric: tabular-nums;
+}
+
+.prep__lines > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.prep__lines dt {
+  min-width: 0;
+}
+
+.prep__lines dd {
+  margin: 0;
+  font-weight: 600;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.prep__total {
+  padding: 0.7rem 1rem;
+  border-radius: 12px;
+  background-color: var(--mustard);
+  font-size: var(--fs-md);
+  font-weight: 700;
+}
+
+/* Bouton WhatsApp flottant : logo seul, réponse rapide, toujours à portée */
+.whatsapp-fab {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  z-index: 40;
+  width: 56px;
+  height: 56px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #25D366;
+  color: #fff;
+  border-radius: 50%;
+  box-shadow: 0 6px 18px -8px rgba(43, 29, 22, 0.55);
+  transition: transform 0.2s ease, background-color 0.2s ease;
+}
+.whatsapp-fab:hover { background: #1ebe5b; transform: translateY(-2px); }
+.whatsapp-fab:active { transform: translateY(0); }
+.whatsapp-fab .wa-icon { width: 30px; height: 30px; }
+.wa-link, .wa-btn { display: inline-flex; align-items: center; gap: 0.4em; }
+.wa-link .wa-icon, .wa-btn .wa-icon { width: 1.15em; height: 1.15em; flex: none; }
+.contact-card__reply { font-weight: 600; }
+@media print { .whatsapp-fab { display: none; } }
+
+/* Tout ce qui mène à WhatsApp : logo et vert WhatsApp, format discret */
+.btn.wa-btn {
+  min-height: 2.5rem;
+  padding: 0.35rem 1rem;
+  font-size: 0.95rem;
+  background: #25D366;
+  border-color: #25D366;
+  color: #0b2e1a;
+}
+.btn.wa-btn:hover { background: #1ebe5b; border-color: #1ebe5b; color: #0b2e1a; }
+.wa-link .wa-icon { color: #25D366; }

@@ -7,6 +7,8 @@ title: "Demander un devis ou une date | Makan Pizza"
 description: "Demandez un devis pour une pizza party ou une date pour un atelier pizza à domicile à Lyon. Je vous réponds par email ou par téléphone."
 h1: "Demander un devis ou une date"
 lead: "Les dates d'ateliers ne sont pas encore ouvertes à la réservation en ligne. Écrivez-moi avec la date qui vous arrange, le nombre de personnes et l'occasion. Je vous réponds par email ou par téléphone."
+whatsappText: "Bonjour, je voudrais un devis ou une date pour un atelier ou une pizza party."
+nofab: true
 ---
 {# Emplacement du widget de réservation (SimplyBook) : à ajouter ici quand il sera branché, puis adapter le texte d'introduction. #}
 <section class="section">
@@ -60,8 +62,11 @@ lead: "Les dates d'ateliers ne sont pas encore ouvertes à la réservation en li
     </form>
 
     <aside class="contact-card" aria-label="Coordonnées">
+      <p class="contact-card__prep"><strong>Vous savez déjà ce que vous voulez ?</strong><br>Préparez votre atelier en cinq minutes et obtenez une estimation : <a href="/preparer-mon-atelier">Préparer mon atelier</a>.</p>
       <p><a href="tel:{{ site.phoneIntl }}">{{ site.phone }}</a></p>
       <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+      <p class="contact-card__reply">Je réponds sous 24 h, sauf imprévu.</p>
+      <p><a class="btn wa-btn" href="{{ site.whatsappBase }}?text={{ (whatsappText or site.whatsappText) | urlencode }}" target="_blank" rel="noopener">{% include "wa-icon.njk" %}WhatsApp</a></p>
     </aside>
   </div>
 </section>

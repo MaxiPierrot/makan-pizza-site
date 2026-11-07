@@ -11,6 +11,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/assets/images/emblem-filigrane.webp": "assets/images/emblem-filigrane.webp" });
   eleventyConfig.addPassthroughCopy({ "src/assets/images/favicon.png": "assets/images/favicon.png" });
   eleventyConfig.addPassthroughCopy({ "src/assets/images/photos": "assets/images/photos" });
+  eleventyConfig.addPassthroughCopy({ "src/assets/docs": "assets/docs" });
 
   // Chemin d'une photo si le fichier existe (webp ou jpg), sinon chaîne vide.
   const photoSrc = (name) => {

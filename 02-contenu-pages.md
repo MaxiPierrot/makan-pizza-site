@@ -44,7 +44,7 @@ Je viens chez vous avec mon four, pour un moment entre amis. On fait la pâte en
 **H2 : Une vraie pizza napolitaine, chez vous**
 Une pizza napolitaine, c'est une pâte qui a fermenté longtemps, un four très chaud et une cuisson d'environ 90 secondes. Je refais ça chez vous : dans votre salon, votre jardin ou la salle de votre événement. Pour l'initiation et la pizza party, j'apporte mon four.
 
-Je ne livre pas de pizza, je viens la faire sur place. Mes ateliers se font en petit groupe, 4 à 6 personnes au maximum. Chacun a sa place autour du plan de travail, on discute, on rigole, et on mange ensemble à la fin.
+Je ne livre pas de pizza, je viens la faire sur place. Mes ateliers se font en petit groupe, idéalement 4 à 6 personnes, jusqu'à 8 sur demande. Chacun a sa place autour du plan de travail, on discute, on rigole, et on mange ensemble à la fin.
 
 **H2 : Ce que je propose** (id : ateliers) : trois cartes
 1. **Bases de la pizza maison** : Une bonne pâte et de bonnes pizzas avec le four que vous avez déjà, entre amis. 2h à 2h30, 4 à 6 personnes. 59 € par personne. → /atelier-pizza-lyon
@@ -80,7 +80,7 @@ Dites-moi la date, le nombre de personnes et l'occasion. Si vous voulez quelque 
 
 **Encadré de faits**
 - Durée : 2h à 2h30
-- Participants : 4 à 6 personnes
+- Participants : 4 à 6 personnes (jusqu'à 8 sur demande)
 - Prix : 59 € par personne (minimum 4 personnes)
 - Lieu : chez vous, Lyon et 10 km autour
 - À avoir : un four domestique
@@ -115,13 +115,13 @@ Cet atelier est fait pour les amis et la famille : anniversaire, EVJF/EVG, ou to
 
 **Encadré de faits**
 - Durée : 2h30 à 3h
-- Participants : 4 à 6 personnes
+- Participants : 4 à 6 personnes (jusqu'à 8 sur demande)
 - Prix : 69 € par personne (minimum 4 personnes)
 - Lieu : chez vous, Lyon et 10 km autour
 - Matériel : j'apporte tout, y compris le four
 
 **Introduction**
-Faire une pizza napolitaine chez vous, avec un vrai four. J'apporte tout le matériel, dont un four électrique qui monte jusqu'à 500°C et cuit une pizza en 90 secondes environ. Si vous avez déjà un four, on peut aussi travailler avec le vôtre. Le groupe reste petit, 4 à 6 personnes, pour que chacun passe au four et que l'ambiance reste détendue.
+Faire une pizza napolitaine chez vous, avec un vrai four. J'apporte tout le matériel, dont un four électrique qui monte jusqu'à 500°C et cuit une pizza en 90 secondes environ. Si vous avez déjà un four, on peut aussi travailler avec le vôtre. Le groupe reste petit, idéalement 4 à 6 personnes, pour que chacun passe au four et que l'ambiance reste détendue.
 
 **H2 : Au programme**
 On fait toutes les étapes ensemble : le matériel et les farines, la pâte, le boulage, le geste d'étalage propre à la napolitaine, la garniture et la cuisson, une pizza après l'autre, et on goûte au fur et à mesure. Une pâte napolitaine a besoin d'environ 24 heures de fermentation. Pour que vous puissiez pratiquer tout de suite, je prépare des pâtons chez moi avec la même recette et je les apporte.
@@ -307,7 +307,7 @@ Je ne gère pas la vaisselle, elle reste de votre côté. Pour les boissons, c'e
 ### Nombre de personnes et durée
 
 **Combien de personnes pour un atelier pizza ?**
-De 4 à 6 personnes. Je garde les groupes petits exprès : chacun a sa place autour du plan de travail, on discute et on rigole, et je peux m'occuper de tout le monde. Vous êtes plus nombreux ? Écrivez-moi, on regarde ce qui est possible.
+Un atelier est facturé à partir de 4 personnes : à 2 ou 3, c'est possible, au prix de 4. L'idéal est de 4 à 6 personnes, et je peux aller jusqu'à 8. Je garde les groupes petits exprès : chacun a sa place autour du plan de travail, on discute et on rigole, et je peux m'occuper de tout le monde. Vous êtes plus nombreux ? Écrivez-moi, on regarde ce qui est possible.
 
 **Combien d'invités et combien de pizzas pour une pizza party ?**
 Je prépare entre 12 et 18 pizzas par heure, selon les recettes choisies. Seul, je peux servir des pizzas à environ 25 personnes. Jusqu'à 40 personnes, c'est possible en ajoutant des focaccias préparées à l'avance, sur devis. Au-delà, je ne pourrai pas vous servir seul.
