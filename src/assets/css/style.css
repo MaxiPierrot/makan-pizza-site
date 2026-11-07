@@ -115,6 +115,11 @@ p {
   max-width: 68ch;
 }
 
+/* Un élément masqué reste masqué, même si sa classe le met en grille ou en flex */
+[hidden] {
+  display: none !important;
+}
+
 .container {
   max-width: 1120px;
   margin: 0 auto;
@@ -2270,7 +2275,18 @@ textarea:focus-visible {
     align-self: start;
     position: sticky;
     top: calc(var(--nav-h) + 1.5rem);
+    max-height: calc(100vh - var(--nav-h) - 3rem);
+    overflow-y: auto;
   }
+}
+
+/* Règle formulaires : bandeau rouge bien visible si l'envoi échoue */
+.prep__send-error {
+  padding: 0.9rem 1.1rem;
+  border-radius: var(--radius);
+  background-color: #b3261e;
+  color: #fff;
+  font-weight: 600;
 }
 
 .prep__total {
