@@ -13,6 +13,8 @@ nofab: true
 ---
 {# Page envoyée en lien direct aux futurs pizzaïolos, ou remplie par Pierre pendant un appel. Non indexée.
    Prix, zone et tarif kilométrique : src/_data/prix.js. Calcul de distance : service public de la Géoplateforme (IGN), sans clé ni cookie. #}
+{# Sans JavaScript, personne ne peut déplier ces champs : on les montre tous. #}
+<noscript><style>#p-structure-row,#p-adresse-devis-row,#p-bases-row{display:grid!important}</style></noscript>
 <section class="section">
   <div class="container">
     <form class="form prep" id="prep" name="preparer-atelier" method="POST" action="/merci" data-netlify="true" netlify-honeypot="bot-field"
