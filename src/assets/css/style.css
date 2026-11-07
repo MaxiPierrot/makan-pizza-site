@@ -1901,10 +1901,6 @@ textarea:focus-visible {
   gap: 1.6rem;
 }
 
-.blog-strip__bar[hidden] {
-  display: none;
-}
-
 .blog-strip__progress {
   position: relative;
   flex: 1;

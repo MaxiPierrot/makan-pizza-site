@@ -21,7 +21,7 @@
   const API = 'https://data.geopf.fr';
 
   const $ = (id) => document.getElementById(id);
-  const eur = (n) => n.toLocaleString('fr-FR', { minimumFractionDigits: n % 1 ? 2 : 0, maximumFractionDigits: 2 }) + ' €';
+  const eur = (n) => n.toLocaleString('fr-FR', { minimumFractionDigits: n % 1 ? 2 : 0, maximumFractionDigits: 2 }) + '\u00a0€';
   const nbInput = $('p-nb');
   const lieu = $('p-lieu');
   const suggest = $('p-suggest');
@@ -63,7 +63,7 @@
       const pu = key === 'bases' ? P.bases : P.initiation;
       const factures = Math.max(n, P.min);
       base = factures * pu;
-      label = `${key === 'bases' ? 'Atelier Bases' : 'Initiation napolitaine'} · ${factures} × ${eur(pu)}`
+      label = `${key === 'bases' ? 'Atelier Bases' : 'Initiation napolitaine'} · ${factures}\u00a0×\u00a0${eur(pu)}`
         + (n < P.min ? ` (prix de ${P.min})` : '');
     } else if (key === 'pizza-party') {
       label = `Pizza party · ${n} personnes`;
