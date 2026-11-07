@@ -2255,6 +2255,24 @@ textarea:focus-visible {
   white-space: nowrap;
 }
 
+/* Ordinateur : le formulaire à gauche, l'estimation qui suit à droite */
+@media (min-width: 960px) {
+  .prep {
+    max-width: none;
+    grid-template-columns: minmax(0, 1fr) 21rem;
+    column-gap: 2.5rem;
+  }
+  .prep > * { grid-column: 1; }
+  /* shortcut: span 10 = nombre d'éléments de la colonne gauche ; à ajuster si on en ajoute beaucoup */
+  .prep > .prep__estimate {
+    grid-column: 2;
+    grid-row: 1 / span 10;
+    align-self: start;
+    position: sticky;
+    top: calc(var(--nav-h) + 1.5rem);
+  }
+}
+
 .prep__total {
   padding: 0.7rem 1rem;
   border-radius: 12px;
