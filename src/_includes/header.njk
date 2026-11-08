@@ -22,6 +22,7 @@
       {%- if collections.articles.length %}
       <li><a href="/blog"{% if path == "/blog" or (path and path.startsWith("/blog/")) %} aria-current="page"{% endif %}>Blog</a></li>
       {%- endif %}
+      <li><a href="/bon-cadeau"{% if path == "/bon-cadeau" %} aria-current="page"{% endif %}>Offrir</a></li>
       <li><a href="/contact"{% if path == "/contact" %} aria-current="page"{% endif %}>Contact</a></li>
       <li class="site-nav__cta-item"><a href="/contact" class="btn btn--primary">Demander un devis</a></li>
     </ul>

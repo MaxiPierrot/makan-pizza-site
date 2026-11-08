@@ -61,6 +61,16 @@ description: "Ateliers de pizza napolitaine et pizza party chez vous, à Lyon et
   </div>
 </section>
 
+{% if prix.noel %}
+<section class="section section--green section--center noel-band" aria-label="Bons cadeaux de Noël">
+  <div class="container">
+    <h2 class="section-title">Pour Noël, offrez un atelier pizza</h2>
+    <p>Un bon cadeau à imprimer ou à glisser sous le sapin, la date se choisit ensemble. Commandez avant le {{ prix.noelDateLimite }}.</p>
+    <p><a href="/bon-cadeau" class="btn btn--primary">Offrir un atelier</a></p>
+  </div>
+</section>
+{% endif %}
+
 <section class="section section--cream">
   <div class="container split">
     <h2 class="section__title">Une vraie pizza napolitaine, chez vous</h2>

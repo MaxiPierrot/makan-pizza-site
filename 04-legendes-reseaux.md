@@ -152,3 +152,111 @@ Lien dans la bio.
 - Je ne publie jamais à votre place. Vous publiez à la main, ou, plus tard, avec un outil de planification connecté à vos comptes, uniquement après votre validation de chaque légende.
 - Le flux RSS du site (`/feed.xml`) permet aux outils d'automatisation de reprendre les nouveaux articles. Il faudra relire chaque texte avant diffusion.
 - Les articles anniversaire et erreurs de débutant n'ont pas de légende tant qu'ils ne sont pas validés.
+
+---
+
+# Lancement du site et bons cadeaux de Noël (à valider par Pierre)
+
+Brouillons préparés le 9 nov. 2026. Rien n'est publié. Les passages entre crochets ne se publient pas : [FORMULE], [PRIX], [VALIDITÉ] et [DATE LIMITE] sont à remplacer une fois décidés.
+
+Lien de la page : https://makanpizza.com/bon-cadeau. À n'utiliser que si la page est en ligne sur le vrai domaine le jour de la publication (elle n'existe pas encore dans le site au 9 nov.). Sur Instagram, mettre ce lien dans la bio (Linktree) ou dans une story.
+
+---
+
+## 9. Lancement du site et des bons cadeaux (samedi 14 novembre 2026) : à valider par Pierre
+
+Lien : https://makanpizza.com/bon-cadeau
+Photo suggérée : `pizza-devant-four-exterieur`
+
+**Facebook**
+Le nouveau site de Makan Pizza est en ligne : https://makanpizza.com
+Vous y trouverez les ateliers, la pizza party, la carte et quelques articles pour ceux qui aiment comprendre ce qui se passe dans la pâte.
+Et pour Noël, une nouveauté : vous pouvez offrir un atelier pizza à domicile, à Lyon et alentours. Vous réglez par virement, je vous envoie le bon cadeau en PDF dès réception, et on choisit la date de l'atelier ensemble.
+[FORMULE], [PRIX], valable [VALIDITÉ]. Pour l'offrir à Noël, commandez avant le [DATE LIMITE].
+Tout est expliqué ici : https://makanpizza.com/bon-cadeau
+Une question ? Écrivez-moi sur WhatsApp au 06 99 17 18 38.
+Pizza napolitaine à domicile ou ailleurs...
+
+**Instagram**
+Nouveau site, et une idée pour Noël 🎁
+Le site Makan Pizza a fait peau neuve : ateliers, pizza party, carte et articles.
+Nouveauté : vous pouvez offrir un atelier pizza à domicile, à Lyon et alentours. Virement, bon cadeau envoyé en PDF, date choisie ensemble.
+[FORMULE], [PRIX]. Commande avant le [DATE LIMITE].
+Lien dans la bio.
+Pizza napolitaine à domicile ou ailleurs...
+#lyon #atelierpizza #ideecadeau #pizzanapolitaine #makanpizza
+
+---
+
+## 10. Publication fiche Google (à partir du 14 novembre 2026) : à valider par Pierre
+
+Type : Offre ou Nouveauté. Bouton : « En savoir plus » vers https://makanpizza.com/bon-cadeau
+Photo suggérée : `margherita-bord-gonfle` (la couverture de la fiche reste `pizza-devant-four-exterieur`)
+Pas de numéro de téléphone dans le texte : Google refuse souvent les publications qui en contiennent, le bouton et la fiche suffisent.
+
+**Google**
+Offrez un atelier pizza à domicile pour Noël
+Le nouveau site Makan Pizza est en ligne, et avec lui les bons cadeaux. Vous offrez un atelier de pizza napolitaine à domicile, à Lyon et alentours : on met les mains dans la pâte, on garnit et on cuit ensemble. Paiement par virement, bon cadeau envoyé en PDF dès réception, date de l'atelier choisie ensemble.
+[FORMULE], [PRIX], valable [VALIDITÉ]. Pour Noël, commande avant le [DATE LIMITE].
+
+---
+
+## 11. Messages personnels (14 novembre 2026) : à valider par Pierre
+
+Le « vous » est gardé dans les deux : il s'adresse à un groupe, et il sonne naturel même entre amis.
+
+**Groupe WhatsApp de la soirée de lancement**
+Bonjour à tous ! Merci encore d'être venus à la soirée de lancement, ça m'a fait très plaisir de vous avoir autour du four.
+Petite nouvelle : le nouveau site est en ligne, makanpizza.com. Si vous avez deux minutes, allez y faire un tour et dites-moi s'il y a quelque chose qui accroche ou qui manque.
+Et pour Noël, vous pouvez maintenant offrir un atelier pizza à domicile : https://makanpizza.com/bon-cadeau
+Si vous pensez à quelqu'un que ça ferait sourire, n'hésitez pas à faire passer. Merci à vous !
+
+**Facebook perso de Pierre**
+Les pizzas que je fais pour les amis sont devenues un vrai projet : Makan Pizza, des ateliers de pizza napolitaine à domicile autour de Lyon.
+Le nouveau site vient de sortir : https://makanpizza.com
+Et pour Noël, j'ai ajouté une idée cadeau : offrir un atelier pizza chez soi, à Lyon et alentours. Vous me faites un virement, je vous envoie le bon en PDF, et on cale la date ensemble.
+Tout est là : https://makanpizza.com/bon-cadeau
+Si vous pensez à quelqu'un, un partage me ferait plaisir. Merci !
+Photo suggérée : `deux-pizzas-plan-de-travail`
+
+---
+
+## 12. Relance « encore le temps de l'offrir » (lundi 1er décembre 2026) : à valider par Pierre
+
+Lien : https://makanpizza.com/bon-cadeau
+Photo suggérée : `margherita-planche`
+
+**Facebook**
+Décembre commence, et il est encore temps d'offrir un atelier pizza à domicile pour Noël.
+L'idée : un moment à passer ensemble autour de la pâte, chez la personne qui le reçoit, à Lyon et alentours. Vous réglez par virement, je vous envoie le bon cadeau en PDF, et la date de l'atelier se choisit ensemble ensuite.
+Commande avant le [DATE LIMITE]. Tout est expliqué ici : https://makanpizza.com/bon-cadeau
+Une question ? WhatsApp au 06 99 17 18 38.
+
+**Instagram**
+Encore le temps de l'offrir 🎄
+Un atelier pizza à domicile, à Lyon et alentours. Bon cadeau en PDF envoyé dès réception du virement, date choisie ensemble ensuite.
+Commande avant le [DATE LIMITE]. Lien dans la bio.
+#lyon #ideecadeau #cadeaunoel #atelierpizza #makanpizza
+
+---
+
+## 13. Dernier appel avant Noël (mardi 15 décembre 2026, avant le [DATE LIMITE]) : à valider par Pierre
+
+Lien : https://makanpizza.com/bon-cadeau
+Photo suggérée : `mortadella-pistache-table-soleil` (story : `pepperoni-sur-pelle`)
+
+**Facebook**
+Dernier rappel pour Noël : vous avez jusqu'au [DATE LIMITE] pour commander un bon cadeau atelier pizza.
+Le principe ne change pas : virement, bon envoyé en PDF dès réception, et la date de l'atelier se choisit ensemble ensuite. Pratique si vous vous y prenez tard : le bon s'imprime ou s'envoie par message.
+https://makanpizza.com/bon-cadeau
+Une question ? WhatsApp au 06 99 17 18 38.
+
+**Instagram**
+Dernier appel pour Noël ⏳
+Bon cadeau atelier pizza à domicile, à commander avant le [DATE LIMITE]. Le bon arrive en PDF, à imprimer ou à glisser dans un message.
+Lien dans la bio.
+#lyon #cadeaudernieresminute #ideecadeau #atelierpizza #makanpizza
+
+**Story Instagram (2 écrans)**
+Écran 1, sur la photo : « Une idée pour Noël ? Offrez un atelier pizza à domicile »
+Écran 2 : « Commande avant le [DATE LIMITE] » + sticker lien vers https://makanpizza.com/bon-cadeau, texte du sticker « Bon cadeau »

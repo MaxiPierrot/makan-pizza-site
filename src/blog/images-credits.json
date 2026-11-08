@@ -262,5 +262,41 @@
     "verifieLe": "2026-10-23",
     "largeur": 1600,
     "hauteur": 1067
+  },
+  "deux-pizzas-maison-plan-de-travail-bois": {
+    "source": "Makan Pizza",
+    "auteur": "Pierre",
+    "licence": "Photo de Makan Pizza",
+    "fichierSource": "photos/_pretes/deux-pizzas-blanche-champignons.jpg",
+    "verifieLe": "2026-11-09",
+    "largeur": 1600,
+    "hauteur": 900
+  },
+  "pizza-margherita-bord-gonfle-planche-bois": {
+    "source": "Makan Pizza",
+    "auteur": "Pierre",
+    "licence": "Photo de Makan Pizza",
+    "fichierSource": "photos/_pretes/margherita-planche.jpg",
+    "verifieLe": "2026-11-09",
+    "largeur": 1600,
+    "hauteur": 1270
+  },
+  "pizza-roquette-burrata-planche-bois": {
+    "source": "Makan Pizza",
+    "auteur": "Pierre",
+    "licence": "Photo de Makan Pizza",
+    "fichierSource": "photos/_pretes/roquette-burrata-planche-bois.jpg",
+    "verifieLe": "2026-11-09",
+    "largeur": 1600,
+    "hauteur": 1200
+  },
+  "pizzas-partagees-table-bois-exterieur": {
+    "source": "Makan Pizza",
+    "auteur": "Pierre",
+    "licence": "Photo de Makan Pizza",
+    "fichierSource": "photos/_pretes/mortadella-pistache-table-soleil.jpg",
+    "verifieLe": "2026-11-09",
+    "largeur": 1600,
+    "hauteur": 900
   }
 }

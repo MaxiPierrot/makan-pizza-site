@@ -658,9 +658,17 @@ textarea:focus-visible {
   color: var(--cream);
 }
 
-.section--green a {
+.section--green a,
+.section--green .section-title {
   color: var(--cream);
 }
+
+/* Bandeau de saison (Noël) : court, une phrase et un bouton */
+.noel-band {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+.noel-band .section-title { margin-bottom: 0.6rem; }
 
 .section--green a:hover {
   text-decoration-color: var(--cream);
@@ -2316,7 +2324,10 @@ textarea:focus-visible {
 .wa-link, .wa-btn { display: inline-flex; align-items: center; gap: 0.4em; }
 .wa-link .wa-icon, .wa-btn .wa-icon { width: 1.15em; height: 1.15em; flex: none; }
 .contact-card__reply { font-weight: 600; }
-@media print { .whatsapp-fab { display: none; } }
+@media print {
+  .whatsapp-fab, .site-nav, .footer, .breadcrumb, .no-print { display: none !important; }
+  .page-hero, .section { padding-top: 0.5rem; padding-bottom: 0.5rem; background: none; }
+}
 
 /* Tout ce qui mène à WhatsApp : logo et vert WhatsApp, format discret */
 .btn.wa-btn {

@@ -1,7 +1,7 @@
 ---
 titre: "T55, T65, 00, W : que veulent dire les chiffres sur un sac de farine ?"
 description: "T55, T65, 00 ou W : ce que mesurent vraiment les chiffres sur un sac de farine, et ce que dit le cahier des charges de la pizza napolitaine."
-date: 2027-01-08
+date: 2026-12-25
 validé: true
 sujet: farines
 offre: atelier
