@@ -1,7 +1,7 @@
 ---
 titre: "Une pizza party pour les fêtes de fin d'année à la maison"
 description: "Une pizza party chez vous pour les fêtes, entre amis ou en famille, autour de Lyon : comment l'organiser, combien de pizzas prévoir et ce qu'il faut préparer."
-date: 2026-12-11
+date: 2027-11-19
 validé: false
 sujet: fetes-fin-annee
 offre: pizza-party

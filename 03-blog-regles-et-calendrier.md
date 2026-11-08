@@ -40,7 +40,7 @@ Interdit : copier un texte existant, inventer une citation, une statistique, un 
 
 ## 5. Calendrier des 24 articles programmés (2 par mois, après les 4 du lancement)
 
-**Sprint de Noël (décidé le 9 nov. 2026) : un article par vendredi jusqu'au 1er janvier.** 20 nov. erreurs de débutant (à valider) · 27 nov. offrir un atelier à Noël (brouillon) · 4 déc. tomate et mozzarella · 11 déc. pizza party des fêtes (brouillon) · 18 déc. histoire de la napolitaine · 25 déc. les farines (avancé du 8 janv.) · 1er janv. 500 °C et 90 secondes (avancé du 22 janv.). Ensuite, retour à 2 articles par mois.
+**Sprint de Noël (décidé le 9 nov. 2026) : un article par vendredi jusqu'au 1er janvier.** 20 nov. erreurs de débutant (à valider) · 27 nov. offrir un atelier à Noël (brouillon) · 4 déc. tomate et mozzarella · 11 déc. ingrédients de saison (brouillon, écrit le 10 nov.) · 18 déc. histoire de la napolitaine · 25 déc. les farines (avancé du 8 janv.) · 1er janv. 500 °C et 90 secondes (avancé du 22 janv.). Ensuite, retour à 2 articles par mois. La pizza party des fêtes est repoussée au 19 nov. 2027 : Pierre n'est pas disponible pour les fêtes 2026.
 
 Mois 1 : Anniversaire entre amis à Lyon, idées d'activités à la maison · L'histoire de ma pizza signature, la Morta-Bella (article très personnel, à compléter par Pierre)
 Mois 2 : Les erreurs de débutant : pâte qui colle, qui ne lève pas, qui se déchire · Tomate et mozzarella : pourquoi du fior di latte sur une napolitaine

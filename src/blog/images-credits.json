@@ -298,5 +298,23 @@
     "verifieLe": "2026-11-09",
     "largeur": 1600,
     "hauteur": 900
+  },
+  "pizza-jambon-cru-tomates-cerises-copeaux-parmesan": {
+    "source": "Makan Pizza",
+    "auteur": "Pierre",
+    "licence": "Photo de Makan Pizza",
+    "fichierSource": "photos/_pretes/jambon-cru-copeaux-table.jpg",
+    "verifieLe": "2026-11-09",
+    "largeur": 1600,
+    "hauteur": 900
+  },
+  "pizza-mortadelle-burrata-roquette-pistache": {
+    "source": "Makan Pizza",
+    "auteur": "Pierre",
+    "licence": "Photo de Makan Pizza",
+    "fichierSource": "photos/_pretes/mortadella-burrata-roquette.jpg",
+    "verifieLe": "2026-11-09",
+    "largeur": 1600,
+    "hauteur": 1208
   }
 }
