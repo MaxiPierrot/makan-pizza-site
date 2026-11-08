@@ -30,7 +30,8 @@ module.exports = {
   acomptePct: 30,
   // Bons cadeaux (page /bon-cadeau, CGV, FAQ, bandeau de l'accueil). Valeurs à confirmer par Pierre (9 nov. 2026).
   bonValiditeMois: 12,
-  // Bandeau de Noël sur l'accueil et date limite de commande : mettre noel à false après Noël.
-  noel: true,
-  noelDateLimite: "22 décembre",
+  // Offre de Noël : bandeau de l'accueil et de /bon-cadeau jusqu'au 24 décembre inclus.
+  // Calculé à la construction du site : le bandeau disparaît à la reconstruction du 25 décembre (jour d'article).
+  noel: new Date() < new Date("2026-12-25T00:00:00+01:00"),
+  noelDateLimite: "24 décembre",
 };

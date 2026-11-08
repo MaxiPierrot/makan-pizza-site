@@ -51,13 +51,13 @@ const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').match
 // Formulaire de contact : préremplit « Type de demande » avec ?atelier=...
 const requestType = document.getElementById('atelier');
 
-if (requestType) {
+if (requestType) document.addEventListener('DOMContentLoaded', () => {
   const wanted = new URLSearchParams(window.location.search).get('atelier');
   const known = [...requestType.options].map((o) => o.value);
   if (wanted) {
     requestType.value = known.includes(wanted) ? wanted : 'autre';
   }
-}
+});
 
 // Bandeau d'articles : boutons précédent/suivant, barre de progression, glisser à la souris.
 // Sans JavaScript, le bandeau défile quand même (tactile, molette, clavier).

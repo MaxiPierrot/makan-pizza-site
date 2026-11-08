@@ -13,7 +13,7 @@ nofab: true
 {# Emplacement du widget de réservation (SimplyBook) : à ajouter ici quand il sera branché, puis adapter le texte d'introduction. #}
 <section class="section">
   <div class="container contact-grid">
-    <form class="form" name="contact" method="POST" action="/merci" data-netlify="true" netlify-honeypot="bot-field">
+    <form class="form" name="contact" method="POST" action="/merci" data-netlify="true" netlify-honeypot="bot-field" data-sauvegarde="contact-v1">
       <input type="hidden" name="form-name" value="contact">
       <p class="form__hp" aria-hidden="true"><label>Ne pas remplir <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
 
@@ -59,7 +59,10 @@ nofab: true
         <textarea id="message" name="message" rows="6" required aria-required="true"></textarea>
       </div>
       <p class="form__legend"><span class="req" aria-hidden="true">*</span> Champ obligatoire</p>
+      <div class="prep__send-error" role="alert" data-erreur hidden></div>
       <button type="submit" class="btn btn--primary">Envoyer ma demande</button>
+      <button type="button" class="btn btn--secondary" data-export>Exporter ma demande</button>
+      <p class="prep__hint">Écrivez directement sur cette page. Votre message est gardé sur cet appareil pendant que vous écrivez : si la page se recharge, il revient.</p>
     </form>
 
     <aside class="contact-card" aria-label="Coordonnées">
@@ -71,3 +74,4 @@ nofab: true
     </aside>
   </div>
 </section>
+<script src="/assets/js/form-sauvegarde.js" defer></script>

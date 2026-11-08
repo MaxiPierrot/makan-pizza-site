@@ -2359,3 +2359,11 @@ textarea:focus-visible {
 .avis-card__text { margin: 0; flex: 1; font-size: 1.05rem; line-height: 1.5; }
 .avis-card__who { margin: 0; font-weight: 600; }
 .avis-card__who span { font-weight: 400; color: var(--muted, #6b584b); }
+
+/* CGV : modèle de formulaire de rétractation, encadré pour le repérer et l'imprimer */
+.legal__form {
+  padding: 1rem 1.2rem;
+  border: 1.5px dashed var(--line);
+  border-radius: var(--radius);
+}
+.legal__form p { margin: 0.4rem 0; }

@@ -236,31 +236,11 @@
     if (!e.target.closest('.prep__address')) fermer();
   });
 
-  // ---- Réponses jamais perdues : copie locale, envoi avec nouvel essai, export, bandeau d'erreur ----
-  const KEY = 'makan-preparer-atelier-v1';
-  const errBox = $('p-error');
-  const skip = new Set(['form-name', 'bot-field']);
-
-  const lire = () => {
-    const out = {};
-    for (const [k, v] of new FormData(form)) if (!skip.has(k) && String(v) !== '') out[k] = String(v);
-    return out;
-  };
-  const sauver = () => { try { localStorage.setItem(KEY, JSON.stringify(lire())); } catch (e) { /* stockage refusé : l'export reste possible */ } };
-
-  try {
-    const saved = JSON.parse(localStorage.getItem(KEY) || '{}');
-    for (const [k, v] of Object.entries(saved)) {
-      for (const el of form.elements[k] instanceof RadioNodeList ? form.elements[k] : [form.elements[k]]) {
-        if (!el || el.type === 'hidden') continue;
-        if (el.type === 'radio' || el.type === 'checkbox') el.checked = el.value === v;
-        else el.value = v;
-      }
-    }
-  } catch (e) { /* copie illisible : on repart d'un formulaire vide */ }
+  // Copie locale, envoi avec nouvel essai, export et bandeau rouge : form-sauvegarde.js (chargé avant ce fichier).
+  // Le lien WhatsApp reprend les réponses principales à chaque saisie.
   const wa = $('p-wa');
   const majWhatsApp = () => {
-    const r = lire();
+    const r = Object.fromEntries(new FormData(form));
     const lignes = ["Bonjour, voici mon estimation depuis makanpizza.com :"];
     if (r.formule) lignes.push(`Formule : ${r.formule}`);
     if (r.nombre_de_personnes) lignes.push(`Personnes : ${r.nombre_de_personnes}`);
@@ -268,51 +248,8 @@
     if (r.estimation_totale) lignes.push(`Estimation : ${r.estimation_totale}`);
     wa.href = `${wa.href.split('?')[0]}?text=${encodeURIComponent(lignes.join('\n'))}`;
   };
-  const apresSaisie = () => { sauver(); majWhatsApp(); };
-  form.addEventListener('input', apresSaisie);
-  form.addEventListener('change', apresSaisie);
+  form.addEventListener('input', majWhatsApp);
+  form.addEventListener('change', majWhatsApp);
   update();
   majWhatsApp();
-
-  const afficherErreur = (msg) => { errBox.textContent = msg; errBox.hidden = false; };
-  const masquerErreur = () => { errBox.hidden = true; };
-
-  $('p-export').addEventListener('click', () => {
-    const lignes = Object.entries(lire()).map(([k, v]) => `${k} : ${v}`).join('\n');
-    const a = document.createElement('a');
-    a.href = URL.createObjectURL(new Blob([lignes], { type: 'text/plain;charset=utf-8' }));
-    a.download = 'preparer-mon-atelier-makan-pizza.txt';
-    a.click();
-    URL.revokeObjectURL(a.href);
-  });
-
-  let envoi = false;
-  async function envoyer() {
-    if (envoi) return;
-    envoi = true;
-    masquerErreur();
-    const body = new URLSearchParams(new FormData(form)).toString();
-    for (const attente of [0, 1500, 4000]) {
-      if (attente) await new Promise((r) => setTimeout(r, attente));
-      try {
-        const res = await fetch('/', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body });
-        if (res.ok) {
-          try { localStorage.removeItem(KEY); } catch (e) { /* sans importance */ }
-          window.location.href = '/merci';
-          return;
-        }
-      } catch (e) { /* réseau coupé : on réessaie */ }
-    }
-    envoi = false;
-    afficherErreur("Votre demande n'est PAS partie : le serveur ne répond pas. Vos réponses sont gardées sur cet appareil. Le bouton « Envoyer » réessaie, ou cliquez sur « Exporter mes réponses » et envoyez le fichier par WhatsApp ou e-mail à contact@makanpizza.com.");
-    window.addEventListener('online', envoyer, { once: true }); // nouvel essai automatique au retour du réseau
-  }
-
-  form.addEventListener('submit', (e) => {
-    if (!form.checkValidity()) return; // le navigateur affiche ses messages
-    e.preventDefault();
-    envoyer();
-  });
-  window.addEventListener('offline', () => afficherErreur("Vous n'êtes plus connecté : rien ne peut partir pour l'instant. Vos réponses restent gardées sur cet appareil."));
-  window.addEventListener('online', () => { if (errBox.textContent.startsWith('Vous')) masquerErreur(); });
 })();

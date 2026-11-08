@@ -17,7 +17,7 @@ nofab: true
 <noscript><style>#p-structure-row,#p-adresse-devis-row,#p-bases-row{display:grid!important}</style></noscript>
 <section class="section">
   <div class="container">
-    <form class="form prep" id="prep" name="preparer-atelier" method="POST" action="/merci" data-netlify="true" netlify-honeypot="bot-field"
+    <form class="form prep" id="prep" name="preparer-atelier" method="POST" action="/merci" data-netlify="true" netlify-honeypot="bot-field" data-sauvegarde="preparer-atelier-v1"
       data-bases="{{ prix.bases }}" data-initiation="{{ prix.initiation }}" data-party-min="{{ prix.partyMin }}"
       data-min="{{ prix.minPersonnes }}" data-max="{{ prix.maxPersonnes }}" data-max-possible="{{ prix.maxPossible }}"
       data-rayon="{{ prix.rayonKm }}" data-tarif-km="{{ prix.tarifKm }}" data-acompte="{{ prix.acomptePct }}"
@@ -220,11 +220,12 @@ nofab: true
       </fieldset>
 
       <p class="form__legend"><span class="req" aria-hidden="true">*</span> Champ obligatoire</p>
-      <div class="prep__send-error" id="p-error" role="alert" hidden></div>
+      <div class="prep__send-error" id="p-error" role="alert" data-erreur hidden></div>
       <button type="submit" class="btn btn--primary">Envoyer ma demande</button>
-      <button type="button" class="btn btn--secondary" id="p-export">Exporter mes réponses</button>
+      <button type="button" class="btn btn--secondary" id="p-export" data-export>Exporter mes réponses</button>
       <p class="prep__hint">Répondez directement sur cette page, sans la copier. Vos réponses sont gardées sur cet appareil pendant que vous écrivez : si la page se recharge, elles reviennent.</p>
     </form>
   </div>
 </section>
+<script src="/assets/js/form-sauvegarde.js" defer></script>
 <script src="/assets/js/preparer.js" defer></script>
