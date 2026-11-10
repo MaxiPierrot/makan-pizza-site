@@ -6,7 +6,7 @@ crumb: "Bon cadeau"
 title: "Offrir un atelier pizza à Lyon : bon cadeau | Makan Pizza"
 description: "Offrez un atelier de pizza napolitaine à domicile à Lyon. Un bon cadeau à imprimer ou à envoyer, la date se choisit ensemble. Dès {prix.basesGroupeMin} € pour 4 personnes."
 h1: "Offrir un atelier pizza à Lyon"
-lead: "Offrez un atelier à domicile à quelqu'un qui aime cuisiner, ou qui voudrait s'y mettre. Je viens chez la personne avec mon matériel, et on fait les pizzas ensemble, avec ses proches."
+lead: "Offrez un atelier à domicile à quelqu'un qui aime cuisiner, ou qui voudrait s'y mettre. Je me rends chez la personne avec mon matériel, et nous préparons les pizzas ensemble, avec ses proches."
 whatsappText: "Bonjour, je voudrais offrir un bon cadeau pour un atelier pizza."
 ---
 {# Prix, durée de validité, bandeau et date limite de Noël : src/_data/prix.js. Commande : formulaire de contact (?atelier=bon-cadeau) ou WhatsApp. Paiement par virement uniquement (décision du 9 nov. 2026). #}
@@ -14,7 +14,8 @@ whatsappText: "Bonjour, je voudrais offrir un bon cadeau pour un atelier pizza."
 <section class="section section--green section--center noel-band">
   <div class="container">
     <h2 class="section-title">Pour Noël</h2>
-    <p>Commandez avant le {{ prix.noelDateLimite }} : vous recevez le bon par email, prêt à imprimer ou à glisser sous le sapin.</p>
+    <p>Pour un atelier réservé ou offert jusqu'au {{ prix.noelDateLimite }}, l'atelier Bases de la pizza maison s'accompagne d'une pierre à pizza offerte à l'hôte, et l'initiation à la pizza napolitaine bénéficie d'une remise de {{ prix.noelRemiseInitiation }} %.</p>
+    <p>Le bon cadeau vous est envoyé par e-mail, prêt à être imprimé ou glissé sous le sapin.</p>
   </div>
 </section>
 {% endif %}
@@ -23,20 +24,20 @@ whatsappText: "Bonjour, je voudrais offrir un bon cadeau pour un atelier pizza."
   <div class="container">
     <h2 class="section-title">Ce que vous offrez</h2>
     <ul class="bon-offres">
-      <li><strong>Bases de la pizza maison</strong> : {{ prix.bases }} € par personne, avec le four de la maison. Pour 4 personnes : {{ prix.basesGroupeMin }} €.</li>
-      <li><strong>Initiation à la pizza napolitaine</strong> : {{ prix.initiation }} € par personne, avec mon four. Pour 4 personnes : {{ prix.initiationGroupeMin }} €.</li>
+      <li><strong>Bases de la pizza maison</strong> : {{ prix.bases }} € par personne, avec le four de la maison. Pour 4 personnes : {{ prix.basesGroupeMin }} €.{% if prix.noel %} Pour Noël, une pierre à pizza est offerte à l'hôte.{% endif %}</li>
+      <li><strong>Initiation à la pizza napolitaine</strong> : {{ prix.initiation }} € par personne, avec mon four. Pour 4 personnes : {{ prix.initiationGroupeMin }} €.{% if prix.noel %} Pour Noël, ce tarif bénéficie d'une remise de {{ prix.noelRemiseInitiation }} %.{% endif %}</li>
     </ul>
-    <p>Un atelier se fait à partir de {{ prix.minPersonnes }} personnes facturées, idéalement jusqu'à {{ prix.maxPersonnes }}. Vous choisissez l'atelier et le nombre de personnes. Vous préférez offrir un montant, ou une pizza party ? Écrivez-moi, on trouve la formule.</p>
+    <p>Un atelier réunit idéalement de {{ prix.minPersonnes }} à {{ prix.maxPersonnes }} personnes et peut en accueillir jusqu'à {{ prix.maxPossible }} ; il est facturé à partir de {{ prix.minPersonnes }} personnes. Vous choisissez l'atelier et le nombre de personnes. Si vous préférez offrir un montant ou une pizza party, écrivez-moi et nous trouverons ensemble la formule qui convient.</p>
   </div>
 </section>
 
 <section class="section section--cream">
   <div class="container">
-    <h2 class="section-title">Comment ça se passe</h2>
+    <h2 class="section-title">Comment se passe la commande</h2>
     <ol class="steps">
-      <li><p>Vous me dites l'atelier, le nombre de personnes et le prénom de la personne à qui vous l'offrez, par le formulaire ou sur WhatsApp.</p></li>
+      <li><p>Vous m'indiquez l'atelier choisi, le nombre de personnes et le prénom de la personne à qui vous l'offrez, par le formulaire ou sur WhatsApp.</p></li>
       <li><p>Vous réglez par virement. Dès réception, je vous envoie le bon cadeau en PDF, à imprimer ou à transférer.</p></li>
-      <li><p>La personne invitée me contacte et on choisit la date ensemble. Le bon est valable {{ prix.bonValiditeMois }} mois.</p></li>
+      <li><p>La personne invitée me contacte et nous choisissons la date ensemble. Le bon est valable {{ prix.bonValiditeMois }} mois.</p></li>
     </ol>
     <p class="date-cta__actions">
       <a href="/contact?atelier=bon-cadeau" class="btn btn--primary">Commander un bon cadeau</a>
@@ -48,6 +49,6 @@ whatsappText: "Bonjour, je voudrais offrir un bon cadeau pour un atelier pizza."
 <section class="section">
   <div class="container legal">
     <h2 class="section-title">Bon à savoir</h2>
-    <p>L'atelier a lieu chez la personne invitée, à Lyon et dans les {{ prix.rayonKm }} km autour. Plus loin, c'est possible, avec des frais de déplacement que je vous indique avant la commande. La date se choisit selon mes disponibilités. Vous pouvez changer d'avis pendant 14 jours après l'achat ; ensuite, le bon n'est plus remboursable, mais il peut être offert à quelqu'un d'autre. Détails dans les <a href="/cgv">conditions générales</a>.</p>
+    <p>L'atelier a lieu chez la personne invitée, à Lyon et dans les {{ prix.rayonKm }} km autour. Au-delà, je peux me déplacer moyennant des frais de déplacement, que je vous indique avant la commande. La date se choisit selon mes disponibilités. Vous pouvez changer d'avis pendant 14 jours après l'achat ; ensuite, le bon n'est plus remboursable, mais il peut être offert à quelqu'un d'autre. Vous trouverez le détail dans les <a href="/cgv">conditions générales</a>.</p>
   </div>
 </section>

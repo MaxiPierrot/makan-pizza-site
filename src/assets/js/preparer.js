@@ -50,8 +50,8 @@
       hint.hidden = false;
       hint.classList.toggle('prep__hint--warn', n > P.maxPossible);
       hint.textContent = n > P.maxPossible
-        ? `Au-delà de ${P.maxPossible} personnes, une pizza party convient mieux qu'un atelier : on en parle.`
-        : `Un atelier se fait à partir de ${P.min} personnes facturées : à 2 ou 3, c'est possible, au prix de ${P.min}. Idéal jusqu'à ${P.max}, possible jusqu'à ${P.maxPossible}.`;
+        ? `Au-delà de ${P.maxPossible} personnes, une pizza party convient mieux qu'un atelier ; nous pourrons en parler ensemble.`
+        : `Un atelier est facturé à partir de ${P.min} personnes. Il reste possible à 2 ou 3, au tarif de ${P.min} personnes. L'idéal est de ne pas dépasser ${P.max} personnes, et l'atelier peut en accueillir jusqu'à ${P.maxPossible}.`;
     } else {
       hint.hidden = true;
     }
@@ -144,8 +144,8 @@
     trajet = { km, frais: fraisPour(km), approx };
     const kmTxt = `${approx ? 'environ ' : ''}${Math.round(km)} km par la route depuis Lyon 9e`;
     kmLine.textContent = trajet.frais === 0
-      ? `${label} : ${kmTxt}. Déplacement inclus.`
-      : `${label} : ${kmTxt}. Au-delà des ${P.rayon} km inclus, ${Math.round(km - P.rayon)} km × 2 (aller et retour) à ${eur(P.tarifKm)} le km, soit ${eur(trajet.frais)}, plus péages éventuels.`;
+      ? `${label} : ${kmTxt}. Le déplacement est inclus.`
+      : `${label} : ${kmTxt}. Au-delà des ${P.rayon} km inclus, ${Math.round(km - P.rayon)} km × 2 (aller et retour) à ${eur(P.tarifKm)} le km, soit ${eur(trajet.frais)}, hors péages éventuels.`;
     update();
   }
 
@@ -161,7 +161,7 @@
   lieu.addEventListener('input', () => {
     trajet = null;
     update();
-    kmLine.textContent = `Le déplacement est inclus jusqu'à ${P.rayon} km de Lyon 9e. Au-delà, je l'ajoute au devis.`;
+    kmLine.textContent = `Le déplacement est inclus jusqu'à ${P.rayon} km de Lyon 9e. Au-delà, ses frais figurent sur le devis.`;
     clearTimeout(timer);
     const q = lieu.value.trim();
     if (q.length < 4) { fermer(); return; }
@@ -213,7 +213,7 @@
         calculer(lon, lat, f.properties.label);
       } catch (e) {
         kmLine.classList.add('prep__hint--warn');
-        kmLine.textContent = "Je n'ai pas reconnu cette adresse. Pas grave : je calcule le déplacement pour le devis.";
+        kmLine.textContent = "Je n'ai pas reconnu cette adresse ; je calculerai moi-même le déplacement pour le devis.";
       }
     }, 300);
   });

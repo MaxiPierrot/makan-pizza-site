@@ -25,87 +25,87 @@ sources:
     note: "Calendrier mois par mois des fruits, légumes et poissons de saison."
 questions:
   - q: "Peut-on mettre des légumes crus sur une pizza ?"
-    a: "Certains, oui, s'ils sont coupés fin et ne rendent pas trop d'eau. Les légumes qui contiennent beaucoup d'eau ou qui cuisent lentement, comme les champignons, le poireau ou la courge, se précuisent avant de garnir."
+    a: "Certains, oui, à condition qu'ils soient coupés finement et ne rendent pas trop d'eau. Ceux qui en contiennent beaucoup ou qui cuisent lentement, comme les champignons, le poireau ou la courge, sont à précuire avant de garnir la pizza."
   - q: "Combien de garnitures mettre sur une pizza ?"
-    a: "Peu. Trois ou quatre ingrédients en plus de la base suffisent en général. Au-delà, les goûts se mélangent et la pâte a du mal à cuire au centre."
+    a: "Il vaut mieux en mettre peu, car trois ou quatre ingrédients en plus de la base suffisent en général. Au-delà, les goûts se mélangent et la pâte a du mal à cuire au centre."
   - q: "Quels ingrédients ajouter après la cuisson ?"
-    a: "Ceux qui craignent la chaleur : la charcuterie fine, la roquette, la burrata ou la stracciatella, les copeaux de fromage, un filet de miel, quelques noix."
+    a: "On ajoute après la cuisson les ingrédients qui craignent la chaleur, comme la charcuterie fine, la roquette, la burrata ou la stracciatella, les copeaux de fromage, un filet de miel ou quelques noix."
   - q: "Faites-vous des pizzas sans allergènes ?"
-    a: "Non, je ne peux pas le promettre : la pâte contient du gluten, et la cuisine où je travaille voit passer du lait, des fruits à coque et d'autres allergènes. Dites-moi les allergies dès la demande, on en parle avant de réserver."
+    a: "Non, je ne peux pas le promettre, car la pâte contient du gluten et la cuisine où je travaille voit passer du lait, des fruits à coque et d'autres allergènes. Je vous invite donc à me signaler les allergies dès votre demande, afin que nous en parlions avant de réserver."
 related:
   - { label: "La carte des pizzas", href: "/carte" }
   - { label: "Initiation à la pizza napolitaine", href: "/atelier-pizza-napolitaine-lyon" }
   - { label: "Pizza party à domicile", href: "/pizza-party-domicile-lyon" }
 ---
-Une bonne garniture de pizza tient à trois choses : des ingrédients de saison, pas trop nombreux, et posés au bon moment. En hiver, on oublie la tomate fraîche et on se tourne vers les champignons, le poireau, la courge, les fromages qui fondent et la charcuterie. Le reste de l'année, on suit le marché. Voici comment je choisis, saison par saison, avec les pizzas de ma carte comme exemples.
+Une bonne garniture de pizza tient à trois choses : des ingrédients de saison, en petit nombre, et posés au bon moment. En hiver, on laisse de côté la tomate fraîche pour se tourner vers les champignons, le poireau, la courge, les fromages qui fondent et la charcuterie, tandis que le reste de l'année, on suit le marché. Je vous explique ici comment je choisis mes garnitures selon les saisons, en prenant pour exemples les pizzas de ma carte.
 
 ## Pourquoi faire simple ?
 
-Sur une pizza napolitaine, la pâte cuit très vite, en 90 secondes environ dans un four à 500°C. Elle n'a pas le temps de sécher une garniture trop épaisse ou trop humide. Plus on charge, plus le centre reste mou.
+Sur une pizza napolitaine, la pâte cuit très vite, en 90 secondes environ dans un four à 500°C, si bien qu'elle n'a pas le temps de sécher une garniture trop épaisse ou trop humide. Plus on la charge, plus le centre reste mou.
 
-Faire simple, ce n'est pas faire pauvre. C'est choisir trois ou quatre ingrédients qui vont ensemble et les laisser se goûter. Une pizza avec cinq légumes, deux charcuteries et trois fromages ressemble vite à un fond de frigo.
+Faire simple ne veut pas dire faire pauvre. Il s'agit de choisir trois ou quatre ingrédients qui vont bien ensemble et de laisser chacun d'eux se goûter, alors qu'une pizza qui réunit cinq légumes, deux charcuteries et trois fromages ressemble vite à un fond de réfrigérateur.
 
-Pour la base, je ne change rien d'une saison à l'autre : une bonne farine, une bonne tomate, une mozzarella fior di latte. Je ne les revois jamais à la baisse. J'en parle en détail dans l'article [tomate et mozzarella](/blog/tomate-mozzarella-fior-di-latte-pizza-napolitaine). Ici, on parle de ce qu'on met par dessus.
+Pour la base, je ne change rien d'une saison à l'autre : une bonne farine, une bonne tomate et une mozzarella fior di latte, que je ne revois jamais à la baisse. J'en parle en détail dans l'article [tomate et mozzarella](/blog/tomate-mozzarella-fior-di-latte-pizza-napolitaine), et il sera donc question ici de ce que l'on met par-dessus.
 
 ## Comment choisir au marché ?
 
-Quelques réflexes qui servent toute l'année :
+Quelques réflexes me servent toute l'année.
 
-- **Regarder ce qui est de saison.** Un légume de saison a souvent plus de goût, et il coûte en général moins cher. Le calendrier de saison du site Manger Bouger, géré par Santé publique France, donne la liste mois par mois.
-- **Acheter peu, mais bon.** Sur une pizza, on met de petites quantités. Autant prendre un bon fromage ou une bonne charcuterie et en mettre moins.
-- **Penser à l'eau.** Un ingrédient qui rend beaucoup d'eau à la cuisson détrempe la pâte. Il faudra le précuire, l'égoutter ou le poser après la cuisson.
-- **Goûter avant.** Un fromage trop salé, une charcuterie trop forte : mieux vaut le savoir avant de garnir.
+- **Regarder ce qui est de saison.** Un légume de saison a souvent plus de goût et coûte en général moins cher. Le calendrier de saison du site Manger Bouger, géré par Santé publique France, en donne la liste mois par mois.
+- **Acheter peu, mais bon.** Comme on met de petites quantités sur une pizza, autant choisir un bon fromage ou une bonne charcuterie et en mettre moins.
+- **Penser à l'eau.** Un ingrédient qui rend beaucoup d'eau à la cuisson détrempe la pâte ; il faut alors le précuire, l'égoutter ou le poser après la cuisson.
+- **Goûter avant.** Lorsqu'un fromage est trop salé ou qu'une charcuterie est trop forte, mieux vaut le savoir avant de garnir.
 
 [À COMPLÉTER PAR PIERRE : ton marché ou tes habitudes d'achat (où tu vas, ce que tu regardes en premier, sans nom de commerce si tu préfères)]
 
 ## Qu'est-ce qui est de saison en hiver ?
 
-Pour décembre, le calendrier de Manger Bouger cite par exemple le poireau, la courge et le potimarron, l'épinard, l'endive, l'oignon, et des champignons comme la pleurote ou le cèpe. Côté fruits, on y trouve la poire.
+Pour décembre, le calendrier de Manger Bouger cite par exemple le poireau, la courge et le potimarron, l'épinard, l'endive, l'oignon, ainsi que des champignons comme la pleurote ou le cèpe. Du côté des fruits, on y trouve la poire.
 
-La tomate fraîche n'y est pas. C'est normal : en hiver, on ne met pas de tomates fraîches sur une pizza, ou alors elles n'ont pas de goût. La base tomate se fait avec des tomates pelées en conserve, comme toute l'année d'ailleurs.
+La tomate fraîche n'y figure pas, ce qui est logique : en hiver, elle manque de goût, et on n'en met donc pas sur une pizza. La base tomate se fait d'ailleurs avec des tomates pelées en conserve, comme le reste de l'année.
 
-### Ce que ça donne sur une pizza
+### Ce que cela donne sur une pizza
 
-- **Les champignons.** Sautés à la poêle avant de garnir, pour qu'ils perdent leur eau. C'est ce que je fais pour la Reine de [ma carte](/carte) : base tomate, jambon, champignons de Paris sautés, mozzarella fior di latte.
-- **L'oignon.** Confit doucement, il devient sucré et fondant. Il est dans ma Savoyarde, avec des pommes de terre, de la poitrine fumée et du reblochon, sur une base blanche. Une pizza qui tient chaud.
-- **Le poireau.** Fondu à la poêle avec un peu de beurre ou d'huile, il va bien sur une base blanche, avec un fromage qui a du caractère.
-- **La courge.** En fines tranches précuites ou en purée sur une base blanche, avec un peu de sauge ou de noix.
-- **La poire.** En tranches fines, avec un fromage bleu comme le gorgonzola. Le gorgonzola est déjà dans ma 4 Fromages, avec la ricotta, le Parmigiano Reggiano et le fior di latte.
+- **Les champignons.** Je les fais sauter à la poêle avant de garnir, pour qu'ils perdent leur eau ; c'est le cas pour la Reine de [ma carte](/carte), qui associe une base tomate, du jambon, des champignons de Paris sautés et de la mozzarella fior di latte.
+- **L'oignon.** Confit doucement, il devient sucré et fondant. On le retrouve dans ma Savoyarde, avec des pommes de terre, de la poitrine fumée et du reblochon sur une base blanche ; c'est une pizza qui convient bien aux soirées froides.
+- **Le poireau.** Fondu à la poêle avec un peu de beurre ou d'huile, il se marie bien avec une base blanche et un fromage qui a du caractère.
+- **La courge.** On peut la poser en fines tranches précuites ou en purée sur une base blanche, avec un peu de sauge ou de noix.
+- **La poire.** Coupée en tranches fines, elle s'accorde avec un fromage bleu comme le gorgonzola, que l'on trouve déjà dans ma 4 Fromages avec la ricotta, le Parmigiano Reggiano et le fior di latte.
 
 {% blogphoto "pizza-mortadelle-burrata-roquette-pistache" %}
 
-L'hiver, c'est aussi la saison des fromages qui fondent et de la charcuterie. Ma Chèvre-miel (base blanche, fior di latte, chèvre frais, puis miel et noix après la cuisson) et ma Carbonara (pecorino, guanciale, puis poivre et jaune d'œuf après la cuisson) vont bien avec le froid.
+L'hiver est aussi la saison des fromages qui fondent et de la charcuterie. Ma Chèvre-miel (base blanche, fior di latte, chèvre frais, puis miel et noix après la cuisson) et ma Carbonara (pecorino, guanciale, puis poivre et jaune d'œuf après la cuisson) se prêtent bien au froid.
 
 [À COMPLÉTER PAR PIERRE : une pizza d'hiver que tu aimes faire, de ta carte ou non, et pourquoi]
 
 ## Et le reste de l'année ?
 
-Le principe ne change pas, seul le marché change.
+Le principe reste le même ; seul le marché change.
 
-- **Au printemps**, les légumes verts arrivent : asperges, petits pois, jeunes épinards. Sur une base blanche, avec un peu de citron ou de ricotta, ils restent légers.
-- **En été**, c'est la saison des tomates fraîches, des courgettes, des aubergines et des poivrons. C'est le moment des tomates cerises et du basilic en quantité. Ma Parma, avec ses tomates cerises, sa roquette et son jambon de Parme posés après la cuisson, est une pizza d'été.
-- **En automne**, les champignons et les courges reviennent, et on glisse doucement vers les recettes d'hiver.
+- **Au printemps**, les légumes verts arrivent, comme les asperges, les petits pois et les jeunes épinards. Sur une base blanche, avec un peu de citron ou de ricotta, ils restent légers.
+- **En été**, c'est la saison des tomates fraîches, des courgettes, des aubergines et des poivrons, et donc le moment de mettre des tomates cerises et du basilic en quantité. Ma Parma, avec ses tomates cerises, sa roquette et son jambon de Parme posés après la cuisson, est une pizza d'été.
+- **En automne**, les champignons et les courges reviennent, et l'on glisse doucement vers les recettes d'hiver.
 
 [À COMPLÉTER PAR PIERRE : est-ce que tu adaptes certaines pizzas de ta carte selon la saison (la Parma en hiver, par exemple) ? Si oui, comment]
 
 ## Avant ou après la cuisson ?
 
-Cette question compte autant que le choix des ingrédients.
+Cette question compte autant que le choix des ingrédients eux-mêmes.
 
-**Avant la cuisson**, on met ce qui doit cuire ou fondre : la base, la mozzarella, les légumes précuits, la poitrine fumée, la scamorza. Tout ce qui doit cuire longtemps est précuit avant : les champignons, les pommes de terre, les oignons. Le poulet, quand il y en a, est toujours précuit. En 90 secondes, il n'aurait pas le temps de cuire à cœur.
+**Avant la cuisson**, on dépose ce qui doit cuire ou fondre, c'est-à-dire la base, la mozzarella, les légumes précuits, la poitrine fumée ou la scamorza. Ce qui demande une longue cuisson est précuit au préalable, comme les champignons, les pommes de terre ou les oignons. Quant au poulet, quand il y en a, il est toujours précuit, car il n'aurait pas le temps de cuire à cœur en 90 secondes.
 
-**Après la cuisson**, on met ce que la chaleur abîmerait : la charcuterie fine comme le jambon cru ou la mortadelle, qui sèche et se racornit au four, la roquette, la burrata ou la stracciatella, les copeaux de fromage, le miel, les noix, les pistaches. C'est le cas de ma pizza signature, la Morta-Bella : base ricotta au pesto de pistache et scamorza fumée au four, puis mortadelle, pistache, basilic et stracciatella à la sortie.
+**Après la cuisson**, on ajoute ce que la chaleur abîmerait : la charcuterie fine comme le jambon cru ou la mortadelle, qui sèche et se racornit au four, la roquette, la burrata ou la stracciatella, les copeaux de fromage, le miel, les noix et les pistaches. C'est le cas de ma pizza signature, la Morta-Bella, dont la base ricotta au pesto de pistache et la scamorza fumée passent au four, tandis que la mortadelle, la pistache, le basilic et la stracciatella sont ajoutés à la sortie.
 
 ## Quelques erreurs à éviter
 
-- **Trop de garniture.** C'est la plus facile à faire. Le centre ne cuit pas et la pizza se plie en deux sous le poids.
-- **Des légumes crus qui rendent de l'eau.** Champignons, courgettes, épinards : précuisez-les et égouttez-les.
-- **Des tranches trop épaisses.** Coupez fin, pour que tout cuise en même temps que la pâte.
+- **Trop de garniture.** C'est l'erreur la plus facile à commettre, et elle empêche le centre de cuire, si bien que la pizza se plie en deux sous le poids.
+- **Des légumes crus qui rendent de l'eau.** Pensez à précuire puis à égoutter les champignons, les courgettes ou les épinards.
+- **Des tranches trop épaisses.** Coupez finement, afin que tout cuise en même temps que la pâte.
 
 ## Et les allergies ?
 
-Une pizza contient du gluten, et beaucoup de garnitures contiennent du lait, des fruits à coque (noix, pistaches), de l'œuf. Je ne promets jamais une pizza sans allergène. Si vous ou vos invités avez une allergie, dites-le-moi dès la demande : on regarde ensemble ce qui est possible, et pour une allergie sévère, on en parle avant de réserver.
+Une pizza contient du gluten, et beaucoup de garnitures contiennent du lait, des fruits à coque (noix, pistaches) ou de l'œuf. C'est pourquoi je ne promets jamais une pizza sans allergène. Si vous ou vos invités avez une allergie, signalez-la-moi dès votre demande afin que nous regardions ensemble ce qui est possible ; en cas d'allergie sévère, nous en parlerons avant de réserver.
 
 ## Pour aller plus loin
 
-Le plus simple pour comprendre l'effet d'une garniture, c'est de la poser soi-même et de goûter. Dans l'[atelier Bases](/atelier-pizza-lyon), les ingrédients prévus sont ceux de la margherita, et je vous conseille si vous voulez en ajouter d'autres. Dans l'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon), on va plus loin sur la pâte et la cuisson. Et si vous préférez qu'on s'occupe de tout, une [pizza party à domicile](/pizza-party-domicile-lyon) permet de choisir les pizzas dans la carte, y compris celles d'hiver.
+Pour comprendre l'effet d'une garniture, le plus parlant reste de la poser soi-même et de goûter. Dans l'[atelier Bases](/atelier-pizza-lyon), les ingrédients prévus sont ceux de la margherita, et je vous guide si vous souhaitez en ajouter d'autres. L'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon) permet d'aller plus loin sur la pâte et la cuisson. Enfin, si vous préférez que je m'occupe de tout, une [pizza party à domicile](/pizza-party-domicile-lyon) vous laisse choisir les pizzas dans la carte, y compris celles d'hiver.

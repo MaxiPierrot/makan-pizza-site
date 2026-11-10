@@ -27,6 +27,18 @@ Structure : titre qui dit ce que le lecteur va apprendre ; introduction de 3 à 
 
 Style : celui de Pierre. Simple, direct, "je" pour lui, "vous" pour le lecteur, sans superlatifs. Aucun tiret long (—) ni demi-cadratin (–). Pas de phrases creuses ("dans cet article, nous allons découvrir"), pas de séries de trois adjectifs, pas de conclusion qui répète l'introduction. Garder les guillemets droits.
 
+Relecture de Morgane (rédaction et enseignement du français, ses remarques font autorité ; chaque règle s'applique à tous les articles, validés compris, et aux suivants) :
+
+1. (9 nov. 2026) Ton cordial et sympathique, mais rédigé, pas oral. Exemples refusés : « Vous êtes plus de 6 ? Écrivez-moi. » ; « Il est facturé à partir de 4 personnes : à 2 ou 3, c'est possible, au prix de 4. » ; « Pour vous donner un ordre d'idée, pour un groupe de 5 personnes, cela fait 295 € » (corrigé : « À titre indicatif, l'atelier Bases revient à 295 € pour un groupe de 5 personnes »). Bannir « cela fait », « ça fait », « pour vous donner une idée » et les tournures parlées du même genre Éviter : les questions rhétoriques suivies d'une réponse sèche, les phrases nominales en rafale (« Pas de salle, pas de trajet : »), le registre familier (« on rigole », « c'est parti », « franchement »). Ponctuation soignée : pas d'enchaînement de deux-points, pas de phrases hachées ; relier les idées par de vraies phrases (subordonnées, connecteurs). Les intertitres en questions restent possibles.
+
+2. (9 nov. 2026) Ne pas infantiliser le lecteur. Exemple refusé : « Un atelier est aussi une activité où chacun fait quelque chose. » Éviter d'expliquer l'évidence, les définitions simplistes, les tournures pédagogiques appuyées (« on ne reste pas assis à attendre », « pas de panique », « rassurez-vous », « c'est tout simple »). Écrire pour un adulte qui choisit une activité : dire concrètement ce qui se passe et ce que cela apporte.
+
+3. (9 nov. 2026) Chaque phrase doit être logique, syntaxiquement et sémantiquement. Exemple refusé : « On regarde ce qui est possible, et la pizza party est une autre formule, » (deux idées sans lien, collées par « et » ou une virgule). Ne relier deux propositions que si un lien réel existe (cause, conséquence, opposition, but) et l'exprimer par le bon connecteur ; sinon, faire deux phrases. Relire chaque phrase en se demandant si un lecteur exigeant comprend du premier coup pourquoi ses parties vont ensemble.
+
+4. (9 nov. 2026) Syntaxe correcte, sans approximation. Exemple refusé : « cuire dans un four proche de ceux d'une pizzeria » (pronom au pluriel pour un nom au singulier, comparaison bancale) ; corrigé : « cuire leurs pizzas dans un four comparable à celui d'une pizzeria ». Vérifier l'accord des pronoms (celui, ceux, celle) avec ce qu'ils remplacent, les comparaisons complètes, les compléments du bon verbe.
+
+5. (9 nov. 2026) Employer le mot juste, professionnel, plutôt qu'une approximation parlée. Exemple : « pour vous proposer un prix » devient « pour vous proposer un devis ».
+
 Technique : une page par article (`/blog/titre-de-l-article`), un seul H1, title et meta description uniques, balisage `Article` (auteur Pierre, date de publication, date de mise à jour), balisage `FAQPage` quand il y a une FAQ, `BreadcrumbList`, 2 ou 3 liens internes vers des pages du site (offres, carte, FAQ) et des liens vers les sources externes, ajout au sitemap, page `/blog` qui liste les articles du plus récent au plus ancien.
 
 Interdit : copier un texte existant, inventer une citation, une statistique, un témoignage ou un avis, publier des articles quasi identiques, répéter des mots-clés artificiellement, mentionner d'autres marques en les recommandant, promettre "sans gluten" ou "sans allergène".

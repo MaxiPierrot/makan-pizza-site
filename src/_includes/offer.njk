@@ -35,6 +35,7 @@ layout: base.njk
   <div class="container">
     <h2 class="tarif__title">{{ tarifTitle }}</h2>
     <p class="tarif__text{% if tarifLong %} tarif__text--body{% endif %}">{{ tarifText | prixTokens }}</p>
+    {% if prix.noel and noelText %}<p class="tarif__text tarif__text--body">{{ noelText | prixTokens }}</p>{% endif %}
     {% if tarifNote %}<p class="tarif__note">{{ site.priceNote }}</p>{% endif %}
     <p class="tarif__actions">
       <a href="{{ ctaHref }}" class="btn btn--primary">{{ ctaLabel }}</a>

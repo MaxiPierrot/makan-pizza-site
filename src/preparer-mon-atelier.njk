@@ -6,9 +6,9 @@ crumb: "Préparer mon atelier"
 noindex: true
 sitemap: false
 title: "Préparer mon atelier pizza | Makan Pizza"
-description: "Quelques questions pour préparer votre atelier pizza ou votre pizza party à domicile, avec une estimation du prix et du déplacement."
+description: "Répondez à quelques questions pour préparer votre atelier pizza ou votre pizza party à domicile, et obtenez une estimation du tarif et du déplacement."
 h1: "Préparons votre atelier"
-lead: "Quelques questions pour que je vous prépare un devis juste, sans aller-retour. Comptez cinq minutes. Ce qui n'est pas encore décidé peut rester vide."
+lead: "Ces quelques questions me permettent de vous préparer un devis juste, sans allers-retours. Comptez environ cinq minutes. Vous pouvez laisser vides les champs qui ne sont pas encore décidés."
 nofab: true
 ---
 {# Page envoyée en lien direct aux futurs pizzaïolos, ou remplie par Pierre pendant un appel. Non indexée.
@@ -57,7 +57,7 @@ nofab: true
           <label class="prep__choice"><input type="radio" name="formule" value="Atelier Bases" data-key="bases"><span><strong>Atelier Bases</strong><small>{{ prix.bases }} € par personne, avec votre four</small></span></label>
           <label class="prep__choice"><input type="radio" name="formule" value="Initiation napolitaine" data-key="initiation" checked><span><strong>Initiation napolitaine</strong><small>{{ prix.initiation }} € par personne, avec mon four</small></span></label>
           <label class="prep__choice"><input type="radio" name="formule" value="Pizza party" data-key="pizza-party"><span><strong>Pizza party</strong><small>sur devis, à partir de {{ prix.partyMin }} €</small></span></label>
-          <label class="prep__choice"><input type="radio" name="formule" value="Autre envie" data-key="autre"><span><strong>Autre envie</strong><small>sur mesure, on en parle</small></span></label>
+          <label class="prep__choice"><input type="radio" name="formule" value="Autre envie" data-key="autre"><span><strong>Autre envie</strong><small>sur mesure, à définir ensemble</small></span></label>
         </div>
         <div class="form__cols prep__cols">
           <div class="form__row">
@@ -76,7 +76,7 @@ nofab: true
             <input type="number" id="p-nb" name="nombre_de_personnes" min="1" max="40" value="4" inputmode="numeric">
             <button type="button" class="prep__step" data-step="1" aria-label="Une personne de plus">+</button>
           </div>
-          <p class="prep__hint" id="p-nb-hint">Un atelier se fait à partir de {{ prix.minPersonnes }} personnes facturées : à 2 ou 3, c'est possible, au prix de {{ prix.minPersonnes }}. Idéal jusqu'à {{ prix.maxPersonnes }}, possible jusqu'à {{ prix.maxPossible }}.</p>
+          <p class="prep__hint" id="p-nb-hint">Un atelier est facturé à partir de {{ prix.minPersonnes }} personnes. Il reste possible à 2 ou 3, au tarif de {{ prix.minPersonnes }} personnes. L'idéal est de ne pas dépasser {{ prix.maxPersonnes }} personnes, et l'atelier peut en accueillir jusqu'à {{ prix.maxPossible }}.</p>
         </div>
         <div class="form__cols prep__cols">
           <div class="form__row">
@@ -101,21 +101,21 @@ nofab: true
       </fieldset>
 
       <fieldset class="prep__block">
-        <legend class="prep__title">Où cuisine-t-on ?</legend>
+        <legend class="prep__title">Où se déroule l'atelier ?</legend>
         <div class="form__row prep__address">
           <label for="p-lieu">Adresse de l'atelier</label>
           <input type="text" id="p-lieu" name="adresse_atelier" autocomplete="off" placeholder="Numéro, rue, commune" aria-describedby="p-km" aria-autocomplete="list" aria-controls="p-suggest">
           <ul class="prep__suggest" id="p-suggest" hidden></ul>
-          <p class="prep__hint" id="p-km" aria-live="polite">Le déplacement est inclus jusqu'à {{ prix.rayonKm }} km de Lyon 9e. Au-delà, je l'ajoute au devis.</p>
+          <p class="prep__hint" id="p-km" aria-live="polite">Le déplacement est inclus jusqu'à {{ prix.rayonKm }} km de Lyon 9e. Au-delà, ses frais figurent sur le devis.</p>
         </div>
-        <label class="prep__check"><input type="checkbox" id="p-meme" name="meme_adresse_pour_le_devis" value="oui" checked> C'est aussi l'adresse à mettre sur le devis</label>
+        <label class="prep__check"><input type="checkbox" id="p-meme" name="meme_adresse_pour_le_devis" value="oui" checked> Cette adresse est aussi celle à indiquer sur le devis</label>
         <div class="form__row" id="p-adresse-devis-row" hidden>
           <label for="p-adresse-devis">Adresse pour le devis</label>
           <input type="text" id="p-adresse-devis" name="adresse_devis" autocomplete="street-address">
         </div>
         <div class="form__cols prep__cols">
           <div class="form__row">
-            <label for="p-parking">Pour se garer</label>
+            <label for="p-parking">Stationnement</label>
             <select id="p-parking" name="stationnement">
               <option value="">Choisir</option>
               <option>Place gratuite devant ou tout près</option>
@@ -129,7 +129,7 @@ nofab: true
           </div>
         </div>
         <div class="form__row">
-          <label for="p-dedans">Dedans ou dehors ?</label>
+          <label for="p-dedans">À l'intérieur ou à l'extérieur ?</label>
           <select id="p-dedans" name="interieur_exterieur">
             <option value="">Choisir</option>
             <option>Dedans</option>
@@ -141,7 +141,7 @@ nofab: true
 
       <fieldset class="prep__block">
         <legend class="prep__title">Chez vous</legend>
-        <p class="prep__hint">Cochez ce qui est déjà bon. Pour le reste, on trouve une solution ensemble.</p>
+        <p class="prep__hint">Cochez ce qui est déjà en place. Pour le reste, nous trouverons une solution ensemble.</p>
         <div class="prep__checks">
           <label class="prep__check"><input type="checkbox" name="table_solide" value="oui"> Une table ou un plan de travail solide</label>
           <label class="prep__check"><input type="checkbox" name="prise_electrique" value="oui"> Une prise électrique à proximité</label>
@@ -160,7 +160,7 @@ nofab: true
             </select>
           </div>
           <div class="form__row">
-            <label for="p-pierre">Une pierre à pizza ?</label>
+            <label for="p-pierre">Pierre à pizza</label>
             <select id="p-pierre" name="pierre_a_pizza">
               <option value="">Choisir</option>
               <option>Oui</option>
@@ -192,7 +192,7 @@ nofab: true
           <div class="prep__total"><dt>Total estimé</dt><dd id="p-v-total">276 €</dd></div>
           <div><dt>Acompte de {{ prix.acomptePct }} % pour réserver la date</dt><dd id="p-v-acompte">82,80 €</dd></div>
         </dl>
-        <p class="prep__hint">Estimation indicative : je vous envoie le devis ferme sous 24 h. Péages et stationnement payant éventuels au prix réel. TVA non applicable, art. 293 B du CGI. <a href="/cgv">Conditions générales</a>.</p>
+        <p class="prep__hint">Cette estimation est indicative ; je vous envoie le devis ferme sous 24 h. Les éventuels péages et frais de stationnement sont facturés au coût réel. TVA non applicable, art. 293 B du CGI. <a href="/cgv">Conditions générales</a>.</p>
         <p class="prep__wa"><a class="btn wa-btn" id="p-wa" href="{{ site.whatsappBase }}?text={{ site.whatsappText | urlencode }}" target="_blank" rel="noopener">{% include "wa-icon.njk" %}Envoyer sur WhatsApp</a></p>
         <input type="hidden" name="distance_km" id="p-h-km">
         <input type="hidden" name="frais_deplacement_estimes" id="p-h-frais">
@@ -214,7 +214,7 @@ nofab: true
           </select>
         </div>
         <div class="form__row">
-          <label for="p-message">Un mot de plus ?</label>
+          <label for="p-message">Autres précisions</label>
           <textarea id="p-message" name="message" rows="4"></textarea>
         </div>
       </fieldset>
@@ -223,7 +223,7 @@ nofab: true
       <div class="prep__send-error" id="p-error" role="alert" data-erreur hidden></div>
       <button type="submit" class="btn btn--primary">Envoyer ma demande</button>
       <button type="button" class="btn btn--secondary" id="p-export" data-export>Exporter mes réponses</button>
-      <p class="prep__hint">Répondez directement sur cette page, sans la copier. Vos réponses sont gardées sur cet appareil pendant que vous écrivez : si la page se recharge, elles reviennent.</p>
+      <p class="prep__hint">Répondez directement sur cette page, sans la copier. Vos réponses sont enregistrées sur cet appareil au fil de la saisie et réapparaissent si la page se recharge.</p>
     </form>
   </div>
 </section>

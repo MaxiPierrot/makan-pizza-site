@@ -20,75 +20,75 @@ sources:
     note: "La pâte ne doit pas coller au toucher et doit être molle et élastique ; fermentation à 25 °C, deux levées (deux heures, puis quatre à six heures) ; disque formé à la main, sans rouleau ; 60 à 100 g de tomates et 80 à 100 g de mozzarella."
 questions:
   - q: "Combien de temps laisser lever la pâte ?"
-    a: "Cela dépend de votre recette et de la température de la pièce. À titre de repère, le cahier des charges de la pizza napolitaine prévoit une fermentation à 25 °C, avec une première levée de deux heures puis une seconde de quatre à six heures. Plus la pièce est fraîche, plus c'est lent : suivez l'aspect de la pâte (gonflée, souple, pleine de bulles) plus que l'horloge."
+    a: "Cela dépend de votre recette et de la température de la pièce. À titre de repère, le cahier des charges de la pizza napolitaine prévoit une fermentation à 25 °C, avec une première levée de deux heures puis une seconde de quatre à six heures. Plus la pièce est fraîche, plus la levée est lente ; fiez-vous donc à l'aspect de la pâte, gonflée et souple, pleine de bulles, plutôt qu'à la durée."
   - q: "Peut-on rattraper une pâte trop collante ?"
-    a: "Souvent oui. Laissez-la reposer couverte, puis retravaillez-la : elle devient plus lisse en reposant. Si elle reste très collante, c'est probablement qu'il y avait trop d'eau pour votre farine, et il faudra moins d'eau la prochaine fois."
+    a: "Bien souvent, oui. Laissez-la reposer à couvert, puis retravaillez-la, car elle devient plus lisse en reposant. Si elle reste très collante, c'est probablement qu'il y avait trop d'eau pour votre farine, et il suffira donc d'en mettre moins la prochaine fois."
   - q: "Faut-il un pétrin ?"
-    a: "Non. En atelier, on travaille la pâte à la main, et c'est ainsi qu'on apprend à sentir quand elle est prête."
+    a: "Non, ce n'est pas nécessaire. En atelier, nous travaillons la pâte à la main, et c'est justement ainsi que l'on apprend à reconnaître le moment où elle est prête."
   - q: "Peut-on utiliser un rouleau à pâtisserie ?"
-    a: "Vous pouvez, mais le bord sera moins gonflé : le rouleau chasse l'air de la pâte, alors que les doigts le poussent vers le bord. Pour une napolitaine, on forme le disque à la main."
+    a: "Vous pouvez vous en servir, mais le bord sera moins gonflé, car le rouleau chasse l'air de la pâte alors que les doigts le poussent vers le bord. C'est pourquoi, pour une napolitaine, le disque se forme à la main."
 related:
   - { label: "Atelier Bases de la pizza maison", href: "/atelier-pizza-lyon" }
   - { label: "Initiation à la pizza napolitaine", href: "/atelier-pizza-napolitaine-lyon" }
   - { label: "Questions fréquentes", href: "/faq" }
 ---
-Une pâte qui colle, qui ne lève pas ou qui se déchire : ce sont les trois ennuis les plus fréquents quand on commence. Presque toujours, ils viennent de trois choses : la quantité d'eau, la température et le temps. Ce n'est pas un manque de talent, c'est un réglage.
+Une pâte qui colle, qui ne lève pas ou qui se déchire : ce sont les trois difficultés les plus fréquentes chez les débutants. Ils viennent presque toujours de la quantité d'eau, de la température ou du temps, si bien qu'il s'agit moins d'une question de talent que d'un réglage à trouver.
 
-Pour savoir quoi viser, je m'appuie sur un repère : le cahier des charges de la pizza napolitaine STG (spécialité traditionnelle garantie). Il décrit une pâte qui ne colle pas au toucher, molle et élastique, fermentée à 25 °C, et un disque formé à la main. Personne ne vous demande de le suivre à la lettre chez vous, mais il donne une cible claire.
+Pour définir l'objectif, je m'appuie sur le cahier des charges de la pizza napolitaine STG (spécialité traditionnelle garantie). Ce texte décrit une pâte molle et élastique, qui ne colle pas au toucher et fermente à 25 °C, puis un disque formé à la main. Personne ne vous demande de le suivre à la lettre chez vous, mais il constitue une référence claire.
 
 ## Ma pâte colle partout
 
-**Les causes les plus fréquentes :** trop d'eau pour la farine, pâte pas assez pétrie, pâte pas reposée.
+**Les causes les plus fréquentes** sont un excès d'eau par rapport à la farine, un pétrissage insuffisant ou un temps de repos trop court.
 
-Le cahier des charges le dit lui-même : la quantité d'eau qu'une farine peut absorber est très importante. Toutes les farines n'absorbent pas autant, donc la même recette peut donner une pâte facile avec une farine et collante avec une autre.
+Le cahier des charges le souligne lui-même : la quantité d'eau qu'une farine peut absorber est très importante. Comme toutes les farines n'absorbent pas la même quantité d'eau, une même recette peut donner une pâte facile à travailler avec l'une et collante avec l'autre.
 
 **Ce qui aide :**
 
-- Ajoutez l'eau progressivement, et gardez un peu en réserve.
-- Continuez à pétrir : une pâte qui colle au début devient plus lisse en pétrissant et en reposant.
-- Laissez-la reposer couverte avant de décider qu'elle est ratée.
-- Farinez légèrement le plan de travail, pas plus. Le texte parle d'une légère couche de farine pour que la boule n'adhère pas. Trop de farine ajoutée au dernier moment donne une pâte sèche et dure.
+- Ajoutez l'eau progressivement en en gardant un peu en réserve.
+- Continuez à pétrir, car une pâte qui colle au début devient plus lisse à mesure qu'on la pétrit et qu'elle repose.
+- Laissez-la reposer à couvert avant de conclure qu'elle est ratée.
+- Farinez légèrement le plan de travail, sans plus. Le texte parle d'une légère couche de farine destinée à empêcher la boule d'adhérer. Un excès de farine ajouté au dernier moment donne une pâte sèche et dure.
 
 ## Ma pâte ne lève pas
 
-**Les causes les plus fréquentes :** pièce trop fraîche, levure trop ancienne, eau trop chaude, pas assez de temps.
+**Les causes les plus fréquentes** sont une pièce trop fraîche, une levure trop ancienne, une eau trop chaude ou un temps de levée trop court.
 
-Une levure se garde mal quand elle est ancienne ou mal conservée, et une eau trop chaude la fatigue ou la tue. De l'eau tiède, pas chaude. Quant au froid, il ralentit tout : la fermentation de référence se fait à 25 °C, et dans une cuisine plus fraîche, il faut simplement attendre plus longtemps.
+Une levure ancienne ou mal conservée est moins active, et une eau trop chaude l'affaiblit, voire la détruit ; mieux vaut donc une eau tiède. Le froid, quant à lui, ralentit la fermentation. La fermentation de référence se fait à 25 °C, et dans une cuisine plus fraîche, il faut simplement attendre plus longtemps.
 
-Le temps est la clé. Le cahier des charges prévoit deux levées, deux heures sur le plan de travail puis quatre à six heures dans des caisses. Pour une pizza maison, vous n'êtes pas obligé de faire pareil, mais vous voyez l'ordre de grandeur : on parle de plusieurs heures, pas de quarante minutes.
+La durée reste déterminante. Le cahier des charges prévoit deux levées, l'une de deux heures sur le plan de travail, l'autre de quatre à six heures dans des caisses. Pour une pizza maison, vous n'êtes pas obligé de faire de même, mais l'ordre de grandeur est parlant, puisqu'il s'agit de plusieurs heures et non de quarante minutes.
 
-**Comment savoir si la pâte est prête ?** Elle a nettement gonflé, elle est souple, et elle est pleine de petites bulles. Si elle est encore compacte, attendez.
+**Comment savoir si la pâte est prête ?** Elle a nettement gonflé, elle est souple et pleine de petites bulles. Tant qu'elle reste compacte, il faut encore attendre.
 
 ## Ma pâte se déchire quand je l'étale
 
-**Les causes les plus fréquentes :** pâte trop froide ou pas assez reposée, centre étalé trop fin, étalement avec le bout des doigts.
+**Les causes les plus fréquentes** sont une pâte trop froide ou qui n'a pas assez reposé, un centre étalé trop finement ou un étalement du bout des doigts.
 
-Une pâte qui vient d'être pétrie, ou sortie du froid, est tendue : elle se rétracte et se déchire. Laissez-la reposer quelques minutes, elle devient plus docile.
+Une pâte qui vient d'être pétrie, ou que l'on sort du froid, est tendue, si bien qu'elle se rétracte et se déchire. Après quelques minutes de repos, elle se détend et s'étale plus facilement.
 
-Pour étaler, le cahier des charges décrit un geste simple : pression des doigts des deux mains, du centre vers l'extérieur, en retournant la boule plusieurs fois, pour obtenir un centre fin (au plus 4 mm) et un bord plus épais, d'environ 1 à 2 cm. Les doigts poussent l'air vers le bord, et c'est ce qui donne le bord gonflé.
+Pour l'étaler, le cahier des charges décrit un geste précis. Les doigts des deux mains pressent la pâte du centre vers l'extérieur, en retournant la boule plusieurs fois, afin d'obtenir un centre fin (au plus 4 mm) et un bord plus épais, d'environ 1 à 2 cm. En poussant ainsi l'air vers le bord, les doigts lui donnent son gonflement.
 
 {% blogphoto "pizzaiolo-etire-pate-a-pizza" %}
 
-C'est aussi pour cela que le texte écarte le rouleau à pâtisserie : il ne déplace pas l'air de la même façon, et la pizza n'a alors pas son bord surélevé. Si vous voulez un bord gonflé, laissez le rouleau dans le tiroir.
+C'est aussi pour cette raison que le texte écarte le rouleau à pâtisserie, qui ne déplace pas l'air de la même façon que les doigts et prive la pizza de son bord surélevé. Si vous tenez à un bord gonflé, renoncez donc au rouleau.
 
-Une petite déchirure ne gâche rien : pincez les bords de la déchirure, et c'est réparé.
+Une petite déchirure ne gâche rien pour autant, puisqu'il suffit d'en pincer les bords pour la refermer.
 
 ## La garniture : moins, c'est mieux
 
-Une pizza napolitaine est peu garnie. Le texte indique, pour un disque de 35 cm au plus, de 60 à 100 g de tomates pelées concassées et de 80 à 100 g de mozzarella. Cela paraît peu quand on est habitué à des pizzas chargées. Or, trop de garniture ou une garniture trop humide alourdit la pâte, qui reste molle au centre.
+Une pizza napolitaine est peu garnie. Pour un disque de 35 cm au plus, le texte indique de 60 à 100 g de tomates pelées concassées et de 80 à 100 g de mozzarella. Cela paraît peu lorsqu'on est habitué à des pizzas chargées, mais une garniture trop abondante ou trop humide alourdit la pâte, qui reste alors molle au centre.
 
-Quelques gestes simples : égouttez la mozzarella, répartissez la tomate d'un mouvement en spirale, et résistez à l'envie d'en remettre.
+Quelques gestes y aident : égouttez la mozzarella, répartissez la tomate d'un mouvement en spirale et évitez d'en rajouter.
 
 ## Ma pizza n'a pas l'air d'une napolitaine
 
-Le plus souvent, c'est une question de cuisson. La napolitaine cuit très chaud et très vite, alors qu'un four ménager monte moins haut. Regardez la température maximale indiquée dans la notice de votre four, préchauffez-le longtemps avec une pierre à pizza, et acceptez que le résultat soit différent. Ce n'est pas une pizza ratée, c'est une autre pizza.
+Le plus souvent, la cuisson est en cause. La napolitaine cuit très chaud et très vite, alors qu'un four ménager atteint une température moins élevée. Je vous conseille de regarder la température maximale indiquée dans la notice de votre four, de le préchauffer longtemps avec une pierre à pizza et d'accepter un résultat différent, qui n'est pas une pizza ratée mais une autre pizza.
 
 [À COMPLÉTER PAR PIERRE : l'erreur que tu vois le plus souvent en atelier, ce que tu fais pour la corriger, un exemple concret]
 
 ## Comment éviter ces erreurs en pratique
 
-Lire est utile, mais le geste s'apprend surtout en le faisant. Dans l'[atelier Bases](/atelier-pizza-lyon), on travaille la pâte à la main avec le four que vous avez déjà, et on voit ensemble ce qui va ou ne va pas. Aucun niveau n'est demandé, et personne n'est jugé sur sa pizza : si elle n'est pas ronde, elle sera bonne quand même. Si vous voulez ensuite passer à la cuisson napolitaine dans un four à 500°C, c'est l'objet de l'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon).
+La lecture est utile, mais le geste s'apprend surtout en le pratiquant. Dans l'[atelier Bases](/atelier-pizza-lyon), nous travaillons la pâte à la main avec le four que vous avez déjà, et nous regardons ensemble ce qui fonctionne et ce qu'il faut corriger. Aucun niveau n'est demandé. Une pizza qui n'est pas parfaitement ronde n'en est pas moins bonne. Si vous souhaitez ensuite passer à la cuisson napolitaine dans un four à 500°C, c'est l'objet de l'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon).
 
 ## En résumé
 
-Pâte qui colle : moins d'eau, plus de pétrissage, un temps de repos. Pâte qui ne lève pas : de l'eau tiède, de la chaleur douce, du temps. Pâte qui se déchire : un repos, des doigts plutôt qu'un rouleau, un centre pas trop fin. Et une garniture mesurée.
+Une pâte qui colle demande moins d'eau, un pétrissage plus long et un temps de repos. Celle qui ne lève pas a besoin d'eau tiède, d'une chaleur douce et de temps. Celle qui se déchire réclame du repos, des doigts plutôt qu'un rouleau et un centre qui ne soit pas trop fin. Dans tous les cas, la garniture doit rester mesurée.

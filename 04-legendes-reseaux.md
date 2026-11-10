@@ -260,3 +260,30 @@ Lien dans la bio.
 **Story Instagram (2 écrans)**
 Écran 1, sur la photo : « Une idée pour Noël ? Offrez un atelier pizza à domicile »
 Écran 2 : « Commande avant le [DATE LIMITE] » + sticker lien vers https://makanpizza.com/bon-cadeau, texte du sticker « Bon cadeau »
+
+---
+
+## 14. Reel « offres de Noël » (proposé : dimanche 15 novembre 2026, 18 h) : validé par Pierre le 9 novembre (vidéo et offres), légende à relire
+
+Vidéo : `marketing/Lancement site/video-noel-site.mp4` (44 s, musique comprise : « Christmas » de Tunetank, licence Pixabay, pas de crédit obligatoire).
+À publier seulement une fois le nouveau site en ligne et les offres ajoutées sur /bon-cadeau et dans les CGV.
+
+**Facebook**
+Pour Noël, deux petits cadeaux sur les ateliers pizza à domicile 🎄
+Atelier « Bases de la pizza maison » : une pierre à pizza offerte à celui qui reçoit, pour continuer à faire ses pizzas après l'atelier.
+Atelier « Initiation à la pizza napolitaine » : −10 %.
+Pour un atelier réservé, ou offert en bon cadeau, avant le 24 décembre.
+Et les pizza party ? Toujours disponibles, sur devis.
+Votre estimation en quelques minutes sur https://makanpizza.com, ou écrivez-moi sur WhatsApp au 06 99 17 18 38.
+Pizza napolitaine à domicile ou ailleurs...
+
+**Instagram**
+Pour Noël, deux petits cadeaux sur les ateliers 🎄
+Bases de la pizza maison : la pierre à pizza offerte à celui qui reçoit.
+Initiation à la pizza napolitaine : −10 %.
+Pour un atelier réservé ou offert avant le 24 décembre.
+Les pizza party restent disponibles, sur devis.
+Estimation en quelques minutes sur le site, lien dans la bio.
+Pizza napolitaine à domicile ou ailleurs...
+
+#lyon #atelierpizza #pizzanapolitaine #ideecadeau #noel #makanpizza

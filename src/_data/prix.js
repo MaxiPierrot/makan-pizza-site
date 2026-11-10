@@ -34,4 +34,6 @@ module.exports = {
   // Calculé à la construction du site : le bandeau disparaît à la reconstruction du 25 décembre (jour d'article).
   noel: new Date() < new Date("2026-12-25T00:00:00+01:00"),
   noelDateLimite: "24 décembre",
+  // Offres validées par Pierre le 9 nov. 2026 (atelier réservé ou offert jusqu'au 24 décembre inclus). Pizza party : pas d'offre.
+  noelRemiseInitiation: 10, // en %
 };
