@@ -3,3 +3,4 @@ node_modules/
 _site/
 .claude/settings.local.json
 .env
+_site-noel/

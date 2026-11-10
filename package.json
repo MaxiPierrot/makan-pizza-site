@@ -6,7 +6,8 @@
     "start": "eleventy --serve",
     "build": "eleventy",
     "start:brouillons": "BLOG_PREVIEW=1 eleventy --serve",
-    "check:blog": "node scripts/check-blog.js"
+    "check:blog": "node scripts/check-blog.js",
+    "cgv-pdf": "node scripts/cgv-pdf.js"
   },
   "repository": {
     "type": "git",

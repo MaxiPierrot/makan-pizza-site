@@ -6,6 +6,13 @@ const bases = 59; // atelier Bases, euros par personne
 const initiation = 69; // initiation napolitaine, euros par personne
 const minPersonnes = 4;
 const maxPersonnes = 6;
+// Offre de Noël : seules dates à changer si la sortie du site glisse (format "AAAA-MM-JJ", entre guillemets :
+// la tâche quotidienne GitHub reconstruit le site ces jours-là). Tout le reste en découle, CGV comprises.
+const noelDebut = "2026-11-16"; // premier jour de l'offre, 2 jours après la sortie du site (décision de Pierre, 10 nov. 2026)
+const noelFin = "2026-12-25"; // premier jour sans l'offre
+const minuitParis = (jour) => new Date(`${jour}T00:00:00+01:00`); // novembre et décembre : heure d'hiver
+const jourFr = (date) => date.toLocaleDateString("fr-FR", { day: "numeric", month: "long", timeZone: "Europe/Paris" });
+const maintenant = new Date();
 
 module.exports = {
   bases,
@@ -32,12 +39,11 @@ module.exports = {
   bonValiditeMois: 12,
   // Offre de Noël : bandeau de l'accueil et de /bon-cadeau jusqu'au 24 décembre inclus.
   // Calculé à la construction du site : le bandeau disparaît à la reconstruction du 25 décembre (jour d'article).
-  // Dates entre guillemets "AAAA-MM-JJ" : la tâche quotidienne GitHub reconstruit le site ces jours-là.
-  noelDebut: "2026-11-16", // 2 jours après la sortie du site (décision de Pierre, 10 nov. 2026)
-  noelFin: "2026-12-25", // premier jour sans l'offre
   // NOEL=1 force l'affichage pour un aperçu local, jamais sur Netlify.
-  noel: process.env.NOEL === "1" || new Date() >= new Date("2026-11-16T00:00:00+01:00") && new Date() < new Date("2026-12-25T00:00:00+01:00"),
-  noelDateLimite: "24 décembre",
+  noel: process.env.NOEL === "1" || (maintenant >= minuitParis(noelDebut) && maintenant < minuitParis(noelFin)),
+  noelDateDebut: jourFr(minuitParis(noelDebut)), // « 16 novembre »
+  noelDateLimite: jourFr(new Date(minuitParis(noelFin) - 12 * 3600e3)), // dernier jour : « 24 décembre »
+  noelAnnee: noelFin.slice(0, 4),
   // Offres validées par Pierre le 9 nov. 2026 (atelier réservé ou offert jusqu'au 24 décembre inclus). Pizza party : pas d'offre.
   noelRemiseInitiation: 10, // en %
 };
