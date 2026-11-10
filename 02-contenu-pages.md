@@ -474,10 +474,11 @@ Brouillon à faire relire avant publication. Les passages entre crochets ne se p
 5. Pages de la phase 2 : lesquelles ouvrir en premier ? Entreprises seulement après la RC Pro et avec une capacité de groupe définie.
 6. Relecture des CGV (surtout annulation et droit de rétractation) avant publication.
 
-## Offre de Noël 2026 (affichée jusqu'au 24 décembre, `prix.noel`)
+## Offre de Noël 2026 (affichée du 16 novembre au 24 décembre, `prix.noel`)
 
 - **Accueil, bandeau** : Jusqu'au 24 décembre, une pierre à pizza est offerte à l'hôte de chaque atelier Bases, et l'initiation à la pizza napolitaine bénéficie d'une remise de 10 %, que l'atelier soit réservé ou offert. Le bon cadeau s'imprime et se glisse sous le sapin ; la date de l'atelier se choisit ensuite ensemble.
 - **Bon cadeau, bandeau « Pour Noël »** : Pour un atelier réservé ou offert jusqu'au 24 décembre, l'atelier Bases de la pizza maison s'accompagne d'une pierre à pizza offerte à l'hôte, et l'initiation à la pizza napolitaine bénéficie d'une remise de 10 %. Le bon cadeau vous est envoyé par e-mail, prêt à être imprimé ou glissé sous le sapin.
 - **Pages Bases et Initiation, bloc tarif** : Offre de Noël : pour un atelier réservé ou offert jusqu'au 24 décembre, une pierre à pizza est offerte à l'hôte. / Offre de Noël : pour une initiation réservée ou offerte jusqu'au 24 décembre, le tarif bénéficie d'une remise de 10 %.
 - **FAQ « Peut-on offrir un atelier pizza ? »** : phrase ajoutée pendant l'offre.
-- **CGV, section « Offre de Noël 2026 »** (permanente) : atelier réservé (acompte reçu) ou bon cadeau réglé jusqu'au 24 décembre 2026 inclus, même si l'atelier a lieu après ; pas d'offre sur la pizza party.
+- **Préparer mon atelier, estimation** : ligne « Offre de Noël » (pierre à pizza offerte à l'hôte, ou remise de 10 % avec son montant, déduite sur le devis) ; le total ne change pas.
+- **CGV, section « Offre de Noël 2026 »** (permanente) : atelier réservé (acompte reçu) ou bon cadeau réglé du 16 novembre au 24 décembre 2026 inclus, même si l'atelier a lieu après ; pas d'offre sur la pizza party.

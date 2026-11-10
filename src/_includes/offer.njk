@@ -7,6 +7,7 @@ layout: base.njk
       {% include "breadcrumb.njk" %}
       <h1 class="page-title">{{ h1 }}</h1>
       <p class="page-lead">{{ lead | prixTokens }}</p>
+      {% if not facts %}<p class="page-hero__actions"><a href="{{ ctaHref }}" class="btn btn--primary">{{ ctaLabel }}</a></p>{% endif %}
     </div>
     {% if facts %}
     <aside class="facts" aria-label="L'essentiel">
@@ -15,6 +16,10 @@ layout: base.njk
         <div class="facts__row"><dt>{{ f.label }}</dt><dd>{{ f.value | prixTokens }}</dd></div>
         {% endfor %}
       </dl>
+      <p class="facts__actions">
+        <a href="{{ ctaHref }}" class="btn btn--primary">{{ ctaLabel }}</a>
+        {% if offre != "pizza-party" %}<a class="link-arrow" href="/bon-cadeau">Offrir cet atelier <span class="arrow" aria-hidden="true">→</span></a>{% endif %}
+      </p>
     </aside>
     {% endif %}
   </div>

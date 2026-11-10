@@ -149,3 +149,13 @@ document.querySelectorAll('[data-strip]').forEach((strip) => {
   window.addEventListener('DOMContentLoaded', openFromHash);
   window.addEventListener('load', openFromHash);
 })();
+
+// Tableaux des articles : sur téléphone, chaque ligne devient une fiche ; chaque cellule reçoit le titre de sa colonne.
+document.querySelectorAll('.article__body table').forEach((table) => {
+  const heads = [...table.querySelectorAll('thead th')].map((th) => th.textContent.trim());
+  if (!heads.length) return;
+  table.classList.add('table--fiches');
+  table.querySelectorAll('tbody tr').forEach((tr) => {
+    [...tr.children].forEach((cell, i) => { if (heads[i]) cell.dataset.label = heads[i]; });
+  });
+});

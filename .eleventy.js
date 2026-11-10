@@ -54,11 +54,17 @@ module.exports = function (eleventyConfig) {
       name,
       description,
       url: `https://makanpizza.com${path}`,
-      provider: { "@type": "LocalBusiness", name: "Makan Pizza", url: "https://makanpizza.com" },
+      provider: { "@id": "https://makanpizza.com/#entreprise" },
       areaServed: { "@type": "City", name: "Lyon" },
     };
     if (price) {
-      service.offers = { "@type": "Offer", price: String(Number(price)), priceCurrency: "EUR", description: "à partir de 4 personnes" };
+      service.offers = {
+        "@type": "Offer",
+        price: String(Number(price)),
+        priceCurrency: "EUR",
+        priceSpecification: { "@type": "UnitPriceSpecification", price: Number(price), priceCurrency: "EUR", unitText: "par personne" },
+        description: `${Number(price)} € par personne, à partir de 4 personnes`,
+      };
     } else if (minPrice) {
       service.offers = {
         "@type": "Offer",

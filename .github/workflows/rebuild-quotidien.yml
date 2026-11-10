@@ -36,6 +36,11 @@ jobs:
               trouve="oui"
             fi
           done
+          # Jours clés écrits dans prix.js (début et fin de l'offre de Noël, par exemple).
+          if grep -q "\"$jour\"" src/_data/prix.js; then
+            echo "Date clé dans prix.js : $jour"
+            trouve="oui"
+          fi
           echo "trouve=$trouve" >> "$GITHUB_OUTPUT"
           echo "Jour : $jour, article trouvé : $trouve"
 

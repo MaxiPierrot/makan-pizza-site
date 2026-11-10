@@ -7,6 +7,7 @@ layout: base.njk
       {% if crumb %}{% include "breadcrumb.njk" %}{% endif %}
       <h1 class="page-title">{{ h1 }}</h1>
       {% if lead %}<p class="page-lead">{{ lead }}</p>{% endif %}
+      {% if heroCta %}<p class="page-hero__actions"><a href="{{ heroCta.href }}" class="btn btn--primary">{{ heroCta.label }}</a></p>{% endif %}
     </div>
   </div>
 </section>

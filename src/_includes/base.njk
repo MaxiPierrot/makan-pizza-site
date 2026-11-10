@@ -35,12 +35,16 @@
 {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
+  "@id": "{{ site.url }}/#entreprise",
   "name": "{{ site.name }}",
   "url": "{{ site.url }}",
+  "logo": "{{ site.url }}/assets/images/logo-trim.webp",
+  "image": "{{ site.url }}/assets/images/logo-trim.webp",
+  "address": { "@type": "PostalAddress", "addressLocality": "Lyon", "postalCode": "69009", "addressCountry": "FR" },
   "telephone": "{{ site.phoneIntl }}",
   "email": "{{ site.email }}",
   "description": "{{ site.description }}",
-  "areaServed": { "@type": "City", "name": "Lyon" },
+  "areaServed": { "@type": "GeoCircle", "geoMidpoint": { "@type": "GeoCoordinates", "latitude": {{ prix.origine.lat }}, "longitude": {{ prix.origine.lon }} }, "geoRadius": {{ prix.rayonKm * 1000 }} },
   "sameAs": ["{{ site.instagram }}", "{{ site.facebook }}"]
 }
 </script>

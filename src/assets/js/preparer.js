@@ -91,6 +91,18 @@
     $('p-h-km').value = trajet ? `${trajet.km.toFixed(1)}${trajet.approx ? ' (à vol d\'oiseau x1,3)' : ''}` : '';
     $('p-h-frais').value = trajet ? String(trajet.frais) : '';
     $('p-h-total').value = total;
+
+    // Offre de Noël (bloc présent seulement pendant l'offre) : une ligne d'information, le total reste le même.
+    const noel = $('p-noel');
+    if (noel) {
+      const remise = Number(noel.dataset.remise);
+      const txt = key === 'bases' ? "Pierre à pizza offerte à l'hôte"
+        : key === 'initiation' ? `Remise de ${remise}\u00a0%, soit -${eur(Math.round(base * remise) / 100)}, déduite sur le devis`
+        : '';
+      noel.hidden = !txt;
+      $('p-v-noel').textContent = txt;
+      $('p-h-noel').value = txt;
+    }
   }
 
   // Préremplissage avec ?atelier=bases|initiation|pizza-party|autre (mêmes valeurs que /contact)

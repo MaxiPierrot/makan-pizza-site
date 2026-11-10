@@ -30,8 +30,9 @@ nofab: true
         <input type="tel" id="telephone" name="telephone" autocomplete="tel">
       </div>
       <div class="form__row">
-        <label for="atelier">Type de demande</label>
-        <select id="atelier" name="type_de_demande">
+        <label for="atelier">Type de demande <span class="req" aria-hidden="true">*</span></label>
+        <select id="atelier" name="type_de_demande" required aria-required="true">
+          <option value="" selected disabled>Choisissez</option>
           <option value="bases">Atelier Bases</option>
           <option value="initiation">Initiation napolitaine</option>
           <option value="pizza-party">Pizza party</option>

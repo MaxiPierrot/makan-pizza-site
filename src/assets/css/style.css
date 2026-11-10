@@ -1709,6 +1709,20 @@ textarea:focus-visible {
   overflow-x: auto;
 }
 
+/* Sur téléphone, les tableaux préparés par script.js s'affichent en fiches (sans script : défilement horizontal). */
+@media (max-width: 640px) {
+  .article__body table.table--fiches,
+  .article__body table.table--fiches tbody,
+  .article__body table.table--fiches tr,
+  .article__body table.table--fiches td,
+  .article__body table.table--fiches th { display: block; width: auto; }
+  .article__body table.table--fiches thead { display: none; }
+  .article__body table.table--fiches tr { border: 1px solid var(--line); border-radius: 6px; padding: 0.4rem 0.8rem; margin-bottom: 0.8rem; }
+  .article__body table.table--fiches tbody th,
+  .article__body table.table--fiches tbody td:first-child { font-weight: 600; border-bottom-color: var(--mustard); }
+  .article__body table.table--fiches td[data-label]::before { content: attr(data-label); display: block; font-size: 0.82rem; font-weight: 600; opacity: 0.7; }
+}
+
 .sources {
   padding-left: 1.3rem;
   font-size: 0.95rem;
@@ -2367,3 +2381,9 @@ textarea:focus-visible {
   border-radius: var(--radius);
 }
 .legal__form p { margin: 0.4rem 0; }
+
+.prep__offre dt, .prep__offre dd { color: var(--green-hover); font-weight: 600; }
+
+/* Boutons en haut de page : cadre « L'essentiel » des offres et haut de la page Bon cadeau */
+.facts__actions { display: flex; flex-wrap: wrap; align-items: center; gap: 0.6rem 1.2rem; margin: 1.4rem 0 0; }
+.page-hero__actions { margin: 1.4rem 0 0; }

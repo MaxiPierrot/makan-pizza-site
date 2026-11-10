@@ -191,7 +191,12 @@ nofab: true
           <div><dt>Déplacement</dt><dd id="p-v-km">inclus jusqu'à {{ prix.rayonKm }} km</dd></div>
           <div class="prep__total"><dt>Total estimé</dt><dd id="p-v-total">276 €</dd></div>
           <div><dt>Acompte de {{ prix.acomptePct }} % pour réserver la date</dt><dd id="p-v-acompte">82,80 €</dd></div>
+          {%- if prix.noel %}
+          {# Offre de Noël : ligne d'information seulement, le total ne change pas. Disparaît avec prix.noel. #}
+          <div class="prep__offre" id="p-noel" data-remise="{{ prix.noelRemiseInitiation }}" hidden><dt>Offre de Noël</dt><dd id="p-v-noel"></dd></div>
+          {%- endif %}
         </dl>
+        {%- if prix.noel %}<input type="hidden" name="offre_noel" id="p-h-noel">{% endif %}
         <p class="prep__hint">Cette estimation est indicative ; je vous envoie le devis ferme sous 24 h. Les éventuels péages et frais de stationnement sont facturés au coût réel. TVA non applicable, art. 293 B du CGI. <a href="/cgv">Conditions générales</a>.</p>
         <p class="prep__wa"><a class="btn wa-btn" id="p-wa" href="{{ site.whatsappBase }}?text={{ site.whatsappText | urlencode }}" target="_blank" rel="noopener">{% include "wa-icon.njk" %}Envoyer sur WhatsApp</a></p>
         <input type="hidden" name="distance_km" id="p-h-km">
