@@ -2387,3 +2387,6 @@ textarea:focus-visible {
 /* Boutons en haut de page : cadre « L'essentiel » des offres et haut de la page Bon cadeau */
 .facts__actions { display: flex; flex-wrap: wrap; align-items: center; gap: 0.6rem 1.2rem; margin: 1.4rem 0 0; }
 .page-hero__actions { margin: 1.4rem 0 0; }
+
+/* Photo sous un titre de colonne (accueil, « Qui je suis ») */
+.split__photo { aspect-ratio: 1; max-width: 26rem; margin-top: 1.4rem; border-radius: var(--radius, 6px); }
