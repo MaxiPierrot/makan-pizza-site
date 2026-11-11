@@ -19,7 +19,7 @@ questions:
   - q: "Combien de personnes pour une pizza party ?"
     a: "Seul, je peux servir des pizzas à environ 25 personnes. Il est possible d'aller jusqu'à 40 en ajoutant, sur devis, des focaccias préparées à l'avance pour l'apéritif."
   - q: "Combien coûte une pizza party pour les fêtes ?"
-    a: "Elle se fait sur devis, à partir de {prix.partyMin} €, et son prix dépend du nombre d'invités, de la durée, du choix des pizzas et de la distance."
+    a: "Elle se fait sur devis, et son prix dépend du nombre d'invités, de la durée, du choix des pizzas et de la distance."
   - q: "Faut-il réserver longtemps à l'avance ?"
     a: "Décembre compte peu de week-ends et beaucoup de repas, si bien que plus vous me contactez tôt, plus il reste de dates."
 related:
@@ -27,7 +27,7 @@ related:
   - { label: "La carte des pizzas", href: "/carte" }
   - { label: "Questions fréquentes", href: "/faq" }
 ---
-Pour les fêtes de fin d'année, une pizza party à la maison change du repas assis qui dure des heures, pendant lequel la personne qui reçoit reste retenue en cuisine. Je viens avec mon four électrique, qui s'installe à l'intérieur, et je prépare les pizzas sur place, de sorte que vous restez avec vos invités pendant que les pizzas sortent du four au fil de la soirée. Elle se fait sur devis, à partir de {{ prix.partyMin }} €.
+Pour les fêtes de fin d'année, une pizza party à la maison change du repas assis qui dure des heures, pendant lequel la personne qui reçoit reste retenue en cuisine. Je viens avec mon four électrique, qui s'installe à l'intérieur, et je prépare les pizzas sur place, de sorte que vous restez avec vos invités pendant que les pizzas sortent du four au fil de la soirée. Elle se fait sur devis, et ce devis est gratuit.
 
 ## Pourquoi une pizza party pour les fêtes ?
 
@@ -75,7 +75,7 @@ Nous choisissons les pizzas ensemble dans [la carte](/carte), parmi des classiqu
 
 [À COMPLÉTER PAR PIERRE : une pizza de saison ou une recette que tu aimes servir l'hiver, si tu en as une]
 
-Le choix des pizzas fait aussi varier le prix. Une pizza party se fait sur devis, à partir de {{ prix.partyMin }} €, et son prix dépend du nombre d'invités, de la durée, du choix des pizzas et de la distance.
+Le choix des pizzas fait aussi varier le prix. Une pizza party se fait sur devis, et son prix dépend du nombre d'invités, de la durée, du choix des pizzas et de la distance.
 
 ## Ce qu'il faut prévoir chez vous
 

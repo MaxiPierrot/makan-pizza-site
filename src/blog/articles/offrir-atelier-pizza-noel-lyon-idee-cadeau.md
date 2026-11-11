@@ -86,7 +86,7 @@ L'atelier a lieu chez la personne, ou dans le lieu de son choix, à Lyon et dans
 
 ## Et si vous préférez offrir une soirée sans cuisiner ?
 
-Si la personne préfère profiter de ses invités pendant que quelqu'un d'autre s'occupe des pizzas, la [pizza party à domicile](/pizza-party-domicile-lyon) est une autre possibilité : je viens avec mon four et je prépare les pizzas sur place pour tout le groupe. Elle se fait sur devis, à partir de {{ prix.partyMin }} €. Si c'est ce que vous avez en tête, écrivez-moi par le [formulaire de contact](/contact).
+Si la personne préfère profiter de ses invités pendant que quelqu'un d'autre s'occupe des pizzas, la [pizza party à domicile](/pizza-party-domicile-lyon) est une autre possibilité : je viens avec mon four et je prépare les pizzas sur place pour tout le groupe. Elle se fait sur devis, et ce devis est gratuit. Si c'est ce que vous avez en tête, écrivez-moi par le [formulaire de contact](/contact).
 
 [À COMPLÉTER PAR PIERRE : la pizza party peut-elle aussi s'offrir en bon cadeau ? Si non, garder la phrase ci-dessus telle quelle]
 

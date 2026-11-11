@@ -18,7 +18,7 @@ nofab: true
 <section class="section">
   <div class="container">
     <form class="form prep" id="prep" name="preparer-atelier" method="POST" action="/merci" data-netlify="true" netlify-honeypot="bot-field" data-sauvegarde="preparer-atelier-v1"
-      data-bases="{{ prix.bases }}" data-initiation="{{ prix.initiation }}" data-party-min="{{ prix.partyMin }}"
+      data-bases="{{ prix.bases }}" data-initiation="{{ prix.initiation }}"
       data-min="{{ prix.minPersonnes }}" data-max="{{ prix.maxPersonnes }}" data-max-possible="{{ prix.maxPossible }}"
       data-rayon="{{ prix.rayonKm }}" data-tarif-km="{{ prix.tarifKm }}" data-acompte="{{ prix.acomptePct }}"
       data-origine="{{ prix.origine.lon }},{{ prix.origine.lat }}">
@@ -56,7 +56,7 @@ nofab: true
         <div class="prep__choices prep__choices--cards" role="radiogroup" aria-label="Formule">
           <label class="prep__choice"><input type="radio" name="formule" value="Atelier Bases" data-key="bases"><span><strong>Atelier Bases</strong><small>{{ prix.bases }} € par personne, avec votre four</small></span></label>
           <label class="prep__choice"><input type="radio" name="formule" value="Initiation napolitaine" data-key="initiation" checked><span><strong>Initiation napolitaine</strong><small>{{ prix.initiation }} € par personne, avec mon four</small></span></label>
-          <label class="prep__choice"><input type="radio" name="formule" value="Pizza party" data-key="pizza-party"><span><strong>Pizza party</strong><small>sur devis, à partir de {{ prix.partyMin }} €</small></span></label>
+          <label class="prep__choice"><input type="radio" name="formule" value="Pizza party" data-key="pizza-party"><span><strong>Pizza party</strong><small>sur devis, gratuit</small></span></label>
           <label class="prep__choice"><input type="radio" name="formule" value="Autre envie" data-key="autre"><span><strong>Autre envie</strong><small>sur mesure, à définir ensemble</small></span></label>
         </div>
         <div class="form__cols prep__cols">

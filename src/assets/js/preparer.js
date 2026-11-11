@@ -9,7 +9,6 @@
   const P = {
     bases: Number(cfg.bases),
     initiation: Number(cfg.initiation),
-    partyMin: Number(cfg.partyMin),
     min: Number(cfg.min),
     max: Number(cfg.max),
     maxPossible: Number(cfg.maxPossible),
@@ -73,20 +72,19 @@
 
     $('p-l-formule').textContent = label;
     $('p-v-formule').textContent = base !== null ? eur(base)
-      : key === 'pizza-party' ? `à partir de ${eur(P.partyMin)}` : 'sur devis';
+      : 'sur devis';
 
     $('p-v-km').textContent = !trajet ? `inclus jusqu'à ${P.rayon} km`
       : trajet.frais === 0 ? 'inclus' : eur(trajet.frais);
 
     let total = '';
     if (base !== null) total = eur(base + frais);
-    else if (key === 'pizza-party') total = `à partir de ${eur(P.partyMin + frais)}`;
     else total = 'sur devis';
     $('p-v-total').textContent = total;
 
-    const acompteBase = base !== null ? base + frais : key === 'pizza-party' ? P.partyMin + frais : null;
+    const acompteBase = base !== null ? base + frais : null;
     $('p-v-acompte').textContent = acompteBase === null ? 'sur devis'
-      : (base === null ? 'à partir de ' : '') + eur(Math.round(acompteBase * P.acompte * 100) / 100);
+      : eur(Math.round(acompteBase * P.acompte * 100) / 100);
 
     $('p-h-km').value = trajet ? `${trajet.km.toFixed(1)}${trajet.approx ? ' (à vol d\'oiseau x1,3)' : ''}` : '';
     $('p-h-frais').value = trajet ? String(trajet.frais) : '';

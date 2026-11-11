@@ -56,7 +56,7 @@ Si vous êtes plus nombreux, ou si vous préférez rester avec vos invités, la 
 
 Je prépare entre 12 et 18 pizzas par heure, selon les recettes choisies, ce qui me permet de servir seul environ 25 personnes. Il est possible d'aller jusqu'à 40 personnes, sur devis, en ajoutant des focaccias préparées à l'avance qui font patienter à l'apéritif. Au-delà, je ne pourrai pas vous servir seul.
 
-Nous choisissons les pizzas ensemble dans [la carte](/carte), qui réunit des classiques et des créations plus originales. Pour un anniversaire ou une soirée à thème, je peux aussi adapter les recettes. Une pizza party se fait sur devis, à partir de {{ prix.partyMin }} €. Son prix dépend du nombre d'invités, de la durée, du choix des pizzas et de la distance.
+Nous choisissons les pizzas ensemble dans [la carte](/carte), qui réunit des classiques et des créations plus originales. Pour un anniversaire ou une soirée à thème, je peux aussi adapter les recettes. Une pizza party se fait sur devis, et son prix dépend du nombre d'invités, de la durée, du choix des pizzas et de la distance.
 
 ## Idée 3 : un anniversaire d'enfant
 

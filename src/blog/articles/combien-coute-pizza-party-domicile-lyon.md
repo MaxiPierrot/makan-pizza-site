@@ -1,6 +1,6 @@
 ---
 titre: "Combien coûte une pizza party à domicile ?"
-description: "Ce qui fait varier le prix d'une pizza party à domicile à Lyon : invités, durée, distance. À partir de {prix.partyMin} €, déplacement inclus dans {prix.rayonKm} km."
+description: "Ce qui fait varier le prix d'une pizza party à domicile à Lyon : invités, durée, pizzas choisies, distance. Devis gratuit, déplacement inclus dans {prix.rayonKm} km."
 date: 2026-10-23
 validé: true
 sujet: prix
@@ -12,7 +12,7 @@ photos:
 sansSourceExterne: true
 questions:
   - q: "À partir de quel prix ?"
-    a: "Une pizza party se fait sur devis, à partir de {prix.partyMin} €. Comme chaque événement est différent, le prix exact se fixe avec vous, après votre demande."
+    a: "Une pizza party se fait sur devis, et ce devis est gratuit. Comme chaque événement est différent, le prix exact se fixe avec vous, après votre demande."
   - q: "Le déplacement est-il compris ?"
     a: "Oui, dans un rayon de {prix.rayonKm} km autour de Lyon. Au-delà, je peux me déplacer si l'événement le justifie, en ajoutant des frais de déplacement que je précise dans le devis. Le stationnement payant est facturé au prix réel."
   - q: "Que dois-je acheter pour la soirée ?"
@@ -24,13 +24,13 @@ related:
   - { label: "Atelier ou pizza party : lequel choisir ?", href: "/blog/atelier-pizza-ou-pizza-party-lequel-choisir" }
   - { label: "Demander un devis", href: "/contact?atelier=pizza-party" }
 ---
-Une pizza party à domicile se fait sur devis, à partir de {{ prix.partyMin }} €. Le prix exact dépend surtout du nombre d'invités, des pizzas choisies, du temps dont je dispose et de la distance. Dans les {{ prix.rayonKm }} km autour de Lyon, le déplacement est inclus.
+Une pizza party à domicile se fait sur devis, et ce devis est gratuit. Son prix dépend surtout du nombre d'invités, des pizzas choisies, du temps dont je dispose et de la distance. Dans les {{ prix.rayonKm }} km autour de Lyon, le déplacement est inclus.
 
 ## Pourquoi un devis plutôt qu'un prix fixe ?
 
 Chaque événement est différent. Un anniversaire dans un jardin et un repas de famille dans un appartement ne demandent pas le même travail, car le nombre de pizzas, la place disponible pour le four et le temps que vous voulez consacrer à la soirée changent d'un cas à l'autre.
 
-Je préfère donc vous adresser un devis adapté à votre demande, plutôt que d'afficher une grille qui ne dit rien de votre soirée. Le prix de départ de {{ prix.partyMin }} € sert de repère, sans remplacer le devis.
+Je préfère donc vous adresser un devis adapté à votre demande, plutôt que d'afficher une grille qui ne dit rien de votre soirée. Je vous l'envoie sous 24 h après votre demande.
 
 ## Pourquoi il y a un prix de départ
 

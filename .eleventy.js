@@ -47,7 +47,7 @@ module.exports = function (eleventyConfig) {
       })),
     })
   );
-  eleventyConfig.addShortcode("serviceLd", (name, description, path, price, minPrice) => {
+  eleventyConfig.addShortcode("serviceLd", (name, description, path, price) => {
     const service = {
       "@context": "https://schema.org",
       "@type": "Service",
@@ -64,12 +64,6 @@ module.exports = function (eleventyConfig) {
         priceCurrency: "EUR",
         priceSpecification: { "@type": "UnitPriceSpecification", price: Number(price), priceCurrency: "EUR", unitText: "par personne" },
         description: `${Number(price)} € par personne, à partir de 4 personnes`,
-      };
-    } else if (minPrice) {
-      service.offers = {
-        "@type": "Offer",
-        priceCurrency: "EUR",
-        priceSpecification: { "@type": "PriceSpecification", minPrice: Number(minPrice), priceCurrency: "EUR" },
       };
     }
     return ld(service);

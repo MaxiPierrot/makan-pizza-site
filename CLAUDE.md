@@ -17,7 +17,7 @@ Eleventy 3, sources dans `src/`, sortie dans `_site/`. Hébergement Netlify, dé
 
 ## Contexte et règles
 
-Lire `../contexte/fiche-projet.md` et les règles de `../CLAUDE.md` (slogan unique, téléphone 06 99 17 18 38, aucune mention du projet de départ en Indonésie (citer l'Indonésie reste permis), adresse personnelle uniquement là où elle est obligatoire, mozzarella fior di latte uniquement). Prix actuels : Bases 59 €, Initiation 69 €, pizza party sur devis dès 220 €. Zone : 10 km autour de Lyon 9e. Hébergeur à confirmer dans la fiche, mais le site est sur Netlify.
+Lire `../contexte/fiche-projet.md` et les règles de `../CLAUDE.md` (slogan unique, téléphone 06 99 17 18 38, aucune mention du projet de départ en Indonésie (citer l'Indonésie reste permis), adresse personnelle uniquement là où elle est obligatoire, mozzarella fior di latte uniquement). Prix actuels : Bases 59 €, Initiation 69 €, pizza party sur devis, sans prix affiché (décision du 11 nov. 2026). Zone : 10 km autour de Lyon 9e. Hébergeur à confirmer dans la fiche, mais le site est sur Netlify.
 
 ## Points d'attention
 

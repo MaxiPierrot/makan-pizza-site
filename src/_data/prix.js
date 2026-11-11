@@ -17,7 +17,6 @@ const maintenant = new Date();
 module.exports = {
   bases,
   initiation,
-  partyMin: 220, // pizza party, « à partir de », euros
   minPersonnes,
   maxPersonnes,
   basesGroupeMin: bases * minPersonnes,
