@@ -77,7 +77,7 @@ Un four à gaz ou à bois brûle un combustible et peut dégager du monoxyde de 
 
 ## Comment tester avant d'acheter ?
 
-Comme un four à pizza est un achat qui peut peser dans le budget, mieux vaut ne pas acheter à l'aveugle. Il existe pour cela plusieurs façons de faire.
+Comme un four à pizza est un achat qui peut peser dans le budget, mieux vaut ne pas acheter à l'aveugle. Voici quelques moyens de vous faire une idée avant de vous décider :
 
 1. **Goûter chez quelqu'un** qui a le même type de four, en lui posant des questions sur le temps de chauffe et l'entretien.
 2. **Faire une initiation.** Si vous pensez à acheter un four à pizza, je peux vous aider à choisir, avant ou pendant l'atelier. Si votre projet est de vous équiper, prévenez-moi à l'avance, et nous organiserons l'atelier avec votre propre four si cela vous est plus utile. Vous trouverez tous les détails sur la page [initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon).
