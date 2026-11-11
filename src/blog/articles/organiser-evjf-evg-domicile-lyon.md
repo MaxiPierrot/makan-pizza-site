@@ -15,7 +15,7 @@ questions:
   - q: "Combien de personnes pour un EVJF ou un EVG ?"
     a: "Un atelier est facturé à partir de 4 personnes. L'idéal se situe entre 4 et 6, et il est possible d'aller jusqu'à 8 sur demande. Si vous êtes plus nombreux, écrivez-moi et nous verrons ensemble ce qui est possible."
   - q: "Où se déroule l'atelier ?"
-    a: "Chez la future mariée ou le futur marié, ou dans le lieu que vous avez choisi, à Lyon et dans un rayon de {prix.rayonKm} km, ce qui vous évite d'avoir à réserver une salle."
+    a: "Chez la future mariée ou le futur marié, ou dans le lieu que vous avez choisi, à Lyon ou dans la région lyonnaise, ce qui vous évite d'avoir à réserver une salle."
   - q: "Qui s'occupe des ingrédients ?"
     a: "Pour un atelier classique, les ingrédients prévus sont ceux de la pizza margherita. Pour un EVJF ou un EVG, je peux exceptionnellement proposer une formule qui mêle atelier et pizza party et m'occuper alors des ingrédients, à condition que vous le précisiez dans votre demande."
   - q: "Que faut-il prévoir ?"
@@ -47,7 +47,7 @@ Si vous êtes plus de {{ prix.maxPossible }}, écrivez-moi par le [formulaire de
 
 **L'initiation à la pizza napolitaine** ({{ prix.initiation }} € par personne) s'adresse à ceux qui souhaitent cuire leurs pizzas dans un four comparable à celui d'une pizzeria. J'apporte pour cela mon four électrique, qui monte jusqu'à 500°C et cuit une pizza en 90 secondes environ. Nous réalisons toutes les étapes ensemble, une pizza après l'autre, en goûtant au fur et à mesure. L'initiation dure de 2h30 à 3h.
 
-À titre indicatif, l'atelier Bases revient à {{ prix.bases * 5 }} € pour un groupe de 5 personnes, et l'initiation à {{ prix.initiation * 5 }} €. Ces prix sont valables pour un déplacement dans un rayon de {{ prix.rayonKm }} km autour de Lyon. Au-delà, je peux me déplacer si l'événement le justifie, en ajoutant des frais de déplacement que je précise dans le devis.
+À titre indicatif, l'atelier Bases revient à {{ prix.bases * 5 }} € pour un groupe de 5 personnes, et l'initiation à {{ prix.initiation * 5 }} €. Selon la distance, des frais de déplacement peuvent s'ajouter ; je les précise dans le devis.
 
 ### Un mélange d'atelier et de pizza party
 

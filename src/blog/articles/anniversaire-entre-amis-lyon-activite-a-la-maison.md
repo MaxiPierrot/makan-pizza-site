@@ -83,7 +83,7 @@ Si vous avez un doute sur le lieu, décrivez-moi la pièce lorsque vous me conta
 
 ## Comment réserver
 
-Vous pouvez me contacter par le [formulaire](/contact) ou par téléphone, en m'indiquant la date envisagée, le nombre d'invités et, le cas échéant, l'âge des enfants, et je vous adresse ensuite un devis. Je me déplace à Lyon et dans un rayon de {{ prix.rayonKm }} km autour de Lyon, zone dans laquelle le déplacement est inclus. Au-delà, je peux me déplacer si l'événement le justifie, en ajoutant des frais de déplacement que je précise dans le devis.
+Vous pouvez me contacter par le [formulaire](/contact) ou par téléphone, en m'indiquant la date envisagée, le nombre d'invités et, le cas échéant, l'âge des enfants, et je vous adresse ensuite un devis. Je me déplace à Lyon et dans toute la région lyonnaise. Selon la distance, des frais de déplacement peuvent s'ajouter ; je les précise dans le devis.
 
 ## Pour finir
 

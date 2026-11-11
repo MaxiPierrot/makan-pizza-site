@@ -37,7 +37,7 @@ Choisissez l'atelier si vous voulez mettre les mains dans la pâte avec vos amis
 
 ## Trois formules, trois façons de passer la soirée
 
-Je propose trois formules à domicile, à Lyon et dans un rayon de {{ prix.rayonKm }} km, et chacune donne à la soirée une tournure différente.
+Je propose trois formules à domicile, à Lyon et dans la région lyonnaise, et chacune donne à la soirée une tournure différente.
 
 | | Atelier Bases | Initiation napolitaine | Pizza party |
 | --- | --- | --- | --- |
@@ -47,7 +47,7 @@ Je propose trois formules à domicile, à Lyon et dans un rayon de {{ prix.rayon
 | Four | Le vôtre | Le mien, électrique | Le mien |
 | Prix | {{ prix.bases }} € par personne | {{ prix.initiation }} € par personne | Sur devis gratuit |
 
-Ces prix s'entendent pour un déplacement dans un rayon de {{ prix.rayonKm }} km autour de Lyon. Au-delà, je peux me déplacer si l'événement le justifie, en ajoutant des frais de déplacement que je précise dans le devis.
+Selon la distance, des frais de déplacement peuvent s'ajouter ; je les précise dans le devis.
 
 ## L'atelier Bases : réussir ses pizzas avec le four de la maison
 

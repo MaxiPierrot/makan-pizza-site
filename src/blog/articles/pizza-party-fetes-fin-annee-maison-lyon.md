@@ -87,7 +87,7 @@ Le choix des pizzas fait aussi varier le prix. Une pizza party se fait sur devis
 
 ## Réserver pour décembre
 
-Décembre compte peu de week-ends et beaucoup de repas, si bien que plus vous me contactez tôt, plus il reste de dates. Vous pouvez m'écrire avec le [formulaire](/contact?atelier=pizza-party) ou m'appeler, en précisant la date envisagée, le nombre d'invités et le lieu. Je me déplace à Lyon et dans un rayon de {{ prix.rayonKm }} km autour de Lyon, zone dans laquelle le déplacement est inclus ; au-delà, des frais de déplacement s'ajoutent, et je les précise dans le devis.
+Décembre compte peu de week-ends et beaucoup de repas, si bien que plus vous me contactez tôt, plus il reste de dates. Vous pouvez m'écrire avec le [formulaire](/contact?atelier=pizza-party) ou m'appeler, en précisant la date envisagée, le nombre d'invités et le lieu. Je me déplace à Lyon et dans toute la région lyonnaise. Selon la distance, des frais de déplacement peuvent s'ajouter ; je les précise dans le devis.
 
 Si vous préférez que vos invités mettent la main à la pâte, un [atelier pizza](/atelier-pizza-lyon) est une autre façon de passer une soirée de fêtes en petit groupe. Et si vous cherchez une idée de cadeau, je vous invite à lire [offrir un atelier pizza à Noël](/blog/offrir-atelier-pizza-noel-lyon-idee-cadeau).
 

@@ -1,6 +1,6 @@
 ---
 titre: "Combien coûte une pizza party à domicile ?"
-description: "Ce qui fait varier le prix d'une pizza party à domicile à Lyon : invités, durée, pizzas choisies, distance. Devis gratuit, déplacement inclus dans {prix.rayonKm} km."
+description: "Ce qui fait varier le prix d'une pizza party à domicile à Lyon : invités, durée, pizzas choisies, distance. Devis gratuit, dans toute la région lyonnaise."
 date: 2026-10-23
 validé: true
 sujet: prix
@@ -14,7 +14,7 @@ questions:
   - q: "À partir de quel prix ?"
     a: "Une pizza party se fait sur devis, et ce devis est gratuit. Comme chaque événement est différent, le prix exact se fixe avec vous, après votre demande."
   - q: "Le déplacement est-il compris ?"
-    a: "Oui, dans un rayon de {prix.rayonKm} km autour de Lyon. Au-delà, je peux me déplacer si l'événement le justifie, en ajoutant des frais de déplacement que je précise dans le devis. Le stationnement payant est facturé au prix réel."
+    a: "Je me déplace dans toute la région lyonnaise. Selon la distance, des frais de déplacement peuvent s'ajouter ; je les précise dans le devis. Le stationnement payant est facturé au prix réel."
   - q: "Que dois-je acheter pour la soirée ?"
     a: "Vous n'avez rien à acheter pour les pizzas, puisque je m'occupe des ingrédients, de la pâte, du four, de la préparation et de la cuisson sur place."
   - q: "Comment réserver ?"
@@ -24,7 +24,7 @@ related:
   - { label: "Atelier ou pizza party : lequel choisir ?", href: "/blog/atelier-pizza-ou-pizza-party-lequel-choisir" }
   - { label: "Demander un devis", href: "/contact?atelier=pizza-party" }
 ---
-Une pizza party à domicile se fait sur devis, et ce devis est gratuit. Son prix dépend surtout du nombre d'invités, des pizzas choisies, du temps dont je dispose et de la distance. Dans les {{ prix.rayonKm }} km autour de Lyon, le déplacement est inclus.
+Une pizza party à domicile se fait sur devis, et ce devis est gratuit. Son prix dépend surtout du nombre d'invités, des pizzas choisies, du temps dont je dispose et de la distance.
 
 ## Pourquoi un devis plutôt qu'un prix fixe ?
 
@@ -54,7 +54,7 @@ Pour éviter l'attente, je peux aussi proposer des focaccias préparées à l'av
 
 ### La distance
 
-Dans les {{ prix.rayonKm }} km autour de Lyon, le déplacement est inclus dans le prix. Au-delà, je peux me déplacer si l'événement le justifie, en ajoutant des frais de déplacement que je précise dans le devis. Le stationnement payant est facturé au prix réel. Si vous connaissez une place gratuite près du lieu de la soirée, je vous remercie de me l'indiquer.
+Je me déplace dans toute la région lyonnaise. Selon la distance, des frais de déplacement peuvent s'ajouter ; je les précise dans le devis. Le stationnement payant est facturé au prix réel. Si vous connaissez une place gratuite près du lieu de la soirée, je vous remercie de me l'indiquer.
 
 ### Un événement sur mesure
 

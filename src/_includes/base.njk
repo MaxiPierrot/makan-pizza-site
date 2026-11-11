@@ -44,7 +44,7 @@
   "telephone": "{{ site.phoneIntl }}",
   "email": "{{ site.email }}",
   "description": "{{ site.description }}",
-  "areaServed": { "@type": "GeoCircle", "geoMidpoint": { "@type": "GeoCoordinates", "latitude": {{ prix.origine.lat }}, "longitude": {{ prix.origine.lon }} }, "geoRadius": {{ prix.rayonKm * 1000 }} },
+  "areaServed": [{ "@type": "City", "name": "Lyon" }, { "@type": "AdministrativeArea", "name": "Région lyonnaise" }],
   "sameAs": ["{{ site.instagram }}", "{{ site.facebook }}"]
 }
 </script>

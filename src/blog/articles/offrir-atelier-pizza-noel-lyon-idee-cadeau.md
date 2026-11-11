@@ -21,7 +21,7 @@ questions:
   - q: "Faut-il un four spécial pour l'atelier ?"
     a: "Pour l'atelier Bases, le four de la maison suffit. Pour l'initiation à la pizza napolitaine, en revanche, j'apporte mon four électrique."
   - q: "Où se passe l'atelier ?"
-    a: "L'atelier a lieu chez la personne qui reçoit le cadeau, ou dans le lieu de son choix, à Lyon et dans un rayon de {prix.rayonKm} km autour de Lyon."
+    a: "L'atelier a lieu chez la personne qui reçoit le cadeau, ou dans le lieu de son choix, à Lyon ou dans la région lyonnaise."
 related:
   - { label: "Offrir un bon cadeau", href: "/bon-cadeau" }
   - { label: "Atelier Bases de la pizza maison", href: "/atelier-pizza-lyon" }
@@ -82,7 +82,7 @@ J'arrive avec le matériel et les ingrédients de la pizza margherita. Nous comm
 
 Je garde volontairement des groupes réduits, de {{ prix.minPersonnes }} à {{ prix.maxPersonnes }} personnes, et jusqu'à {{ prix.maxPossible }} sur demande, afin que chacun ait sa place autour du plan de travail et que je puisse m'occuper de tout le monde. En atelier, ce qui plaît le plus, c'est de faire sa pizza soi-même, du début à la fin.
 
-L'atelier a lieu chez la personne, ou dans le lieu de son choix, à Lyon et dans un rayon de {{ prix.rayonKm }} km autour de Lyon. Dans cette zone, le déplacement est inclus ; au-delà, l'atelier reste possible, avec des frais de déplacement que je précise à l'avance.
+L'atelier a lieu chez la personne, ou dans le lieu de son choix, à Lyon ou dans la région lyonnaise. Selon la distance, des frais de déplacement peuvent s'ajouter ; je les précise dans le devis.
 
 ## Et si vous préférez offrir une soirée sans cuisiner ?
 
