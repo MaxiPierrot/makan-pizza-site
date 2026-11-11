@@ -27,7 +27,7 @@ related:
   - { label: "La carte des pizzas", href: "/carte" }
   - { label: "Questions fréquentes", href: "/faq" }
 ---
-Pour les fêtes de fin d'année, une pizza party à la maison change du repas assis qui dure des heures, pendant lequel la personne qui reçoit reste retenue en cuisine. Je viens avec mon four électrique, qui s'installe à l'intérieur, et je prépare les pizzas sur place, de sorte que vous restez avec vos invités pendant que les pizzas sortent du four au fil de la soirée. Elle se fait sur devis, et ce devis est gratuit.
+Pour les fêtes de fin d'année, une pizza party à la maison change du repas assis qui dure des heures, pendant lequel la personne qui reçoit reste retenue en cuisine. Je viens avec mon four électrique, qui s'installe à l'intérieur, et je prépare les pizzas sur place, de sorte que vous restez avec vos invités pendant que les pizzas sortent du four au fil de la soirée. Elle se fait sur devis.
 
 ## Pourquoi une pizza party pour les fêtes ?
 

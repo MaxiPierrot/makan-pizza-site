@@ -45,7 +45,7 @@ Je propose trois formules à domicile, à Lyon et dans la région lyonnaise, et 
 | Durée | 2h à 2h30 | 2h30 à 3h | Selon la soirée, précisé dans le devis |
 | Participants | {{ prix.minPersonnes }} à {{ prix.maxPersonnes }} personnes, jusqu'à {{ prix.maxPossible }} | {{ prix.minPersonnes }} à {{ prix.maxPersonnes }} personnes, jusqu'à {{ prix.maxPossible }} | Selon le nombre d'invités |
 | Four | Le vôtre | Le mien, électrique | Le mien |
-| Prix | {{ prix.bases }} € par personne | {{ prix.initiation }} € par personne | Sur devis gratuit |
+| Prix | {{ prix.bases }} € par personne | {{ prix.initiation }} € par personne | Sur devis |
 
 Selon la distance, des frais de déplacement peuvent s'ajouter ; je les précise dans le devis.
 
@@ -69,7 +69,7 @@ Pour un groupe de {{ prix.minPersonnes }} personnes, l'initiation revient à {{ 
 
 Avec la pizza party, vous ne préparez pas les pizzas, vous recevez. Je viens avec mon four et je prépare les pizzas de vos invités sur place, chez vous ou sur le lieu de votre événement, si bien qu'elles sortent du four au fil de la soirée. Je m'occupe des ingrédients, de la pâte, du four, de la préparation et de la cuisson.
 
-Cette formule est proposée sur devis, et ce devis est gratuit. Vous trouverez le détail de ce qui fait varier le prix dans l'article [combien coûte une pizza party à domicile](/blog/combien-coute-pizza-party-domicile-lyon).
+Cette formule est proposée sur devis. Vous trouverez le détail de ce qui fait varier le prix dans l'article [combien coûte une pizza party à domicile](/blog/combien-coute-pizza-party-domicile-lyon).
 
 ## Quelle formule selon l'occasion ?
 

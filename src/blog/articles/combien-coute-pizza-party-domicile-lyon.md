@@ -1,6 +1,6 @@
 ---
 titre: "Combien coûte une pizza party à domicile ?"
-description: "Ce qui fait varier le prix d'une pizza party à domicile à Lyon : invités, durée, pizzas choisies, distance. Devis gratuit, dans toute la région lyonnaise."
+description: "Ce qui fait varier le prix d'une pizza party à domicile à Lyon : invités, durée, pizzas choisies, distance. Sur devis, dans toute la région lyonnaise."
 date: 2026-10-23
 validé: true
 sujet: prix
@@ -12,7 +12,7 @@ photos:
 sansSourceExterne: true
 questions:
   - q: "À partir de quel prix ?"
-    a: "Une pizza party se fait sur devis, et ce devis est gratuit. Comme chaque événement est différent, le prix exact se fixe avec vous, après votre demande."
+    a: "Une pizza party se fait sur devis. Comme chaque événement est différent, le prix exact se fixe avec vous, après votre demande."
   - q: "Le déplacement est-il compris ?"
     a: "Je me déplace dans toute la région lyonnaise. Selon la distance, des frais de déplacement peuvent s'ajouter ; je les précise dans le devis. Le stationnement payant est facturé au prix réel."
   - q: "Que dois-je acheter pour la soirée ?"
@@ -24,7 +24,7 @@ related:
   - { label: "Atelier ou pizza party : lequel choisir ?", href: "/blog/atelier-pizza-ou-pizza-party-lequel-choisir" }
   - { label: "Demander un devis", href: "/contact?atelier=pizza-party" }
 ---
-Une pizza party à domicile se fait sur devis, et ce devis est gratuit. Son prix dépend surtout du nombre d'invités, des pizzas choisies, du temps dont je dispose et de la distance.
+Une pizza party à domicile se fait sur devis. Son prix dépend surtout du nombre d'invités, des pizzas choisies, du temps dont je dispose et de la distance.
 
 ## Pourquoi un devis plutôt qu'un prix fixe ?
 

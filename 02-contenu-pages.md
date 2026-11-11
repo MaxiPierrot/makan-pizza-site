@@ -49,7 +49,7 @@ Je ne livre pas de pizzas : je viens les faire sur place. Mes ateliers se font e
 **H2 : Ce que je propose** (id : ateliers) : trois cartes
 1. **Bases de la pizza maison** : Vous apprenez, entre amis, à faire une bonne pâte et de bonnes pizzas avec le four que vous avez déjà. 2h à 2h30, 4 à 6 personnes, jusqu'à 8. 59 € par personne. → /atelier-pizza-lyon
 2. **Initiation à la pizza napolitaine** : J'apporte mon four électrique et nous faisons ensemble des pizzas comparables à celles d'une pizzeria. 2h30 à 3h, 4 à 6 personnes, jusqu'à 8. 69 € par personne. → /atelier-pizza-napolitaine-lyon
-3. **Pizza party** : Je prépare les pizzas de vos invités sur place. Sur devis gratuit. → /pizza-party-domicile-lyon
+3. **Pizza party** : Je prépare les pizzas de vos invités sur place. Sur devis. → /pizza-party-domicile-lyon
 
 Sous les cartes : phrase sur les prix et le périmètre (voir "Éléments communs").
 
@@ -146,7 +146,7 @@ Si votre projet est de vous équiper, dites-le-moi à l'avance : nous pourrons o
 ## 4. Pizza party, `/pizza-party-domicile-lyon`
 
 **Title** : Pizzaiolo à domicile et pizza party à Lyon | Makan Pizza
-**Meta description** : Je viens avec mon four faire les pizzas de vos invités, chez vous ou sur le lieu de votre événement, à Lyon. Devis gratuit, réponse sous 24 h. [À CONFIRMER le prix]
+**Meta description** : Je viens avec mon four faire les pizzas de vos invités, chez vous ou sur le lieu de votre événement, à Lyon. Sur devis, réponse sous 24 h. [À CONFIRMER le prix]
 
 **H1** : Pizzaiolo à domicile : pizza party à Lyon
 
@@ -163,7 +163,7 @@ Signalez-les-moi dès votre demande, afin que j'en tienne compte dans le devis. 
 Je m'occupe de tout : les ingrédients, la pâte, le four, la préparation et la cuisson des pizzas sur place. Le nombre de pizzas dépend du nombre d'invités et du temps dont je dispose ; je vous indique dans le devis ce qui est réaliste.
 
 **H2 : Le tarif**
-Chaque événement étant différent, la pizza party se fait sur devis. Ce devis est gratuit, et je vous l'envoie sous 24 h après votre demande. Le déplacement est inclus dans un rayon de 10 km autour de Lyon. Au-delà, je peux me déplacer si l'événement le justifie ; des frais de déplacement s'ajoutent alors, et je les précise dans le devis.
+Chaque événement étant différent, la pizza party se fait sur devis, que je vous envoie sous 24 h après votre demande. Le déplacement est inclus dans un rayon de 10 km autour de Lyon. Au-delà, je peux me déplacer si l'événement le justifie ; des frais de déplacement s'ajoutent alors, et je les précise dans le devis.
 
 **Bouton** : `Demander un devis` (/contact?atelier=pizza-party) · lien secondaire : `Demander un événement sur mesure` (/contact?atelier=sur-mesure)
 
@@ -296,7 +296,7 @@ Oui, sur devis et selon l'événement. L'organisation est plus simple lorsque de
 L'atelier Bases coûte 59 € par personne et l'initiation à la pizza napolitaine 69 € par personne, à partir de 4 personnes. Le déplacement est inclus dans un rayon de 10 km ; au-delà, des frais de déplacement s'ajoutent. À titre indicatif, pour un groupe de 5 personnes, l'atelier revient à 295 € avec les Bases et à 345 € avec l'initiation.
 
 **Combien coûte un pizzaiolo à domicile pour une pizza party à Lyon ?**
-Une pizza party se fait sur devis, et ce devis est gratuit. Le tarif dépend du nombre d'invités, de la durée, du choix des pizzas et de la distance. Dans un rayon de 10 km, le déplacement est inclus ; au-delà, des frais de déplacement s'ajoutent. Je vous envoie le devis après votre [demande](/contact?atelier=pizza-party).
+Une pizza party se fait sur devis. Le tarif dépend du nombre d'invités, de la durée, du choix des pizzas et de la distance. Dans un rayon de 10 km, le déplacement est inclus ; au-delà, des frais de déplacement s'ajoutent. Je vous envoie le devis après votre [demande](/contact?atelier=pizza-party).
 
 **Où vous déplacez-vous, et le déplacement est-il facturé ?**
 Je me déplace à Lyon et dans un rayon de 10 km autour de Lyon 9e. Dans cette zone, le déplacement est inclus. Au-delà, je peux venir si l'événement le justifie ; des frais de déplacement s'ajoutent alors et je les précise dans le devis. Le stationnement payant est facturé au prix réel. Si vous connaissez une place gratuite près du lieu, indiquez-la-moi.
@@ -467,7 +467,7 @@ Brouillon à faire relire avant publication. Les passages entre crochets ne se p
 
 ## À valider par Pierre avant mise en ligne
 
-1. Pizza party : prix affiché ? Tranché le 11 nov. 2026 : non, uniquement « sur devis gratuit » (accueil, page pizza party, meta description, FAQ, blog).
+1. Pizza party : prix affiché ? Tranché le 11 nov. 2026 : non, uniquement « sur devis » (accueil, page pizza party, meta description, FAQ, blog).
 2. Solde le jour de la prestation : d'accord ?
 3. À prévoir chez le client (table, prise électrique, espace pour le four) : à préciser.
 4. Nom et adresse pour les mentions légales (voir la réponse dans la conversation sur l'adresse).
