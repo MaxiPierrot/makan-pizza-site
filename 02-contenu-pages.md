@@ -243,7 +243,7 @@ En 2017, je suis parti me former à la plongée en Asie. Le voyage m'a mené sur
 **H2 : Ma façon de travailler**
 Je ne rogne jamais sur la farine ni sur la tomate, parce que c'est ce qui fait la pizza. Pour la mozzarella, j'utilise uniquement de la fior di latte. Pour étaler la pâte, je saupoudre le plan de travail de semoule, jamais de farine.
 
-Je suis convaincu qu'une vraie pizza ne coûte presque rien à préparer soi-même, et qu'elle se partage d'autant mieux qu'on l'a faite ensemble. Mes ateliers ont un but simple : vous donner les moyens de vous passer des pizzas industrielles et surgelées. Je les limite à un petit groupe, pour que chacun cuisine sans se presser et profite du moment.
+Je suis convaincu qu'une vraie pizza ne coûte presque rien à préparer soi-même, et qu'elle se partage d'autant mieux qu'on l'a faite ensemble. Mes ateliers ont un but simple : vous donner les moyens de vous passer des pizzas industrielles et surgelées. Je propose des ateliers en groupes volontairement réduits, pour que chacun cuisine sans se presser et profite du moment.
 
 **Bouton** : `Demander un devis`
 
