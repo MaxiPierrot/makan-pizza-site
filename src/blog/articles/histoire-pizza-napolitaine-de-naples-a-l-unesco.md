@@ -10,7 +10,7 @@ photos:
   - fichier: pizzaiolo-etire-pate-a-pizza
     alt: "Une main soulève une grande abaisse de pâte à pizza au-dessus d'un plan de travail en granit saupoudré de farine"
   - fichier: pizza-napolitaine-four-a-bois-cuisson
-    alt: "Une pizza margherita à la mozzarella fondue, posée sur la sole d'un four à bois devant les flammes, avec un bord gonflé et des taches de cuisson"
+    alt: "Une pizza margherita à la mozzarella fondue, posée sur la pierre d'un four à bois devant les flammes, avec un bord gonflé et des taches de cuisson"
 sources:
   - titre: "Règlement (UE) n° 97/2010 de la Commission du 4 février 2010 enregistrant une dénomination dans le registre des spécialités traditionnelles garanties [Pizza Napoletana (STG)]"
     url: "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:034:0007:0016:fr:PDF"

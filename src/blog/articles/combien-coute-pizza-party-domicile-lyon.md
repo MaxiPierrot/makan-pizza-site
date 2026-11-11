@@ -8,7 +8,7 @@ offre: pizza-party
 photo_pierre: false
 photos:
   - fichier: pizza-napolitaine-four-a-bois-cuisson
-    alt: "Une pizza margherita à la mozzarella fondue, posée sur la sole d'un four à bois devant les flammes, avec un bord gonflé et des taches de cuisson"
+    alt: "Une pizza margherita à la mozzarella fondue, posée sur la pierre d'un four à bois devant les flammes, avec un bord gonflé et des taches de cuisson"
 sansSourceExterne: true
 questions:
   - q: "À partir de quel prix ?"

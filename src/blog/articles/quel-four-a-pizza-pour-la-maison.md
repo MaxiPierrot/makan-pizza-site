@@ -16,7 +16,7 @@ sources:
     url: "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:034:0007:0016:fr:PDF"
     editeur: "EUR-Lex, Journal officiel de l'Union européenne"
     consulte: 2026-10-22
-    note: "Cuisson exclusivement dans un four à bois, environ 485 °C sur la sole, environ 430 °C à la voûte, 60 à 90 secondes."
+    note: "Cuisson exclusivement dans un four à bois, environ 485 °C sur la pierre, environ 430 °C à la voûte, 60 à 90 secondes."
   - titre: "Monoxyde de carbone"
     url: "https://www.iledefrance.ars.sante.fr/monoxyde-de-carbone-1"
     editeur: "Agence régionale de santé Île-de-France"
@@ -42,7 +42,7 @@ Pour un four à pizza convenable, il faut compter {{ prix.fourMin }} € minimum
 
 Une pizza napolitaine repose sur une pâte qui a fermenté longtemps, un four très chaud et une cuisson d'environ 90 secondes, si bien que le four fait une grande partie du travail.
 
-À titre de repère, le cahier des charges européen de la pizza napolitaine STG (spécialité traditionnelle garantie) prévoit une cuisson exclusivement dans un four à bois, avec une température d'environ 485 °C sur la sole, d'environ 430 °C à la voûte, et une cuisson de 60 à 90 secondes. Ce texte fait référence pour la pizza napolitaine STG, mais personne ne vous demande de le respecter chez vous : il sert seulement à comprendre ce que l'on cherche, c'est-à-dire une chaleur forte et une cuisson courte.
+À titre de repère, le cahier des charges européen de la pizza napolitaine STG (spécialité traditionnelle garantie) prévoit une cuisson exclusivement dans un four à bois, avec une température d'environ 485 °C sur la pierre, d'environ 430 °C à la voûte, et une cuisson de 60 à 90 secondes. Ce texte fait référence pour la pizza napolitaine STG, mais personne ne vous demande de le respecter chez vous : il sert seulement à comprendre ce que l'on cherche, c'est-à-dire une chaleur forte et une cuisson courte.
 
 De mon côté, je travaille avec un four électrique qui monte jusqu'à 500°C et cuit une pizza en 90 secondes environ.
 
@@ -69,7 +69,7 @@ Le four que vous avez déjà peut suffire pour commencer, surtout si vous posez 
 ## Les critères pour choisir
 
 - **La température maximale** et le temps de chauffe annoncés par le fabricant, puisque plus le four monte haut, plus la cuisson est courte.
-- **La taille de la sole**, qui fixe le diamètre des pizzas et le nombre de pizzas que vous pouvez enchaîner quand vous recevez.
+- **La taille de la pierre**, qui fixe le diamètre des pizzas et le nombre de pizzas que vous pouvez enchaîner quand vous recevez.
 - **Le lieu d'installation** (intérieur, jardin ou terrasse), qui décide du type d'énergie possible.
 - **L'énergie** disponible, qu'il s'agisse d'une prise électrique, d'une bouteille de gaz ou d'un stock de bois, avec la logistique qu'elle suppose pour chaque soir de cuisson.
 - **L'encombrement et le poids**, surtout si vous devez le ranger entre deux utilisations.

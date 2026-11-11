@@ -1,6 +1,6 @@
 ---
 titre: "Pourquoi une pizza napolitaine cuit à 500 °C en 90 secondes"
-description: "485 °C à la sole, 60 à 90 secondes : ce que prévoit le cahier des charges de la napolitaine, ce que cela change dans la pizza et comment s'en approcher chez soi."
+description: "485 °C sur la pierre, 60 à 90 secondes : ce que prévoit le cahier des charges de la napolitaine, ce que cela change dans la pizza et comment s'en approcher chez soi."
 date: 2027-01-01
 validé: true
 sujet: cuisson
@@ -8,16 +8,16 @@ offre: initiation
 photo_pierre: false
 photos:
   - fichier: pizza-napolitaine-four-a-bois-cuisson
-    alt: "Une pizza margherita à la mozzarella fondue, posée sur la sole d'un four à bois devant les flammes, avec un bord gonflé et des taches de cuisson"
+    alt: "Une pizza margherita à la mozzarella fondue, posée sur la pierre d'un four à bois devant les flammes, avec un bord gonflé et des taches de cuisson"
 sources:
   - titre: "Règlement (UE) n° 97/2010 de la Commission du 4 février 2010 enregistrant une dénomination dans le registre des spécialités traditionnelles garanties [Pizza Napoletana (STG)]"
     url: "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:034:0007:0016:fr:PDF"
     editeur: "EUR-Lex, Journal officiel de l'Union européenne"
     consulte: 2026-10-23
-    note: "Cuisson dans un four à bois, environ 485 °C sur la sole, environ 430 °C à la voûte, 60 à 90 secondes ; températures atteintes : pâte 60 à 65 °C, tomate 75 à 80 °C, huile 75 à 85 °C, mozzarella 65 à 70 °C."
+    note: "Cuisson dans un four à bois, environ 485 °C sur la pierre, environ 430 °C à la voûte, 60 à 90 secondes ; températures atteintes : pâte 60 à 65 °C, tomate 75 à 80 °C, huile 75 à 85 °C, mozzarella 65 à 70 °C."
 questions:
   - q: "Pourquoi 485 °C dans le texte et 500 °C pour votre four ?"
-    a: "Le cahier des charges de la pizza napolitaine STG parle d'environ 485 °C sur la sole d'un four à bois. Mon four est électrique et monte jusqu'à 500°C. Les deux valeurs sont donc très proches, mais elles concernent deux fours différents."
+    a: "Le cahier des charges de la pizza napolitaine STG parle d'environ 485 °C sur la pierre d'un four à bois. Mon four est électrique et monte jusqu'à 500°C. Les deux valeurs sont donc très proches, mais elles concernent deux fours différents."
   - q: "Peut-on cuire une napolitaine dans un four ménager ?"
     a: "Oui, vous obtiendrez une bonne pizza, même si elle ne sera pas identique à celle que l'on cuit à très haute température. Il suffit de regarder la température maximale indiquée dans la notice de votre four, de le préchauffer longtemps avec une pierre à pizza et d'accepter un résultat un peu différent, ce qui est justement le principe de l'atelier Bases de la pizza maison."
   - q: "Faut-il un four à bois ?"
@@ -27,7 +27,7 @@ related:
   - { label: "Atelier Bases de la pizza maison", href: "/atelier-pizza-lyon" }
   - { label: "Questions fréquentes", href: "/faq" }
 ---
-Une pizza napolitaine cuit à très haute température et très rapidement parce que le résultat recherché est un bord gonflé et doré, un centre tendre, et une garniture qui ne dessèche pas. Le cahier des charges européen de la pizza napolitaine STG fixe des chiffres précis : environ 485 °C sur la sole du four, environ 430 °C à la voûte, et une cuisson de 60 à 90 secondes. Mon four électrique monte jusqu'à 500°C et cuit une pizza en 90 secondes environ.
+Une pizza napolitaine cuit à très haute température et très rapidement parce que le résultat recherché est un bord gonflé et doré, un centre tendre, et une garniture qui ne dessèche pas. Le cahier des charges européen de la pizza napolitaine STG fixe des chiffres précis : environ 485 °C sur la pierre du four, environ 430 °C à la voûte, et une cuisson de 60 à 90 secondes. Mon four électrique monte jusqu'à 500°C et cuit une pizza en 90 secondes environ.
 
 ## Ce que dit le cahier des charges
 
@@ -35,11 +35,11 @@ Le texte publié au Journal officiel de l'Union européenne en 2010 est très pr
 
 Le texte donne ainsi trois repères :
 
-- une température d'environ 485 °C sur la sole du four ;
+- une température d'environ 485 °C sur la pierre du four ;
 - une température d'environ 430 °C à la voûte ;
 - un temps de cuisson de 60 à 90 secondes.
 
-Le pizzaiolo contrôle la cuisson en soulevant un côté de la pizza avec une pelle métallique, puis en la tournant vers le feu. Il utilise toujours la même zone de sole, afin que la différence de température ne brûle pas la pizza et que celle-ci cuise de manière uniforme sur toute sa circonférence.
+Le pizzaiolo contrôle la cuisson en soulevant un côté de la pizza avec une pelle métallique, puis en la tournant vers le feu. Il utilise toujours la même zone de la pierre, afin que la différence de température ne brûle pas la pizza et que celle-ci cuise de manière uniforme sur toute sa circonférence.
 
 ## Ce qui se passe dans la pizza
 
@@ -62,7 +62,7 @@ Un four ménager n'atteint pas ces températures. Sa température maximale est i
 
 Quelques gestes vous aideront toutefois à vous approcher du résultat.
 
-1. **Préchauffer longtemps** le four au maximum, avec une pierre ou une plaque à l'intérieur, car la sole doit être très chaude avant d'enfourner.
+1. **Préchauffer longtemps** le four au maximum, avec une pierre ou une plaque à l'intérieur, car cette surface doit être très chaude avant d'enfourner.
 2. **Garnir peu**, puisque le texte prévoit de 60 à 100 g de tomates et 80 à 100 g de mozzarella pour une pizza de 35 cm au plus, et qu'une garniture trop abondante cuit mal.
 3. **Surveiller et tourner** la pizza, comme le fait le pizzaiolo, si elle colore d'un seul côté.
 4. **Ne pas ouvrir le four trop souvent,** car chaque ouverture fait perdre de la chaleur.
