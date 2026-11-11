@@ -17,18 +17,13 @@ sources:
     editeur: "EUR-Lex, Journal officiel de l'Union européenne"
     consulte: 2026-10-22
     note: "Cuisson exclusivement dans un four à bois, environ 485 °C sur la pierre, environ 430 °C à la voûte, 60 à 90 secondes."
-  - titre: "Monoxyde de carbone"
-    url: "https://www.iledefrance.ars.sante.fr/monoxyde-de-carbone-1"
-    editeur: "Agence régionale de santé Île-de-France"
-    consulte: 2026-10-22
-    note: "Consignes sur les appareils à combustion et sur l'usage d'un barbecue ou d'un brasero à l'intérieur."
 questions:
   - q: "Quel budget prévoir pour un four à pizza ?"
-    a: "Pour un four qui convient, il faut compter {prix.fourMin} € minimum."
+    a: "Pour un four convenable, il faut compter {prix.fourMin} € minimum."
   - q: "Un four ménager suffit-il ?"
     a: "Pour l'atelier Bases de la pizza maison, un four domestique suffit, avec une pierre à pizza si vous en avez une ; dans le cas contraire, comptez environ {prix.accessoiresBases} € pour la pierre et quelques accessoires. Pour une pizza napolitaine, en revanche, je travaille avec un four qui monte jusqu'à 500°C."
   - q: "Peut-on utiliser un four à gaz ou à bois à l'intérieur ?"
-    a: "Il faut avant tout suivre le mode d'emploi du fabricant. L'agence régionale de santé d'Île-de-France rappelle qu'il ne faut pas utiliser un barbecue ou un brasero à l'intérieur. Un four à combustion demande la même prudence."
+    a: "Il faut avant tout suivre le mode d'emploi du fabricant. Par simple prudence, un appareil qui brûle du gaz ou du bois s'utilise dehors ou dans un lieu prévu pour cela, jamais dans une pièce fermée."
   - q: "Pouvez-vous m'aider à choisir un four ?"
     a: "Oui, je peux vous aider avant ou pendant l'initiation. Si votre projet est de vous équiper, prévenez-moi à l'avance, afin que nous puissions organiser l'atelier avec votre propre four."
 related:
@@ -78,7 +73,7 @@ Le four que vous avez déjà peut suffire pour commencer, surtout si vous posez 
 
 ## Un four à combustion à l'intérieur : la règle de prudence
 
-L'agence régionale de santé d'Île-de-France rappelle de respecter scrupuleusement les consignes d'utilisation des appareils à combustion, en se référant au mode d'emploi du fabricant, et de ne pas utiliser un barbecue ou un brasero à l'intérieur. La même logique s'applique à un four à gaz ou à bois : il faut suivre la notice et choisir un lieu extérieur ou prévu pour cela.
+Un four à gaz ou à bois brûle un combustible et peut dégager du monoxyde de carbone, un gaz invisible et sans odeur. Quelques règles de prudence s'imposent donc : suivre la notice du fabricant, utiliser le four dehors ou dans un lieu prévu pour cela, ne jamais l'allumer dans une pièce fermée, et le tenir éloigné de tout ce qui peut s'enflammer.
 
 ## Comment tester avant d'acheter ?
 
