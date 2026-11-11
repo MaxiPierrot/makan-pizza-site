@@ -59,7 +59,7 @@ Une pizza party peut aussi remplacer le repas du réveillon pour ceux qui souhai
 
 J'arrive avant vos invités, avec la pâte et les ingrédients des pizzas choisies, pour installer le four et préparer mon poste de travail. Une fois le four chaud, je façonne, je garnis et je cuis les pizzas l'une après l'autre.
 
-Je prépare entre 12 et 18 pizzas par heure selon les recettes, ce qui représente, sur une soirée, une vingtaine de pizzas qui sortent régulièrement. Seul, je peux servir des pizzas à environ 25 personnes, et il est possible d'aller jusqu'à 40 personnes en ajoutant, sur devis, des focaccias préparées à l'avance.
+Je prépare environ une quinzaine de pizzas par heure, selon les recettes choisies. Seul, je peux servir des pizzas à environ 25 personnes, et il est possible d'aller jusqu'à 40 personnes en ajoutant, sur devis, des focaccias préparées à l'avance.
 
 Comme mon four est électrique, il fonctionne à l'intérieur. En décembre, vous n'avez donc besoin ni de terrasse, ni de jardin, ni de beau temps.
 

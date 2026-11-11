@@ -171,20 +171,16 @@ Photo suggérée : `pizza-devant-four-exterieur`
 
 **Facebook**
 Le nouveau site de Makan Pizza est en ligne : https://makanpizza.com
-Vous y trouverez les ateliers, la pizza party, la carte et quelques articles pour ceux qui aiment comprendre ce qui se passe dans la pâte.
+Vous y trouverez les ateliers, la pizza party, une galerie de mes pizzas et quelques articles pour ceux qui aiment comprendre ce qui se passe dans la pâte.
 Il est désormais possible d'offrir un atelier pizza à domicile, à Lyon et dans la région lyonnaise. Vous réglez par virement, je vous envoie le bon cadeau en PDF dès réception, puis nous choisissons ensemble la date de l'atelier. Le bon est valable 12 mois.
-L'atelier Bases de la pizza maison est proposé à 59 € par personne et l'initiation à la pizza napolitaine à 69 € par personne, de 4 à 8 personnes, avec une facturation à partir de 4 personnes.
-À partir du lundi 16 novembre et jusqu'au 24 décembre inclus, l'atelier Bases de la pizza maison s'accompagne d'une pierre à pizza offerte à l'hôte, et l'initiation à la pizza napolitaine bénéficie d'une remise de 10 %, pour tout atelier réservé ou offert pendant cette période.
 Tout est expliqué ici : https://makanpizza.com/bon-cadeau
 Pour toute question, écrivez-moi sur WhatsApp au 06 99 17 18 38.
 Pizza napolitaine à domicile ou ailleurs...
 
 **Instagram**
 Le nouveau site est en ligne 🎁
-Vous y trouverez les ateliers, la pizza party, la carte et des articles.
+Vous y trouverez les ateliers, la pizza party, une galerie de mes pizzas et des articles.
 Vous pouvez désormais offrir un atelier pizza à domicile, à Lyon et dans la région lyonnaise : le bon cadeau arrive en PDF après le virement, il est valable 12 mois, et nous choisissons la date ensemble.
-Atelier Bases de la pizza maison : 59 € par personne. Initiation à la pizza napolitaine : 69 € par personne. De 4 à 8 personnes, facturation à partir de 4.
-Du 16 novembre au 24 décembre inclus : une pierre à pizza offerte à l'hôte pour l'atelier Bases de la pizza maison, une remise de 10 % sur l'initiation à la pizza napolitaine.
 Le lien est dans la bio.
 Pizza napolitaine à domicile ou ailleurs...
 #lyon #pizzalyon #atelierpizza #ideecadeau #makanpizza
@@ -276,8 +272,9 @@ Vidéo : `marketing/Lancement site/video-noel-site.mp4` (44 s, musique comprise 
 
 **Facebook**
 Pour Noël, deux attentions sur les ateliers pizza à domicile 🎄
-Atelier Bases de la pizza maison : une pierre à pizza est offerte à l'hôte, pour continuer à faire ses pizzas après l'atelier.
-Initiation à la pizza napolitaine : une remise de 10 %.
+Atelier Bases de la pizza maison, 59 € par personne : une pierre à pizza est offerte à l'hôte, pour continuer à faire ses pizzas après l'atelier.
+Initiation à la pizza napolitaine, 69 € par personne : une remise de 10 %.
+Chaque atelier réunit de 4 à 8 personnes, avec une facturation à partir de 4 personnes.
 L'offre s'applique aux ateliers réservés ou offerts en bon cadeau du 16 novembre au 24 décembre inclus.
 La pizza party reste proposée sur devis.
 Faites votre estimation en quelques minutes sur https://makanpizza.com, ou écrivez-moi sur WhatsApp au 06 99 17 18 38.
@@ -285,8 +282,9 @@ Pizza napolitaine à domicile ou ailleurs...
 
 **Instagram**
 Pour Noël, deux attentions sur les ateliers 🎄
-Atelier Bases de la pizza maison : une pierre à pizza offerte à l'hôte.
-Initiation à la pizza napolitaine : une remise de 10 %.
+Atelier Bases de la pizza maison, 59 € par personne : une pierre à pizza offerte à l'hôte.
+Initiation à la pizza napolitaine, 69 € par personne : une remise de 10 %.
+De 4 à 8 personnes, facturation à partir de 4.
 L'offre s'applique aux ateliers réservés ou offerts du 16 novembre au 24 décembre inclus.
 La pizza party reste proposée sur devis.
 Faites votre estimation en quelques minutes sur le site ; le lien est dans la bio.

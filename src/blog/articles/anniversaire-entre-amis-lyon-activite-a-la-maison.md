@@ -54,7 +54,7 @@ Vous pouvez aussi offrir l'atelier à plusieurs à la personne dont vous fêtez 
 
 Si vous êtes plus nombreux, ou si vous préférez rester avec vos invités, la pizza party est la formule adaptée. Je viens avec mon four, je m'occupe des ingrédients et de la pâte, et je prépare les pizzas sur place. Elles sortent du four au fil de la soirée, pendant que vous profitez de la fête.
 
-Je prépare entre 12 et 18 pizzas par heure, selon les recettes choisies, ce qui me permet de servir seul environ 25 personnes. Il est possible d'aller jusqu'à 40 personnes, sur devis, en ajoutant des focaccias préparées à l'avance qui font patienter à l'apéritif. Au-delà, je ne pourrai pas vous servir seul.
+Je prépare environ une quinzaine de pizzas par heure, selon les recettes choisies, ce qui me permet de servir seul environ 25 personnes. Il est possible d'aller jusqu'à 40 personnes, sur devis, en ajoutant des focaccias préparées à l'avance qui font patienter à l'apéritif. Au-delà, je ne pourrai pas vous servir seul.
 
 Nous choisissons les pizzas ensemble dans la carte, qui réunit des classiques et des créations plus originales. Pour un anniversaire ou une soirée à thème, je peux aussi adapter les recettes. Une pizza party est proposée sur devis : son prix dépend du nombre d'invités, de la durée, du choix des pizzas et de la distance.
 

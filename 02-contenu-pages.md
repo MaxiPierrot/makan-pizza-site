@@ -288,7 +288,7 @@ Oui, selon le nombre d'enfants. Pendant que les parents profitent de leur repas 
 Je viens pour un anniversaire, un EVJF ou un EVG, un baby shower, ou simplement pour une soirée entre amis. Je peux aussi créer un événement sur mesure, avec des recettes liées à votre thème et un déroulement adapté à vos souhaits. Décrivez-moi votre projet dans votre demande de [devis](/contact?atelier=sur-mesure).
 
 **Faites-vous des événements pour des associations ou des brocantes ?**
-Oui, sur devis et selon l'événement. L'organisation est plus simple lorsque des bénévoles peuvent aider. Comme je travaille seul, le nombre de pizzas dépend de mon rythme, entre 12 et 18 pizzas par heure. Décrivez-moi votre événement, le nombre de personnes attendu et le lieu dans votre [demande](/contact?atelier=sur-mesure).
+Oui, sur devis et selon l'événement. L'organisation est plus simple lorsque des bénévoles peuvent aider. Comme je travaille seul, le nombre de pizzas dépend de mon rythme, soit environ une quinzaine de pizzas par heure. Décrivez-moi votre événement, le nombre de personnes attendu et le lieu dans votre [demande](/contact?atelier=sur-mesure).
 
 ### Tarifs, zone et déplacement
 
@@ -310,7 +310,7 @@ Je ne m'occupe pas de la vaisselle, qui reste à votre charge. Les boissons peuv
 Un atelier réunit de 4 à 8 personnes. Il est facturé au minimum pour 4 personnes, y compris pour un groupe de 2 ou 3. Je garde volontairement des groupes réduits : chacun a sa place autour du plan de travail, les échanges restent faciles et je peux m'occuper de chaque participant. Si vous êtes plus nombreux, écrivez-moi : nous étudierons ensemble les possibilités.
 
 **Combien d'invités et combien de pizzas pour une pizza party ?**
-Je prépare entre 12 et 18 pizzas par heure, selon les recettes choisies. Seul, je peux servir des pizzas à environ 25 personnes. Il est possible d'aller jusqu'à 40 personnes en ajoutant des focaccias préparées à l'avance, sur devis. Au-delà, je ne peux pas assurer le service seul.
+Je prépare environ une quinzaine de pizzas par heure, selon les recettes choisies. Seul, je peux servir des pizzas à environ 25 personnes. Il est possible d'aller jusqu'à 40 personnes en ajoutant des focaccias préparées à l'avance, sur devis. Au-delà, je ne peux pas assurer le service seul.
 
 **Combien de temps dure un atelier pizza ?**
 L'atelier Bases de la pizza maison dure de 2h à 2h30. L'initiation à la pizza napolitaine dure de 2h30 à 3h.
@@ -336,7 +336,7 @@ Oui. Nous les choisissons ensemble dans la carte, qui propose des classiques et 
 Je prépare principalement des pizzas. Je peux ajouter des focaccias avec des dips, préparées à l'avance, pour accompagner les pizzas ou pour l'apéritif. Je ne fais pas de menu complet avec entrée et dessert.
 
 **Venez-vous avec un camion ?**
-Non, je viens avec mon four électrique et mon matériel, sans camion. Le nombre de pizzas dépend de mon rythme, entre 12 et 18 pizzas par heure, selon les recettes.
+Non, je viens avec mon four électrique et mon matériel, sans camion. Le nombre de pizzas dépend de mon rythme, soit environ une quinzaine de pizzas par heure, selon les recettes.
 
 ### Le jour J, allergies et régimes
 
