@@ -24,7 +24,7 @@ questions:
     a: "Décembre compte peu de week-ends et beaucoup de repas, si bien que plus vous me contactez tôt, plus il reste de dates."
 related:
   - { label: "Pizza party à domicile", href: "/pizza-party-domicile-lyon" }
-  - { label: "La carte des pizzas", href: "/carte" }
+  - { label: "Mes pizzas en photos", href: "/galerie" }
   - { label: "Questions fréquentes", href: "/faq" }
 ---
 Pour les fêtes de fin d'année, une pizza party à la maison change du repas assis qui dure des heures, pendant lequel la personne qui reçoit reste retenue en cuisine. Je viens avec mon four électrique, qui s'installe à l'intérieur, et je prépare les pizzas sur place, de sorte que vous restez avec vos invités pendant que les pizzas sortent du four au fil de la soirée. Elle se fait sur devis.
@@ -71,7 +71,7 @@ Tout dépend de vos invités et du reste du repas. Si la pizza party constitue l
 
 ## Quelles pizzas pour les fêtes ?
 
-Nous choisissons les pizzas ensemble dans [la carte](/carte), parmi des classiques comme la margherita et des créations plus originales. Pour une soirée de fêtes, on peut prévoir une ou deux recettes un peu plus gourmandes à côté des classiques, afin que chacun trouve la sienne.
+Nous choisissons les pizzas ensemble dans la carte, parmi des classiques comme la margherita et des créations plus originales. Pour une soirée de fêtes, on peut prévoir une ou deux recettes un peu plus gourmandes à côté des classiques, afin que chacun trouve la sienne.
 
 [À COMPLÉTER PAR PIERRE : une pizza de saison ou une recette que tu aimes servir l'hiver, si tu en as une]
 

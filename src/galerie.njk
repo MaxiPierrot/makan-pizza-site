@@ -1,0 +1,22 @@
+---
+layout: page.njk
+permalink: /galerie.html
+path: /galerie
+crumb: "Galerie"
+title: "Mes pizzas en photos | Makan Pizza"
+description: "Quelques pizzas napolitaines préparées par Pierre, de Makan Pizza : margherita, mortadelle et pistache, jambon cru, burrata. Ateliers et pizza party à Lyon."
+h1: "Mes pizzas"
+lead: "Voici quelques pizzas préparées chez moi ou lors de soirées entre amis. La carte complète arrivera bientôt, avec de nouvelles photos."
+whatsappText: "Bonjour, j'ai vu vos pizzas sur le site et je voudrais des informations."
+---
+{# Galerie temporaire : remplace la page « La carte » (en pause) jusqu'à la séance photo. Photos : src/_data/galerie.js #}
+<section class="section">
+  <div class="container">
+    <ul class="galerie">
+      {% for p in galerie %}
+      <li><div class="photo-slot galerie__photo"><img src="{{ p.small }}" srcset="{{ p.small }} 600w, {{ p.src }} 1200w" sizes="(min-width: 900px) 33vw, 50vw" alt="{{ p.alt }}" width="600" height="600" loading="{{ 'eager' if loop.index <= 4 else 'lazy' }}" decoding="async"></div></li>
+      {% endfor %}
+    </ul>
+    <p class="date-cta__actions"><a href="/contact" class="btn btn--primary">Demander une date</a></p>
+  </div>
+</section>

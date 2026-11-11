@@ -87,7 +87,7 @@ Le plus souvent, la cuisson est en cause. La napolitaine cuit très chaud et tr�
 
 ## Comment éviter ces erreurs en pratique
 
-La lecture est utile, mais le geste s'apprend surtout en le pratiquant. Dans l'[atelier Bases](/atelier-pizza-lyon), nous travaillons la pâte à la main avec le four que vous avez déjà, et nous regardons ensemble ce qui fonctionne et ce qu'il faut corriger. Aucun niveau n'est demandé. Une pizza qui n'est pas parfaitement ronde n'en est pas moins bonne. Si vous souhaitez ensuite passer à la cuisson napolitaine dans un four à 500°C, c'est l'objet de l'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon).
+La lecture est utile, mais le geste s'apprend surtout en le pratiquant. Dans l'[atelier Bases de la pizza maison](/atelier-pizza-lyon), nous travaillons la pâte à la main avec le four que vous avez déjà, et nous regardons ensemble ce qui fonctionne et ce qu'il faut corriger. Aucun niveau n'est demandé. Une pizza qui n'est pas parfaitement ronde n'en est pas moins bonne. Si vous souhaitez ensuite passer à la cuisson napolitaine dans un four à 500°C, c'est l'objet de l'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon).
 
 ## En résumé
 

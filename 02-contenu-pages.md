@@ -44,11 +44,11 @@ Je viens chez vous avec mon four pour un moment entre amis : nous faisons la pâ
 **H2 : Une vraie pizza napolitaine, chez vous**
 Une pizza napolitaine repose sur une pâte qui a fermenté longtemps, un four très chaud et une cuisson d'environ 90 secondes. Je reproduis ces conditions chez vous, dans votre salon, votre jardin ou la salle de votre événement. Pour l'initiation et la pizza party, j'apporte mon four.
 
-Je ne livre pas de pizzas : je viens les faire sur place. Mes ateliers se font en petit groupe, idéalement de 4 à 6 personnes, et jusqu'à 8 sur demande. Chacun a sa place autour du plan de travail. Nous prenons le temps de discuter et de rire, puis nous mangeons ensemble à la fin.
+Je ne livre pas de pizzas : je viens les faire sur place. Mes ateliers se font en petit groupe, de 4 à 8 personnes. Chacun a sa place autour du plan de travail. Nous prenons le temps de discuter et de rire, puis nous mangeons ensemble à la fin.
 
 **H2 : Ce que je propose** (id : ateliers) : trois cartes
-1. **Bases de la pizza maison** : Vous apprenez, entre amis, à faire une bonne pâte et de bonnes pizzas avec le four que vous avez déjà. 2h à 2h30, 4 à 6 personnes, jusqu'à 8. 59 € par personne. → /atelier-pizza-lyon
-2. **Initiation à la pizza napolitaine** : J'apporte mon four électrique et nous faisons ensemble des pizzas comparables à celles d'une pizzeria. 2h30 à 3h, 4 à 6 personnes, jusqu'à 8. 69 € par personne. → /atelier-pizza-napolitaine-lyon
+1. **Bases de la pizza maison** : Vous apprenez, entre amis, à faire une bonne pâte et de bonnes pizzas avec le four que vous avez déjà. 2h à 2h30, 4 à 8 personnes. 59 € par personne. → /atelier-pizza-lyon
+2. **Initiation à la pizza napolitaine** : J'apporte mon four électrique et nous faisons ensemble des pizzas comparables à celles d'une pizzeria. 2h30 à 3h, 4 à 8 personnes. 69 € par personne. → /atelier-pizza-napolitaine-lyon
 3. **Pizza party** : Je prépare les pizzas de vos invités sur place. Sur devis. → /pizza-party-domicile-lyon
 
 Sous les cartes : phrase sur les prix et le périmètre (voir "Éléments communs").
@@ -71,22 +71,22 @@ Dites-moi la date, le nombre de personnes et l'occasion. Si vous souhaitez quelq
 
 ---
 
-## 2. Atelier Bases, `/atelier-pizza-lyon`
+## 2. Atelier Bases de la pizza maison, `/atelier-pizza-lyon`
 
 **Title** : Atelier pizza à domicile à Lyon, dès 59 € | Makan Pizza
-**Meta description** : Apprenez à faire une pâte à pizza maison chez vous, avec votre four. Atelier de 2h à 2h30 pour 4 à 6 personnes, jusqu'à 8 sur demande, à 59 € par personne, à Lyon et dans un rayon de 10 km.
+**Meta description** : Apprenez à faire une pâte à pizza maison chez vous, avec votre four. Atelier de 2h à 2h30 pour 4 à 8 personnes, à 59 € par personne, à Lyon et dans un rayon de 10 km.
 
 **H1** : Atelier pizza à domicile à Lyon : les bases de la pizza maison
 
 **Encadré de faits**
 - Durée : 2h à 2h30
-- Participants : 4 à 6 personnes (jusqu'à 8 sur demande)
+- Participants : 4 à 8 personnes
 - Tarif : 59 € par personne (minimum 4 personnes)
 - Lieu : chez vous, Lyon et 10 km autour
 - À avoir : un four domestique
 
 **Introduction**
-Cet atelier s'adresse à ceux qui veulent réussir leurs pizzas maison sans changer d'équipement, tout en passant un bon moment entre amis. Nous partons d'une recette de pâte fiable et de ce que vous avez déjà dans votre cuisine. Comme le groupe réunit idéalement de 4 à 6 personnes, et 8 au plus, je peux m'occuper de chacun et l'ambiance reste détendue.
+Cet atelier s'adresse à ceux qui veulent réussir leurs pizzas maison sans changer d'équipement, tout en passant un bon moment entre amis. Nous partons d'une recette de pâte fiable et de ce que vous avez déjà dans votre cuisine. Comme le groupe réunit de 4 à 8 personnes, je peux m'occuper de chacun et l'ambiance reste détendue.
 
 **H2 : Au programme**
 Nous travaillons la pâte à la main. Après une présentation des farines, nous pétrissons la pâte et boulons les pâtons, puis chacun étale et garnit sa pizza selon ses goûts. La cuisson se fait dans votre four, et je vous aide à en tirer le meilleur parti. Le repas a lieu à la fin, tous ensemble, autour des pizzas préparées pendant l'atelier.
@@ -115,13 +115,13 @@ Cet atelier est pensé pour les amis et la famille, qu'il s'agisse d'un annivers
 
 **Encadré de faits**
 - Durée : 2h30 à 3h
-- Participants : 4 à 6 personnes (jusqu'à 8 sur demande)
+- Participants : 4 à 8 personnes
 - Tarif : 69 € par personne (minimum 4 personnes)
 - Lieu : chez vous, Lyon et 10 km autour
 - Matériel : j'apporte tout, y compris le four
 
 **Introduction**
-Cette initiation vous apprend à faire une pizza napolitaine chez vous, avec un vrai four. J'apporte tout le matériel, dont un four électrique qui monte jusqu'à 500°C et cuit une pizza en 90 secondes environ. Si vous avez déjà un four, nous pouvons aussi travailler avec le vôtre. Le groupe reste petit, idéalement de 4 à 6 personnes et 8 au plus, pour que chacun passe au four dans une ambiance détendue.
+Cette initiation vous apprend à faire une pizza napolitaine chez vous, avec un vrai four. J'apporte tout le matériel, dont un four électrique qui monte jusqu'à 500°C et cuit une pizza en 90 secondes environ. Si vous avez déjà un four, nous pouvons aussi travailler avec le vôtre. Le groupe reste petit, de 4 à 8 personnes, pour que chacun passe au four dans une ambiance détendue.
 
 **H2 : Au programme**
 Nous passons ensemble par toutes les étapes : la présentation du matériel et des farines, la pâte, le boulage, le geste d'étalage propre à la napolitaine, la garniture et la cuisson, une pizza après l'autre, que nous goûtons au fur et à mesure. Une pâte napolitaine demande environ 24 heures de fermentation. Pour que vous puissiez pratiquer tout de suite, je prépare chez moi des pâtons selon la même recette et je les apporte.
@@ -195,9 +195,9 @@ Faire une pizza ensemble convient bien à une équipe : chacun prépare sa pizza
 **Texte**
 Pas de salle à réserver, pas de trajet : je viens chez la future mariée ou le futur marié, ou dans le lieu que vous avez choisi. Le groupe fait la pâte, étale, garnit, puis on mange.
 
-L'atelier Bases (59 € par personne) convient à la plupart des groupes de 4 à 6 personnes, avec le four de la maison. Si vous préférez cuire dans un vrai four napolitain, choisissez l'initiation (69 € par personne). Vous êtes plus de 6 ? Écrivez-moi, on regarde ce qui est possible.
+L'atelier Bases de la pizza maison (59 € par personne) convient à la plupart des groupes de 4 à 8 personnes, avec le four de la maison. Si vous préférez cuire dans un vrai four napolitain, choisissez l'initiation (69 € par personne). Si vous êtes plus de 8, écrivez-moi et nous verrons ensemble ce qui est possible.
 
-**Liens** : Atelier Bases · Initiation · `Demander une date`
+**Liens** : Atelier Bases de la pizza maison · Initiation · `Demander une date`
 
 ---
 
@@ -209,11 +209,11 @@ L'atelier Bases (59 € par personne) convient à la plupart des groupes de 4 à
 **H1** : Fêter un anniversaire avec un atelier pizza, à Lyon
 
 **Texte**
-Deux façons de faire, selon le nombre d'invités. Jusqu'à 6 personnes, un atelier : on fait les pizzas ensemble, avec le four de la maison (Bases, 59 € par personne) ou avec mon four (Initiation, 69 € par personne). Pour plus d'invités, une pizza party : je prépare les pizzas sur place pendant que vous profitez de votre soirée.
+Deux façons de faire, selon le nombre d'invités. Jusqu'à 8 personnes, un atelier : on fait les pizzas ensemble, avec le four de la maison (Bases, 59 € par personne) ou avec mon four (Initiation, 69 € par personne). Pour plus d'invités, une pizza party : je prépare les pizzas sur place pendant que vous profitez de votre soirée.
 
 Pour un anniversaire à thème, je peux adapter les recettes. Dites-moi ce que vous avez en tête.
 
-**Liens** : Atelier Bases · Initiation · Pizza party
+**Liens** : Atelier Bases de la pizza maison · Initiation · Pizza party
 
 ---
 
@@ -261,10 +261,10 @@ Source unique des textes : `src/_data/faq.js` (les chiffres viennent de `src/_da
 ### Choisir sa formule
 
 **Atelier pizza ou pizza party : lequel choisir ?**
-L'atelier convient si vous souhaitez cuisiner vous-même avec vos proches ; la pizza party, si vous préférez profiter de vos invités pendant que je prépare les pizzas. Un atelier accueille de 4 à 6 personnes, une pizza party jusqu'à environ 25 personnes. Si vous hésitez, décrivez-moi votre projet par [formulaire](/contact) et je vous conseillerai.
+L'atelier convient si vous souhaitez cuisiner vous-même avec vos proches ; la pizza party, si vous préférez profiter de vos invités pendant que je prépare les pizzas. Un atelier accueille de 4 à 8 personnes, une pizza party jusqu'à environ 25 personnes. Si vous hésitez, décrivez-moi votre projet par [formulaire](/contact) et je vous conseillerai.
 
-**Quelle différence entre l'atelier Bases et l'initiation à la pizza napolitaine ?**
-L'atelier Bases se fait avec le four de votre cuisine (59 € par personne), l'initiation avec mon four électrique qui monte jusqu'à 500°C (69 € par personne). Dans les deux cas, nous passons ensemble par toutes les étapes : la pâte, l'étalage, la garniture et la cuisson. Les Bases durent de 2h à 2h30, l'initiation de 2h30 à 3h. Le détail de chaque formule se trouve sur les pages [atelier Bases](/atelier-pizza-lyon) et [initiation](/atelier-pizza-napolitaine-lyon).
+**Quelle différence entre l'atelier Bases de la pizza maison et l'initiation à la pizza napolitaine ?**
+L'atelier Bases de la pizza maison se fait avec le four de votre cuisine (59 € par personne), l'initiation avec mon four électrique qui monte jusqu'à 500°C (69 € par personne). Dans les deux cas, nous passons ensemble par toutes les étapes : la pâte, l'étalage, la garniture et la cuisson. L'atelier dure de 2h à 2h30, l'initiation de 2h30 à 3h. Le détail de chaque formule se trouve sur les pages [Bases de la pizza maison](/atelier-pizza-lyon) et [initiation](/atelier-pizza-napolitaine-lyon).
 
 **Qu'est-ce qu'une pizza napolitaine ?**
 C'est une pizza dont la pâte fermente longtemps, environ 24 heures, puis cuit dans un four très chaud pendant environ 90 secondes. Mon four électrique monte jusqu'à 500°C. Pour la mozzarella, j'utilise uniquement de la fior di latte, et je ne fais aucun compromis sur la farine et la tomate. Je reproduis cette cuisson chez vous lors de l'initiation et de la pizza party.
@@ -279,7 +279,7 @@ Oui, il n'y a pas d'âge minimum. J'adapte l'atelier pour que chaque enfant puis
 Oui. Jusqu'à 6 personnes, je vous propose un atelier où nous faisons les pizzas ensemble, avec le four de la maison (59 € par personne) ou avec le mien (69 € par personne). Pour un plus grand nombre d'invités, la [pizza party](/pizza-party-domicile-lyon) convient mieux, car je prépare alors les pizzas sur place. Pour un anniversaire à thème, je peux adapter les recettes.
 
 **Peut-on organiser un EVJF ou un EVG avec un atelier pizza à domicile ?**
-Oui. Je viens chez la future mariée ou le futur marié, ou dans le lieu de votre choix, si bien que vous n'avez pas de salle à réserver. Un atelier accueille de 4 à 6 personnes. Pour un EVJF ou un EVG, je peux aussi associer atelier et pizza party, ingrédients fournis, sur devis. Si vous êtes plus nombreux, écrivez-moi et nous verrons ensemble ce qui est possible.
+Oui. Je viens chez la future mariée ou le futur marié, ou dans le lieu de votre choix, si bien que vous n'avez pas de salle à réserver. Un atelier accueille de 4 à 8 personnes. Pour un EVJF ou un EVG, je peux aussi associer atelier et pizza party, ingrédients fournis, sur devis. Si vous êtes plus nombreux, écrivez-moi et nous verrons ensemble ce qui est possible.
 
 **Pour un mariage, les enfants peuvent-ils faire leur propre pizza ?**
 Oui, selon le nombre d'enfants. Pendant que les parents profitent de leur repas entre adultes, les enfants préparent leur propre pizza. Un adulte reste avec eux, à raison d'environ un adulte pour quatre enfants. Je ne prépare pas de repas de mariage complet ; je viens uniquement pour cette animation, sur devis.
@@ -293,7 +293,7 @@ Oui, sur devis et selon l'événement. L'organisation est plus simple lorsque de
 ### Tarifs, zone et déplacement
 
 **Combien coûte un atelier pizza à domicile à Lyon ?**
-L'atelier Bases coûte 59 € par personne et l'initiation à la pizza napolitaine 69 € par personne, à partir de 4 personnes. Le déplacement est inclus dans un rayon de 10 km ; au-delà, des frais de déplacement s'ajoutent. À titre indicatif, pour un groupe de 5 personnes, l'atelier revient à 295 € avec les Bases et à 345 € avec l'initiation.
+L'atelier Bases de la pizza maison coûte 59 € par personne et l'initiation à la pizza napolitaine 69 € par personne, à partir de 4 personnes. Le déplacement est inclus dans un rayon de 10 km ; au-delà, des frais de déplacement s'ajoutent. À titre indicatif, pour un groupe de 5 personnes, l'atelier Bases de la pizza maison revient à 295 € et l'initiation à 345 €.
 
 **Combien coûte un pizzaiolo à domicile pour une pizza party à Lyon ?**
 Une pizza party se fait sur devis. Le tarif dépend du nombre d'invités, de la durée, du choix des pizzas et de la distance. Dans un rayon de 10 km, le déplacement est inclus ; au-delà, des frais de déplacement s'ajoutent. Je vous envoie le devis après votre [demande](/contact?atelier=pizza-party).
@@ -307,13 +307,13 @@ Je ne m'occupe pas de la vaisselle, qui reste à votre charge. Les boissons peuv
 ### Nombre de personnes et durée
 
 **Combien de personnes pour un atelier pizza ?**
-Un atelier est facturé à partir de 4 personnes ; il reste possible à 2 ou 3, au tarif de 4 personnes. L'idéal est de 4 à 6 personnes, et je peux aller jusqu'à 8. Je garde volontairement des groupes réduits : chacun a sa place autour du plan de travail, les échanges restent faciles et je peux m'occuper de chaque participant. Si vous êtes plus nombreux, écrivez-moi et nous verrons ensemble ce qui est possible.
+Un atelier réunit de 4 à 8 personnes. Il est facturé à partir de 4 personnes et reste possible à 2 ou 3, au tarif de 4 personnes. Je garde volontairement des groupes réduits : chacun a sa place autour du plan de travail, les échanges restent faciles et je peux m'occuper de chaque participant. Si vous êtes plus nombreux, écrivez-moi et nous verrons ensemble ce qui est possible.
 
 **Combien d'invités et combien de pizzas pour une pizza party ?**
 Je prépare entre 12 et 18 pizzas par heure, selon les recettes choisies. Seul, je peux servir des pizzas à environ 25 personnes. Il est possible d'aller jusqu'à 40 personnes en ajoutant des focaccias préparées à l'avance, sur devis. Au-delà, je ne peux pas assurer le service seul.
 
 **Combien de temps dure un atelier pizza ?**
-Les Bases durent de 2h à 2h30. L'initiation dure de 2h30 à 3h.
+L'atelier Bases de la pizza maison dure de 2h à 2h30. L'initiation dure de 2h30 à 3h.
 
 **Combien de temps dure une pizza party ?**
 La durée dépend de la configuration sur place et du nombre d'invités. Je vous l'indique dans le devis personnalisé.
@@ -321,7 +321,7 @@ La durée dépend de la configuration sur place et du nombre d'invités. Je vous
 ### Matériel et lieu
 
 **Faut-il un four spécial ?**
-Pour l'atelier Bases, un four domestique suffit, avec une pierre à pizza si vous en avez une (sinon, comptez environ 50 € pour la pierre et quelques accessoires). Pour l'initiation et la pizza party, j'apporte mon four.
+Pour l'atelier Bases de la pizza maison, un four domestique suffit, avec une pierre à pizza si vous en avez une (sinon, comptez environ 50 € pour la pierre et quelques accessoires). Pour l'initiation et la pizza party, j'apporte mon four.
 
 **Peut-on faire l'événement à l'intérieur, et s'il pleut ?**
 Oui. Mon four étant électrique, l'événement peut se tenir à l'intérieur, et la pluie ne pose donc pas de problème. Si le lieu ne convient finalement pas, nous cherchons ensemble une solution pour que chacun passe un bon moment : changement de lieu, de date ou de formule, ou transformation en atelier si le lieu le permet. Plus vous me prévenez tôt, plus il reste de solutions sans frais.
@@ -330,7 +330,7 @@ Oui. Mon four étant électrique, l'événement peut se tenir à l'intérieur, e
 Pour les ateliers, les ingrédients prévus sont ceux de la pizza margherita. Si vous souhaitez d'autres garnitures, vous les achetez de votre côté et je vous conseille pour les choisir. Pour la pizza party, je m'occupe de tout.
 
 **Peut-on choisir les pizzas d'une pizza party ?**
-Oui. Nous les choisissons ensemble dans la [carte](/carte), qui propose des classiques et des créations plus originales. Les quantités dépendent du nombre d'invités. Le choix des pizzas influe sur le tarif. Pour un anniversaire ou une soirée à thème, je peux adapter les recettes.
+Oui. Nous les choisissons ensemble dans la carte, qui propose des classiques et des créations plus originales. Les quantités dépendent du nombre d'invités. Le choix des pizzas influe sur le tarif. Pour un anniversaire ou une soirée à thème, je peux adapter les recettes.
 
 **Faites-vous un menu complet avec entrée et dessert ?**
 Je prépare principalement des pizzas. Je peux ajouter des focaccias avec des dips, préparées à l'avance, pour varier les plaisirs ou pour l'apéritif. Je ne fais pas de menu complet avec entrée et dessert.
@@ -341,7 +341,7 @@ Non, je viens avec mon four électrique et mon matériel, sans camion. Le nombre
 ### Le jour J, allergies et régimes
 
 **Comment se déroule un atelier pizza à domicile ?**
-J'arrive chez vous avec le matériel. Nous travaillons la pâte à la main et boulons les pâtons, puis chacun étale et garnit sa pizza. Après la cuisson, nous partageons ensemble les pizzas que nous venons de préparer. Les Bases durent de 2h à 2h30, l'initiation de 2h30 à 3h.
+J'arrive chez vous avec le matériel. Nous travaillons la pâte à la main et boulons les pâtons, puis chacun étale et garnit sa pizza. Après la cuisson, nous partageons ensemble les pizzas que nous venons de préparer. L'atelier Bases de la pizza maison dure de 2h à 2h30, l'initiation de 2h30 à 3h.
 
 **Comment se déroule une pizza party avec un pizzaiolo à domicile ?**
 J'arrive avec mon four et je prépare les pizzas sur place. Vous profitez de vos invités pendant que les pizzas sortent du four au fil de la soirée. Je m'occupe des ingrédients et de la pâte. L'heure d'arrivée et l'installation dépendent du lieu ; je vous les précise dans le devis.
@@ -353,7 +353,7 @@ Avant de partir, je range et je nettoie rapidement ce que j'ai utilisé. Je ne f
 Signalez-le-moi dès votre demande afin que j'en tienne compte dans le devis. En cas d'allergie sévère, parlons-en avant la réservation.
 
 **Faites-vous des pizzas végétariennes ou sans gluten ?**
-Plusieurs pizzas de la [carte](/carte) sont sans viande, comme la Margherita, les 3 Fromages, les 4 Fromages ou la Chèvre-miel. Une pizza sans gluten est possible selon les demandes. Comme elle demande plus de préparation, elle entraîne un supplément. Je la prépare et la cuis en premier, à part des autres pizzas. Précisez-le dès votre demande.
+Plusieurs pizzas de la carte sont sans viande, comme la Margherita, les 3 Fromages, les 4 Fromages ou la Chèvre-miel. Une pizza sans gluten est possible selon les demandes. Comme elle demande plus de préparation, elle entraîne un supplément. Je la prépare et la cuis en premier, à part des autres pizzas. Précisez-le dès votre demande.
 
 ### Réserver, payer et annuler
 
@@ -420,7 +420,7 @@ La carte réunit des classiques et des créations plus originales. Pour une pizz
 Les dates d'ateliers ne sont pas encore ouvertes à la réservation en ligne. Écrivez-moi en indiquant la date qui vous convient, le nombre de personnes et l'occasion. Je vous réponds par email ou par téléphone. [À remplacer par le widget de réservation quand il sera branché]
 
 **Champs du formulaire**
-Nom · Email · Téléphone · Type de demande (liste : Atelier Bases / Initiation napolitaine / Pizza party / Événement sur mesure / Autre) · Date souhaitée · Nombre de personnes · Quartier ou commune · Message · bouton `Envoyer ma demande`
+Nom · Email · Téléphone · Type de demande (liste : Atelier Bases de la pizza maison / Initiation napolitaine / Pizza party / Événement sur mesure / Autre) · Date souhaitée · Nombre de personnes · Quartier ou commune · Message · bouton `Envoyer ma demande`
 Le type de demande se préremplit avec le paramètre d'URL (?atelier=...).
 
 **Message après envoi** : Merci, j'ai bien reçu votre demande. Je vous réponds par email ou par téléphone.
@@ -476,9 +476,9 @@ Brouillon à faire relire avant publication. Les passages entre crochets ne se p
 
 ## Offre de Noël 2026 (affichée du 16 novembre au 24 décembre, `prix.noel`)
 
-- **Accueil, bandeau** : Jusqu'au 24 décembre, une pierre à pizza est offerte à l'hôte de chaque atelier Bases, et l'initiation à la pizza napolitaine bénéficie d'une remise de 10 %, que l'atelier soit réservé ou offert. Le bon cadeau s'imprime et se glisse sous le sapin ; la date de l'atelier se choisit ensuite ensemble.
+- **Accueil, bandeau** : Jusqu'au 24 décembre, une pierre à pizza est offerte à l'hôte de chaque atelier Bases de la pizza maison, et l'initiation à la pizza napolitaine bénéficie d'une remise de 10 %, que l'atelier soit réservé ou offert. Le bon cadeau s'imprime et se glisse sous le sapin ; la date de l'atelier se choisit ensuite ensemble.
 - **Bon cadeau, bandeau « Pour Noël »** : Pour un atelier réservé ou offert jusqu'au 24 décembre, l'atelier Bases de la pizza maison s'accompagne d'une pierre à pizza offerte à l'hôte, et l'initiation à la pizza napolitaine bénéficie d'une remise de 10 %. Le bon cadeau vous est envoyé par e-mail, prêt à être imprimé ou glissé sous le sapin.
-- **Pages Bases et Initiation, bloc tarif** : Offre de Noël : pour un atelier réservé ou offert jusqu'au 24 décembre, une pierre à pizza est offerte à l'hôte. / Offre de Noël : pour une initiation réservée ou offerte jusqu'au 24 décembre, le tarif bénéficie d'une remise de 10 %.
+- **Pages Bases et Initiation, bloc tarif** : Offre de Noël : pour un atelier Bases de la pizza maison réservé ou offert jusqu'au 24 décembre, une pierre à pizza est offerte à l'hôte. / Offre de Noël : pour une initiation réservée ou offerte jusqu'au 24 décembre, le tarif bénéficie d'une remise de 10 %.
 - **FAQ « Peut-on offrir un atelier pizza ? »** : phrase ajoutée pendant l'offre.
 - **Préparer mon atelier, estimation** : ligne « Offre de Noël » (pierre à pizza offerte à l'hôte, ou remise de 10 % avec son montant, déduite sur le devis) ; le total ne change pas.
 - **CGV, section « Offre de Noël 2026 »** (permanente) : atelier réservé (acompte reçu) ou bon cadeau réglé du 16 novembre au 24 décembre 2026 inclus, même si l'atelier a lieu après ; pas d'offre sur la pizza party.

@@ -17,17 +17,17 @@ questions:
   - q: "Peut-on offrir un atelier pizza pour un anniversaire ?"
     a: "Oui, il vous suffit de réserver un atelier pour que je vous envoie un bon d'invitation à offrir. Ce bon n'a pas de date limite, et la date se choisit ensuite avec la personne invitée."
   - q: "Combien d'invités au maximum ?"
-    a: "Un atelier accueille idéalement de {prix.minPersonnes} à {prix.maxPersonnes} personnes, et jusqu'à {prix.maxPossible} sur demande. Pour une pizza party, je peux servir seul environ 25 personnes, et jusqu'à 40 en ajoutant des focaccias préparées à l'avance, sur devis."
+    a: "Un atelier accueille de {prix.minPersonnes} à {prix.maxPossible} personnes. Pour une pizza party, je peux servir seul environ 25 personnes, et jusqu'à 40 en ajoutant des focaccias préparées à l'avance, sur devis."
   - q: "Les enfants peuvent-ils participer ?"
     a: "Oui, il n'y a pas d'âge minimum, et j'adapte l'atelier pour que chaque enfant puisse s'épanouir. Un adulte reste présent pour environ quatre enfants. Je vous remercie d'indiquer l'âge des enfants dans votre demande."
   - q: "Faut-il un four spécial chez moi ?"
-    a: "Pour l'atelier Bases, un four domestique suffit, tandis que pour l'initiation et la pizza party, j'apporte mon propre four."
+    a: "Pour l'atelier Bases de la pizza maison, un four domestique suffit, tandis que pour l'initiation et la pizza party, j'apporte mon propre four."
 related:
   - { label: "Atelier Bases de la pizza maison", href: "/atelier-pizza-lyon" }
   - { label: "Pizza party à domicile", href: "/pizza-party-domicile-lyon" }
   - { label: "Questions fréquentes", href: "/faq" }
 ---
-Pour un anniversaire à la maison, deux formules se prêtent bien à une fête entre amis : l'atelier pizza, si vous souhaitez que chacun cuisine sa propre pizza, et la pizza party, si vous préférez profiter de vos invités pendant que je prépare les pizzas. Le nombre de participants aide souvent à choisir : un atelier réunit idéalement de {{ prix.minPersonnes }} à {{ prix.maxPersonnes }} personnes, et jusqu'à {{ prix.maxPossible }}, tandis que la pizza party s'adresse aux groupes plus nombreux.
+Pour un anniversaire à la maison, deux formules se prêtent bien à une fête entre amis : l'atelier pizza, si vous souhaitez que chacun cuisine sa propre pizza, et la pizza party, si vous préférez profiter de vos invités pendant que je prépare les pizzas. Le nombre de participants aide souvent à choisir : un atelier réunit de {{ prix.minPersonnes }} à {{ prix.maxPossible }} personnes, tandis que la pizza party s'adresse aux groupes plus nombreux.
 
 ## Pourquoi une activité plutôt qu'un simple repas ?
 
@@ -35,13 +35,13 @@ Un anniversaire entre amis prend souvent la forme d'un repas où chacun reste à
 
 Il n'est pas nécessaire d'avoir de l'expérience, car ce qui compte est le plaisir de faire plutôt que le résultat. Ce résultat se mange d'ailleurs à la fin, ce qui ne gâche rien.
 
-## Idée 1 : l'atelier pizza, pour fêter à 4, 5 ou 6
+## Idée 1 : l'atelier pizza, de {{ prix.minPersonnes }} à {{ prix.maxPossible }} personnes
 
 Je viens chez vous avec le matériel. Nous travaillons la pâte à la main et façonnons les pâtons, puis chacun étale et garnit sa pizza. Après la cuisson, nous mangeons ensemble ce que le groupe vient de préparer.
 
 Je propose deux ateliers.
 
-- **L'atelier Bases** dure de 2h à 2h30 et se déroule avec votre propre four. Il coûte {{ prix.bases }} € par personne, à partir de {{ prix.minPersonnes }} personnes.
+- **L'atelier Bases de la pizza maison** dure de 2h à 2h30 et se déroule avec votre propre four. Il coûte {{ prix.bases }} € par personne, à partir de {{ prix.minPersonnes }} personnes.
 - **L'initiation à la pizza napolitaine** dure de 2h30 à 3h. J'apporte mon four électrique, qui monte jusqu'à 500°C. Elle coûte {{ prix.initiation }} € par personne, à partir de {{ prix.minPersonnes }} personnes.
 
 Je garde volontairement des groupes réduits, afin que chacun ait sa place autour du plan de travail, que l'on puisse discuter et que je puisse m'occuper de tout le monde. Comme c'est la pratique qui plaît le plus en atelier, chacun prépare sa propre pizza.
@@ -56,7 +56,7 @@ Si vous êtes plus nombreux, ou si vous préférez rester avec vos invités, la 
 
 Je prépare entre 12 et 18 pizzas par heure, selon les recettes choisies, ce qui me permet de servir seul environ 25 personnes. Il est possible d'aller jusqu'à 40 personnes, sur devis, en ajoutant des focaccias préparées à l'avance qui font patienter à l'apéritif. Au-delà, je ne pourrai pas vous servir seul.
 
-Nous choisissons les pizzas ensemble dans [la carte](/carte), qui réunit des classiques et des créations plus originales. Pour un anniversaire ou une soirée à thème, je peux aussi adapter les recettes. Une pizza party se fait sur devis, et son prix dépend du nombre d'invités, de la durée, du choix des pizzas et de la distance.
+Nous choisissons les pizzas ensemble dans la carte, qui réunit des classiques et des créations plus originales. Pour un anniversaire ou une soirée à thème, je peux aussi adapter les recettes. Une pizza party se fait sur devis, et son prix dépend du nombre d'invités, de la durée, du choix des pizzas et de la distance.
 
 ## Idée 3 : un anniversaire d'enfant
 
@@ -68,7 +68,7 @@ Si un enfant a une allergie ou suit un régime particulier, signalez-le-moi dès
 
 ## Et s'il pleut, ou si le logement est petit ?
 
-La pluie ne pose pas de problème, car mon four est électrique et l'événement peut donc se faire à l'intérieur. Pour l'atelier Bases, c'est votre four qui est utilisé, si bien qu'il n'y a rien à installer à l'extérieur.
+La pluie ne pose pas de problème, car mon four est électrique et l'événement peut donc se faire à l'intérieur. Pour l'atelier Bases de la pizza maison, c'est votre four qui est utilisé, si bien qu'il n'y a rien à installer à l'extérieur.
 
 Si vous avez un doute sur le lieu, décrivez-moi la pièce lorsque vous me contactez. S'il ne convient finalement pas, nous trouverons ensemble une solution, qu'il s'agisse de changer de lieu, de date ou de formule, ou de transformer l'événement en atelier si le lieu le permet. Plus vous me prévenez tôt, plus il reste de solutions.
 
@@ -76,7 +76,7 @@ Si vous avez un doute sur le lieu, décrivez-moi la pièce lorsque vous me conta
 
 ## Comment choisir ?
 
-- **Si vous êtes de 4 à 8 et souhaitez cuisiner ensemble**, choisissez l'atelier, Bases si vous avez un four et l'envie de progresser, ou l'initiation si vous voulez goûter à la napolitaine cuite dans mon four.
+- **Si vous êtes de 4 à 8 et souhaitez cuisiner ensemble**, choisissez l'atelier Bases de la pizza maison si vous avez un four et l'envie de progresser, ou l'initiation si vous voulez goûter à la napolitaine cuite dans mon four.
 - **Si vous êtes plus nombreux**, la pizza party convient mieux. Je peux servir seul environ 25 personnes, et jusqu'à 40 avec des focaccias.
 - **S'il y a des enfants**, l'atelier peut être adapté pour eux, avec un adulte pour environ quatre enfants.
 - **Si vous hésitez encore**, vous pouvez lire [atelier pizza ou pizza party : lequel choisir](/blog/atelier-pizza-ou-pizza-party-lequel-choisir), ou m'écrire directement.
@@ -87,4 +87,4 @@ Vous pouvez me contacter par [formulaire](/contact) ou par téléphone, en m'ind
 
 ## Pour finir
 
-Pour un anniversaire entre amis, le plus simple est de partir du nombre d'invités. À 4, 5 ou 6, l'atelier est la formule adaptée, et au-delà, la pizza party prend le relais. Dans les deux cas, l'organisation tient en trois informations, à savoir la date, le nombre de personnes et le lieu. Pour découvrir le déroulé d'un atelier, consultez la page de [l'atelier Bases](/atelier-pizza-lyon). Pour les groupes plus grands, rendez-vous sur celle de [la pizza party à domicile](/pizza-party-domicile-lyon).
+Pour un anniversaire entre amis, le plus simple est de partir du nombre d'invités. De {{ prix.minPersonnes }} à {{ prix.maxPossible }} personnes, l'atelier est la formule adaptée, et au-delà, la pizza party prend le relais. Dans les deux cas, l'organisation tient en trois informations, à savoir la date, le nombre de personnes et le lieu. Pour découvrir le déroulé d'un atelier, consultez la page de [l'atelier Bases de la pizza maison](/atelier-pizza-lyon). Pour les groupes plus grands, rendez-vous sur celle de [la pizza party à domicile](/pizza-party-domicile-lyon).

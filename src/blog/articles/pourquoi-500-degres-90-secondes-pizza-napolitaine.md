@@ -19,7 +19,7 @@ questions:
   - q: "Pourquoi 485 °C dans le texte et 500 °C pour votre four ?"
     a: "Le cahier des charges de la pizza napolitaine STG parle d'environ 485 °C sur la sole d'un four à bois. Mon four est électrique et monte jusqu'à 500°C. Les deux valeurs sont donc très proches, mais elles concernent deux fours différents."
   - q: "Peut-on cuire une napolitaine dans un four ménager ?"
-    a: "Oui, vous obtiendrez une bonne pizza, même si elle ne sera pas identique à celle que l'on cuit à très haute température. Il suffit de regarder la température maximale indiquée dans la notice de votre four, de le préchauffer longtemps avec une pierre à pizza et d'accepter un résultat un peu différent, ce qui est justement le principe de l'atelier Bases."
+    a: "Oui, vous obtiendrez une bonne pizza, même si elle ne sera pas identique à celle que l'on cuit à très haute température. Il suffit de regarder la température maximale indiquée dans la notice de votre four, de le préchauffer longtemps avec une pierre à pizza et d'accepter un résultat un peu différent, ce qui est justement le principe de l'atelier Bases de la pizza maison."
   - q: "Faut-il un four à bois ?"
     a: "Le cahier des charges de la STG impose un four à bois. Pour une pizza maison, en revanche, il n'est pas obligatoire, car un four électrique qui atteint une température très élevée donne aussi de bons résultats."
 related:
@@ -73,7 +73,7 @@ Le cahier des charges de la STG l'impose : la cuisson de la pizza napolitaine ST
 
 ## Pour voir la différence
 
-Rien ne remplace le fait de voir une pizza cuire en 90 secondes. C'est pourquoi, dans l'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon), j'apporte mon four et nous cuisons les pizzas à 500°C. Si votre projet est plutôt d'optimiser la cuisson avec le four que vous avez déjà, c'est ce que nous faisons dans l'[atelier Bases](/atelier-pizza-lyon).
+Rien ne remplace le fait de voir une pizza cuire en 90 secondes. C'est pourquoi, dans l'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon), j'apporte mon four et nous cuisons les pizzas à 500°C. Si votre projet est plutôt d'optimiser la cuisson avec le four que vous avez déjà, c'est ce que nous faisons dans l'[atelier Bases de la pizza maison](/atelier-pizza-lyon).
 
 ## En résumé
 

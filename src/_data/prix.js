@@ -26,7 +26,7 @@ module.exports = {
   accessoiresBases: 50, // pierre à pizza et petits accessoires, à acheter avant l'atelier
   fourMin: 300, // budget minimum d'un four qui convient (information de Pierre)
   rayonKm: 10,
-  maxPossible: 8, // atelier : idéal jusqu'à maxPersonnes, réalisable jusqu'à 8
+  maxPossible: 8, // atelier : de minPersonnes à maxPossible personnes (texte du site : « de 4 à 8 personnes »)
   // Déplacement au-delà de rayonKm : (distance route - rayonKm) x 2 (aller et retour) x tarifKm.
   // tarifKm = barème kilométrique 2026 (identique à 2025), voiture 4 CV, jusqu'à 5 000 km : 0,606 €/km.
   // Citroën C3 diesel 2006 de Pierre : 4 CV à confirmer sur la carte grise (case P.6).

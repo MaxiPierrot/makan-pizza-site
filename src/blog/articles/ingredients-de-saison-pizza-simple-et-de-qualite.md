@@ -33,7 +33,7 @@ questions:
   - q: "Faites-vous des pizzas sans allergènes ?"
     a: "Non, je ne peux pas le promettre, car la pâte contient du gluten et la cuisine où je travaille voit passer du lait, des fruits à coque et d'autres allergènes. Je vous invite donc à me signaler les allergies dès votre demande, afin que nous en parlions avant de réserver."
 related:
-  - { label: "La carte des pizzas", href: "/carte" }
+  - { label: "Mes pizzas en photos", href: "/galerie" }
   - { label: "Initiation à la pizza napolitaine", href: "/atelier-pizza-napolitaine-lyon" }
   - { label: "Pizza party à domicile", href: "/pizza-party-domicile-lyon" }
 ---
@@ -66,7 +66,7 @@ La tomate fraîche n'y figure pas, ce qui est logique : en hiver, elle manque de
 
 ### Ce que cela donne sur une pizza
 
-- **Les champignons.** Je les fais sauter à la poêle avant de garnir, pour qu'ils perdent leur eau ; c'est le cas pour la Reine de [ma carte](/carte), qui associe une base tomate, du jambon, des champignons de Paris sautés et de la mozzarella fior di latte.
+- **Les champignons.** Je les fais sauter à la poêle avant de garnir, pour qu'ils perdent leur eau ; c'est le cas pour la Reine de ma carte, qui associe une base tomate, du jambon, des champignons de Paris sautés et de la mozzarella fior di latte.
 - **L'oignon.** Confit doucement, il devient sucré et fondant. On le retrouve dans ma Savoyarde, avec des pommes de terre, de la poitrine fumée et du reblochon sur une base blanche ; c'est une pizza qui convient bien aux soirées froides.
 - **Le poireau.** Fondu à la poêle avec un peu de beurre ou d'huile, il se marie bien avec une base blanche et un fromage qui a du caractère.
 - **La courge.** On peut la poser en fines tranches précuites ou en purée sur une base blanche, avec un peu de sauge ou de noix.
@@ -108,4 +108,4 @@ Une pizza contient du gluten, et beaucoup de garnitures contiennent du lait, des
 
 ## Pour aller plus loin
 
-Pour comprendre l'effet d'une garniture, le plus parlant reste de la poser soi-même et de goûter. Dans l'[atelier Bases](/atelier-pizza-lyon), les ingrédients prévus sont ceux de la margherita, et je vous guide si vous souhaitez en ajouter d'autres. L'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon) permet d'aller plus loin sur la pâte et la cuisson. Enfin, si vous préférez que je m'occupe de tout, une [pizza party à domicile](/pizza-party-domicile-lyon) vous laisse choisir les pizzas dans la carte, y compris celles d'hiver.
+Pour comprendre l'effet d'une garniture, le plus parlant reste de la poser soi-même et de goûter. Dans l'[atelier Bases de la pizza maison](/atelier-pizza-lyon), les ingrédients prévus sont ceux de la margherita, et je vous guide si vous souhaitez en ajouter d'autres. L'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon) permet d'aller plus loin sur la pâte et la cuisson. Enfin, si vous préférez que je m'occupe de tout, une [pizza party à domicile](/pizza-party-domicile-lyon) vous laisse choisir les pizzas dans la carte, y compris celles d'hiver.

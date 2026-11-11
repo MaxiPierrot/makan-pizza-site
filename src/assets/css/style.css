@@ -2390,3 +2390,8 @@ textarea:focus-visible {
 
 /* Photo sous un titre de colonne (accueil, « Qui je suis ») */
 .split__photo { aspect-ratio: 1; max-width: 26rem; margin-top: 1.4rem; border-radius: var(--radius, 6px); }
+
+/* Galerie temporaire (vraies pizzas de Pierre) */
+.galerie { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.8rem; }
+.galerie__photo { aspect-ratio: 1; border-radius: var(--radius); }
+@media (min-width: 900px) { .galerie { grid-template-columns: repeat(3, 1fr); gap: 1.2rem; } }

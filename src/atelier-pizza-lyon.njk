@@ -3,14 +3,14 @@ layout: offer.njk
 permalink: /atelier-pizza-lyon.html
 path: /atelier-pizza-lyon
 offre: atelier
-crumb: "Atelier Bases"
+crumb: "Bases de la pizza maison"
 title: "Atelier pizza à domicile à Lyon, dès {prix.bases} € | Makan Pizza"
-description: "Apprenez à faire une pâte à pizza maison chez vous, avec votre four. Atelier de 2h à 2h30 pour 4 à 6 personnes, jusqu'à 8 sur demande, à {prix.bases} € par personne, à Lyon et dans la région lyonnaise."
+description: "Apprenez à faire une pâte à pizza maison chez vous, avec votre four. Atelier de 2h à 2h30 pour {prix.minPersonnes} à {prix.maxPossible} personnes, à {prix.bases} € par personne, à Lyon et dans la région lyonnaise."
 h1: "Atelier pizza à domicile à Lyon : les bases de la pizza maison"
-lead: "Cet atelier s'adresse à ceux qui veulent réussir leurs pizzas maison sans changer d'équipement, tout en passant un bon moment entre amis. Nous partons d'une recette de pâte fiable et de ce que vous avez déjà dans votre cuisine. Comme le groupe réunit idéalement de 4 à 6 personnes, et 8 au plus, je peux m'occuper de chacun et l'ambiance reste détendue."
+lead: "Cet atelier s'adresse à ceux qui veulent réussir leurs pizzas maison sans changer d'équipement, tout en passant un bon moment entre amis. Nous partons d'une recette de pâte fiable et de ce que vous avez déjà dans votre cuisine. Comme le groupe réunit de {prix.minPersonnes} à {prix.maxPossible} personnes, je peux m'occuper de chacun et l'ambiance reste détendue."
 facts:
   - { label: "Durée", value: "2h à 2h30" }
-  - { label: "Participants", value: "4 à 6 personnes (jusqu'à 8 sur demande)" }
+  - { label: "Participants", value: "{prix.minPersonnes} à {prix.maxPossible} personnes" }
   - { label: "Tarif", value: "{prix.bases} € par personne (minimum 4 personnes)" }
   - { label: "Lieu", value: "chez vous, Lyon et région lyonnaise" }
   - { label: "À avoir", value: "un four domestique" }
@@ -19,7 +19,7 @@ photoAlt: "Une pizza cuit sur une grille dans un four électrique domestique à 
 tarifTitle: "Tarif"
 tarifText: "{prix.bases} € par personne, à partir de 4 personnes."
 tarifNote: true
-noelText: "Offre de Noël : pour un atelier réservé ou offert jusqu'au {prix.noelDateLimite}, une pierre à pizza est offerte à l'hôte."
+noelText: "Offre de Noël : pour un atelier Bases de la pizza maison réservé ou offert jusqu'au {prix.noelDateLimite}, une pierre à pizza est offerte à l'hôte."
 ctaLabel: "Demander une date"
 ctaHref: "/contact?atelier=bases"
 servicePrice: "{prix.bases}"

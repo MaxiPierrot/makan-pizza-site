@@ -44,7 +44,7 @@ Il s'agit du premier critère. Plus il y a d'invités, plus il faut d'ingrédien
 
 ### Le choix des pizzas
 
-Le prix dépend aussi des pizzas retenues, que nous choisissons ensemble dans [la carte](/carte), parmi des classiques et des créations plus originales.
+Le prix dépend aussi des pizzas retenues, que nous choisissons ensemble dans la carte, parmi des classiques et des créations plus originales.
 
 ### La durée
 

@@ -74,7 +74,7 @@ L'UNESCO souligne aussi la transmission des savoir-faire, qui passent surtout pa
 
 Ces textes décrivent une tradition liée au four à bois, qui n'est pas celle que je pratique. Mon four est électrique et monte jusqu'à 500°C ; je ne prétends donc pas que mes pizzas sont des pizzas STG, et mon ambition se limite à réaliser une bonne pizza napolitaine à la maison.
 
-Ce que je retiens de l'UNESCO, c'est l'idée que la pizza se transmet en la faisant, avec les mains, et c'est ce que je pratique en atelier. Dans l'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon), nous travaillons une pâte à longue fermentation, puis nous la cuisons dans un four à 500°C, en 90 secondes environ. Dans l'[atelier Bases](/atelier-pizza-lyon), vous apprenez à faire une pâte maison avec votre propre four.
+Ce que je retiens de l'UNESCO, c'est l'idée que la pizza se transmet en la faisant, avec les mains, et c'est ce que je pratique en atelier. Dans l'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon), nous travaillons une pâte à longue fermentation, puis nous la cuisons dans un four à 500°C, en 90 secondes environ. Dans l'[atelier Bases de la pizza maison](/atelier-pizza-lyon), vous apprenez à faire une pâte maison avec votre propre four.
 
 ## Ce qu'il faut retenir
 

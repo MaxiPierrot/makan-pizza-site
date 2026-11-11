@@ -112,7 +112,7 @@ Le principe à retenir est le suivant : **plus la fermentation est longue, plus 
 
 ## Pour aller plus loin
 
-C'est en travaillant la pâte avec les mains que l'on sent le mieux la différence entre deux farines. Dans l'[atelier Bases](/atelier-pizza-lyon), nous préparons une pâte maison, et dans l'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon), nous l'adaptons à la cuisson napolitaine dans un four à 500°C.
+C'est en travaillant la pâte avec les mains que l'on sent le mieux la différence entre deux farines. Dans l'[atelier Bases de la pizza maison](/atelier-pizza-lyon), nous préparons une pâte maison, et dans l'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon), nous l'adaptons à la cuisson napolitaine dans un four à 500°C.
 
 ## En résumé
 

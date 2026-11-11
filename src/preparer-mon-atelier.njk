@@ -54,7 +54,7 @@ nofab: true
       <fieldset class="prep__block">
         <legend class="prep__title">Votre atelier</legend>
         <div class="prep__choices prep__choices--cards" role="radiogroup" aria-label="Formule">
-          <label class="prep__choice"><input type="radio" name="formule" value="Atelier Bases" data-key="bases"><span><strong>Atelier Bases</strong><small>{{ prix.bases }} € par personne, avec votre four</small></span></label>
+          <label class="prep__choice"><input type="radio" name="formule" value="Atelier Bases" data-key="bases"><span><strong>Bases de la pizza maison</strong><small>{{ prix.bases }} € par personne, avec votre four</small></span></label>
           <label class="prep__choice"><input type="radio" name="formule" value="Initiation napolitaine" data-key="initiation" checked><span><strong>Initiation napolitaine</strong><small>{{ prix.initiation }} € par personne, avec mon four</small></span></label>
           <label class="prep__choice"><input type="radio" name="formule" value="Pizza party" data-key="pizza-party"><span><strong>Pizza party</strong><small>sur devis</small></span></label>
           <label class="prep__choice"><input type="radio" name="formule" value="Autre envie" data-key="autre"><span><strong>Autre envie</strong><small>sur mesure, à définir ensemble</small></span></label>
@@ -76,7 +76,7 @@ nofab: true
             <input type="number" id="p-nb" name="nombre_de_personnes" min="1" max="40" value="4" inputmode="numeric">
             <button type="button" class="prep__step" data-step="1" aria-label="Une personne de plus">+</button>
           </div>
-          <p class="prep__hint" id="p-nb-hint">Un atelier est facturé à partir de {{ prix.minPersonnes }} personnes. Il reste possible à 2 ou 3, au tarif de {{ prix.minPersonnes }} personnes. L'idéal est de ne pas dépasser {{ prix.maxPersonnes }} personnes, et l'atelier peut en accueillir jusqu'à {{ prix.maxPossible }}.</p>
+          <p class="prep__hint" id="p-nb-hint">Un atelier réunit de {{ prix.minPersonnes }} à {{ prix.maxPossible }} personnes. Il est facturé à partir de {{ prix.minPersonnes }} personnes et reste possible à 2 ou 3, au tarif de {{ prix.minPersonnes }} personnes.</p>
         </div>
         <div class="form__cols prep__cols">
           <div class="form__row">

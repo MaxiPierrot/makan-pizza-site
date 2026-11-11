@@ -19,7 +19,7 @@ questions:
   - q: "Peut-on offrir un atelier à un couple ?"
     a: "Oui. Un atelier peut tout à fait avoir lieu à deux ; il est alors facturé au tarif de {prix.minPersonnes} personnes, le minimum prévu. Le couple peut aussi inviter des amis ou de la famille pour compléter le groupe."
   - q: "Faut-il un four spécial pour l'atelier ?"
-    a: "Pour l'atelier Bases, le four de la maison suffit. Pour l'initiation à la pizza napolitaine, en revanche, j'apporte mon four électrique."
+    a: "Pour l'atelier Bases de la pizza maison, le four de la maison suffit. Pour l'initiation à la pizza napolitaine, en revanche, j'apporte mon four électrique."
   - q: "Où se passe l'atelier ?"
     a: "L'atelier a lieu chez la personne qui reçoit le cadeau, ou dans le lieu de son choix, à Lyon ou dans la région lyonnaise."
 related:
@@ -59,10 +59,10 @@ Un atelier en famille fonctionne très bien pendant les vacances de fin d'année
 
 Il existe deux ateliers, et le bon cadeau peut porter sur l'un ou sur l'autre.
 
-- **L'atelier Bases** dure de 2h à 2h30 et se fait avec le four de la maison. On y apprend une pâte que l'on peut refaire chez soi avec le matériel que l'on a déjà. Il coûte {{ prix.bases }} € par personne, à partir de {{ prix.minPersonnes }} personnes.
+- **L'atelier Bases de la pizza maison** dure de 2h à 2h30 et se fait avec le four de la maison. On y apprend une pâte que l'on peut refaire chez soi avec le matériel que l'on a déjà. Il coûte {{ prix.bases }} € par personne, à partir de {{ prix.minPersonnes }} personnes.
 - **L'initiation à la pizza napolitaine** dure de 2h30 à 3h. J'apporte mon four électrique, ce qui permet aux participants de cuire leurs pizzas dans un four comparable à celui d'une pizzeria, l'une après l'autre. Elle coûte {{ prix.initiation }} € par personne, à partir de {{ prix.minPersonnes }} personnes.
 
-Si vous hésitez, demandez-vous si la personne souhaite refaire des pizzas chez elle avec son propre four, auquel cas l'atelier Bases lui conviendra, ou si elle veut surtout goûter et comprendre la vraie pizza napolitaine, ce que permet l'initiation.
+Si vous hésitez, demandez-vous si la personne souhaite refaire des pizzas chez elle avec son propre four, auquel cas l'atelier Bases de la pizza maison lui conviendra, ou si elle veut surtout goûter et comprendre la vraie pizza napolitaine, ce que permet l'initiation.
 
 {% blogphoto "pizza-margherita-bord-gonfle-planche-bois" %}
 
@@ -80,7 +80,7 @@ Si vous offrez le bon pour Noël, je vous conseille de ne pas commander au derni
 
 J'arrive avec le matériel et les ingrédients de la pizza margherita. Nous commençons par la pâte, avec une présentation des farines, puis nous la pétrissons à la main avant de former les pâtons. Chacun étale ensuite sa pâte et la garnit selon ses goûts, avant la cuisson et le repas que nous partageons à la fin.
 
-Je garde volontairement des groupes réduits, de {{ prix.minPersonnes }} à {{ prix.maxPersonnes }} personnes, et jusqu'à {{ prix.maxPossible }} sur demande, afin que chacun ait sa place autour du plan de travail et que je puisse m'occuper de tout le monde. En atelier, ce qui plaît le plus, c'est de faire sa pizza soi-même, du début à la fin.
+Je garde volontairement des groupes réduits, de {{ prix.minPersonnes }} à {{ prix.maxPossible }} personnes, afin que chacun ait sa place autour du plan de travail et que je puisse m'occuper de tout le monde. En atelier, ce qui plaît le plus, c'est de faire sa pizza soi-même, du début à la fin.
 
 L'atelier a lieu chez la personne, ou dans le lieu de son choix, à Lyon ou dans la région lyonnaise. Selon la distance, des frais de déplacement peuvent s'ajouter ; je les précise dans le devis.
 
@@ -92,4 +92,4 @@ Si la personne préfère profiter de ses invités pendant que quelqu'un d'autre 
 
 ## Pour finir
 
-Un atelier pizza est un cadeau de Noël simple à offrir, puisqu'il suffit d'un bon et d'un virement, la date se choisissant plus tard. La personne qui le reçoit y gagne une soirée avec ses proches et une recette qu'elle gardera. Pour voir ce qui se fait pendant l'atelier, je vous invite à découvrir [l'atelier Bases](/atelier-pizza-lyon) ou [l'initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon), puis à passer par la page [bon cadeau](/bon-cadeau).
+Un atelier pizza est un cadeau de Noël simple à offrir, puisqu'il suffit d'un bon et d'un virement, la date se choisissant plus tard. La personne qui le reçoit y gagne une soirée avec ses proches et une recette qu'elle gardera. Pour voir ce qui se fait pendant l'atelier, je vous invite à découvrir [l'atelier Bases de la pizza maison](/atelier-pizza-lyon) ou [l'initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon), puis à passer par la page [bon cadeau](/bon-cadeau).

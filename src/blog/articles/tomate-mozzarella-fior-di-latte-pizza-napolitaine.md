@@ -37,7 +37,7 @@ questions:
     a: "Le cahier des charges parle de mozzarella coupée en tranches. Pour une pizza maison, la mozzarella en tranches ou en morceaux, bien égouttée, donne des plaques fondues plutôt qu'une couche uniforme."
 related:
   - { label: "Initiation à la pizza napolitaine", href: "/atelier-pizza-napolitaine-lyon" }
-  - { label: "La carte", href: "/carte" }
+  - { label: "Mes pizzas en photos", href: "/galerie" }
   - { label: "Questions fréquentes", href: "/faq" }
 ---
 Une pizza napolitaine se compose de tomate, de mozzarella, de basilic et d'un filet d'huile d'olive. Comme il n'y a rien d'autre, chaque ingrédient compte. Le cahier des charges européen de la pizza napolitaine STG autorise deux mozzarellas : la Mozzarella di Bufala Campana AOP et la Mozzarella STG. Vous entendrez aussi parler de « fior di latte », le nom usuel de la mozzarella au lait de vache.
@@ -95,9 +95,9 @@ Pour la tomate, j'apprécie une sauce de qualité de type San Marzano. San Marza
 
 ## Pour une pizza maison
 
-Un atelier permet de comparer facilement, puisqu'on y voit la même pâte avec une garniture mesurée et qu'on goûte ce que change la mozzarella. Dans l'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon), je cuis les pizzas dans mon four électrique à 500°C, en 90 secondes environ. Dans l'[atelier Bases](/atelier-pizza-lyon), les ingrédients prévus sont ceux de la pizza margherita ; si vous souhaitez d'autres garnitures, elles restent à votre charge, mais je vous conseille volontiers dans leur choix.
+Un atelier permet de comparer facilement, puisqu'on y voit la même pâte avec une garniture mesurée et qu'on goûte ce que change la mozzarella. Dans l'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon), je cuis les pizzas dans mon four électrique à 500°C, en 90 secondes environ. Dans l'[atelier Bases de la pizza maison](/atelier-pizza-lyon), les ingrédients prévus sont ceux de la pizza margherita ; si vous souhaitez d'autres garnitures, elles restent à votre charge, mais je vous conseille volontiers dans leur choix.
 
-Si vous cherchez des idées de garnitures, vous pouvez consulter [la carte](/carte).
+Si vous cherchez des idées de garnitures, vous en trouverez quelques-unes dans [la galerie de mes pizzas](/galerie).
 
 ## En résumé
 

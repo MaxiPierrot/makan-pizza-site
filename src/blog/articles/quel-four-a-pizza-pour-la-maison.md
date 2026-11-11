@@ -26,7 +26,7 @@ questions:
   - q: "Quel budget prévoir pour un four à pizza ?"
     a: "Pour un four qui convient, il faut compter {prix.fourMin} € minimum."
   - q: "Un four ménager suffit-il ?"
-    a: "Pour l'atelier Bases, un four domestique suffit, avec une pierre à pizza si vous en avez une ; dans le cas contraire, comptez environ {prix.accessoiresBases} € pour la pierre et quelques accessoires. Pour une pizza napolitaine, en revanche, je travaille avec un four qui monte jusqu'à 500°C."
+    a: "Pour l'atelier Bases de la pizza maison, un four domestique suffit, avec une pierre à pizza si vous en avez une ; dans le cas contraire, comptez environ {prix.accessoiresBases} € pour la pierre et quelques accessoires. Pour une pizza napolitaine, en revanche, je travaille avec un four qui monte jusqu'à 500°C."
   - q: "Peut-on utiliser un four à gaz ou à bois à l'intérieur ?"
     a: "Il faut avant tout suivre le mode d'emploi du fabricant. L'agence régionale de santé d'Île-de-France rappelle qu'il ne faut pas utiliser un barbecue ou un brasero à l'intérieur. Un four à combustion demande la même prudence."
   - q: "Pouvez-vous m'aider à choisir un four ?"
@@ -94,4 +94,4 @@ J'utilise un four électrique qui monte jusqu'à 500°C. Je l'ai choisi pour deu
 
 ## En résumé
 
-Il n'y a pas de four idéal pour tout le monde. Le four électrique se prête bien à un logement, tandis que le four à bois, qui reste la référence de la napolitaine, demande de la place et de la prudence. Quant au four ménager avec une pierre à pizza, il permet de commencer sans gros budget. Avant d'acheter, vérifiez la température, l'énergie, la place et la garantie. Si vous voulez voir un four qui monte à 500°C en action, l'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon) est faite pour cela, et l'[atelier Bases](/atelier-pizza-lyon) vous aidera à tirer le meilleur du four que vous avez déjà.
+Il n'y a pas de four idéal pour tout le monde. Le four électrique se prête bien à un logement, tandis que le four à bois, qui reste la référence de la napolitaine, demande de la place et de la prudence. Quant au four ménager avec une pierre à pizza, il permet de commencer sans gros budget. Avant d'acheter, vérifiez la température, l'énergie, la place et la garantie. Si vous voulez voir un four qui monte à 500°C en action, l'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon) est faite pour cela, et l'[atelier Bases de la pizza maison](/atelier-pizza-lyon) vous aidera à tirer le meilleur du four que vous avez déjà.
