@@ -59,7 +59,7 @@ Sous les cartes : phrase sur les prix et le périmètre (voir "Éléments commun
 3. Le jour venu, j'arrive avec tout le matériel. Selon la formule choisie, vous préparez les pizzas avec moi ou vous profitez simplement de vos invités.
 
 **H2 : Qui je suis**
-Je m'appelle Pierre. J'ai toujours aimé cuisiner. Un jour, j'ai essayé un four conçu pour la pizza napolitaine et vendu à un prix abordable, ce que l'on trouve enfin aujourd'hui. Depuis, je n'ai plus arrêté : je teste des recettes, j'invite mes amis à goûter et je recommence. J'ai maintenant envie de faire partager cette cuisine au plus grand nombre. → `Lire mon histoire` (/a-propos)
+Je m'appelle Pierre. J'ai toujours aimé cuisiner. Un jour, j'ai essayé un four conçu pour la pizza napolitaine. Ce type de four, longtemps réservé aux pizzerias, est désormais accessible aux particuliers. Depuis, je n'ai plus arrêté : je teste des recettes, j'invite mes amis à goûter et je recommence. J'ai maintenant envie de faire partager cette cuisine au plus grand nombre. → `Lire mon histoire` (/a-propos)
 
 **Bande de photos de pizzas** (remplace "Quelques pizzas de la carte") : 4 à 6 photos en grille, sans titre ni liste de noms. Section MASQUÉE tant que les fichiers photo n'existent pas. Chaque photo : nom de fichier descriptif (ex. pizza-morta-bella-lyon.webp) et texte alternatif qui décrit la pizza. Sous la grille : lien `Voir toute la carte` (/carte).
 
@@ -234,7 +234,7 @@ Pour un anniversaire à thème, je peux adapter les recettes. Dites-moi ce que v
 **H2 : Mon histoire**
 Je m'appelle Pierre. J'ai toujours aimé cuisiner, et plus encore pour des personnes que j'aime, réunies autour d'une table.
 
-Un jour, j'ai essayé un four conçu pour la pizza napolitaine et vendu à un prix abordable, ce que l'on trouve enfin aujourd'hui. Depuis, je n'ai plus arrêté : je teste des recettes, je travaille la pâte, je recommence quand le résultat ne me convient pas et j'invite mes amis à goûter.
+Un jour, j'ai essayé un four conçu pour la pizza napolitaine. Ce type de four, longtemps réservé aux pizzerias, est désormais accessible aux particuliers. Depuis, je n'ai plus arrêté : je teste des recettes, je travaille la pâte, je recommence quand le résultat ne me convient pas et j'invite mes amis à goûter.
 
 J'ai maintenant envie de faire partager cette cuisine au plus grand nombre, pour montrer qu'elle n'est pas si compliquée et qu'elle offre un bon moment à passer ensemble. C'est pour cette raison que je viens chez vous.
 
