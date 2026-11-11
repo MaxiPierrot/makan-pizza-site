@@ -1,5 +1,5 @@
 ---
-titre: "Tomate et mozzarella : pourquoi du fior di latte sur une pizza napolitaine ?"
+titre: "Tomate et mozzarella : pourquoi de la fior di latte sur une pizza napolitaine ?"
 description: "Fior di latte, mozzarella di bufala, tomates pelées : ce que dit le cahier des charges de la pizza napolitaine et comment choisir pour une pizza maison."
 date: 2026-12-04
 validé: true
@@ -20,7 +20,7 @@ sources:
     url: "https://www.treccani.it/vocabolario/fiordilatte/"
     editeur: "Vocabolario Treccani, Istituto della Enciclopedia Italiana"
     consulte: 2026-10-23
-    note: "Définit le fior di latte comme un fromage gras et mou, préparé avec du lait de vache entier."
+    note: "Définit la fior di latte comme un fromage gras et mou, préparé avec du lait de vache entier."
   - titre: "Pomodoro San Marzano dell'Agro Sarnese-Nocerino"
     url: "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000013401"
     editeur: "Commission européenne, registre eAmbrosia"
@@ -28,9 +28,9 @@ sources:
     note: "Appellation d'origine protégée (AOP) enregistrée au registre européen des indications géographiques."
 questions:
   - q: "Fior di latte ou mozzarella di bufala : laquelle choisir ?"
-    a: "Les deux conviennent. La bufala est faite avec du lait de bufflonne et le fior di latte avec du lait de vache, si bien que leur goût n'est pas le même. Le plus simple est de goûter les deux nature avant de choisir."
-  - q: "Peut-on mettre du fior di latte et de la bufala sur la même pizza ?"
-    a: "Rien ne l'interdit. C'est avant tout une question de goût. Pour ma part, je mets le fior di latte avant la cuisson et la bufala après, et je choisis en général l'un ou l'autre. Avec une burrata, en revanche, il m'arrive de faire les deux : le fior di latte cuit avec la pizza, puis je pose la burrata dessus à la sortie du four."
+    a: "Les deux conviennent. La bufala est faite avec du lait de bufflonne et la fior di latte avec du lait de vache, si bien que leur goût n'est pas le même. Le plus simple est de goûter les deux nature avant de choisir."
+  - q: "Peut-on mettre de la fior di latte et de la bufala sur la même pizza ?"
+    a: "Rien ne l'interdit. C'est avant tout une question de goût. Pour ma part, je mets la fior di latte avant la cuisson et la bufala après, et je choisis en général l'une ou l'autre. Avec une burrata, en revanche, il m'arrive de faire les deux : la fior di latte cuite avec la pizza, puis je pose la burrata dessus à la sortie du four."
   - q: "Faut-il cuire la sauce tomate avant ?"
     a: "Ce n'est pas nécessaire pour la napolitaine telle que le cahier des charges la décrit, puisque les tomates pelées sont concassées et déposées à la cuillère sur la pâte, puis cuisent au four avec la pizza."
   - q: "Peut-on utiliser de la mozzarella râpée ?"
@@ -48,11 +48,11 @@ Le texte publié au Journal officiel de l'Union européenne en 2010 liste d'abor
 
 Il ne parle pas de « fior di latte » en tant que tel, car il s'agit d'un mot d'usage et non d'un terme du règlement.
 
-## Qu'est-ce que le fior di latte ?
+## Qu'est-ce que la fior di latte ?
 
-Le dictionnaire italien Treccani le définit comme un fromage gras et mou, préparé avec du lait de vache entier, en forme de boule à pâte tendre. C'est la mozzarella « de vache », par opposition à la mozzarella di bufala, faite avec du lait de bufflonne.
+Le dictionnaire italien Treccani la définit comme un fromage gras et mou, préparé avec du lait de vache entier, en forme de boule à pâte tendre. C'est la mozzarella « de vache », par opposition à la mozzarella di bufala, faite avec du lait de bufflonne.
 
-Sur une pizza, il fond en plaques blanches et apporte un goût de lait. Son rôle est d'accompagner la tomate, et non de la couvrir.
+Sur une pizza, elle fond en plaques blanches et apporte un goût de lait. Son rôle est d'accompagner la tomate, et non de la couvrir.
 
 ## La tomate : pelée, concassée, crue
 
@@ -87,9 +87,9 @@ Le cahier des charges ne choisit pas pour vous, puisqu'il autorise les deux. Voi
 
 Ce qui suit correspond à ma façon de faire. Il ne s'agit pas d'une règle, et d'autres pizzaiolos font autrement, chacun ayant ses goûts.
 
-J'aime utiliser le fior di latte en cuisson : je le pose avant l'enfournement, si bien qu'il cuit avec la pizza et fond en plaques sur la tomate. La bufala, au contraire, je l'aime après la cuisson, car posée sur la pizza sortie du four, elle ne cuit pas et garde son goût de lait et sa fraîcheur.
+J'aime utiliser la fior di latte en cuisson : je la pose avant l'enfournement, si bien qu'elle cuit avec la pizza et fond en plaques sur la tomate. La bufala, au contraire, je l'aime après la cuisson, car posée sur la pizza sortie du four, elle ne cuit pas et garde son goût de lait et sa fraîcheur.
 
-En général, je choisis l'une ou l'autre plutôt que les deux sur la même pizza. Avec une burrata, en revanche, il m'arrive de faire les deux : le fior di latte cuit avec la pizza, puis je pose la burrata dessus à la sortie du four.
+En général, je choisis l'une ou l'autre plutôt que les deux sur la même pizza. Avec une burrata, en revanche, il m'arrive de faire les deux : la fior di latte cuite avec la pizza, puis je pose la burrata dessus à la sortie du four.
 
 Pour la tomate, j'apprécie une sauce de qualité de type San Marzano. San Marzano est le nom d'une tomate de la région de Naples, qui bénéficie d'une appellation d'origine protégée (AOP) européenne : « Pomodoro San Marzano dell'Agro Sarnese-Nocerino ». Le nom San Marzano ne suffit toutefois pas à garantir cette origine. Si ce point compte pour vous, cherchez sur l'emballage la mention de l'appellation protégée.
 
@@ -101,4 +101,4 @@ Si vous cherchez des idées de garnitures, vous pouvez consulter [la carte](/car
 
 ## En résumé
 
-Une napolitaine repose sur peu d'ingrédients : de la tomate pelée, de la mozzarella, du basilic et de l'huile d'olive. Le cahier des charges autorise la bufala AOP et la Mozzarella STG, et le fior di latte est le nom usuel de la mozzarella au lait de vache. En mesurant les quantités, en égouttant la mozzarella et en gardant l'eau de la tomate sous contrôle, vous réunissez l'essentiel de ce qui fait une bonne pizza.
+Une napolitaine repose sur peu d'ingrédients : de la tomate pelée, de la mozzarella, du basilic et de l'huile d'olive. Le cahier des charges autorise la bufala AOP et la Mozzarella STG, et la fior di latte est le nom usuel de la mozzarella au lait de vache. En mesurant les quantités, en égouttant la mozzarella et en gardant l'eau de la tomate sous contrôle, vous réunissez l'essentiel de ce qui fait une bonne pizza.

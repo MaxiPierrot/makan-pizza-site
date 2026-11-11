@@ -241,7 +241,7 @@ Aujourd'hui, j'ai envie de partager cette cuisine avec le plus grand nombre, pou
 En 2017, je suis parti me former à la plongée en Asie. Le voyage m'a mené sur une petite île indonésienne, où j'ai rencontré celle qui est devenue ma femme. Nous y sommes restés plusieurs années comme moniteurs de plongée, jusqu'à notre retour en France, et l'Indonésie ne nous a jamais vraiment quittés. En indonésien, « makan » veut dire « manger », l'un de nos plus grands plaisirs : lorsque je me suis lancé dans la pizza napolitaine, le nom Makan Pizza s'est imposé naturellement.
 
 **H2 : Ma façon de travailler**
-Je ne rogne jamais sur la farine ni sur la tomate, parce que c'est ce qui fait la pizza. Pour la mozzarella, j'utilise uniquement du fior di latte. Pour étaler la pâte, je saupoudre le plan de travail de semoule, jamais de farine.
+Je ne rogne jamais sur la farine ni sur la tomate, parce que c'est ce qui fait la pizza. Pour la mozzarella, j'utilise uniquement de la fior di latte. Pour étaler la pâte, je saupoudre le plan de travail de semoule, jamais de farine.
 
 Je pense qu'une vraie pizza coûte peu à faire soi-même et qu'elle se prépare volontiers avec des enfants ou des amis. Je garde mes ateliers en petit groupe pour que chacun puisse discuter, rire et cuisiner sans se presser. Je préfère que l'on se passe des pizzas industrielles et surgelées : c'est pour cette raison que j'anime des ateliers et que je viens chez vous.
 
@@ -267,7 +267,7 @@ Choisissez l'atelier si vous voulez mettre les mains dans la pâte, et la pizza 
 L'atelier Bases se fait avec le four de votre cuisine (59 € par personne), l'initiation avec mon four électrique qui monte jusqu'à 500°C (69 € par personne). Dans les deux cas, nous passons ensemble par toutes les étapes : la pâte, l'étalage, la garniture et la cuisson. Les Bases durent de 2h à 2h30, l'initiation de 2h30 à 3h. Le détail de chaque formule se trouve sur les pages [atelier Bases](/atelier-pizza-lyon) et [initiation](/atelier-pizza-napolitaine-lyon).
 
 **Qu'est-ce qu'une pizza napolitaine ?**
-C'est une pizza dont la pâte fermente longtemps, environ 24 heures, puis cuit dans un four très chaud pendant environ 90 secondes. Mon four électrique monte jusqu'à 500°C. Pour la mozzarella, j'utilise uniquement du fior di latte, et je ne fais aucun compromis sur la farine et la tomate. Je reproduis cette cuisson chez vous lors de l'initiation et de la pizza party.
+C'est une pizza dont la pâte fermente longtemps, environ 24 heures, puis cuit dans un four très chaud pendant environ 90 secondes. Mon four électrique monte jusqu'à 500°C. Pour la mozzarella, j'utilise uniquement de la fior di latte, et je ne fais aucun compromis sur la farine et la tomate. Je reproduis cette cuisson chez vous lors de l'initiation et de la pizza party.
 
 **Peut-on participer en étant débutant ?**
 Oui. Aucun niveau n'est demandé et personne n'est jugé sur sa pizza, qui sera bonne même si elle n'est pas ronde. Ces ateliers sont une activité de loisir et non une formation professionnelle ; aucun diplôme n'est délivré.

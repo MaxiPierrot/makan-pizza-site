@@ -70,7 +70,7 @@ La tomate fraîche n'y figure pas, ce qui est logique : en hiver, elle manque de
 - **L'oignon.** Confit doucement, il devient sucré et fondant. On le retrouve dans ma Savoyarde, avec des pommes de terre, de la poitrine fumée et du reblochon sur une base blanche ; c'est une pizza qui convient bien aux soirées froides.
 - **Le poireau.** Fondu à la poêle avec un peu de beurre ou d'huile, il se marie bien avec une base blanche et un fromage qui a du caractère.
 - **La courge.** On peut la poser en fines tranches précuites ou en purée sur une base blanche, avec un peu de sauge ou de noix.
-- **La poire.** Coupée en tranches fines, elle s'accorde avec un fromage bleu comme le gorgonzola, que l'on trouve déjà dans ma 4 Fromages avec la ricotta, le Parmigiano Reggiano et le fior di latte.
+- **La poire.** Coupée en tranches fines, elle s'accorde avec un fromage bleu comme le gorgonzola, que l'on trouve déjà dans ma 4 Fromages avec la ricotta, le Parmigiano Reggiano et la fior di latte.
 
 {% blogphoto "pizza-mortadelle-burrata-roquette-pistache" %}
 
