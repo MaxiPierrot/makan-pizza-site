@@ -58,13 +58,13 @@ Sur une pizza, elle fond en plaques blanches et apporte un goût de lait. Son r�
 
 Pour la tomate, le cahier des charges décrit des tomates pelées concassées et/ou de petites tomates fraîches coupées, déposées à la cuillère au centre du disque de pâte, puis étalées en spirale. Il n'y a donc pas de sauce cuite, puisque la tomate cuit dans le four avec la pizza.
 
-Les quantités sont modestes, de 60 à 100 g de tomates selon les variantes décrites, pour un disque de 35 cm au plus. Après la cuisson, le texte attend une tomate qui n'a perdu que son eau excédentaire et qui reste dense. C'est un bon repère à la maison, car si le centre de votre pizza est détrempé, c'est qu'il y avait trop de liquide.
+Les quantités sont modestes, de 60 à 100 g de tomates selon les variantes décrites, pour un disque de 35 cm au plus. Après la cuisson, le texte attend une tomate qui n'a perdu que son eau excédentaire et qui reste dense. C'est un bon repère à la maison : un centre détrempé signale un excès de liquide.
 
 ## La mozzarella : en tranches, et égouttée
 
 Le texte prévoit de 80 à 100 g de mozzarella coupée en tranches, déposées sur la tomate. Une fois cuite, elle doit apparaître fondue à la surface, en plaques plus ou moins rapprochées, et non en couche uniforme.
 
-À la maison, deux gestes font la différence :
+À la maison, deux gestes améliorent nettement le résultat :
 
 1. **Égouttez la mozzarella** et épongez-la avant de la couper, car elle est vendue dans son liquide, qui finirait sur la pizza.
 2. **Ne l'ajoutez pas en excès**, puisqu'une mozzarella en trop alourdit la pâte et empêche le centre de cuire correctement.
@@ -87,7 +87,7 @@ Le cahier des charges ne choisit pas pour vous, puisqu'il autorise les deux. Voi
 
 Ce qui suit correspond à ma façon de faire. Il ne s'agit pas d'une règle, et d'autres pizzaiolos font autrement, chacun ayant ses goûts.
 
-J'aime utiliser la fior di latte en cuisson : je la pose avant l'enfournement, si bien qu'elle cuit avec la pizza et fond en plaques sur la tomate. La bufala, au contraire, je l'aime après la cuisson, car posée sur la pizza sortie du four, elle ne cuit pas et garde son goût de lait et sa fraîcheur.
+J'aime utiliser la fior di latte en cuisson : je la pose avant l'enfournement, si bien qu'elle cuit avec la pizza et fond en plaques sur la tomate. Je préfère au contraire ajouter la bufala après la cuisson : posée sur la pizza à la sortie du four, elle ne cuit pas et garde son goût de lait et sa fraîcheur.
 
 En général, je choisis l'une ou l'autre plutôt que les deux sur la même pizza. Avec une burrata, en revanche, il m'arrive de faire les deux : la fior di latte cuite avec la pizza, puis je pose la burrata dessus à la sortie du four.
 
@@ -101,4 +101,4 @@ Si vous cherchez des idées de garnitures, vous en trouverez quelques-unes dans 
 
 ## En résumé
 
-Une napolitaine repose sur peu d'ingrédients : de la tomate pelée, de la mozzarella, du basilic et de l'huile d'olive. Le cahier des charges autorise la bufala AOP et la Mozzarella STG, et la fior di latte est le nom usuel de la mozzarella au lait de vache. En mesurant les quantités, en égouttant la mozzarella et en gardant l'eau de la tomate sous contrôle, vous réunissez l'essentiel de ce qui fait une bonne pizza.
+Une napolitaine repose sur peu d'ingrédients : de la tomate pelée, de la mozzarella, du basilic et de l'huile d'olive. Le cahier des charges autorise la bufala AOP et la Mozzarella STG, et la fior di latte est le nom usuel de la mozzarella au lait de vache. En mesurant les quantités, en égouttant la mozzarella et en limitant l'eau de la tomate, vous réunissez l'essentiel de ce qui fait une bonne pizza.

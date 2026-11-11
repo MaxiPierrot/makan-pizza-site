@@ -50,7 +50,7 @@
       hint.classList.toggle('prep__hint--warn', n > P.maxPossible);
       hint.textContent = n > P.maxPossible
         ? `Au-delà de ${P.maxPossible} personnes, une pizza party convient mieux qu'un atelier ; nous pourrons en parler ensemble.`
-        : `Un atelier réunit de ${P.min} à ${P.maxPossible} personnes. Il est facturé à partir de ${P.min} personnes et reste possible à 2 ou 3, au tarif de ${P.min} personnes.`;
+        : `Un atelier réunit de ${P.min} à ${P.maxPossible} personnes. Il est facturé au minimum pour ${P.min} personnes, y compris pour un groupe de 2 ou 3.`;
     } else {
       hint.hidden = true;
     }
@@ -62,8 +62,8 @@
       const pu = key === 'bases' ? P.bases : P.initiation;
       const factures = Math.max(n, P.min);
       base = factures * pu;
-      label = `${key === 'bases' ? 'Bases de la pizza maison' : 'Initiation napolitaine'} · ${factures}\u00a0×\u00a0${eur(pu)}`
-        + (n < P.min ? ` (prix de ${P.min})` : '');
+      label = `${key === 'bases' ? 'Bases de la pizza maison' : 'Initiation à la pizza napolitaine'} · ${factures}\u00a0×\u00a0${eur(pu)}`
+        + (n < P.min ? ` (tarif de ${P.min} personnes)` : '');
     } else if (key === 'pizza-party') {
       label = `Pizza party · ${n} personnes`;
     } else {

@@ -31,13 +31,13 @@ related:
   - { label: "Atelier Bases de la pizza maison", href: "/atelier-pizza-lyon" }
   - { label: "Questions fréquentes", href: "/faq" }
 ---
-Pour un four à pizza convenable, il faut compter {{ prix.fourMin }} € minimum. Au-delà du budget, le bon four dépend de l'endroit où vous cuisinez, de l'énergie dont vous disposez et du type de pizza que vous voulez faire. Je vous présente ici les critères que j'examine, sans citer de marque ni de modèle, car les modèles et les prix changent alors que les critères restent.
+Pour un four à pizza convenable, il faut compter {{ prix.fourMin }} € minimum. Au-delà du budget, le bon four dépend de l'endroit où vous cuisinez, du mode de chauffe possible chez vous et du type de pizza que vous voulez faire. Je vous présente ici les critères que j'examine, sans citer de marque ni de modèle, car les modèles et les prix changent alors que les critères restent.
 
 ## Qu'attend-on d'un four à pizza ?
 
 Une pizza napolitaine repose sur une pâte qui a fermenté longtemps, un four très chaud et une cuisson d'environ 90 secondes, si bien que le four fait une grande partie du travail.
 
-À titre de repère, le cahier des charges européen de la pizza napolitaine STG (spécialité traditionnelle garantie) prévoit une cuisson exclusivement dans un four à bois, avec une température d'environ 485 °C sur la pierre, d'environ 430 °C à la voûte, et une cuisson de 60 à 90 secondes. Ce texte fait référence pour la pizza napolitaine STG, mais personne ne vous demande de le respecter chez vous : il sert seulement à comprendre ce que l'on cherche, c'est-à-dire une chaleur forte et une cuisson courte.
+À titre de repère, le cahier des charges européen de la pizza napolitaine STG (spécialité traditionnelle garantie) prévoit une cuisson exclusivement dans un four à bois, avec une température d'environ 485 °C sur la pierre, d'environ 430 °C à la voûte, et une cuisson de 60 à 90 secondes. Ce texte fait référence pour la pizza napolitaine STG, mais rien ne vous oblige à le respecter chez vous : il sert seulement à comprendre ce que l'on cherche, c'est-à-dire une chaleur forte et une cuisson courte.
 
 De mon côté, je travaille avec un four électrique qui monte jusqu'à 500°C et cuit une pizza en 90 secondes environ.
 
@@ -59,14 +59,14 @@ C'est le four de la pizza napolitaine traditionnelle. Il demande de la place, du
 
 ### Le four ménager avec une pierre à pizza
 
-Le four que vous avez déjà peut suffire pour commencer, surtout si vous posez dedans une pierre à pizza, qui aide à cuire le dessous de la pâte. Si vous n'avez ni pierre ni petits accessoires, comptez environ {{ prix.accessoiresBases }} € pour vous équiper. C'est d'ailleurs le principe de l'atelier Bases de la pizza maison. Pensez enfin à vérifier la température maximale de votre four, indiquée dans sa notice ou sur son cadran : pour cuire de bonnes pizzas, il doit pouvoir atteindre au moins 250 °C.
+Le four que vous avez déjà peut suffire pour commencer, surtout avec une pierre à pizza, qui aide à cuire le dessous de la pâte. Si vous n'avez ni pierre ni petits accessoires, comptez environ {{ prix.accessoiresBases }} € pour vous équiper. C'est d'ailleurs le principe de l'atelier Bases de la pizza maison. Pensez enfin à vérifier la température maximale de votre four, indiquée dans sa notice ou sur son cadran : pour cuire de bonnes pizzas, il doit pouvoir atteindre au moins 250 °C.
 
 ## Les critères pour choisir
 
 - **La température maximale** et le temps de chauffe annoncés par le fabricant, puisque plus le four monte haut, plus la cuisson est courte.
 - **La taille de la pierre**, qui fixe le diamètre des pizzas et le nombre de pizzas que vous pouvez enchaîner quand vous recevez.
-- **Le lieu d'installation** (intérieur, jardin ou terrasse), qui décide du type d'énergie possible.
-- **L'énergie** disponible, qu'il s'agisse d'une prise électrique, d'une bouteille de gaz ou d'un stock de bois, avec la logistique qu'elle suppose pour chaque soir de cuisson.
+- **Le lieu d'installation** (intérieur, jardin ou terrasse), qui détermine le mode de chauffe possible.
+- **Le mode de chauffe**, qu'il s'agisse d'une prise électrique, d'une bouteille de gaz ou d'un stock de bois, avec la logistique qu'il suppose pour chaque soir de cuisson.
 - **L'encombrement et le poids**, surtout si vous devez le ranger entre deux utilisations.
 - **Le nettoyage et l'entretien**, à lire dans la notice avant d'acheter.
 - **La garantie** et la facilité de contacter le vendeur en cas de problème.
@@ -85,7 +85,7 @@ Comme un four à pizza est un achat qui peut peser dans le budget, mieux vaut ne
 
 ## Le four que j'utilise, et pourquoi
 
-J'utilise un four électrique qui monte jusqu'à 500°C. Je l'ai choisi pour deux raisons. D'abord, il me permet d'organiser de grandes soirées pizza à la maison, jusqu'à 20 pizzas environ sans difficulté. Ensuite, comme il est électrique, je peux aussi m'en servir l'hiver, à l'intérieur.
+J'utilise un four électrique qui monte jusqu'à 500°C. Je l'ai choisi pour deux raisons. D'abord, il me permet d'organiser de grandes soirées pizza à la maison, jusqu'à une vingtaine de pizzas sans difficulté. Ensuite, comme il est électrique, je peux aussi m'en servir l'hiver, à l'intérieur.
 
 ## En résumé
 

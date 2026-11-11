@@ -43,15 +43,15 @@ sources:
     note: "Caractéristiques de la farine pour la pizza napolitaine STG : W de 220 à 380, absorption de 55 à 62, protéines de 11 à 12,5 g pour 100 g."
 questions:
   - q: "Faut-il de la farine italienne 00 pour faire une napolitaine ?"
-    a: "Pas nécessairement. Le 00 italien décrit la quantité de son et de minéraux (les cendres), et non la force de la farine. Pour une pizza, ce qui compte surtout, c'est la force boulangère et la quantité de protéines, pour lesquelles le cahier des charges de la napolitaine donne une plage de W de 220 à 380."
+    a: "Pas nécessairement. Le 00 italien décrit la quantité de son et de minéraux (les cendres), et non la force de la farine. Pour une pizza, ce sont surtout la force boulangère et la quantité de protéines qui comptent. Pour la force, le cahier des charges de la napolitaine donne une plage de W de 220 à 380."
   - q: "Quelle farine française ressemble le plus à une farine 00 ?"
     a: "Il n'existe pas d'équivalence exacte, car les deux classifications ne mesurent ni la même chose ni de la même façon. En France, le type se mesure aux cendres sur 100 g de farine. Je vous conseille donc de chercher avant tout une farine de blé tendre à fort taux de protéines."
   - q: "Pourquoi un W plus élevé pour une biga ?"
     a: "La biga mûrit longtemps, au moins 16 heures, et la pâte obtenue fermente ensuite encore. Or, plus la fermentation est longue, plus le réseau de gluten doit résister. Les sources spécialisées recommandent donc un W supérieur à 300 pour une biga, en précisant qu'une farine de force moyenne (W 260 à 280) ne supporte pas la fermentation minimale de 16 heures."
   - q: "Quel W pour une pâte directe ?"
-    a: "Une pâte directe fermente moins longtemps qu'une pâte à la biga, si bien qu'une farine de force moyenne suffit ; pour ma part, j'utilise un W d'environ 260 à 270. Cette valeur reste dans la fourchette de 220 à 380 du cahier des charges de la napolitaine."
+    a: "Une pâte directe fermente moins longtemps qu'une pâte à la biga : une farine de force moyenne suffit donc. Pour ma part, j'utilise un W de 260 à 270. Cette valeur reste dans la fourchette de 220 à 380 du cahier des charges de la napolitaine."
   - q: "Où trouve-t-on la valeur W sur un sac ?"
-    a: "Elle n'est pas toujours indiquée. Dans ce cas, regardez la ligne protéines du tableau nutritionnel, car plus elle est élevée, plus la farine a de chances d'être forte."
+    a: "Elle n'est pas toujours indiquée. Dans ce cas, regardez la ligne protéines du tableau nutritionnel. Plus elle est élevée, plus la farine a de chances d'être forte."
 related:
   - { label: "Atelier Bases de la pizza maison", href: "/atelier-pizza-lyon" }
   - { label: "Initiation à la pizza napolitaine", href: "/atelier-pizza-napolitaine-lyon" }
@@ -61,7 +61,7 @@ Sur un sac de farine, on lit T45, T55, T65 ou 00, et parfois W, mais ces chiffre
 
 ## Le « T » français : les cendres
 
-En France, les farines de blé sont classées par type. D'après l'arrêté du 13 juillet 1963 qui homologue ces types, chacun correspond à un taux de cendres typique, que l'on obtient en brûlant un échantillon de farine puis en pesant ce qui reste, c'est-à-dire les minéraux. Ceux-ci se trouvent surtout dans le son, l'enveloppe du grain, si bien que plus le taux de cendres est faible, plus la farine est pure et blanche.
+En France, les farines de blé sont classées par type. D'après l'arrêté du 13 juillet 1963 qui homologue ces types, chacun correspond à un taux de cendres typique, que l'on obtient en brûlant un échantillon de farine puis en pesant ce qui reste, c'est-à-dire les minéraux. Ceux-ci se trouvent surtout dans le son, l'enveloppe du grain. Plus le taux de cendres est faible, plus la farine est donc pure et blanche.
 
 Une farine de type 55 (T55) contient ainsi environ 0,55 g de cendres pour 100 g de farine. Le tableau suivant présente les différents types et leurs taux correspondants.
 
@@ -86,24 +86,24 @@ Le 00 est donc une farine très blanche, qui contient très peu de son, mais cel
 
 Le W décrit la force boulangère de la farine, c'est-à-dire sa capacité à former un réseau de gluten solide et élastique qui retient les gaz de la fermentation. Plus il est élevé, mieux la farine supporte une longue fermentation.
 
-Le cahier des charges de la pizza napolitaine STG fixe une fourchette de W de 220 à 380, avec une absorption de 55 à 62 et des protéines de 11 à 12,5 g pour 100 g. Ce sont les caractéristiques de la farine de référence pour une pâte qui doit fermenter longtemps tout en gardant du volume au façonnage.
+Le cahier des charges de la pizza napolitaine STG fixe une fourchette de W de 220 à 380, avec une capacité d'absorption d'eau de 55 à 62 et des protéines de 11 à 12,5 g pour 100 g. Ce sont les caractéristiques de la farine de référence pour une pâte qui doit fermenter longtemps tout en gardant du volume au façonnage.
 
 Le W n'est pas toujours indiqué sur les sacs vendus au grand public. Dans ce cas, la teneur en protéines indiquée dans le tableau nutritionnel constitue un indice utile, car une farine plus riche en protéines a plus de chances d'être forte.
 
 ## Que choisir pour une pizza maison ?
 
-Il n'existe pas une seule bonne réponse, mais quelques repères permettent de s'orienter.
+Il n'existe pas une seule bonne réponse. Voici quelques repères pour vous orienter :
 
 - **Cherchez une farine de blé tendre,** avec une teneur en protéines autour de 11 à 12,5 g pour 100 g si elle est indiquée, comme dans le cahier des charges de la napolitaine.
 - **Ne vous fiez pas au seul chiffre T ou 00.** Le T renseigne sur les cendres et le 00 sur la finesse, mais aucun des deux n'indique la force.
 - **Changez un paramètre à la fois.** Si vous changez de farine, gardez la même recette et la même durée afin de pouvoir comparer. Comme chaque farine absorbe plus ou moins d'eau, adaptez la quantité d'eau progressivement.
-- **Notez ce que vous faites.** En consignant la farine, la quantité d'eau et le temps de repos, vous vous donnez le meilleur moyen de progresser.
+- **Notez ce que vous faites.** En consignant la farine, la quantité d'eau et le temps de repos, vous pourrez comparer vos essais et progresser.
 
 ## Ce que j'utilise : toujours du type 00, avec un W qui dépend de la méthode
 
 J'utilise toujours une farine de type 00 et je fais varier le W selon la façon dont je prépare la pâte.
 
-- **Pour un simple empâtement (une pâte directe), je prends un W d'environ 260 à 270.** On mélange la farine, l'eau, le sel et la levure en une seule fois, puis la pâte fermente quelques heures. Sur une telle durée, le réseau de gluten n'a pas besoin de tenir très longtemps, et une farine de force moyenne suffit. Cette valeur reste dans la fourchette de 220 à 380 du cahier des charges de la napolitaine.
+- **Pour un simple empâtement (une pâte directe), je prends un W de 260 à 270.** On mélange la farine, l'eau, le sel et la levure en une seule fois, puis la pâte fermente quelques heures. Sur une telle durée, le réseau de gluten n'a pas besoin de tenir très longtemps, et une farine de force moyenne suffit. Cette valeur reste dans la fourchette de 220 à 380 du cahier des charges de la napolitaine.
 - **Quand je travaille avec une biga, je prends un W de 330 au minimum.** La biga est un pré-empâtement sec, préparé avec peu d'eau (autour de 44 à 50 % du poids de farine, selon les sources) et un peu de levure, qui mûrit au moins 16 heures, parfois 48 heures, avant de servir à faire la pâte. Comme la pâte qui en résulte fermente très longtemps, la farine doit être forte pour ne pas s'affaisser.
 
 Cette logique n'a rien d'arbitraire. Les professionnels qui décrivent la biga recommandent des farines équilibrées avec un W compris entre 280 et 380, et plus précisément un W supérieur à 300. L'un des articles que j'ai consultés ajoute qu'une biga faite avec une farine de force moyenne, W 260 à 280, ne garantit pas un excellent résultat, car cette farine ne supporte pas la fermentation minimale de la biga, soit 16 heures. En fixant mon minimum à 330, je garde une marge au-dessus de ce seuil de 300.
@@ -116,4 +116,4 @@ C'est en travaillant la pâte avec les mains que l'on sent le mieux la différen
 
 ## En résumé
 
-Les chiffres T55 et T65 mesurent les cendres, si bien que plus le chiffre est élevé, plus la farine contient de son. Les types 00 et 0 suivent le même principe en Italie, avec d'autres limites. Le W, lui, exprime la force de la farine. Pour une pizza, c'est donc cette force qu'il faut rechercher, plutôt qu'un chiffre flatteur.
+Les chiffres T55 et T65 mesurent les cendres : plus le chiffre est élevé, plus la farine contient de son. Les types 00 et 0 suivent le même principe en Italie, avec d'autres limites. Le W, lui, exprime la force de la farine. Pour une pizza, c'est donc cette force qu'il faut rechercher, plutôt qu'un chiffre flatteur.

@@ -60,21 +60,21 @@ Je reste prudent sur ces dates, car elles proviennent d'un dossier de candidatur
 
 En mai 1984, d'après le même dossier, la profession des pizzaioli napolitains a rédigé un petit cahier des charges, signé par tous et enregistré devant un notaire de Naples. Ce document constitue la première étape vers un texte de référence.
 
-Le 4 février 2010, le règlement (UE) n° 97/2010 de la Commission enregistre « Pizza Napoletana » dans le registre des spécialités traditionnelles garanties. Son cahier des charges fixe des règles précises qui portent sur les ingrédients (farine de blé tendre, levure, eau, sel, tomates pelées, huile d'olive extra-vierge), sur le façonnage, à la main et sans rouleau, sur la taille, de 35 cm au plus, et sur la cuisson, dans un four à bois à environ 485 °C pendant 60 à 90 secondes.
+Le 4 février 2010, le règlement (UE) n° 97/2010 de la Commission enregistre « Pizza Napoletana » dans le registre des spécialités traditionnelles garanties. Son cahier des charges fixe des règles précises qui portent sur les ingrédients (farine de blé tendre, levure, eau, sel, tomates pelées, huile d'olive extra-vierge), sur le façonnage (à la main et sans rouleau), sur la taille (35 cm au plus) et sur la cuisson (dans un four à bois, à environ 485 °C, pendant 60 à 90 secondes).
 
 ## 2017 : l'UNESCO reconnaît l'art du pizzaiolo
 
 En 2017, lors de la 12e session du comité intergouvernemental, l'UNESCO a inscrit « L'art du pizzaiolo napolitain » sur la Liste représentative du patrimoine culturel immatériel de l'humanité.
 
-Ce qui est reconnu n'est pas une recette, mais une pratique. L'UNESCO décrit en effet une pratique culinaire en quatre étapes, qui concernent la préparation de la pâte et sa cuisson au feu de bois, en faisant tourner la pizza dans le four. L'élément est originaire de Naples, où près de 3 000 pizzaiolos vivent et travaillent aujourd'hui. Ses détenteurs se répartissent en trois catégories, le maître pizzaiolo, le pizzaiolo et l'enfourneur, auxquelles s'ajoutent les familles de Naples qui reproduisent cet art à la maison.
+Ce qui est reconnu n'est pas une recette, mais une pratique. L'UNESCO décrit en effet une pratique culinaire en quatre étapes, qui concernent la préparation de la pâte et sa cuisson au feu de bois, en faisant tourner la pizza dans le four. Cette pratique est originaire de Naples, où près de 3 000 pizzaiolos vivent et travaillent aujourd'hui. Ses détenteurs se répartissent en trois catégories, le maître pizzaiolo, le pizzaiolo et l'enfourneur, auxquelles s'ajoutent les familles de Naples qui reproduisent cet art à la maison.
 
 L'UNESCO souligne aussi la transmission des savoir-faire, qui passent surtout par la « bottega », où les jeunes apprentis observent leur maître au travail. Elle insiste également sur le partage entre générations.
 
 ## Et chez vous, à Lyon ?
 
-Ces textes décrivent une tradition liée au four à bois, qui n'est pas celle que je pratique. Mon four est électrique et monte jusqu'à 500°C ; je ne prétends donc pas que mes pizzas sont des pizzas STG, et mon ambition se limite à réaliser une bonne pizza napolitaine à la maison.
+Ces textes décrivent une tradition liée au four à bois, qui n'est pas celle que je pratique. Mon four est électrique et monte jusqu'à 500°C. Je ne prétends donc pas faire des pizzas STG : mon objectif est de réaliser une bonne pizza napolitaine à la maison.
 
-Ce que je retiens de l'UNESCO, c'est l'idée que la pizza se transmet en la faisant, avec les mains, et c'est ce que je pratique en atelier. Dans l'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon), nous travaillons une pâte à longue fermentation, puis nous la cuisons dans un four à 500°C, en 90 secondes environ. Dans l'[atelier Bases de la pizza maison](/atelier-pizza-lyon), vous apprenez à faire une pâte maison avec votre propre four.
+De l'UNESCO, je retiens l'idée que la pizza se transmet par la pratique, avec les mains. C'est ainsi que je travaille en atelier. Dans l'[initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon), nous travaillons une pâte à longue fermentation, puis nous la cuisons dans un four à 500°C, en 90 secondes environ. Dans l'[atelier Bases de la pizza maison](/atelier-pizza-lyon), vous apprenez à faire une pâte maison avec votre propre four.
 
 ## Ce qu'il faut retenir
 

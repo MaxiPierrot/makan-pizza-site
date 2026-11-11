@@ -8,7 +8,7 @@ sitemap: false
 title: "Préparer mon atelier pizza | Makan Pizza"
 description: "Répondez à quelques questions pour préparer votre atelier pizza ou votre pizza party à domicile, et obtenez une estimation du tarif et du déplacement."
 h1: "Préparons votre atelier"
-lead: "Ces quelques questions me permettent de vous préparer un devis juste, sans allers-retours. Comptez environ cinq minutes. Vous pouvez laisser vides les champs qui ne sont pas encore décidés."
+lead: "Ces quelques questions me permettent de vous préparer un devis juste, sans allers-retours. Comptez cinq minutes. Vous pouvez laisser vides les champs qui ne sont pas encore décidés."
 nofab: true
 ---
 {# Page envoyée en lien direct aux futurs pizzaïolos, ou remplie par Pierre pendant un appel. Non indexée.
@@ -55,7 +55,7 @@ nofab: true
         <legend class="prep__title">Votre atelier</legend>
         <div class="prep__choices prep__choices--cards" role="radiogroup" aria-label="Formule">
           <label class="prep__choice"><input type="radio" name="formule" value="Atelier Bases" data-key="bases"><span><strong>Bases de la pizza maison</strong><small>{{ prix.bases }} € par personne, avec votre four</small></span></label>
-          <label class="prep__choice"><input type="radio" name="formule" value="Initiation napolitaine" data-key="initiation" checked><span><strong>Initiation napolitaine</strong><small>{{ prix.initiation }} € par personne, avec mon four</small></span></label>
+          <label class="prep__choice"><input type="radio" name="formule" value="Initiation napolitaine" data-key="initiation" checked><span><strong>Initiation à la pizza napolitaine</strong><small>{{ prix.initiation }} € par personne, avec mon four</small></span></label>
           <label class="prep__choice"><input type="radio" name="formule" value="Pizza party" data-key="pizza-party"><span><strong>Pizza party</strong><small>sur devis</small></span></label>
           <label class="prep__choice"><input type="radio" name="formule" value="Autre envie" data-key="autre"><span><strong>Autre envie</strong><small>sur mesure, à définir ensemble</small></span></label>
         </div>
@@ -76,7 +76,7 @@ nofab: true
             <input type="number" id="p-nb" name="nombre_de_personnes" min="1" max="40" value="4" inputmode="numeric">
             <button type="button" class="prep__step" data-step="1" aria-label="Une personne de plus">+</button>
           </div>
-          <p class="prep__hint" id="p-nb-hint">Un atelier réunit de {{ prix.minPersonnes }} à {{ prix.maxPossible }} personnes. Il est facturé à partir de {{ prix.minPersonnes }} personnes et reste possible à 2 ou 3, au tarif de {{ prix.minPersonnes }} personnes.</p>
+          <p class="prep__hint" id="p-nb-hint">Un atelier réunit de {{ prix.minPersonnes }} à {{ prix.maxPossible }} personnes. Il est facturé au minimum pour {{ prix.minPersonnes }} personnes, y compris pour un groupe de 2 ou 3.</p>
         </div>
         <div class="form__cols prep__cols">
           <div class="form__row">
@@ -165,7 +165,7 @@ nofab: true
               <option value="">Choisir</option>
               <option>Oui</option>
               <option>Non, je compte en acheter une</option>
-              <option>Non, on en parle</option>
+              <option>Non, j'aimerais en parler</option>
             </select>
           </div>
         </div>
@@ -187,7 +187,7 @@ nofab: true
       <fieldset class="prep__block prep__estimate" aria-labelledby="p-est-title">
         <legend class="prep__title" id="p-est-title">Votre estimation</legend>
         <dl class="prep__lines" aria-live="polite">
-          <div><dt id="p-l-formule">Initiation napolitaine</dt><dd id="p-v-formule">276 €</dd></div>
+          <div><dt id="p-l-formule">Initiation à la pizza napolitaine</dt><dd id="p-v-formule">276 €</dd></div>
           <div><dt>Déplacement</dt><dd id="p-v-km">inclus jusqu'à {{ prix.rayonKm }} km</dd></div>
           <div class="prep__total"><dt>Total estimé</dt><dd id="p-v-total">276 €</dd></div>
           <div><dt>Acompte de {{ prix.acomptePct }} % pour réserver la date</dt><dd id="p-v-acompte">82,80 €</dd></div>

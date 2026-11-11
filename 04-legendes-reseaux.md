@@ -4,146 +4,145 @@ Brouillons à valider par Pierre. Rien n'est publié. Chaque légende est écrit
 
 Règles appliquées : "je" pour Pierre, "vous" pour le lecteur, aucun superlatif, aucun chiffre qui vieillit (pas de prix), aucune promesse, aucune marque, aucun tiret long. Le ton est celui du site (simple, direct), pas une charte de marque : aucun positionnement de marque n'est formalisé dans le projet.
 
-Photos : de préférence les vôtres (dossier `photos/_pretes`), plus authentiques que les photos libres du blog. Le lien en Instagram va dans la bio ou en story, pas dans la légende.
+Photos : de préférence les vôtres (dossier `photos/_pretes`), plus authentiques que les photos libres du blog. Sur Instagram, le lien va dans la bio ou en story, jamais dans la légende ; sur Facebook, il figure dans le texte. Sur Instagram, 4 à 5 hashtags, dont des hashtags locaux.
 
 ---
 
-## 1. Combien coûte une pizza party à domicile ? (dès la mise en ligne)
+## 1. Combien coûte une pizza party à domicile ? (dès la mise en ligne) : à valider par Pierre
 
 Lien : https://makanpizza.com/blog/combien-coute-pizza-party-domicile-lyon
 Photo suggérée : `deux-pizzas-plan-de-travail`
 
 **Facebook**
-Vous organisez une pizza party à la maison et vous vous demandez combien ça coûte ? Il n'y a pas un seul prix, parce que chaque soirée est différente.
-Ce qui le fait varier : le nombre d'invités, la durée, le choix des pizzas et la distance. J'explique tout dans cet article, sans mauvaise surprise.
-Lire l'article : https://makanpizza.com/blog/combien-coute-pizza-party-domicile-lyon
+Le prix d'une pizza party à domicile n'est jamais le même, car chaque soirée est différente.
+Il dépend du nombre d'invités, de la durée, du choix des pizzas et de la distance. Je détaille chacun de ces éléments dans cet article : https://makanpizza.com/blog/combien-coute-pizza-party-domicile-lyon
 
 **Instagram**
 Combien coûte une pizza party à domicile ? 🍕
-Pas de prix unique : cela dépend du nombre d'invités, de la durée, du choix des pizzas et de la distance.
-Tout est détaillé dans l'article, lien dans la bio.
-#pizzaparty #pizzanapolitaine #lyon #pizzaadomicile #makanpizza
+Le prix dépend du nombre d'invités, de la durée, du choix des pizzas et de la distance.
+L'article détaille chacun de ces éléments ; le lien est dans la bio.
+#pizzaparty #pizzanapolitaine #lyon #pizzalyon #makanpizza
 
 ---
 
-## 2. Atelier pizza ou pizza party : lequel choisir ? (dès la mise en ligne)
+## 2. Atelier pizza ou pizza party : lequel choisir ? (dès la mise en ligne) : à valider par Pierre
 
 Lien : https://makanpizza.com/blog/atelier-pizza-ou-pizza-party-lequel-choisir
 Photo suggérée : `pizza-devant-four-exterieur`
 
 **Facebook**
-Atelier ou pizza party ? La question revient souvent.
-L'atelier, c'est pour mettre les mains dans la pâte à 4, 5 ou 6. La pizza party, c'est pour rester avec vos invités pendant que je prépare les pizzas. Le nombre de personnes tranche souvent.
+Atelier ou pizza party : la question revient souvent.
+Pendant un atelier, de 4 à 8 personnes préparent elles-mêmes leurs pizzas. Avec la pizza party, vous restez avec vos invités pendant que je prépare les pizzas. Le nombre de personnes suffit souvent à trancher.
 Mon article vous aide à choisir : https://makanpizza.com/blog/atelier-pizza-ou-pizza-party-lequel-choisir
 
 **Instagram**
 Atelier ou pizza party ? 👀
-Atelier : on fait la pâte ensemble, à 4, 5 ou 6.
+Atelier : vous préparez vous-mêmes vos pizzas, de 4 à 8 personnes.
 Pizza party : vous restez avec vos invités, je prépare les pizzas sur place.
-Pour choisir, l'article est en lien dans la bio.
+L'article vous aide à choisir ; le lien est dans la bio.
 #atelierpizza #pizzaparty #pizzanapolitaine #lyon #makanpizza
 
 ---
 
-## 3. Quel four à pizza pour la maison ? (dès la mise en ligne)
+## 3. Quel four à pizza pour la maison ? (dès la mise en ligne) : à valider par Pierre
 
 Lien : https://makanpizza.com/blog/quel-four-a-pizza-pour-la-maison
 Photo suggérée : `pizza-devant-four-exterieur`
 
 **Facebook**
-Vous pensez à acheter un four à pizza ? Avant de vous décider, quelques repères : électrique, gaz, bois ou four ménager avec une pierre, et les critères qui comptent vraiment (température, taille, lieu d'installation, entretien).
-Je ne recommande aucun modèle : je compare les types de fours et ce qu'il faut regarder. Lien : https://makanpizza.com/blog/quel-four-a-pizza-pour-la-maison
+Avant d'acheter un four à pizza, voici quelques repères pour comparer : électrique, au gaz, au bois ou four ménager avec une pierre, et les critères qui comptent vraiment (température, taille, lieu d'installation, entretien).
+Je ne recommande aucun modèle ; je compare les types de fours et les critères à examiner. L'article : https://makanpizza.com/blog/quel-four-a-pizza-pour-la-maison
 
 **Instagram**
 Quel four à pizza pour la maison ? 🔥
-Électrique, gaz, bois, ou le four que vous avez déjà : ce qu'il faut regarder avant d'acheter, sans citer de marque.
-Lien dans la bio.
+Électrique, au gaz, au bois, ou le four que vous avez déjà : l'article présente les critères à examiner avant d'acheter, sans citer de marque.
+Le lien est dans la bio.
 #fourapizza #pizzamaison #pizzanapolitaine #lyon #makanpizza
 
 ---
 
-## 4. Organiser un EVJF ou un EVG à domicile à Lyon (dès la mise en ligne)
+## 4. Organiser un EVJF ou un EVG à domicile à Lyon (dès la mise en ligne) : à valider par Pierre
 
 Lien : https://makanpizza.com/blog/organiser-evjf-evg-domicile-lyon
 Photo suggérée : `jambon-cru-copeaux-table`
 
 **Facebook**
-Un EVJF ou un EVG à la maison demande peu d'organisation : une date, un nombre de personnes, un lieu. Je viens chez vous, et on passe un bon moment autour de la pâte.
-Le déroulé et ce qu'il faut prévoir sont dans l'article : https://makanpizza.com/blog/organiser-evjf-evg-domicile-lyon
+Un EVJF ou un EVG à la maison demande peu d'organisation : une date, un nombre de personnes et un lieu. Je viens chez vous et nous préparons les pizzas ensemble.
+L'article présente le déroulé et ce qu'il faut prévoir : https://makanpizza.com/blog/organiser-evjf-evg-domicile-lyon
 
 **Instagram**
-EVJF ou EVG à Lyon ? 🎉
-Une idée simple : un atelier pizza chez vous. Une date, un nombre de personnes, un lieu, et le reste se règle ensemble.
-Article en lien dans la bio.
+EVJF ou EVG à Lyon 🎉
+Un atelier pizza chez vous demande peu d'organisation : une date, un nombre de personnes et un lieu. Nous réglons le reste ensemble.
+L'article est en lien dans la bio.
 #evjf #evg #lyon #atelierpizza #makanpizza
 
 ---
 
-## 5. Tomate et mozzarella : pourquoi du fior di latte ? (4 décembre 2026)
+## 5. Tomate et mozzarella : pourquoi de la fior di latte ? (4 décembre 2026) : à valider par Pierre
 
 Lien : https://makanpizza.com/blog/tomate-mozzarella-fior-di-latte-pizza-napolitaine
 Photo suggérée : `margherita-bord-gonfle`
 
 **Facebook**
-Une pizza napolitaine, ce n'est pas beaucoup d'ingrédients : de la tomate, de la mozzarella, du basilic, de l'huile d'olive. C'est pour ça que chacun compte.
-Fior di latte ou bufala ? Que dit le cahier des charges ? Et ce que je fais de mon côté, c'est un choix très personnel. Tout est dans l'article : https://makanpizza.com/blog/tomate-mozzarella-fior-di-latte-pizza-napolitaine
+Une pizza napolitaine demande peu d'ingrédients : de la tomate, de la mozzarella, du basilic et de l'huile d'olive. Chacun d'eux a donc son importance.
+Dans l'article, je compare la fior di latte et la bufala, je résume ce que dit le cahier des charges et j'explique mon propre choix, qui reste personnel : https://makanpizza.com/blog/tomate-mozzarella-fior-di-latte-pizza-napolitaine
 
 **Instagram**
 Fior di latte ou bufala ? 🧀
-Ce que dit le cahier des charges de la napolitaine, et ma façon de faire, qui est un choix personnel, pas une règle.
-Article en lien dans la bio.
-#pizzanapolitaine #fiordilatte #mozzarella #pizzamaison #makanpizza
+L'article résume ce que dit le cahier des charges de la pizza napolitaine et présente ma façon de faire, qui reste un choix personnel.
+Le lien est dans la bio.
+#pizzanapolitaine #fiordilatte #pizzamaison #lyon #makanpizza
 
 ---
 
-## 6. De Naples à l'UNESCO : l'histoire de la pizza napolitaine (18 décembre 2026)
+## 6. De Naples à l'UNESCO : l'histoire de la pizza napolitaine (18 décembre 2026) : à valider par Pierre
 
 Lien : https://makanpizza.com/blog/histoire-pizza-napolitaine-de-naples-a-l-unesco
 Photo suggérée : `pizza-devant-four-exterieur`
 
 **Facebook**
 En 2010, l'Union européenne a enregistré la Pizza Napoletana comme spécialité traditionnelle garantie. En 2017, l'UNESCO a inscrit l'art du pizzaiolo napolitain sur sa liste du patrimoine culturel immatériel.
-Ce que disent ces textes sur son histoire, avec les dates à prendre avec prudence : https://makanpizza.com/blog/histoire-pizza-napolitaine-de-naples-a-l-unesco
+L'article revient sur cette histoire et signale les dates à prendre avec prudence : https://makanpizza.com/blog/histoire-pizza-napolitaine-de-naples-a-l-unesco
 
 **Instagram**
-2010 : la STG européenne. 2017 : l'UNESCO. 🇮🇹
-Ce que les textes officiels disent de l'histoire de la pizza napolitaine, et ce qu'il faut prendre avec prudence.
-Lien dans la bio.
-#pizzanapolitaine #unesco #histoiredelapizza #naples #makanpizza
+De Naples à l'UNESCO 🇮🇹
+En 2010, l'Union européenne a reconnu la pizza napolitaine comme spécialité traditionnelle garantie ; en 2017, l'UNESCO a inscrit l'art du pizzaiolo napolitain au patrimoine culturel immatériel.
+L'article retrace cette histoire et signale ce qu'il faut prendre avec prudence. Le lien est dans la bio.
+#pizzanapolitaine #unesco #histoiredelapizza #lyon #makanpizza
 
 ---
 
-## 7. T55, T65, 00, W : que veulent dire les chiffres sur un sac de farine ? (8 janvier 2027)
+## 7. T55, T65, 00, W : que veulent dire les chiffres sur un sac de farine ? (8 janvier 2027) : à valider par Pierre
 
 Lien : https://makanpizza.com/blog/farines-t55-t65-00-w-pizza-ce-que-veulent-dire-les-chiffres
 Photo suggérée : `deux-pizzas-plan-de-travail`
 
 **Facebook**
-T55, T65, 00, W : ces chiffres sur les sacs de farine ne parlent pas tous de la même chose. Le T, c'est la quantité de son. Le 00 dit la même chose en Italie. Le W, c'est la force de la farine.
-J'explique aussi pourquoi j'utilise toujours du 00, avec un W différent selon la méthode : https://makanpizza.com/blog/farines-t55-t65-00-w-pizza-ce-que-veulent-dire-les-chiffres
+T55, T65, 00, W : ces chiffres sur les sacs de farine ne parlent pas tous de la même chose. Le T indique la quantité de son, le 00 donne la même information en Italie, et le W mesure la force de la farine.
+J'explique aussi pourquoi j'utilise toujours une farine 00, avec un W différent selon la méthode : https://makanpizza.com/blog/farines-t55-t65-00-w-pizza-ce-que-veulent-dire-les-chiffres
 
 **Instagram**
 T55, T65, 00, W : que veulent dire les chiffres ? 🌾
-Le type, c'est le son. Le W, c'est la force. Et plus la fermentation est longue, plus il faut de force.
-Article en lien dans la bio.
-#farine #pizzamaison #pizzanapolitaine #00 #makanpizza
+Le type indique la quantité de son et le W, la force de la farine. Plus la fermentation est longue, plus la farine doit être forte.
+Le lien est dans la bio.
+#farine #pizzamaison #pizzanapolitaine #lyon #makanpizza
 
 ---
 
-## 8. Pourquoi une pizza napolitaine cuit à 500 °C en 90 secondes (22 janvier 2027)
+## 8. Pourquoi une pizza napolitaine cuit à 500 °C en 90 secondes (22 janvier 2027) : à valider par Pierre
 
 Lien : https://makanpizza.com/blog/pourquoi-500-degres-90-secondes-pizza-napolitaine
 Photo suggérée : `pizza-devant-four-exterieur`
 
 **Facebook**
-Une napolitaine cuit très chaud et très vite : environ 485 °C et 60 à 90 secondes dans le cahier des charges, 500 °C et 90 secondes environ dans mon four électrique.
-Pourquoi ? Pour garder l'intérieur tendre et le bord gonflé. Et comment s'en approcher avec le four de la maison : https://makanpizza.com/blog/pourquoi-500-degres-90-secondes-pizza-napolitaine
+Une pizza napolitaine cuit très chaud et très vite : environ 485 °C et 60 à 90 secondes selon le cahier des charges, 500 °C et 90 secondes dans mon four électrique.
+Cette cuisson garde l'intérieur tendre et fait gonfler le bord. L'article explique aussi comment s'en approcher avec le four de la maison : https://makanpizza.com/blog/pourquoi-500-degres-90-secondes-pizza-napolitaine
 
 **Instagram**
-500 °C, 90 secondes. 🔥
-Pourquoi une napolitaine cuit si chaud et si vite, et comment s'en approcher chez vous.
-Lien dans la bio.
-#pizzanapolitaine #fourapizza #cuisson #pizzamaison #makanpizza
+500 °C, 90 secondes 🔥
+L'article explique pourquoi une pizza napolitaine cuit si chaud et si vite, et comment s'en approcher chez vous.
+Le lien est dans la bio.
+#pizzanapolitaine #fourapizza #pizzamaison #lyon #makanpizza
 
 ---
 
@@ -157,9 +156,11 @@ Lien dans la bio.
 
 # Lancement du site et bons cadeaux de Noël (à valider par Pierre)
 
-Brouillons préparés le 9 nov. 2026. Rien n'est publié. Les passages entre crochets ne se publient pas : [FORMULE], [PRIX], [VALIDITÉ] et [DATE LIMITE] sont à remplacer une fois décidés.
+Brouillons préparés le 9 nov. 2026, mis à jour le 11 nov. 2026. Rien n'est publié.
 
-Lien de la page : https://makanpizza.com/bon-cadeau. À n'utiliser que si la page est en ligne sur le vrai domaine le jour de la publication (elle n'existe pas encore dans le site au 9 nov.). Sur Instagram, mettre ce lien dans la bio (Linktree) ou dans une story.
+État retenu : le site sort le samedi 14 novembre 2026. L'offre de Noël court du lundi 16 novembre au jeudi 24 décembre 2026 inclus, pour les ateliers réservés ou offerts pendant cette période : une pierre à pizza offerte à l'hôte pour l'atelier Bases de la pizza maison (59 € par personne), une remise de 10 % sur l'initiation à la pizza napolitaine (69 € par personne). Chaque atelier réunit de 4 à 8 personnes et il est facturé à partir de 4 personnes. Bon cadeau valable 12 mois. La pizza party reste sur devis, sans prix et sans offre.
+
+Lien de la page : https://makanpizza.com/bon-cadeau. À n'utiliser que si la page est en ligne sur le vrai domaine le jour de la publication. Sur Instagram, ce lien va dans la bio ou dans une story, jamais dans la légende.
 
 ---
 
@@ -171,33 +172,36 @@ Photo suggérée : `pizza-devant-four-exterieur`
 **Facebook**
 Le nouveau site de Makan Pizza est en ligne : https://makanpizza.com
 Vous y trouverez les ateliers, la pizza party, la carte et quelques articles pour ceux qui aiment comprendre ce qui se passe dans la pâte.
-Et pour Noël, une nouveauté : vous pouvez offrir un atelier pizza à domicile, à Lyon et alentours. Vous réglez par virement, je vous envoie le bon cadeau en PDF dès réception, et on choisit la date de l'atelier ensemble.
-[FORMULE], [PRIX], valable [VALIDITÉ]. Pour l'offrir à Noël, commandez avant le [DATE LIMITE].
+Il est désormais possible d'offrir un atelier pizza à domicile, à Lyon et dans la région lyonnaise. Vous réglez par virement, je vous envoie le bon cadeau en PDF dès réception, puis nous choisissons ensemble la date de l'atelier. Le bon est valable 12 mois.
+L'atelier Bases de la pizza maison est proposé à 59 € par personne et l'initiation à la pizza napolitaine à 69 € par personne, de 4 à 8 personnes, avec une facturation à partir de 4 personnes.
+À partir du lundi 16 novembre et jusqu'au 24 décembre inclus, l'atelier Bases de la pizza maison s'accompagne d'une pierre à pizza offerte à l'hôte, et l'initiation à la pizza napolitaine bénéficie d'une remise de 10 %, pour tout atelier réservé ou offert pendant cette période.
 Tout est expliqué ici : https://makanpizza.com/bon-cadeau
-Une question ? Écrivez-moi sur WhatsApp au 06 99 17 18 38.
+Pour toute question, écrivez-moi sur WhatsApp au 06 99 17 18 38.
 Pizza napolitaine à domicile ou ailleurs...
 
 **Instagram**
-Nouveau site, et une idée pour Noël 🎁
-Le site Makan Pizza a fait peau neuve : ateliers, pizza party, carte et articles.
-Nouveauté : vous pouvez offrir un atelier pizza à domicile, à Lyon et alentours. Virement, bon cadeau envoyé en PDF, date choisie ensemble.
-[FORMULE], [PRIX]. Commande avant le [DATE LIMITE].
-Lien dans la bio.
+Le nouveau site est en ligne 🎁
+Vous y trouverez les ateliers, la pizza party, la carte et des articles.
+Vous pouvez désormais offrir un atelier pizza à domicile, à Lyon et dans la région lyonnaise : le bon cadeau arrive en PDF après le virement, il est valable 12 mois, et nous choisissons la date ensemble.
+Atelier Bases de la pizza maison : 59 € par personne. Initiation à la pizza napolitaine : 69 € par personne. De 4 à 8 personnes, facturation à partir de 4.
+Du 16 novembre au 24 décembre inclus : une pierre à pizza offerte à l'hôte pour l'atelier Bases de la pizza maison, une remise de 10 % sur l'initiation à la pizza napolitaine.
+Le lien est dans la bio.
 Pizza napolitaine à domicile ou ailleurs...
-#lyon #atelierpizza #ideecadeau #pizzanapolitaine #makanpizza
+#lyon #pizzalyon #atelierpizza #ideecadeau #makanpizza
 
 ---
 
-## 10. Publication fiche Google (à partir du 14 novembre 2026) : à valider par Pierre
+## 10. Publication fiche Google (à partir du 16 novembre 2026) : à valider par Pierre
 
-Type : Offre ou Nouveauté. Bouton : « En savoir plus » vers https://makanpizza.com/bon-cadeau
+Type : Offre. Bouton : « En savoir plus » vers https://makanpizza.com/bon-cadeau
 Photo suggérée : `margherita-bord-gonfle` (la couverture de la fiche reste `pizza-devant-four-exterieur`)
 Pas de numéro de téléphone dans le texte : Google refuse souvent les publications qui en contiennent, le bouton et la fiche suffisent.
 
 **Google**
 Offrez un atelier pizza à domicile pour Noël
-Le nouveau site Makan Pizza est en ligne, et avec lui les bons cadeaux. Vous offrez un atelier de pizza napolitaine à domicile, à Lyon et alentours : on met les mains dans la pâte, on garnit et on cuit ensemble. Paiement par virement, bon cadeau envoyé en PDF dès réception, date de l'atelier choisie ensemble.
-[FORMULE], [PRIX], valable [VALIDITÉ]. Pour Noël, commande avant le [DATE LIMITE].
+Le nouveau site Makan Pizza est en ligne, et avec lui les bons cadeaux. Vous offrez un atelier de pizza napolitaine à domicile, à Lyon et dans la région lyonnaise, pendant lequel vos proches préparent, garnissent et cuisent eux-mêmes leurs pizzas. Le paiement se fait par virement, le bon cadeau est envoyé en PDF dès réception, et la date de l'atelier se choisit ensemble. Le bon est valable 12 mois.
+L'atelier Bases de la pizza maison coûte 59 € par personne et l'initiation à la pizza napolitaine 69 € par personne, de 4 à 8 personnes, avec une facturation à partir de 4 personnes.
+Jusqu'au 24 décembre inclus, une pierre à pizza est offerte à l'hôte de l'atelier Bases de la pizza maison, et l'initiation à la pizza napolitaine bénéficie d'une remise de 10 %, pour tout atelier réservé ou offert pendant cette période.
 
 ---
 
@@ -206,84 +210,86 @@ Le nouveau site Makan Pizza est en ligne, et avec lui les bons cadeaux. Vous off
 Le « vous » est gardé dans les deux : il s'adresse à un groupe, et il sonne naturel même entre amis.
 
 **Groupe WhatsApp de la soirée de lancement**
-Bonjour à tous ! Merci encore d'être venus à la soirée de lancement, ça m'a fait très plaisir de vous avoir autour du four.
-Petite nouvelle : le nouveau site est en ligne, makanpizza.com. Si vous avez deux minutes, allez y faire un tour et dites-moi s'il y a quelque chose qui accroche ou qui manque.
-Et pour Noël, vous pouvez maintenant offrir un atelier pizza à domicile : https://makanpizza.com/bon-cadeau
-Si vous pensez à quelqu'un que ça ferait sourire, n'hésitez pas à faire passer. Merci à vous !
+Bonjour à tous ! Merci encore d'être venus à la soirée de lancement, j'ai été très heureux de vous recevoir autour du four.
+Le nouveau site est en ligne : makanpizza.com. Si vous avez un moment, n'hésitez pas à le parcourir et à me dire ce qui vous gêne ou ce qui vous manque.
+Il est aussi possible, désormais, d'offrir un atelier pizza à domicile : https://makanpizza.com/bon-cadeau
+Si vous pensez à quelqu'un que cela ferait plaisir, transmettez-lui le lien. Merci à vous !
 
 **Facebook perso de Pierre**
-Les pizzas que je fais pour les amis sont devenues un vrai projet : Makan Pizza, des ateliers de pizza napolitaine à domicile autour de Lyon.
+Les pizzas que je préparais pour mes amis sont devenues un vrai projet : Makan Pizza, des ateliers de pizza napolitaine à domicile, à Lyon et dans la région lyonnaise.
 Le nouveau site vient de sortir : https://makanpizza.com
-Et pour Noël, j'ai ajouté une idée cadeau : offrir un atelier pizza chez soi, à Lyon et alentours. Vous me faites un virement, je vous envoie le bon en PDF, et on cale la date ensemble.
-Tout est là : https://makanpizza.com/bon-cadeau
+Il est désormais possible d'offrir un atelier pizza à domicile. Vous réglez par virement, je vous envoie le bon en PDF, puis nous fixons la date ensemble.
+Tout est expliqué ici : https://makanpizza.com/bon-cadeau
 Si vous pensez à quelqu'un, un partage me ferait plaisir. Merci !
 Photo suggérée : `deux-pizzas-plan-de-travail`
 
 ---
 
-## 12. Relance « encore le temps de l'offrir » (lundi 1er décembre 2026) : à valider par Pierre
+## 12. Relance « encore le temps de l'offrir » (mardi 1er décembre 2026) : à valider par Pierre
 
 Lien : https://makanpizza.com/bon-cadeau
 Photo suggérée : `margherita-planche`
 
 **Facebook**
 Décembre commence, et il est encore temps d'offrir un atelier pizza à domicile pour Noël.
-L'idée : un moment à passer ensemble autour de la pâte, chez la personne qui le reçoit, à Lyon et alentours. Vous réglez par virement, je vous envoie le bon cadeau en PDF, et la date de l'atelier se choisit ensemble ensuite.
-Commande avant le [DATE LIMITE]. Tout est expliqué ici : https://makanpizza.com/bon-cadeau
-Une question ? WhatsApp au 06 99 17 18 38.
+L'atelier a lieu chez la personne qui le reçoit, à Lyon et dans la région lyonnaise. Vous réglez par virement, je vous envoie le bon cadeau en PDF, valable 12 mois, et la date de l'atelier se choisit ensuite.
+Jusqu'au 24 décembre inclus, une pierre à pizza est offerte à l'hôte de l'atelier Bases de la pizza maison (59 € par personne), et l'initiation à la pizza napolitaine (69 € par personne) bénéficie d'une remise de 10 %. Chaque atelier réunit de 4 à 8 personnes, avec une facturation à partir de 4 personnes.
+Tout est expliqué ici : https://makanpizza.com/bon-cadeau
+Pour toute question, écrivez-moi sur WhatsApp au 06 99 17 18 38.
 
 **Instagram**
 Encore le temps de l'offrir 🎄
-Un atelier pizza à domicile, à Lyon et alentours. Bon cadeau en PDF envoyé dès réception du virement, date choisie ensemble ensuite.
-Commande avant le [DATE LIMITE]. Lien dans la bio.
-#lyon #ideecadeau #cadeaunoel #atelierpizza #makanpizza
+Un atelier pizza à domicile, à Lyon et dans la région lyonnaise. Le bon cadeau arrive en PDF dès réception du virement, il est valable 12 mois, et la date se choisit ensuite.
+Jusqu'au 24 décembre inclus : une pierre à pizza offerte à l'hôte pour l'atelier Bases de la pizza maison, une remise de 10 % sur l'initiation à la pizza napolitaine.
+Le lien est dans la bio.
+#lyon #pizzalyon #cadeaunoel #atelierpizza #makanpizza
 
 ---
 
-## 13. Dernier appel avant Noël (mardi 15 décembre 2026, avant le [DATE LIMITE]) : à valider par Pierre
+## 13. Dernier appel avant Noël (mardi 15 décembre 2026) : à valider par Pierre
 
 Lien : https://makanpizza.com/bon-cadeau
 Photo suggérée : `mortadella-pistache-table-soleil` (story : `pepperoni-sur-pelle`)
 
 **Facebook**
-Dernier rappel pour Noël : vous avez jusqu'au [DATE LIMITE] pour commander un bon cadeau atelier pizza.
-Le principe ne change pas : virement, bon envoyé en PDF dès réception, et la date de l'atelier se choisit ensemble ensuite. Pratique si vous vous y prenez tard : le bon s'imprime ou s'envoie par message.
+Dernier rappel pour Noël : l'offre sur les ateliers pizza court jusqu'au 24 décembre inclus. Une pierre à pizza est offerte à l'hôte de l'atelier Bases de la pizza maison, et l'initiation à la pizza napolitaine bénéficie d'une remise de 10 %.
+Le principe reste le même : vous réglez par virement, je vous envoie le bon en PDF dès réception, et la date de l'atelier se choisit ensuite. Le bon s'imprime ou s'envoie par message, ce qui reste pratique même au dernier moment. Il est valable 12 mois.
 https://makanpizza.com/bon-cadeau
-Une question ? WhatsApp au 06 99 17 18 38.
+Pour toute question, écrivez-moi sur WhatsApp au 06 99 17 18 38.
 
 **Instagram**
 Dernier appel pour Noël ⏳
-Bon cadeau atelier pizza à domicile, à commander avant le [DATE LIMITE]. Le bon arrive en PDF, à imprimer ou à glisser dans un message.
-Lien dans la bio.
-#lyon #cadeaudernieresminute #ideecadeau #atelierpizza #makanpizza
+L'offre court jusqu'au 24 décembre inclus. Le bon cadeau arrive en PDF, à imprimer ou à envoyer par message, et il est valable 12 mois.
+Le lien est dans la bio.
+#lyon #pizzalyon #cadeaunoel #atelierpizza #makanpizza
 
 **Story Instagram (2 écrans)**
-Écran 1, sur la photo : « Une idée pour Noël ? Offrez un atelier pizza à domicile »
-Écran 2 : « Commande avant le [DATE LIMITE] » + sticker lien vers https://makanpizza.com/bon-cadeau, texte du sticker « Bon cadeau »
+Écran 1, sur la photo : « Pour Noël, offrez un atelier pizza à domicile »
+Écran 2 : « Offre valable jusqu'au 24 décembre inclus » + sticker lien vers https://makanpizza.com/bon-cadeau, texte du sticker « Bon cadeau »
 
 ---
 
-## 14. Reel « offres de Noël » (proposé : dimanche 15 novembre 2026, 18 h) : validé par Pierre le 9 novembre (vidéo et offres), légende à relire
+## 14. Reel « offres de Noël » (lundi 16 novembre 2026, 18 h) : validé par Pierre le 9 novembre (vidéo et offres), légende mise à jour, à valider par Pierre
 
 Vidéo : `marketing/Lancement site/video-noel-site.mp4` (44 s, musique comprise : « Christmas » de Tunetank, licence Pixabay, pas de crédit obligatoire).
 À publier seulement une fois le nouveau site en ligne et les offres ajoutées sur /bon-cadeau et dans les CGV.
 
 **Facebook**
-Pour Noël, deux petits cadeaux sur les ateliers pizza à domicile 🎄
-Atelier « Bases de la pizza maison » : une pierre à pizza offerte à celui qui reçoit, pour continuer à faire ses pizzas après l'atelier.
-Atelier « Initiation à la pizza napolitaine » : −10 %.
-Pour un atelier réservé, ou offert en bon cadeau, avant le 24 décembre.
-Et les pizza party ? Toujours disponibles, sur devis.
-Votre estimation en quelques minutes sur https://makanpizza.com, ou écrivez-moi sur WhatsApp au 06 99 17 18 38.
+Pour Noël, deux attentions sur les ateliers pizza à domicile 🎄
+Atelier Bases de la pizza maison : une pierre à pizza est offerte à l'hôte, pour continuer à faire ses pizzas après l'atelier.
+Initiation à la pizza napolitaine : une remise de 10 %.
+L'offre s'applique aux ateliers réservés ou offerts en bon cadeau du 16 novembre au 24 décembre inclus.
+La pizza party reste proposée sur devis.
+Faites votre estimation en quelques minutes sur https://makanpizza.com, ou écrivez-moi sur WhatsApp au 06 99 17 18 38.
 Pizza napolitaine à domicile ou ailleurs...
 
 **Instagram**
-Pour Noël, deux petits cadeaux sur les ateliers 🎄
-Bases de la pizza maison : la pierre à pizza offerte à celui qui reçoit.
-Initiation à la pizza napolitaine : −10 %.
-Pour un atelier réservé ou offert avant le 24 décembre.
-Les pizza party restent disponibles, sur devis.
-Estimation en quelques minutes sur le site, lien dans la bio.
+Pour Noël, deux attentions sur les ateliers 🎄
+Atelier Bases de la pizza maison : une pierre à pizza offerte à l'hôte.
+Initiation à la pizza napolitaine : une remise de 10 %.
+L'offre s'applique aux ateliers réservés ou offerts du 16 novembre au 24 décembre inclus.
+La pizza party reste proposée sur devis.
+Faites votre estimation en quelques minutes sur le site ; le lien est dans la bio.
 Pizza napolitaine à domicile ou ailleurs...
 
-#lyon #atelierpizza #pizzanapolitaine #ideecadeau #noel #makanpizza
+#lyon #pizzalyon #atelierpizza #noel #makanpizza

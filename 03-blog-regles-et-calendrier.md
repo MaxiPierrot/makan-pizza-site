@@ -41,6 +41,17 @@ Relecture de Morgane (rédaction et enseignement du français, ses remarques fon
 
 6. (11 nov. 2026) Éviter les expressions toutes faites et les clichés. Exemple refusé : « mettre les mains dans la pâte » (corrigé : « cuisiner vous-même », « préparer les pizzas »). Dire simplement ce qui se passe.
 
+Principes tirés des corrections de Pierre (11 nov. 2026), à appliquer à toute rédaction :
+
+7. Aucune fin de phrase rattachée de travers. Une précision ajoutée par une virgule (« …, ce que l'on trouve enfin aujourd'hui ») devient une phrase à part, qui dit clairement son idée. Exemple : « Ce type de four, longtemps réservé aux pizzerias, est désormais accessible aux particuliers. »
+8. Le vocabulaire du lecteur, pas celui du métier ni des notices. « La pierre » plutôt que « la sole », « son mode de chauffe » plutôt que « l'énergie », « un four convenable » plutôt que « un four qui convient ».
+9. Des chiffres simples et nets, sans nuance inutile : « de 4 à 8 personnes par atelier », jamais « idéalement de 4 à 6, jusqu'à 8 ». Quand un conseil dépend d'un seuil, le donner (« au moins 250 °C »).
+10. Toujours le nom complet des formules : « l'atelier Bases de la pizza maison », « l'initiation à la pizza napolitaine ». Jamais « les Bases » seul.
+11. Ne pas exposer au client les contrôles ou les intentions internes (« afin que je vérifie qu'il se trouve dans la zone ») : on demande l'information, sans justification.
+12. Pas d'institution citée sans nécessité : pour la sécurité, énoncer des règles de prudence générales et concrètes plutôt que « l'agence X rappelle que… ».
+13. Annoncer une liste par une phrase qui la présente (« Voici quelques moyens de vous faire une idée avant de vous décider : »), jamais par une formule creuse (« Il existe pour cela plusieurs façons de faire »).
+14. Les étapes s'écrivent à l'impératif poli ou à la première personne, sans tournure parlée : « Indiquez-moi la date souhaitée… », « Je vous adresse un devis détaillé… ». Petits mots justes : « par formulaire » (sans article), « de la fior di latte » (féminin), « inviter mes amis à déguster mes créations ».
+
 Technique : une page par article (`/blog/titre-de-l-article`), un seul H1, title et meta description uniques, balisage `Article` (auteur Pierre, date de publication, date de mise à jour), balisage `FAQPage` quand il y a une FAQ, `BreadcrumbList`, 2 ou 3 liens internes vers des pages du site (offres, carte, FAQ) et des liens vers les sources externes, ajout au sitemap, page `/blog` qui liste les articles du plus récent au plus ancien.
 
 Interdit : copier un texte existant, inventer une citation, une statistique, un témoignage ou un avis, publier des articles quasi identiques, répéter des mots-clés artificiellement, mentionner d'autres marques en les recommandant, promettre "sans gluten" ou "sans allergène".

@@ -27,7 +27,7 @@ questions:
   - q: "Peut-on mettre des légumes crus sur une pizza ?"
     a: "Certains, oui, à condition qu'ils soient coupés finement et ne rendent pas trop d'eau. Ceux qui en contiennent beaucoup ou qui cuisent lentement, comme les champignons, le poireau ou la courge, sont à précuire avant de garnir la pizza."
   - q: "Combien de garnitures mettre sur une pizza ?"
-    a: "Il vaut mieux en mettre peu, car trois ou quatre ingrédients en plus de la base suffisent en général. Au-delà, les goûts se mélangent et la pâte a du mal à cuire au centre."
+    a: "Mieux vaut rester mesuré : trois ou quatre ingrédients en plus de la base suffisent en général. Au-delà, les goûts se mélangent et la pâte a du mal à cuire au centre."
   - q: "Quels ingrédients ajouter après la cuisson ?"
     a: "On ajoute après la cuisson les ingrédients qui craignent la chaleur, comme la charcuterie fine, la roquette, la burrata ou la stracciatella, les copeaux de fromage, un filet de miel ou quelques noix."
   - q: "Faites-vous des pizzas sans allergènes ?"
@@ -41,18 +41,18 @@ Une bonne garniture de pizza tient à trois choses : des ingrédients de saison,
 
 ## Pourquoi faire simple ?
 
-Sur une pizza napolitaine, la pâte cuit très vite, en 90 secondes environ dans un four à 500°C, si bien qu'elle n'a pas le temps de sécher une garniture trop épaisse ou trop humide. Plus on la charge, plus le centre reste mou.
+Sur une pizza napolitaine, la pâte cuit très vite, en 90 secondes environ dans un four à 500°C. Elle n'a donc pas le temps de sécher une garniture trop épaisse ou trop humide. Plus on la charge, plus le centre reste mou.
 
-Faire simple ne veut pas dire faire pauvre. Il s'agit de choisir trois ou quatre ingrédients qui vont bien ensemble et de laisser chacun d'eux se goûter, alors qu'une pizza qui réunit cinq légumes, deux charcuteries et trois fromages ressemble vite à un fond de réfrigérateur.
+Faire simple ne veut pas dire faire pauvre. Il s'agit de choisir trois ou quatre ingrédients qui vont bien ensemble et de laisser chacun d'eux se goûter. Une pizza qui réunit cinq légumes, deux charcuteries et trois fromages ressemble vite à un fond de réfrigérateur.
 
-Pour la base, je ne change rien d'une saison à l'autre : une bonne farine, une bonne tomate et une mozzarella fior di latte, que je ne revois jamais à la baisse. J'en parle en détail dans l'article [tomate et mozzarella](/blog/tomate-mozzarella-fior-di-latte-pizza-napolitaine), et il sera donc question ici de ce que l'on met par-dessus.
+Pour la base, je ne change rien d'une saison à l'autre : une bonne farine, une bonne tomate et une mozzarella fior di latte, que je ne revois jamais à la baisse. J'en parle en détail dans l'article [tomate et mozzarella](/blog/tomate-mozzarella-fior-di-latte-pizza-napolitaine). Cet article porte donc sur ce que l'on met par-dessus.
 
 ## Comment choisir au marché ?
 
-Quelques réflexes me servent toute l'année.
+Voici les réflexes qui me guident toute l'année :
 
 - **Regarder ce qui est de saison.** Un légume de saison a souvent plus de goût et coûte en général moins cher. Le calendrier de saison du site Manger Bouger, géré par Santé publique France, en donne la liste mois par mois.
-- **Acheter peu, mais bon.** Comme on met de petites quantités sur une pizza, autant choisir un bon fromage ou une bonne charcuterie et en mettre moins.
+- **Acheter peu, mais bon.** Comme on met de petites quantités sur une pizza, mieux vaut choisir un bon fromage ou une bonne charcuterie, en quantité réduite.
 - **Penser à l'eau.** Un ingrédient qui rend beaucoup d'eau à la cuisson détrempe la pâte ; il faut alors le précuire, l'égoutter ou le poser après la cuisson.
 - **Goûter avant.** Lorsqu'un fromage est trop salé ou qu'une charcuterie est trop forte, mieux vaut le savoir avant de garnir.
 
@@ -62,12 +62,12 @@ Quelques réflexes me servent toute l'année.
 
 Pour décembre, le calendrier de Manger Bouger cite par exemple le poireau, la courge et le potimarron, l'épinard, l'endive, l'oignon, ainsi que des champignons comme la pleurote ou le cèpe. Du côté des fruits, on y trouve la poire.
 
-La tomate fraîche n'y figure pas, ce qui est logique : en hiver, elle manque de goût, et on n'en met donc pas sur une pizza. La base tomate se fait d'ailleurs avec des tomates pelées en conserve, comme le reste de l'année.
+La tomate fraîche n'y figure pas. En hiver, elle manque de goût, et je n'en mets donc pas sur mes pizzas. La base tomate, elle, se fait toute l'année avec des tomates pelées en conserve.
 
 ### Ce que cela donne sur une pizza
 
-- **Les champignons.** Je les fais sauter à la poêle avant de garnir, pour qu'ils perdent leur eau ; c'est le cas pour la Reine de ma carte, qui associe une base tomate, du jambon, des champignons de Paris sautés et de la mozzarella fior di latte.
-- **L'oignon.** Confit doucement, il devient sucré et fondant. On le retrouve dans ma Savoyarde, avec des pommes de terre, de la poitrine fumée et du reblochon sur une base blanche ; c'est une pizza qui convient bien aux soirées froides.
+- **Les champignons.** Je les fais sauter à la poêle avant de garnir, pour qu'ils perdent leur eau. C'est le cas pour la Reine de ma carte, qui associe une base tomate, du jambon, des champignons de Paris sautés et de la mozzarella fior di latte.
+- **L'oignon.** Confit doucement, il devient sucré et fondant. On le retrouve dans ma Savoyarde, avec des pommes de terre, de la poitrine fumée et du reblochon sur une base blanche. Cette pizza convient bien aux soirées froides.
 - **Le poireau.** Fondu à la poêle avec un peu de beurre ou d'huile, il se marie bien avec une base blanche et un fromage qui a du caractère.
 - **La courge.** On peut la poser en fines tranches précuites ou en purée sur une base blanche, avec un peu de sauge ou de noix.
 - **La poire.** Coupée en tranches fines, elle s'accorde avec un fromage bleu comme le gorgonzola, que l'on trouve déjà dans ma 4 Fromages avec la ricotta, le Parmigiano Reggiano et la fior di latte.
@@ -98,13 +98,13 @@ Cette question compte autant que le choix des ingrédients eux-mêmes.
 
 ## Quelques erreurs à éviter
 
-- **Trop de garniture.** C'est l'erreur la plus facile à commettre, et elle empêche le centre de cuire, si bien que la pizza se plie en deux sous le poids.
+- **Trop de garniture.** C'est une erreur fréquente. Une garniture trop abondante empêche le centre de cuire, et la pizza se plie alors en deux sous le poids.
 - **Des légumes crus qui rendent de l'eau.** Pensez à précuire puis à égoutter les champignons, les courgettes ou les épinards.
 - **Des tranches trop épaisses.** Coupez finement, afin que tout cuise en même temps que la pâte.
 
 ## Et les allergies ?
 
-Une pizza contient du gluten, et beaucoup de garnitures contiennent du lait, des fruits à coque (noix, pistaches) ou de l'œuf. C'est pourquoi je ne promets jamais une pizza sans allergène. Si vous ou vos invités avez une allergie, signalez-la-moi dès votre demande afin que nous regardions ensemble ce qui est possible ; en cas d'allergie sévère, nous en parlerons avant de réserver.
+Une pizza contient du gluten, et beaucoup de garnitures contiennent du lait, des fruits à coque (noix, pistaches) ou de l'œuf. C'est pourquoi je ne promets jamais une pizza sans allergène. Si vous ou vos invités avez une allergie, signalez-la-moi dès votre demande afin que nous étudiions ensemble les solutions ; en cas d'allergie sévère, nous en parlerons avant de réserver.
 
 ## Pour aller plus loin
 

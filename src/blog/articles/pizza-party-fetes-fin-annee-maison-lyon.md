@@ -1,6 +1,6 @@
 ---
 titre: "Une pizza party pour les fêtes de fin d'année à la maison"
-description: "Une pizza party chez vous pour les fêtes, entre amis ou en famille, autour de Lyon : comment l'organiser, combien de pizzas prévoir et ce qu'il faut préparer."
+description: "Une pizza party chez vous pour les fêtes, entre amis ou en famille, à Lyon et dans la région lyonnaise : l'organisation, le nombre de pizzas et ce qu'il faut préparer."
 date: 2027-11-19
 validé: false
 sujet: fetes-fin-annee
@@ -35,7 +35,7 @@ En décembre, les repas s'enchaînent, entre le dîner avec les collègues, celu
 
 Une pizza party offre un repas de fête plus décontracté, sans plan de table ni service à l'assiette. Les pizzas arrivent l'une après l'autre ; on les coupe en parts, on les partage et l'on goûte celle d'à côté. Les invités circulent, discutent et reviennent près du four pour voir la suivante gonfler, tandis que la personne qui reçoit profite enfin de sa soirée.
 
-C'est aussi un repas qui met tout le monde d'accord, des enfants aux grands-parents.
+Elle convient aussi à tous les âges, des enfants aux grands-parents.
 
 ## Entre amis ou en famille ?
 
@@ -45,7 +45,7 @@ C'est le cas le plus simple : vous fixez une date en décembre et vous invitez v
 
 ### Les fêtes en famille
 
-En famille, les âges et les goûts se mélangent, et c'est là que le choix des pizzas compte, avec par exemple une margherita pour les plus jeunes et des recettes plus originales pour les autres. Lors d'un repas avec des enfants, une formule fonctionne bien : les enfants font leur propre pizza pendant que les adultes profitent de leur repas. C'est d'ailleurs ce que je propose aussi pour les mariages.
+En famille, les âges et les goûts se mélangent ; le choix des pizzas compte alors davantage, avec par exemple une margherita pour les plus jeunes et des recettes plus originales pour les autres. Lors d'un repas avec des enfants, une formule fonctionne bien : les enfants font leur propre pizza pendant que les adultes profitent de leur repas. C'est d'ailleurs ce que je propose aussi pour les mariages.
 
 {% blogphoto "pizzas-partagees-table-bois-exterieur" %}
 
@@ -61,7 +61,7 @@ J'arrive avant vos invités, avec la pâte et les ingrédients des pizzas choisi
 
 Je prépare entre 12 et 18 pizzas par heure selon les recettes, ce qui représente, sur une soirée, une vingtaine de pizzas qui sortent régulièrement. Seul, je peux servir des pizzas à environ 25 personnes, et il est possible d'aller jusqu'à 40 personnes en ajoutant, sur devis, des focaccias préparées à l'avance.
 
-Comme mon four est électrique, il fonctionne à l'intérieur, ce qui compte en décembre. Vous n'avez donc besoin ni de terrasse, ni de jardin, ni de beau temps.
+Comme mon four est électrique, il fonctionne à l'intérieur. En décembre, vous n'avez donc besoin ni de terrasse, ni de jardin, ni de beau temps.
 
 ## Combien de pizzas prévoir ?
 
@@ -93,4 +93,4 @@ Si vous préférez que vos invités cuisinent eux-mêmes, un [atelier pizza](/at
 
 ## Pour finir
 
-Une pizza party pour les fêtes vous offre un repas de fête sans passer la soirée en cuisine. Il vous suffit de me donner une date, un nombre d'invités et un lieu ; nous choisissons ensuite les pizzas ensemble, et je m'occupe du four. Pour voir comment se déroule une soirée, vous pouvez consulter la page [pizza party à domicile](/pizza-party-domicile-lyon).
+Une pizza party pour les fêtes vous offre un repas de fête sans passer la soirée en cuisine. Indiquez-moi la date souhaitée, le nombre d'invités et le lieu ; nous choisissons ensuite les pizzas ensemble, et je m'occupe du four. Pour voir comment se déroule une soirée, vous pouvez consulter la page [pizza party à domicile](/pizza-party-domicile-lyon).

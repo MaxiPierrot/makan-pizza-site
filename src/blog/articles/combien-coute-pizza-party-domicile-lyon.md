@@ -18,7 +18,7 @@ questions:
   - q: "Que dois-je acheter pour la soirée ?"
     a: "Vous n'avez rien à acheter pour les pizzas, puisque je m'occupe des ingrédients, de la pâte, du four, de la préparation et de la cuisson sur place."
   - q: "Comment réserver ?"
-    a: "Il vous suffit de m'indiquer la date, le nombre de personnes et l'occasion, par formulaire ou par téléphone."
+    a: "Indiquez-moi la date souhaitée, le nombre de personnes et l'occasion, par formulaire ou par téléphone."
 related:
   - { label: "La pizza party à domicile", href: "/pizza-party-domicile-lyon" }
   - { label: "Atelier ou pizza party : lequel choisir ?", href: "/blog/atelier-pizza-ou-pizza-party-lequel-choisir" }
@@ -32,7 +32,7 @@ Chaque événement est différent. Un anniversaire dans un jardin et un repas de
 
 Je préfère donc vous adresser un devis adapté à votre demande, plutôt que d'afficher une grille qui ne dit rien de votre soirée. Je vous l'envoie sous 24 h après votre demande.
 
-## Pourquoi il y a un prix de départ
+## Pourquoi un prix de départ ?
 
 Même pour une petite soirée, la prestation demande du travail avant et après l'événement. J'achète les ingrédients et je prépare la pâte quelques jours avant, je me déplace avec le four et le matériel, puis je prépare et je cuis les pizzas sur place. C'est ce travail, et non le seul nombre de pizzas, qui explique l'existence d'un prix de départ.
 
@@ -48,9 +48,9 @@ Le prix dépend aussi des pizzas retenues, que nous choisissons ensemble dans la
 
 ### La durée
 
-Les pizzas sortent du four au fil de la soirée, une cuisson après l'autre, si bien que plus vous souhaitez de pizzas, plus je reste longtemps. Indiquez-moi à quelle heure vous voulez commencer et finir, car c'est le temps disponible qui détermine ce qui est réaliste.
+Les pizzas sortent du four au fil de la soirée, une cuisson après l'autre. Plus vous souhaitez de pizzas, plus ma présence doit donc durer. Indiquez-moi les horaires de début et de fin souhaités, car le temps disponible détermine le nombre de pizzas réalisable.
 
-Pour éviter l'attente, je peux aussi proposer des focaccias préparées à l'avance, par exemple pour l'apéritif, afin que vos invités aient quelque chose à manger pendant que les premières pizzas cuisent. Ce n'est qu'un exemple parmi d'autres.
+Pour éviter l'attente, je peux aussi proposer des focaccias préparées à l'avance, par exemple pour l'apéritif, afin que vos invités aient quelque chose à manger pendant que les premières pizzas cuisent. D'autres solutions sont possibles selon votre soirée.
 
 ### La distance
 
@@ -58,7 +58,7 @@ Je me déplace dans toute la région lyonnaise. Selon la distance, des frais de 
 
 ### Un événement sur mesure
 
-La prestation s'adapte à l'événement. Lors d'un mariage, par exemple, les enfants peuvent faire leur propre pizza, selon leur nombre, pendant que les parents profitent de leur repas entre adultes. Pour un anniversaire ou une soirée à thème, je peux adapter les recettes. Bien d'autres idées sont possibles, comme des recettes liées à votre thème ou un menu pensé pour l'occasion. Racontez-moi ce que vous avez en tête, afin que je l'intègre au devis.
+La prestation s'adapte à l'événement. Lors d'un mariage, par exemple, selon leur nombre, les enfants peuvent préparer leur propre pizza pendant que les parents profitent de leur repas entre adultes. Pour un anniversaire ou une soirée à thème, je peux adapter les recettes à votre thème ou composer un menu pensé pour l'occasion. Décrivez-moi vos envies, afin que je les intègre au devis.
 
 ### Les allergies et les régimes
 
@@ -99,4 +99,4 @@ Le formulaire de contact reprend l'essentiel de ces points. Vous pouvez égaleme
 2. Je vous adresse un devis détaillé, accompagné de la liste de ce qu'il convient de prévoir de votre côté.
 3. Le jour venu, j'arrive avec tout le matériel et mon four, et vous profitez simplement de vos invités.
 
-Si vous hésitez sur la formule, sachez que jusqu'à {{ prix.maxPossible }} personnes, un atelier est peut-être plus adapté. L'article [atelier pizza ou pizza party](/blog/atelier-pizza-ou-pizza-party-lequel-choisir) vous aidera à choisir. Pour une pizza party, toutes les informations se trouvent sur [la page dédiée](/pizza-party-domicile-lyon).
+Si vous hésitez sur la formule, un atelier peut être plus adapté pour un groupe de {{ prix.maxPossible }} personnes au plus. L'article [atelier pizza ou pizza party](/blog/atelier-pizza-ou-pizza-party-lequel-choisir) vous aidera à choisir. Pour une pizza party, toutes les informations se trouvent sur [la page dédiée](/pizza-party-domicile-lyon).

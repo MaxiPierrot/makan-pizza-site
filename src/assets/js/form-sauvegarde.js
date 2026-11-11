@@ -58,7 +58,7 @@ document.querySelectorAll('form[data-sauvegarde]').forEach((form) => {
       } catch (e) { /* réseau coupé : on réessaie */ }
     }
     envoi = false;
-    afficherErreur("Votre demande n'a PAS été envoyée, car le serveur ne répond pas. Vos réponses sont conservées sur cet appareil. Vous pouvez réessayer avec le bouton « Envoyer ma demande », ou cliquer sur « Exporter mes réponses » et envoyer le fichier par WhatsApp ou par e-mail à contact@makanpizza.com.");
+    afficherErreur("Votre demande n'a PAS été envoyée, car le serveur ne répond pas. Vos réponses sont conservées sur cet appareil. Vous pouvez réessayer avec le bouton « Envoyer ma demande », ou utiliser le bouton « Exporter », puis envoyer le fichier par WhatsApp ou par e-mail à contact@makanpizza.com.");
     window.addEventListener('online', envoyer, { once: true }); // nouvel essai automatique au retour du réseau
   }
 
@@ -67,6 +67,6 @@ document.querySelectorAll('form[data-sauvegarde]').forEach((form) => {
     e.preventDefault();
     envoyer();
   });
-  window.addEventListener('offline', () => afficherErreur("Vous n'êtes plus connecté à internet, et rien ne peut être envoyé pour l'instant. Vos réponses restent conservées sur cet appareil."));
+  window.addEventListener('offline', () => afficherErreur("Vous n'êtes plus connecté à internet : rien ne peut être envoyé pour l'instant. Vos réponses restent conservées sur cet appareil."));
   window.addEventListener('online', () => { if (errBox.textContent.startsWith('Vous')) masquerErreur(); });
 });

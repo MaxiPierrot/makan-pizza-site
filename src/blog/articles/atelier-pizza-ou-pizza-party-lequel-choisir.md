@@ -24,7 +24,7 @@ questions:
   - q: "Et pour une pizza party ?"
     a: "Le nombre d'invités se discute au moment du devis. Le jour venu, je prépare les pizzas sur place pendant que vous restez avec vos invités."
   - q: "Faut-il un four spécial pour l'atelier ?"
-    a: "Pour l'atelier Bases de la pizza maison, un four domestique suffit, tandis que pour l'initiation et la pizza party, j'apporte mon propre four."
+    a: "Pour l'atelier Bases de la pizza maison, un four domestique suffit, tandis que pour l'initiation à la pizza napolitaine et la pizza party, j'apporte mon propre four."
   - q: "Faut-il de l'expérience pour participer ?"
     a: "Non, aucun niveau n'est demandé. L'atelier est conçu pour des débutants, et une pizza qui n'est pas parfaitement ronde n'en est pas moins bonne."
 related:
@@ -39,7 +39,7 @@ L'atelier convient si vous souhaitez cuisiner vous-même avec vos amis ; la pizz
 
 Je propose trois formules à domicile, à Lyon et dans la région lyonnaise, et chacune donne à la soirée une tournure différente.
 
-| | Atelier Bases de la pizza maison | Initiation napolitaine | Pizza party |
+| | Atelier Bases de la pizza maison | Initiation à la pizza napolitaine | Pizza party |
 | --- | --- | --- | --- |
 | Ce que vous faites | Vous travaillez la pâte et cuisez les pizzas dans le four de la maison | Vous réalisez toutes les étapes d'une pizza napolitaine avec mon four | Je prépare les pizzas de vos invités sur place |
 | Durée | 2h à 2h30 | 2h30 à 3h | Selon la soirée, précisé dans le devis |
@@ -57,7 +57,7 @@ Pour un groupe de {{ prix.minPersonnes }} personnes, l'atelier revient à {{ pri
 
 {% blogphoto "mains-petrissage-pate-pizza" %}
 
-## L'initiation napolitaine : comme en pizzeria
+## L'initiation à la pizza napolitaine : une cuisson comparable à celle d'une pizzeria
 
 L'initiation reprend toutes les étapes d'une pizza napolitaine, du matériel et des farines jusqu'à la cuisson, en passant par la pâte, le boulage, le geste d'étalage propre à la napolitaine et la garniture. Comme une pâte napolitaine a besoin d'environ 24 heures de fermentation, je prépare chez moi des pâtons avec la même recette et je les apporte, afin que vous puissiez pratiquer dès le début de l'atelier.
 
@@ -67,24 +67,24 @@ Pour un groupe de {{ prix.minPersonnes }} personnes, l'initiation revient à {{ 
 
 ## La pizza party : vous restez avec vos invités
 
-Avec la pizza party, vous ne préparez pas les pizzas, vous recevez. Je viens avec mon four et je prépare les pizzas de vos invités sur place, chez vous ou sur le lieu de votre événement, si bien qu'elles sortent du four au fil de la soirée. Je m'occupe des ingrédients, de la pâte, du four, de la préparation et de la cuisson.
+Avec la pizza party, vous ne préparez pas les pizzas, vous recevez. Je viens avec mon four et je prépare les pizzas de vos invités sur place, chez vous ou sur le lieu de votre événement. Elles sortent du four au fil de la soirée. Je m'occupe des ingrédients, de la pâte, du four, de la préparation et de la cuisson.
 
 Cette formule est proposée sur devis. Vous trouverez le détail de ce qui fait varier le prix dans l'article [combien coûte une pizza party à domicile](/blog/combien-coute-pizza-party-domicile-lyon).
 
 ## Quelle formule selon l'occasion ?
 
-- **Pour un anniversaire jusqu'à {{ prix.maxPossible }} personnes**, un atelier convient (l'atelier Bases de la pizza maison avec votre four, l'initiation avec le mien), et la pizza party prend le relais pour plus d'invités.
+- **Pour un anniversaire jusqu'à {{ prix.maxPossible }} personnes**, un atelier convient (l'atelier Bases de la pizza maison avec votre four, l'initiation à la pizza napolitaine avec le mien), et la pizza party prend le relais pour plus d'invités.
 - **Pour un EVJF ou un EVG de {{ prix.minPersonnes }} à {{ prix.maxPossible }} personnes**, l'atelier Bases de la pizza maison convient à la plupart des groupes, et l'initiation à ceux qui préfèrent cuire leurs pizzas dans un four comparable à celui d'une pizzeria. Tout est détaillé dans l'article [organiser un EVJF ou un EVG à domicile à Lyon](/blog/organiser-evjf-evg-domicile-lyon).
-- **Si vous voulez vous équiper d'un four à pizza**, l'initiation est la plus pertinente. Je peux vous aider à choisir votre four avant ou pendant l'atelier. Pour les critères de choix, vous pouvez lire [quel four à pizza pour la maison](/blog/quel-four-a-pizza-pour-la-maison).
+- **Si vous voulez vous équiper d'un four à pizza**, l'initiation à la pizza napolitaine est la plus pertinente. Je peux vous aider à choisir votre four avant ou pendant l'atelier. Pour les critères de choix, vous pouvez lire [quel four à pizza pour la maison](/blog/quel-four-a-pizza-pour-la-maison).
 - **Si vous voulez réussir vos pizzas avec le four que vous avez**, l'atelier Bases de la pizza maison est fait pour vous.
 
 ## Trois questions pour décider
 
-**Combien serez-vous ?** Un atelier réunit de {{ prix.minPersonnes }} à {{ prix.maxPossible }} personnes. Il est facturé à partir de {{ prix.minPersonnes }} personnes, mais un groupe de 2 ou 3 personnes peut tout de même le réserver, au prix de {{ prix.minPersonnes }}. Je garde ces groupes réduits pour que chacun ait sa place autour du plan de travail. Pour plus d'invités, la pizza party est la formule prévue, mais vous pouvez aussi m'écrire pour que nous voyions ce qui est possible.
+**Combien serez-vous ?** Un atelier réunit de {{ prix.minPersonnes }} à {{ prix.maxPossible }} personnes. Il est facturé à partir de {{ prix.minPersonnes }} personnes, mais un groupe de 2 ou 3 personnes peut tout de même le réserver, au prix de {{ prix.minPersonnes }}. Je garde ces groupes réduits pour que chacun ait sa place autour du plan de travail. Au-delà, la pizza party est la formule prévue. Vous pouvez aussi m'écrire pour que nous étudiions une autre solution.
 
 **Avez-vous envie de cuisiner ou de recevoir ?** Si l'idée de faire la pâte avec vos amis vous tente, l'atelier vous conviendra. Si vous préférez profiter de vos invités sans toucher à la farine, la pizza party sera plus adaptée.
 
-**Quel four avez-vous, et voulez-vous en changer ?** Avec un four domestique, l'atelier Bases de la pizza maison est tout indiqué. Si vous pensez à un four à pizza, l'initiation vous permet d'évaluer le résultat d'un four qui monte à 500°C avant d'en acheter un.
+**Quel four avez-vous, et voulez-vous en changer ?** Avec un four domestique, l'atelier Bases de la pizza maison est tout indiqué. Si vous pensez à un four à pizza, l'initiation à la pizza napolitaine vous permet d'évaluer le résultat d'un four qui monte à 500°C avant d'en acheter un.
 
 ## Ce qui plaît le plus dans l'atelier
 
@@ -92,4 +92,4 @@ Pendant les ateliers, c'est la pratique qui plaît le plus. Je limite donc la ta
 
 ## Vous hésitez encore ?
 
-Écrivez-moi en m'indiquant la date qui vous arrange, le nombre de personnes et l'occasion. Je vous répondrai par email ou par téléphone en vous proposant la formule qui me paraît la plus adaptée, accompagnée d'un devis. Le formulaire se trouve sur [la page contact](/contact). Chaque formule dispose par ailleurs de sa propre page : [atelier Bases de la pizza maison](/atelier-pizza-lyon), [initiation napolitaine](/atelier-pizza-napolitaine-lyon) et [pizza party](/pizza-party-domicile-lyon).
+Écrivez-moi en m'indiquant la date souhaitée, le nombre de personnes et l'occasion. Je vous répondrai par email ou par téléphone en vous proposant la formule qui me paraît la plus adaptée, accompagnée d'un devis. Le formulaire se trouve sur [la page contact](/contact). Chaque formule dispose par ailleurs de sa propre page : [atelier Bases de la pizza maison](/atelier-pizza-lyon), [initiation à la pizza napolitaine](/atelier-pizza-napolitaine-lyon) et [pizza party](/pizza-party-domicile-lyon).
