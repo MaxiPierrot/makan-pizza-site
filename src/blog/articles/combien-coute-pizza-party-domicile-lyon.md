@@ -95,8 +95,8 @@ Le formulaire de contact reprend l'essentiel de ces points. Vous pouvez égaleme
 
 ## Comment demander un devis
 
-1. Vous m'indiquez la date, le nombre de personnes et l'occasion, par le [formulaire](/contact?atelier=pizza-party) ou par téléphone.
-2. Je vous adresse un devis et vous précise ce qu'il faut prévoir de votre côté.
-3. Le jour J, j'arrive avec le matériel et le four.
+1. Indiquez-moi la date souhaitée, le nombre d'invités et l'occasion, par le [formulaire](/contact?atelier=pizza-party) ou par téléphone.
+2. Je vous adresse un devis détaillé, accompagné de la liste de ce qu'il convient de prévoir de votre côté.
+3. Le jour venu, j'arrive avec tout le matériel et mon four.
 
 Si vous hésitez sur la formule, sachez que jusqu'à {{ prix.maxPossible }} personnes, un atelier est peut-être plus adapté. L'article [atelier pizza ou pizza party](/blog/atelier-pizza-ou-pizza-party-lequel-choisir) vous aidera à choisir. Pour une pizza party, toutes les informations se trouvent sur [la page dédiée](/pizza-party-domicile-lyon).
