@@ -64,7 +64,7 @@ C'est le four de la pizza napolitaine traditionnelle. Il demande de la place, du
 
 ### Le four ménager avec une pierre à pizza
 
-Le four que vous avez déjà peut suffire pour commencer, surtout si vous posez dedans une pierre à pizza, qui aide à cuire le dessous de la pâte. Si vous n'avez ni pierre ni petits accessoires, comptez environ {{ prix.accessoiresBases }} € pour vous équiper. C'est d'ailleurs le principe de l'atelier Bases de la pizza maison. Pensez enfin à vérifier la température maximale de votre four, qui est indiquée dans sa notice ou sur son cadran.
+Le four que vous avez déjà peut suffire pour commencer, surtout si vous posez dedans une pierre à pizza, qui aide à cuire le dessous de la pâte. Si vous n'avez ni pierre ni petits accessoires, comptez environ {{ prix.accessoiresBases }} € pour vous équiper. C'est d'ailleurs le principe de l'atelier Bases de la pizza maison. Pensez enfin à vérifier la température maximale de votre four, indiquée dans sa notice ou sur son cadran : pour cuire de bonnes pizzas, il doit pouvoir atteindre au moins 250 °C.
 
 ## Les critères pour choisir
 
