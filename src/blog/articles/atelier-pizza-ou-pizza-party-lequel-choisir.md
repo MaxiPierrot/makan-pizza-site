@@ -44,7 +44,7 @@ Je propose trois formules à domicile, à Lyon et dans la région lyonnaise, et 
 | Ce que vous faites | Vous travaillez la pâte et cuisez les pizzas dans le four de la maison | Vous réalisez toutes les étapes d'une pizza napolitaine avec mon four | Je prépare les pizzas de vos invités sur place |
 | Durée | 2h à 2h30 | 2h30 à 3h | Selon la soirée, précisé dans le devis |
 | Participants | {{ prix.minPersonnes }} à {{ prix.maxPersonnes }} personnes, jusqu'à {{ prix.maxPossible }} | {{ prix.minPersonnes }} à {{ prix.maxPersonnes }} personnes, jusqu'à {{ prix.maxPossible }} | Selon le nombre d'invités |
-| Four | Le vôtre | Le mien, électrique | Le mien |
+| Four | Le vôtre | Le mien | Le mien |
 | Prix | {{ prix.bases }} € par personne | {{ prix.initiation }} € par personne | Sur devis |
 
 Selon la distance, des frais de déplacement peuvent s'ajouter ; je les précise dans le devis.
