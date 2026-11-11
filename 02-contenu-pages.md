@@ -56,7 +56,7 @@ Sous les cartes : phrase sur les prix et le périmètre (voir "Éléments commun
 **H2 : Le déroulement**
 1. Indiquez-moi la date souhaitée, le nombre de participants et vos envies, par formulaire ou par téléphone.
 2. Je vous adresse un devis détaillé, accompagné de la liste de ce qu'il convient de prévoir de votre côté.
-3. Le jour venu, j'arrive avec tout le matériel ; il ne vous reste plus qu'à mettre les mains dans la pâte avec vos proches, ou à passer à table.
+3. Le jour venu, j'arrive avec tout le matériel. Selon la formule choisie, vous préparez les pizzas avec moi ou vous profitez simplement de vos invités.
 
 **H2 : Qui je suis**
 Je m'appelle Pierre. J'ai toujours aimé cuisiner. Un jour, j'ai essayé un four conçu pour la pizza napolitaine et vendu à un prix abordable, ce que l'on trouve enfin aujourd'hui. Depuis, je n'ai plus arrêté : je teste des recettes, j'invite mes amis à goûter et je recommence. J'ai maintenant envie de faire partager cette cuisine au plus grand nombre. → `Lire mon histoire` (/a-propos)

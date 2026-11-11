@@ -97,6 +97,6 @@ Le formulaire de contact reprend l'essentiel de ces points. Vous pouvez égaleme
 
 1. Indiquez-moi la date souhaitée, le nombre d'invités et l'occasion, par [formulaire](/contact?atelier=pizza-party) ou par téléphone.
 2. Je vous adresse un devis détaillé, accompagné de la liste de ce qu'il convient de prévoir de votre côté.
-3. Le jour venu, j'arrive avec tout le matériel et mon four.
+3. Le jour venu, j'arrive avec tout le matériel et mon four, et vous profitez simplement de vos invités.
 
 Si vous hésitez sur la formule, sachez que jusqu'à {{ prix.maxPossible }} personnes, un atelier est peut-être plus adapté. L'article [atelier pizza ou pizza party](/blog/atelier-pizza-ou-pizza-party-lequel-choisir) vous aidera à choisir. Pour une pizza party, toutes les informations se trouvent sur [la page dédiée](/pizza-party-domicile-lyon).
