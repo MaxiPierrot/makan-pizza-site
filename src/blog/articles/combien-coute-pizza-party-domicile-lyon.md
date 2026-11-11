@@ -18,7 +18,7 @@ questions:
   - q: "Que dois-je acheter pour la soirée ?"
     a: "Vous n'avez rien à acheter pour les pizzas, puisque je m'occupe des ingrédients, de la pâte, du four, de la préparation et de la cuisson sur place."
   - q: "Comment réserver ?"
-    a: "Il vous suffit de m'indiquer la date, le nombre de personnes et l'occasion, par le formulaire ou par téléphone."
+    a: "Il vous suffit de m'indiquer la date, le nombre de personnes et l'occasion, par formulaire ou par téléphone."
 related:
   - { label: "La pizza party à domicile", href: "/pizza-party-domicile-lyon" }
   - { label: "Atelier ou pizza party : lequel choisir ?", href: "/blog/atelier-pizza-ou-pizza-party-lequel-choisir" }
@@ -95,7 +95,7 @@ Le formulaire de contact reprend l'essentiel de ces points. Vous pouvez égaleme
 
 ## Comment demander un devis
 
-1. Indiquez-moi la date souhaitée, le nombre d'invités et l'occasion, par le [formulaire](/contact?atelier=pizza-party) ou par téléphone.
+1. Indiquez-moi la date souhaitée, le nombre d'invités et l'occasion, par [formulaire](/contact?atelier=pizza-party) ou par téléphone.
 2. Je vous adresse un devis détaillé, accompagné de la liste de ce qu'il convient de prévoir de votre côté.
 3. Le jour venu, j'arrive avec tout le matériel et mon four.
 

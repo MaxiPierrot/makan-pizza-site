@@ -21,7 +21,7 @@ questions:
   - q: "Que faut-il prévoir ?"
     a: "Dans votre demande, indiquez-moi la date, le nombre de personnes et l'occasion, et signalez-moi dès ce moment les éventuelles allergies."
   - q: "Comment réserver ?"
-    a: "Il vous suffit de me contacter par le formulaire ou par téléphone, et je vous réponds en vous envoyant un devis."
+    a: "Il vous suffit de me contacter par formulaire ou par téléphone, et je vous réponds en vous envoyant un devis."
 related:
   - { label: "Atelier Bases de la pizza maison", href: "/atelier-pizza-lyon" }
   - { label: "Initiation à la pizza napolitaine", href: "/atelier-pizza-napolitaine-lyon" }
@@ -39,7 +39,7 @@ Pendant l'atelier, chacun pétrit, étale, garnit et goûte à son tour. Comme l
 
 Un atelier accueille idéalement de {{ prix.minPersonnes }} à {{ prix.maxPersonnes }} personnes, et jusqu'à {{ prix.maxPossible }} sur demande. Je garde volontairement des groupes réduits, afin que chacun ait sa place autour du plan de travail, que l'on puisse discuter et s'amuser, et que je puisse m'occuper de tout le monde. L'atelier est facturé à partir de {{ prix.minPersonnes }} personnes. Un groupe de 2 ou 3 personnes peut tout de même le réserver, au prix de {{ prix.minPersonnes }}.
 
-Si vous êtes plus de {{ prix.maxPossible }}, écrivez-moi par le [formulaire de contact](/contact) en indiquant le nombre d'invités, et nous verrons ensemble ce qui est possible. Vous pouvez aussi choisir la [pizza party](/pizza-party-domicile-lyon), une autre formule dans laquelle je prépare les pizzas sur place pendant que vous profitez de la soirée.
+Si vous êtes plus de {{ prix.maxPossible }}, écrivez-moi par [formulaire](/contact) en indiquant le nombre d'invités, et nous verrons ensemble ce qui est possible. Vous pouvez aussi choisir la [pizza party](/pizza-party-domicile-lyon), une autre formule dans laquelle je prépare les pizzas sur place pendant que vous profitez de la soirée.
 
 ## Atelier Bases ou initiation ?
 
@@ -71,7 +71,7 @@ Un EVJF ou un EVG s'organise souvent à plusieurs, mais je préfère n'avoir qu'
 
 ## Réserver
 
-Il vous suffit de me contacter par le [formulaire](/contact?atelier=bases) ou par téléphone, et je vous réponds en vous envoyant un devis. Les conditions sont détaillées dans [la FAQ](/faq). Pensez à prévenir votre groupe suffisamment tôt de la date retenue.
+Il vous suffit de me contacter par [formulaire](/contact?atelier=bases) ou par téléphone, et je vous réponds en vous envoyant un devis. Les conditions sont détaillées dans [la FAQ](/faq). Pensez à prévenir votre groupe suffisamment tôt de la date retenue.
 
 ## Pour finir
 

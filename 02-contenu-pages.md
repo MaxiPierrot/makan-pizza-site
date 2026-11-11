@@ -54,7 +54,7 @@ Je ne livre pas de pizzas : je viens les faire sur place. Mes ateliers se font e
 Sous les cartes : phrase sur les prix et le périmètre (voir "Éléments communs").
 
 **H2 : Le déroulement**
-1. Indiquez-moi la date souhaitée, le nombre de participants et vos envies, par le formulaire de contact ou par téléphone.
+1. Indiquez-moi la date souhaitée, le nombre de participants et vos envies, par formulaire ou par téléphone.
 2. Je vous adresse un devis détaillé, accompagné de la liste de ce qu'il convient de prévoir de votre côté.
 3. Le jour venu, j'arrive avec tout le matériel ; il ne vous reste plus qu'à mettre les mains dans la pâte avec vos proches, ou à passer à table.
 
@@ -261,7 +261,7 @@ Source unique des textes : `src/_data/faq.js` (les chiffres viennent de `src/_da
 ### Choisir sa formule
 
 **Atelier pizza ou pizza party : lequel choisir ?**
-Choisissez l'atelier si vous voulez mettre les mains dans la pâte, et la pizza party si vous préférez rester avec vos invités pendant que je prépare les pizzas. Un atelier accueille de 4 à 6 personnes, une pizza party jusqu'à environ 25 personnes. Si vous hésitez, décrivez-moi votre projet par le [formulaire](/contact) et je vous conseillerai.
+Choisissez l'atelier si vous voulez mettre les mains dans la pâte, et la pizza party si vous préférez rester avec vos invités pendant que je prépare les pizzas. Un atelier accueille de 4 à 6 personnes, une pizza party jusqu'à environ 25 personnes. Si vous hésitez, décrivez-moi votre projet par [formulaire](/contact) et je vous conseillerai.
 
 **Quelle différence entre l'atelier Bases et l'initiation à la pizza napolitaine ?**
 L'atelier Bases se fait avec le four de votre cuisine (59 € par personne), l'initiation avec mon four électrique qui monte jusqu'à 500°C (69 € par personne). Dans les deux cas, nous passons ensemble par toutes les étapes : la pâte, l'étalage, la garniture et la cuisson. Les Bases durent de 2h à 2h30, l'initiation de 2h30 à 3h. Le détail de chaque formule se trouve sur les pages [atelier Bases](/atelier-pizza-lyon) et [initiation](/atelier-pizza-napolitaine-lyon).
@@ -361,7 +361,7 @@ Plusieurs pizzas de la [carte](/carte) sont sans viande, comme la Margherita, le
 Le délai dépend de la demande et de mon planning ; il vaut donc mieux réserver le plus tôt possible. Une demande urgente peut être acceptée jusqu'à une semaine avant la date, selon mes disponibilités. Écrivez-moi en précisant la date, le nombre de personnes et l'occasion.
 
 **Comment réserver et comment payer ?**
-Contactez-moi par le [formulaire](/contact) ou par téléphone, et je vous répondrai avec un devis. Un acompte de 30 % confirme la date ; je vous indique comment le régler. Le solde se règle le jour de la prestation, en espèces ou par virement. Wero et Revolut sont aussi acceptés sur place. Je n'accepte pas les chèques.
+Contactez-moi par [formulaire](/contact) ou par téléphone, et je vous répondrai avec un devis. Un acompte de 30 % confirme la date ; je vous indique comment le régler. Le solde se règle le jour de la prestation, en espèces ou par virement. Wero et Revolut sont aussi acceptés sur place. Je n'accepte pas les chèques.
 
 **Peut-on offrir un atelier pizza ?**
 Oui. Vous réservez un atelier, et je vous envoie un bon d'invitation à offrir. Le montant dépend de l'atelier choisi, ou se fixe sur demande. Le bon n'a pas de date limite : la date se choisit ensemble, avec la personne invitée. Le paiement se fait comme pour les autres prestations.
