@@ -36,7 +36,7 @@ related:
   - { label: "Atelier Bases de la pizza maison", href: "/atelier-pizza-lyon" }
   - { label: "Questions fréquentes", href: "/faq" }
 ---
-Pour un four à pizza qui convient, il faut compter {{ prix.fourMin }} € minimum. Au-delà du budget, le bon four dépend de l'endroit où vous cuisinez, de l'énergie dont vous disposez et du type de pizza que vous voulez faire. Je vous présente ici les critères que j'examine, sans citer de marque ni de modèle, car les modèles et les prix changent alors que les critères restent.
+Pour un four à pizza convenable, il faut compter {{ prix.fourMin }} € minimum. Au-delà du budget, le bon four dépend de l'endroit où vous cuisinez, de l'énergie dont vous disposez et du type de pizza que vous voulez faire. Je vous présente ici les critères que j'examine, sans citer de marque ni de modèle, car les modèles et les prix changent alors que les critères restent.
 
 ## Qu'attend-on d'un four à pizza ?
 
