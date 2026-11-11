@@ -39,6 +39,8 @@ Relecture de Morgane (rédaction et enseignement du français, ses remarques fon
 
 5. (9 nov. 2026) Employer le mot juste, professionnel, plutôt qu'une approximation parlée. Exemple : « pour vous proposer un prix » devient « pour vous proposer un devis ».
 
+6. (11 nov. 2026) Éviter les expressions toutes faites et les clichés. Exemple refusé : « mettre les mains dans la pâte » (corrigé : « cuisiner vous-même », « préparer les pizzas »). Dire simplement ce qui se passe.
+
 Technique : une page par article (`/blog/titre-de-l-article`), un seul H1, title et meta description uniques, balisage `Article` (auteur Pierre, date de publication, date de mise à jour), balisage `FAQPage` quand il y a une FAQ, `BreadcrumbList`, 2 ou 3 liens internes vers des pages du site (offres, carte, FAQ) et des liens vers les sources externes, ajout au sitemap, page `/blog` qui liste les articles du plus récent au plus ancien.
 
 Interdit : copier un texte existant, inventer une citation, une statistique, un témoignage ou un avis, publier des articles quasi identiques, répéter des mots-clés artificiellement, mentionner d'autres marques en les recommandant, promettre "sans gluten" ou "sans allergène".

@@ -51,7 +51,7 @@ Si vous êtes plus de {{ prix.maxPossible }}, écrivez-moi par [formulaire](/con
 
 ### Un mélange d'atelier et de pizza party
 
-Pour un EVJF ou un EVG, je peux exceptionnellement proposer une formule qui mêle l'atelier et la pizza party, et m'occuper des ingrédients. Le groupe met les mains dans la pâte pendant que je prépare le reste des pizzas, afin que personne n'attende. Cette formule se prépare sur devis, et je vous invite à me décrire dans votre demande ce que vous avez en tête.
+Pour un EVJF ou un EVG, je peux exceptionnellement proposer une formule qui mêle l'atelier et la pizza party, et m'occuper des ingrédients. Le groupe prépare une partie des pizzas pendant que je m'occupe des autres, afin que personne n'attende. Cette formule se prépare sur devis, et je vous invite à me décrire dans votre demande ce que vous avez en tête.
 
 ## Comment se déroule l'après-midi ou la soirée ?
 

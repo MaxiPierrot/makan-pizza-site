@@ -27,7 +27,7 @@ related:
   - { label: "Pizza party à domicile", href: "/pizza-party-domicile-lyon" }
   - { label: "Questions fréquentes", href: "/faq" }
 ---
-Pour un anniversaire à la maison, deux formules se prêtent bien à une fête entre amis : l'atelier pizza si vous voulez que chacun mette les mains dans la pâte, et la pizza party si vous voulez profiter de vos invités pendant que quelqu'un d'autre s'occupe des pizzas. Le nombre d'invités permet souvent de trancher, puisqu'un atelier accueille idéalement de {{ prix.minPersonnes }} à {{ prix.maxPersonnes }} personnes, et jusqu'à {{ prix.maxPossible }}, alors que la pizza party convient aux groupes plus grands.
+Pour un anniversaire à la maison, deux formules se prêtent bien à une fête entre amis : l'atelier pizza, si vous souhaitez que chacun cuisine sa propre pizza, et la pizza party, si vous préférez profiter de vos invités pendant que je prépare les pizzas. Le nombre de participants aide souvent à choisir : un atelier réunit idéalement de {{ prix.minPersonnes }} à {{ prix.maxPersonnes }} personnes, et jusqu'à {{ prix.maxPossible }}, tandis que la pizza party s'adresse aux groupes plus nombreux.
 
 ## Pourquoi une activité plutôt qu'un simple repas ?
 

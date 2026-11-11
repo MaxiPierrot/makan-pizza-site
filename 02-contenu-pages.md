@@ -177,7 +177,7 @@ Chaque événement étant différent, la pizza party se fait sur devis, que je v
 **H1** : Atelier pizza pour votre équipe, à Lyon
 
 **Texte**
-Faire une pizza ensemble convient bien à une équipe : chacun met les mains dans la pâte, puis on mange ce qu'on a fait. Je peux venir sur votre lieu de travail ou de séminaire à Lyon.
+Faire une pizza ensemble convient bien à une équipe : chacun prépare sa pizza, puis on mange ce qu'on a fait. Je peux venir sur votre lieu de travail ou de séminaire à Lyon.
 
 **À définir avant publication** : [À DÉFINIR : nombre de participants min et max (les ateliers actuels s'arrêtent à 6 personnes), durée, tarif HT par personne, besoins sur place (espace, électricité), assurance RC Pro souscrite]
 
@@ -261,7 +261,7 @@ Source unique des textes : `src/_data/faq.js` (les chiffres viennent de `src/_da
 ### Choisir sa formule
 
 **Atelier pizza ou pizza party : lequel choisir ?**
-Choisissez l'atelier si vous voulez mettre les mains dans la pâte, et la pizza party si vous préférez rester avec vos invités pendant que je prépare les pizzas. Un atelier accueille de 4 à 6 personnes, une pizza party jusqu'à environ 25 personnes. Si vous hésitez, décrivez-moi votre projet par [formulaire](/contact) et je vous conseillerai.
+L'atelier convient si vous souhaitez cuisiner vous-même avec vos proches ; la pizza party, si vous préférez profiter de vos invités pendant que je prépare les pizzas. Un atelier accueille de 4 à 6 personnes, une pizza party jusqu'à environ 25 personnes. Si vous hésitez, décrivez-moi votre projet par [formulaire](/contact) et je vous conseillerai.
 
 **Quelle différence entre l'atelier Bases et l'initiation à la pizza napolitaine ?**
 L'atelier Bases se fait avec le four de votre cuisine (59 € par personne), l'initiation avec mon four électrique qui monte jusqu'à 500°C (69 € par personne). Dans les deux cas, nous passons ensemble par toutes les étapes : la pâte, l'étalage, la garniture et la cuisson. Les Bases durent de 2h à 2h30, l'initiation de 2h30 à 3h. Le détail de chaque formule se trouve sur les pages [atelier Bases](/atelier-pizza-lyon) et [initiation](/atelier-pizza-napolitaine-lyon).

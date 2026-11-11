@@ -33,7 +33,7 @@ related:
   - { label: "Pizza party à domicile", href: "/pizza-party-domicile-lyon" }
   - { label: "Questions fréquentes", href: "/faq" }
 ---
-Choisissez l'atelier si vous voulez mettre les mains dans la pâte avec vos amis, et la pizza party si vous voulez rester avec vos invités pendant que je prépare les pizzas. Le nombre de personnes permet souvent de trancher, puisqu'un atelier accueille idéalement de {{ prix.minPersonnes }} à {{ prix.maxPersonnes }} personnes, et jusqu'à {{ prix.maxPossible }}, alors que la pizza party convient aux groupes plus grands.
+L'atelier convient si vous souhaitez cuisiner vous-même avec vos amis ; la pizza party, si vous préférez profiter de vos invités pendant que je prépare les pizzas. Le nombre de participants aide souvent à choisir : un atelier réunit idéalement de {{ prix.minPersonnes }} à {{ prix.maxPersonnes }} personnes, et jusqu'à {{ prix.maxPossible }}, tandis que la pizza party s'adresse aux groupes plus nombreux.
 
 ## Trois formules, trois façons de passer la soirée
 
