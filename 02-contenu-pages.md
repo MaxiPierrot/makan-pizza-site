@@ -59,7 +59,7 @@ Sous les cartes : phrase sur les prix et le périmètre (voir "Éléments commun
 3. Le jour venu, j'arrive avec tout le matériel. Selon la formule choisie, vous préparez les pizzas avec moi ou vous profitez simplement de vos invités.
 
 **H2 : Qui je suis**
-Je m'appelle Pierre. J'ai toujours aimé cuisiner. Un jour, j'ai essayé un four conçu pour la pizza napolitaine. Ce type de four, longtemps réservé aux pizzerias, est désormais accessible aux particuliers. Depuis, je n'ai plus arrêté : je teste des recettes, j'invite mes amis à déguster mes créations et je recommence. J'ai maintenant envie de faire partager cette cuisine au plus grand nombre. → `Lire mon histoire` (/a-propos)
+Je m'appelle Pierre. J'ai toujours aimé cuisiner. Un jour, j'ai essayé un four conçu pour la pizza napolitaine. Ce type de four, longtemps réservé aux pizzerias, est désormais accessible aux particuliers. Depuis, je n'ai plus arrêté : je teste des recettes, j'invite mes amis à déguster mes créations et je recommence. Aujourd'hui, j'ai envie de partager cette cuisine avec le plus grand nombre, pour montrer qu'elle est plus simple qu'on ne l'imagine et qu'elle se prête à de beaux moments passés ensemble. → `Lire mon histoire` (/a-propos)
 
 **Bande de photos de pizzas** (remplace "Quelques pizzas de la carte") : 4 à 6 photos en grille, sans titre ni liste de noms. Section MASQUÉE tant que les fichiers photo n'existent pas. Chaque photo : nom de fichier descriptif (ex. pizza-morta-bella-lyon.webp) et texte alternatif qui décrit la pizza. Sous la grille : lien `Voir toute la carte` (/carte).
 
@@ -236,7 +236,7 @@ Je m'appelle Pierre. J'ai toujours aimé cuisiner, et plus encore pour des perso
 
 Un jour, j'ai essayé un four conçu pour la pizza napolitaine. Ce type de four, longtemps réservé aux pizzerias, est désormais accessible aux particuliers. Depuis, je n'ai plus arrêté : je teste des recettes, je travaille la pâte, je recommence quand le résultat ne me convient pas et j'invite mes amis à déguster mes créations.
 
-J'ai maintenant envie de faire partager cette cuisine au plus grand nombre, pour montrer qu'elle n'est pas si compliquée et qu'elle offre un bon moment à passer ensemble. C'est pour cette raison que je viens chez vous.
+Aujourd'hui, j'ai envie de partager cette cuisine avec le plus grand nombre, pour montrer qu'elle est plus simple qu'on ne l'imagine et qu'elle se prête à de beaux moments passés ensemble.
 
 En indonésien, makan veut dire manger. Le nom est venu tout seul : Makan Pizza.
 
