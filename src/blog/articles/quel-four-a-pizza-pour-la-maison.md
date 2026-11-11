@@ -54,7 +54,7 @@ Il se branche sur une prise et fonctionne sans flamme ; c'est d'ailleurs celui q
 
 ### Le four à gaz
 
-Il fonctionne avec une alimentation en gaz, souvent une bouteille. Comme il s'agit d'un appareil à combustion, il émet du monoxyde de carbone si la combustion est incomplète. Suivez donc le mode d'emploi du fabricant à la lettre, et prévoyez de l'utiliser à l'endroit qu'il autorise.
+Il fonctionne avec une alimentation en gaz, souvent une bouteille. Comme il s'agit d'un appareil à combustion, il émet du monoxyde de carbone si la combustion est incomplète. Suivez donc le mode d'emploi du fabricant à la lettre, et prévoyez de l'utiliser dans un endroit adapté.
 
 ### Le four à bois
 
