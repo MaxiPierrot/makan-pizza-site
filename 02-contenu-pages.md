@@ -238,7 +238,7 @@ Un jour, j'ai essayé un four conçu pour la pizza napolitaine. Ce type de four,
 
 Aujourd'hui, j'ai envie de partager cette cuisine avec le plus grand nombre, pour montrer qu'elle est plus simple qu'on ne l'imagine et qu'elle se prête à de beaux moments passés ensemble.
 
-En indonésien, makan veut dire manger. Le nom est venu tout seul : Makan Pizza.
+En 2017, je suis parti me former à la plongée en Asie. Le voyage m'a mené sur une petite île indonésienne, où j'ai rencontré celle qui est devenue ma femme. Nous y sommes restés plusieurs années comme moniteurs de plongée, jusqu'à notre retour en France, et l'Indonésie ne nous a jamais vraiment quittés. En indonésien, « makan » veut dire « manger », l'un de nos plus grands plaisirs : lorsque je me suis lancé dans la pizza napolitaine, le nom Makan Pizza s'est imposé naturellement.
 
 **H2 : Ma façon de travailler**
 Je ne rogne jamais sur la farine ni sur la tomate, parce que c'est ce qui fait la pizza. Pour la mozzarella, j'utilise uniquement du fior di latte. Pour étaler la pâte, je saupoudre le plan de travail de semoule, jamais de farine.
