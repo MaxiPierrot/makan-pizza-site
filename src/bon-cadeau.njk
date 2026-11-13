@@ -15,7 +15,7 @@ heroCta: { label: "Offrir un atelier", href: "/contact?atelier=bon-cadeau" }
 <section class="section section--green section--center noel-band">
   <div class="container">
     <h2 class="section-title">Pour Noël</h2>
-    <p>Pour un atelier réservé ou offert jusqu'au {{ prix.noelDateLimite }}, l'atelier Bases de la pizza maison s'accompagne d'une pierre à pizza offerte à l'hôte, et l'initiation à la pizza napolitaine bénéficie d'une remise de {{ prix.noelRemiseInitiation }} %.</p>
+    <p>Pour un atelier Bases de la pizza maison offert jusqu'au {{ prix.noelDateLimite }}, une pierre à pizza est offerte à l'hôte le jour de l'atelier. C'est écrit sur le bon.</p>
     <p>Le bon cadeau vous est envoyé par e-mail, prêt à être imprimé ou glissé sous le sapin.</p>
   </div>
 </section>
@@ -26,7 +26,7 @@ heroCta: { label: "Offrir un atelier", href: "/contact?atelier=bon-cadeau" }
     <h2 class="section-title">Ce que vous offrez</h2>
     <ul class="bon-offres">
       <li><strong>Bases de la pizza maison</strong> : {{ prix.bases }} € par personne, avec le four de la maison. Pour 4 personnes : {{ prix.basesGroupeMin }} €.{% if prix.noel %} Pour Noël, une pierre à pizza est offerte à l'hôte.{% endif %}</li>
-      <li><strong>Initiation à la pizza napolitaine</strong> : {{ prix.initiation }} € par personne, avec mon four. Pour 4 personnes : {{ prix.initiationGroupeMin }} €.{% if prix.noel %} Pour Noël, ce tarif bénéficie d'une remise de {{ prix.noelRemiseInitiation }} %.{% endif %}</li>
+      <li><strong>Initiation à la pizza napolitaine</strong> : {{ prix.initiation }} € par personne, avec mon four. Pour 4 personnes : {{ prix.initiationGroupeMin }} €.</li>
     </ul>
     <p>Un atelier réunit de {{ prix.minPersonnes }} à {{ prix.maxPossible }} personnes ; il est facturé à partir de {{ prix.minPersonnes }} personnes. Vous choisissez l'atelier et le nombre de personnes. Si vous préférez offrir un montant ou une pizza party, écrivez-moi et nous trouverons ensemble la formule qui convient.</p>
   </div>

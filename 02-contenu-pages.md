@@ -92,7 +92,7 @@ Cet atelier s'adresse à ceux qui veulent réussir leurs pizzas maison entre ami
 Nous travaillons la pâte à la main. Après une présentation des farines, nous pétrissons la pâte et la façonnons en boules, puis chacun étale et garnit sa pizza selon ses goûts. La cuisson se fait dans votre four, et je vous montre comment le régler pour bien cuire vos pizzas. L'atelier se termine par un repas pris ensemble, autour des pizzas préparées.
 
 **H2 : Ce qu'il vous faut**
-Il vous faut un four domestique. Si vous n'avez ni pierre à pizza ni petits accessoires, prévoyez environ 50 € d'achats avant l'atelier. Les ingrédients prévus sont ceux de la pizza margherita. Si vous souhaitez d'autres garnitures, vous les achetez de votre côté et je vous conseille pour les choisir.
+(Mis à jour le 13 nov. 2026, réponses de Pierre : voir la page src/atelier-pizza-lyon.njk.) Pierre apporte farine, levure et ingrédients de la margherita. Le client prévoit : four à 250 °C au moins, un grand saladier par personne, vaisselle et boissons, et le kit (pierre à pizza, pelle à pizza pas chère pour commencer, coupe-pâton, roulette, balance de précision au 0,1 g, boîte avec couvercle, semoule fine ; environ 50 €), qu'il achète lui-même. Pierre le conseille pour choisir le matériel : compris dans la prestation.
 
 **H2 : Pour qui**
 Cet atelier s'adresse à ceux qui veulent réussir leurs pizzas à la maison plutôt que d'acheter des pâtes à pizza industrielles. Aucun niveau n'est demandé. Il ne s'agit pas d'une formation professionnelle et aucun diplôme n'est délivré.
@@ -302,7 +302,7 @@ Une pizza party se fait sur devis. Le tarif dépend du nombre d'invités, de la 
 Je me déplace à Lyon et dans un rayon de 10 km autour de Lyon 9e. Dans cette zone, le déplacement est inclus. Au-delà, je peux venir si l'événement le justifie ; des frais de déplacement s'ajoutent alors et je les précise dans le devis. Le stationnement payant est facturé au prix réel. Si vous connaissez une place gratuite près du lieu, indiquez-la-moi.
 
 **Faut-il prévoir les boissons et la vaisselle ?**
-Je ne m'occupe pas de la vaisselle, qui reste à votre charge. Les boissons peuvent être prévues sur devis, selon l'événement. Précisez vos besoins dans votre demande et je vous dirai ce qui est réalisable.
+Oui : les assiettes, les couverts, les verres et les boissons restent à votre charge, quelle que soit la formule. J'apporte tout ce qui sert à faire et à cuire les pizzas. (Décision du 13 nov. 2026.)
 
 ### Nombre de personnes et durée
 
@@ -452,7 +452,7 @@ Brouillon à faire relire avant publication. Les passages entre crochets ne se p
 - Droit de rétractation : [À FAIRE RELIRE : les prestations de restauration ou de loisirs fournies à une date déterminée sont exclues du délai de rétractation de 14 jours (article L221-28 du code de la consommation). L'indiquer clairement dans les CGV.]
 - Allergies et régimes : le client les signale dès la demande, j'en tiens compte dans le devis. [À DÉFINIR : formulation sur les traces d'allergènes, sans promesse « sans allergène »]
 - Frais : le déplacement est inclus dans un rayon de 10 km autour de Lyon. Au-delà, je peux me déplacer si l'événement le justifie, avec des frais de déplacement indiqués dans le devis. Le stationnement payant est facturé au prix réel.
-- À prévoir chez le client : [À CONFIRMER : plan de travail ou table, prise électrique, espace pour le four]
+- À prévoir chez le client : tranché le 13 nov. 2026 (voir src/cgv.njk).
 - Responsabilité et assurance : [À COMPLÉTER après souscription de la RC Pro]
 
 **Politique de confidentialité (/confidentialite)**
@@ -469,7 +469,7 @@ Brouillon à faire relire avant publication. Les passages entre crochets ne se p
 
 1. Pizza party : prix affiché ? Tranché le 11 nov. 2026 : non, uniquement « sur devis » (accueil, page pizza party, meta description, FAQ, blog).
 2. Solde le jour de la prestation : d'accord ?
-3. À prévoir chez le client (table, prise électrique, espace pour le four) : à préciser.
+3. À prévoir chez le client : tranché le 13 nov. 2026 (vaisselle et boissons au client ; Bases : four 250 °C, saladier par personne, kit acheté par le client avec les conseils de Pierre : pierre, pelle pas chère, coupe-pâton, roulette, balance de précision 0,1 g, boîte, semoule).
 4. Nom et adresse pour les mentions légales (voir la réponse dans la conversation sur l'adresse).
 5. Pages de la phase 2 : lesquelles ouvrir en premier ? Entreprises seulement après la RC Pro et avec une capacité de groupe définie.
 6. Relecture des CGV (surtout annulation et droit de rétractation) avant publication.

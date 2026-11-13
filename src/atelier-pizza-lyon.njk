@@ -43,7 +43,24 @@ whatsappText: "Bonjour, je voudrais des informations sur l'atelier Bases de la p
   <div class="container split">
     <h2 class="section__title">Ce qu'il vous faut</h2>
     <div class="split__body">
-      <p>Il vous faut un four domestique. Si vous n'avez ni pierre à pizza ni petits accessoires, prévoyez environ {{ prix.accessoiresBases }} € d'achats avant l'atelier. Les ingrédients prévus sont ceux de la pizza margherita. Si vous souhaitez d'autres garnitures, vous les achetez de votre côté et je vous conseille pour les choisir.</p>
+      <p>J'apporte la farine, la levure et les ingrédients de la pizza margherita. Si vous souhaitez d'autres garnitures, vous les achetez de votre côté et je vous conseille pour les choisir.</p>
+      <p>De votre côté, prévoyez :</p>
+      <ul>
+        <li>votre four, qui doit monter à 250 °C au moins ;</li>
+        <li>un grand saladier par personne, pour pétrir sa pâte ;</li>
+        <li>les assiettes, les couverts, les verres et les boissons pour le repas.</li>
+      </ul>
+      <p>Pour cuire de bonnes pizzas au four de la maison, il faut aussi un petit kit, à acheter avant l'atelier (comptez environ {{ prix.accessoiresBases }} € si vous partez de rien) :</p>
+      <ul>
+        <li>une pierre à pizza, le plus important : elle cuit le dessous de la pâte ;</li>
+        <li>une pelle à pizza : pas besoin d'une chère pour commencer ;</li>
+        <li>un coupe-pâton, pour diviser la pâte ;</li>
+        <li>une roulette à pizza ;</li>
+        <li>une balance de précision, au 0,1 g près, pour peser la levure et le sel ;</li>
+        <li>une boîte avec couvercle, pour faire lever les pâtons ;</li>
+        <li>de la semoule fine, pour fleurer le plan de travail.</li>
+      </ul>
+      <p>Avant l'atelier, je vous aide à choisir le bon matériel : c'est compris dans la prestation.{% if prix.noel %} Et jusqu'au {{ prix.noelDateLimite }}, la pierre à pizza est offerte à l'hôte.{% endif %}</p>
     </div>
   </div>
 </section>
