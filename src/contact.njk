@@ -6,16 +6,17 @@ crumb: "Contact"
 title: "Demander un devis ou une date | Makan Pizza"
 description: "Demandez un devis pour une pizza party ou une date pour un atelier pizza à domicile à Lyon. Je vous réponds par email ou par téléphone."
 h1: "Demander un devis ou une date"
-lead: "Les dates d'ateliers ne sont pas encore ouvertes à la réservation en ligne. Écrivez-moi en indiquant la date qui vous convient, le nombre de personnes et l'occasion. Je vous réponds par email ou par téléphone."
+lead: "Indiquez-moi la date qui vous convient, le nombre de personnes et l'occasion : je vous réponds sous 24 h, par email ou par téléphone."
 whatsappText: "Bonjour, je voudrais un devis ou une date pour un atelier ou une pizza party."
 nofab: true
 ---
 {# Emplacement du widget de réservation (SimplyBook) : à ajouter ici quand il sera branché, puis adapter le texte d'introduction. #}
 <section class="section">
   <div class="container">
+    <p class="contact-quick">Plus rapide : <a class="wa-link" href="{{ site.whatsappBase }}?text={{ whatsappText | urlencode }}" target="_blank" rel="noopener">{% include "wa-icon.njk" %}WhatsApp</a> ou <a href="tel:{{ site.phoneIntl }}">{{ site.phone }}</a></p>
     <div class="estimate-band">
       <p><strong>Votre projet est déjà défini ?</strong> Répondez à quelques questions et obtenez une estimation du tarif, déplacement compris, en cinq minutes.</p>
-      <a href="/preparer-mon-atelier" class="btn btn--primary">Estimer le tarif</a>
+      <a href="/preparer-mon-atelier" class="btn btn--primary">{{ site.ctaEstimer }}</a>
     </div>
   </div>
   <div class="container contact-grid">

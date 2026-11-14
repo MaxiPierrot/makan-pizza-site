@@ -13,17 +13,17 @@ description: "Ateliers de pizza napolitaine et pizza party chez vous, à Lyon et
     <div class="hero__text">
       <h1 class="hero__title"><span class="line">Ateliers pizza et pizza party</span> <span class="line">à domicile, à Lyon</span></h1>
       <p class="hero__tagline">{{ site.slogan }}</p>
-      <p class="hero__lead">Je viens chez vous avec mon four : en petit groupe, nous préparons ensemble la pâte et les pizzas, ou bien je prépare moi-même les pizzas de vos invités. J'interviens à Lyon et dans toute la région lyonnaise.</p>
+      <p class="hero__facts">{{ prix.minPersonnes }} à {{ prix.maxPossible }} personnes · dès {{ prix.bases }} € par personne · Lyon et région lyonnaise</p>
+      <p class="hero__lead">Je viens chez vous avec mon four : en petit groupe, nous préparons ensemble la pâte et les pizzas, ou bien je prépare moi-même les pizzas de vos invités.</p>
       <p class="hero__actions">
         {%- if prix.noel %}
         <a href="/bon-cadeau" class="btn btn--primary">Offrir un atelier</a>
-        <a href="#ateliers" class="btn btn--secondary">Voir les ateliers</a>
+        <a href="/preparer-mon-atelier" class="btn btn--secondary">{{ site.ctaEstimer }}</a>
         {%- else %}
-        <a href="#ateliers" class="btn btn--primary">Voir les ateliers</a>
-        <a href="/contact" class="btn btn--secondary">Demander un devis</a>
+        <a href="/preparer-mon-atelier" class="btn btn--primary">{{ site.ctaEstimer }}</a>
+        <a href="#ateliers" class="btn btn--secondary">Voir les ateliers</a>
         {%- endif %}
       </p>
-      <p class="hero__facts">{{ prix.minPersonnes }} à {{ prix.maxPossible }} personnes · dès {{ prix.bases }} € par personne · Lyon et région lyonnaise</p>
     </div>
   </div>
 </section>
@@ -73,7 +73,7 @@ description: "Ateliers de pizza napolitaine et pizza party chez vous, à Lyon et
       </li>
     </ul>
     <p class="offers__note">{{ site.priceNote }}</p>
-    <p class="offers__estimate"><a href="/preparer-mon-atelier" class="btn btn--secondary">Estimer le tarif de mon atelier en 5 min</a></p>
+    <p class="offers__estimate"><a href="/preparer-mon-atelier" class="btn btn--secondary">{{ site.ctaEstimer }}</a></p>
   </div>
 </section>
 

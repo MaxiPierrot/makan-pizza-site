@@ -18,7 +18,7 @@ layout: base.njk
       </dl>
       <p class="facts__actions">
         <a href="{{ ctaHref }}" class="btn btn--primary">{{ ctaLabel }}</a>
-        <a href="/preparer-mon-atelier?atelier={{ 'bases' if offre == 'atelier' else offre }}" class="btn btn--secondary">Estimer le tarif en 5 min</a>
+        <a href="/preparer-mon-atelier?atelier={{ 'bases' if offre == 'atelier' else offre }}" class="btn btn--secondary">{{ site.ctaEstimer }}</a>
         {% if offre != "pizza-party" %}<a class="link-arrow" href="/bon-cadeau">Offrir cet atelier <span class="arrow" aria-hidden="true">→</span></a>{% endif %}
       </p>
     </aside>
@@ -43,9 +43,10 @@ layout: base.njk
     <p class="tarif__text{% if tarifLong %} tarif__text--body{% endif %}">{{ tarifText | prixTokens }}</p>
     {% if prix.noel and noelText %}<p class="tarif__text tarif__text--body">{{ noelText | prixTokens }}</p>{% endif %}
     {% if tarifNote %}<p class="tarif__note">{{ site.priceNote }}</p>{% endif %}
+    <p class="tarif__note">Acompte de {{ prix.acomptePct }} % à la réservation, solde le jour J. Une allergie ? Signalez-la dès votre demande. En cas d'imprévu, voir <a href="/faq#annulation">l'annulation</a>.</p>
     <p class="tarif__actions">
       <a href="{{ ctaHref }}" class="btn btn--primary">{{ ctaLabel }}</a>
-      <a href="/preparer-mon-atelier?atelier={{ 'bases' if offre == 'atelier' else offre }}" class="btn btn--secondary">Estimer le tarif en 5 min</a>
+      <a href="/preparer-mon-atelier?atelier={{ 'bases' if offre == 'atelier' else offre }}" class="btn btn--secondary">{{ site.ctaEstimer }}</a>
       {% if ctaSecondary %}<a class="link-arrow" href="{{ ctaSecondary.href }}">{{ ctaSecondary.label }} <span class="arrow" aria-hidden="true">→</span></a>{% endif %}
     </p>
   </div>

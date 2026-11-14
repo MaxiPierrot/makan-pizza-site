@@ -24,6 +24,7 @@
       {%- endif %}
       <li><a href="/bon-cadeau"{% if path == "/bon-cadeau" %} aria-current="page"{% endif %}>Offrir</a></li>
       <li><a href="/contact"{% if path == "/contact" %} aria-current="page"{% endif %}>Contact</a></li>
+      <li class="site-nav__estimate-item"><a href="/preparer-mon-atelier" class="btn btn--secondary">{{ site.ctaEstimer }}</a></li>
       <li class="site-nav__cta-item">{% if prix.noel %}<a href="/bon-cadeau" class="btn btn--primary">Offrir un atelier</a>{% else %}<a href="/contact" class="btn btn--primary">Demander un devis</a>{% endif %}</li>
     </ul>
   </div>

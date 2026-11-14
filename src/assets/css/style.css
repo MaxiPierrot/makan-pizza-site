@@ -499,7 +499,7 @@ textarea:focus-visible {
 }
 
 .hero__facts {
-  margin: 0;
+  margin: 0 0 1rem;
   font-size: var(--fs-sm);
   font-weight: 500;
   letter-spacing: 0.02em;
@@ -2403,3 +2403,11 @@ textarea:focus-visible {
 .facts__actions .btn--secondary { margin-top: 0.6rem; }
 .estimate-band { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem 1.6rem; padding: 1.2rem 1.4rem; margin-bottom: 2rem; background: var(--white); border: 2px solid var(--mustard); border-radius: var(--radius); }
 .estimate-band p { margin: 0; flex: 1 1 22rem; }
+
+/* Bouton « Estimer mon tarif » dans le menu plein écran (mobile) ; masqué dans la barre du bureau */
+.site-nav__estimate-item { margin-top: 0.8rem; }
+.site-nav__menu .btn--secondary { color: var(--cream); border-color: var(--cream); }
+.site-nav__menu .btn--secondary:hover { background-color: var(--cream); color: var(--green); }
+@media (min-width: 960px) { .site-nav__estimate-item { display: none; } }
+.contact-quick { margin: 0 0 1.4rem; font-weight: 500; }
+.contact-quick a { white-space: nowrap; }
