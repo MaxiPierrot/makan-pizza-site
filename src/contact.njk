@@ -12,6 +12,12 @@ nofab: true
 ---
 {# Emplacement du widget de réservation (SimplyBook) : à ajouter ici quand il sera branché, puis adapter le texte d'introduction. #}
 <section class="section">
+  <div class="container">
+    <div class="estimate-band">
+      <p><strong>Votre projet est déjà défini ?</strong> Répondez à quelques questions et obtenez une estimation du tarif, déplacement compris, en cinq minutes.</p>
+      <a href="/preparer-mon-atelier" class="btn btn--primary">Estimer le tarif</a>
+    </div>
+  </div>
   <div class="container contact-grid">
     <form class="form" name="contact" method="POST" action="/merci" data-netlify="true" netlify-honeypot="bot-field" data-sauvegarde="contact-v1">
       <input type="hidden" name="form-name" value="contact">
@@ -90,7 +96,6 @@ nofab: true
     </form>
 
     <aside class="contact-card" aria-label="Coordonnées">
-      <p class="contact-card__prep"><strong>Votre projet est déjà défini ?</strong><br>Vous pouvez préparer votre atelier en cinq minutes et obtenir une estimation : <a href="/preparer-mon-atelier">Préparer mon atelier</a>.</p>
       <p><a href="tel:{{ site.phoneIntl }}">{{ site.phone }}</a></p>
       <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
       <p class="contact-card__reply">Je réponds sous 24 h.</p>

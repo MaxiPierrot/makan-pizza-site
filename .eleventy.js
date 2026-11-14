@@ -2,6 +2,9 @@ const fs = require("fs");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/robots.txt": "robots.txt" });
+  eleventyConfig.addPassthroughCopy({ "src/llms.txt": "llms.txt" });
+  // Clé IndexNow (Bing, Yandex...) : prouve que le site est à nous quand on signale des pages modifiées
+  eleventyConfig.addPassthroughCopy({ "src/a33afc14ac374a47f7b5c9d83cc49131.txt": "a33afc14ac374a47f7b5c9d83cc49131.txt" });
   eleventyConfig.addPassthroughCopy({ "src/_headers": "_headers" });
   eleventyConfig.addPassthroughCopy({ "src/_redirects": "_redirects" });
   eleventyConfig.addPassthroughCopy({ "src/assets/images/og-makan-pizza.jpg": "assets/images/og-makan-pizza.jpg" });

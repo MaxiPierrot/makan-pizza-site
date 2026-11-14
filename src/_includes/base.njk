@@ -40,13 +40,21 @@
   "name": "{{ site.name }}",
   "url": "{{ site.url }}",
   "logo": "{{ site.url }}/assets/images/logo-trim.webp",
-  "image": "{{ site.url }}/assets/images/logo-trim.webp",
+  "image": ["{{ site.url }}/assets/images/photos/pierre-pizzaiolo-lyon-carre.webp", "{{ site.url }}/assets/images/og-makan-pizza.jpg"],
+  "founder": { "@type": "Person", "name": "Pierre Franco" },
+  "priceRange": "{{ prix.bases }} € à {{ prix.initiation }} € par personne",
   "address": { "@type": "PostalAddress", "addressLocality": "Lyon", "postalCode": "69009", "addressCountry": "FR" },
   "telephone": "{{ site.phoneIntl }}",
   "email": "{{ site.email }}",
   "description": "{{ site.description }}",
   "areaServed": [{ "@type": "City", "name": "Lyon" }, { "@type": "AdministrativeArea", "name": "Région lyonnaise" }],
-  "sameAs": ["{{ site.instagram }}", "{{ site.facebook }}"]
+  "sameAs": ["{{ site.instagram }}", "{{ site.facebook }}", "https://maps.google.com/?cid=14360638654925309021"],
+  "makesOffer": [
+    { "@type": "Offer", "name": "Atelier Bases de la pizza maison", "url": "{{ site.url }}/atelier-pizza-lyon", "price": "{{ prix.bases }}", "priceCurrency": "EUR", "description": "Atelier de pizza à domicile avec le four de la maison, de 4 à 8 personnes, prix par personne." },
+    { "@type": "Offer", "name": "Initiation à la pizza napolitaine", "url": "{{ site.url }}/atelier-pizza-napolitaine-lyon", "price": "{{ prix.initiation }}", "priceCurrency": "EUR", "description": "Atelier de pizza napolitaine à domicile avec un four à pizza, de 4 à 8 personnes, prix par personne." },
+    { "@type": "Offer", "name": "Pizza party à domicile", "url": "{{ site.url }}/pizza-party-domicile-lyon", "description": "Le pizzaiolo prépare les pizzas des invités sur place, sur devis." },
+    { "@type": "Offer", "name": "Bon cadeau atelier pizza", "url": "{{ site.url }}/bon-cadeau", "description": "Atelier pizza à offrir, bon envoyé en PDF, valable 12 mois." }
+  ]
 }
 </script>
 {% if crumb %}<script type="application/ld+json">
