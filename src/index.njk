@@ -15,13 +15,28 @@ description: "Ateliers de pizza napolitaine et pizza party chez vous, à Lyon et
       <p class="hero__tagline">{{ site.slogan }}</p>
       <p class="hero__lead">Je viens chez vous avec mon four : en petit groupe, nous préparons ensemble la pâte et les pizzas, ou bien je prépare moi-même les pizzas de vos invités. J'interviens à Lyon et dans toute la région lyonnaise.</p>
       <p class="hero__actions">
+        {%- if prix.noel %}
+        <a href="/bon-cadeau" class="btn btn--primary">Offrir un atelier</a>
+        <a href="#ateliers" class="btn btn--secondary">Voir les ateliers</a>
+        {%- else %}
         <a href="#ateliers" class="btn btn--primary">Voir les ateliers</a>
         <a href="/contact" class="btn btn--secondary">Demander un devis</a>
+        {%- endif %}
       </p>
       <p class="hero__facts">{{ prix.minPersonnes }} à {{ prix.maxPossible }} personnes · dès {{ prix.bases }} € par personne · Lyon et région lyonnaise</p>
     </div>
   </div>
 </section>
+
+{% if prix.noel %}
+<section class="section section--green section--center noel-band" aria-label="Bons cadeaux de Noël">
+  <div class="container">
+    <h2 class="section-title">Pour Noël, offrez un atelier pizza</h2>
+    <p>Jusqu'au {{ prix.noelDateLimite }}, une pierre à pizza est offerte à l'hôte de chaque atelier Bases de la pizza maison, qu'il soit réservé ou offert. L'initiation à la pizza napolitaine réservée pendant cette période bénéficie d'une remise de {{ prix.noelRemiseInitiation }} % (hors bons cadeaux). Le bon cadeau s'imprime et se glisse sous le sapin ; la date de l'atelier se choisit ensuite ensemble.</p>
+    <p><a href="/bon-cadeau" class="btn btn--primary">Offrir un atelier</a></p>
+  </div>
+</section>
+{% endif %}
 
 <section class="offers" id="ateliers">
   <div class="container">
@@ -61,15 +76,6 @@ description: "Ateliers de pizza napolitaine et pizza party chez vous, à Lyon et
   </div>
 </section>
 
-{% if prix.noel %}
-<section class="section section--green section--center noel-band" aria-label="Bons cadeaux de Noël">
-  <div class="container">
-    <h2 class="section-title">Pour Noël, offrez un atelier pizza</h2>
-    <p>Jusqu'au {{ prix.noelDateLimite }}, une pierre à pizza est offerte à l'hôte de chaque atelier Bases de la pizza maison, qu'il soit réservé ou offert. L'initiation à la pizza napolitaine réservée pendant cette période bénéficie d'une remise de {{ prix.noelRemiseInitiation }} % (hors bons cadeaux). Le bon cadeau s'imprime et se glisse sous le sapin ; la date de l'atelier se choisit ensuite ensemble.</p>
-    <p><a href="/bon-cadeau" class="btn btn--primary">Offrir un atelier</a></p>
-  </div>
-</section>
-{% endif %}
 
 <section class="section section--cream">
   <div class="container split">

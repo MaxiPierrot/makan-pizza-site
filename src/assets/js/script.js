@@ -57,7 +57,22 @@ if (requestType) document.addEventListener('DOMContentLoaded', () => {
   if (wanted) {
     requestType.value = known.includes(wanted) ? wanted : 'autre';
   }
+  // Champs « Pour qui » et « De la part de », seulement pour un bon cadeau
+  const bon = document.querySelector('[data-bon-champs]');
+  const majBon = () => { if (bon) bon.hidden = requestType.value !== 'bon-cadeau'; };
+  requestType.addEventListener('change', majBon);
+  majBon();
+  setTimeout(majBon, 300); // après la restauration des réponses enregistrées
+  // Origine de la visite (lien en bio marqué ?utm_source=…), pour savoir d'où viennent les demandes
+  const source = document.getElementById('source');
+  if (source) { try { source.value = sessionStorage.getItem('mp-source') || ''; } catch (e) { /* sans importance */ } }
 });
+
+// Mémorise la source d'arrivée sur le site (?utm_source=instagram, etc.) pour la joindre au formulaire
+try {
+  const src = new URLSearchParams(window.location.search).get('utm_source');
+  if (src) sessionStorage.setItem('mp-source', src.slice(0, 40));
+} catch (e) { /* stockage indisponible : sans importance */ }
 
 // Bandeau d'articles : boutons précédent/suivant, barre de progression, glisser à la souris.
 // Sans JavaScript, le bandeau défile quand même (tactile, molette, clavier).

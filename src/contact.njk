@@ -41,6 +41,16 @@ nofab: true
           <option value="autre">Autre</option>
         </select>
       </div>
+      <div class="form__cols" id="bon-champs" data-bon-champs hidden>
+        <div class="form__row">
+          <label for="pour-qui">Pour qui (prénom)</label>
+          <input type="text" id="pour-qui" name="bon_pour">
+        </div>
+        <div class="form__row">
+          <label for="de-la-part">De la part de</label>
+          <input type="text" id="de-la-part" name="bon_de_la_part_de">
+        </div>
+      </div>
       <div class="form__cols">
         <div class="form__row">
           <label for="date">Date souhaitée</label>
@@ -55,6 +65,19 @@ nofab: true
         <label for="commune">Quartier ou commune</label>
         <input type="text" id="commune" name="quartier_ou_commune" autocomplete="address-level2">
       </div>
+      <div class="form__row">
+        <label for="connu">Comment m'avez-vous connu ?</label>
+        <select id="connu" name="comment_connu">
+          <option value="">Choisissez</option>
+          <option>Instagram</option>
+          <option>Facebook</option>
+          <option>Google</option>
+          <option>Par une connaissance</option>
+          <option>J'ai reçu un bon cadeau</option>
+          <option>Autre</option>
+        </select>
+      </div>
+      <input type="hidden" name="source" id="source" value="">
       <div class="form__row">
         <label for="message">Message <span class="req" aria-hidden="true">*</span></label>
         <textarea id="message" name="message" rows="6" required aria-required="true"></textarea>

@@ -105,7 +105,7 @@ En 2010, l'Union européenne a enregistré la Pizza Napoletana comme spécialit�
 L'article revient sur cette histoire et signale les dates à prendre avec prudence : https://makanpizza.com/blog/histoire-pizza-napolitaine-de-naples-a-l-unesco
 
 **Instagram**
-De Naples à l'UNESCO 🇮🇹
+De Naples à l'UNESCO
 En 2010, l'Union européenne a reconnu la pizza napolitaine comme spécialité traditionnelle garantie ; en 2017, l'UNESCO a inscrit l'art du pizzaiolo napolitain au patrimoine culturel immatériel.
 L'article retrace cette histoire et signale ce qu'il faut prendre avec prudence. Le lien est dans la bio.
 #pizzanapolitaine #unesco #histoiredelapizza #lyon #makanpizza
