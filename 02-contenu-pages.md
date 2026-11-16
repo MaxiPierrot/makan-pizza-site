@@ -1,5 +1,7 @@
 # Makan Pizza : contenu des pages (v2)
 
+> **Document historique (14 nov. 2026).** Le site en ligne et `../contexte/` font foi. Ce fichier contient des faits dépassés (« 10 km », « dès 220 € », « 4 à 6 »…) : ne pas s'en servir comme référence pour les prix, la zone ou les règles.
+
 Ce fichier contient tous les textes du site, page par page. Il remplace le contenu actuel de makanpizza.com en gardant le fond de ce qui y était.
 
 ## Règles pour Claude Code (à lire avant de toucher aux textes)
@@ -86,7 +88,7 @@ Indiquez-moi la date souhaitée, le nombre de participants et l'occasion. Si vou
 - À avoir : un four domestique
 
 **Introduction**
-Cet atelier s'adresse à ceux qui veulent réussir leurs pizzas maison entre amis, sans changer d'équipement. Nous partons d'une recette de pâte fiable et de ce que vous avez déjà dans votre cuisine. Comme le groupe réunit de 4 à 8 personnes, je peux m'occuper de chacun et l'ambiance reste détendue.
+Cet atelier s'adresse à ceux qui veulent réussir leurs pizzas maison entre amis, sans changer d'équipement. Nous partons d'une recette de pâte fiable et de ce que vous avez déjà dans votre cuisine. Comme le groupe réunit de 4 à 8 personnes, je peux m'occuper de chacun et l'ambiance reste détendue. L'atelier convient aussi à une soirée en couple, à un anniversaire ou à un moment entre parents et enfants.
 
 **H2 : Au programme**
 Nous travaillons la pâte à la main. Après une présentation des farines, nous pétrissons la pâte et la façonnons en boules, puis chacun étale et garnit sa pizza selon ses goûts. La cuisson se fait dans votre four, et je vous montre comment le régler pour bien cuire vos pizzas. L'atelier se termine par un repas pris ensemble, autour des pizzas préparées.

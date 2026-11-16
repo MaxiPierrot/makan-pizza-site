@@ -19,7 +19,7 @@ questions:
   - q: "Combien d'invités au maximum ?"
     a: "Un atelier accueille de {prix.minPersonnes} à {prix.maxPossible} personnes. Pour une pizza party, je peux servir seul environ 25 personnes, et jusqu'à 40 en ajoutant des focaccias préparées à l'avance, sur devis."
   - q: "Les enfants peuvent-ils participer ?"
-    a: "Oui, il n'y a pas d'âge minimum, et j'adapte l'atelier à l'âge des enfants. Un adulte reste présent pour environ quatre enfants. Je vous remercie d'indiquer l'âge des enfants dans votre demande."
+    a: "Oui, il n'y a pas d'âge minimum, et j'adapte l'atelier à l'âge des enfants. Un adulte reste présent pour quatre enfants. Je vous remercie d'indiquer l'âge des enfants dans votre demande."
   - q: "Faut-il un four spécial chez moi ?"
     a: "Pour l'atelier Bases de la pizza maison, un four domestique suffit, tandis que pour l'initiation à la pizza napolitaine et la pizza party, j'apporte mon propre four."
 related:
@@ -60,7 +60,7 @@ Nous choisissons les pizzas ensemble dans la carte, qui réunit des classiques e
 
 ## Idée 3 : un anniversaire d'enfant
 
-Il n'y a pas d'âge minimum, et j'adapte l'atelier à l'âge des enfants. Un adulte reste présent pendant l'atelier, à raison d'environ un adulte pour quatre enfants. En m'indiquant l'âge des enfants dans votre demande, vous m'aidez à préparer la séance.
+Il n'y a pas d'âge minimum, et j'adapte l'atelier à l'âge des enfants. Un adulte reste présent pendant l'atelier, à raison d'un adulte pour quatre enfants. En m'indiquant l'âge des enfants dans votre demande, vous m'aidez à préparer la séance.
 
 Selon le nombre d'enfants, chacun peut préparer sa propre pizza. C'est d'ailleurs la formule que je propose pour un mariage, où les enfants préparent leurs pizzas pendant que les parents profitent de leur repas entre adultes.
 
@@ -78,7 +78,7 @@ Si vous avez un doute sur le lieu, décrivez-moi la pièce lorsque vous me conta
 
 - **Si vous êtes de 4 à 8 et souhaitez cuisiner ensemble**, choisissez l'atelier Bases de la pizza maison si vous avez un four et l'envie de progresser, ou l'initiation à la pizza napolitaine si vous souhaitez la cuire dans mon four.
 - **Si vous êtes plus nombreux**, la pizza party convient mieux. Je peux servir seul environ 25 personnes, et jusqu'à 40 avec des focaccias.
-- **S'il y a des enfants**, l'atelier peut être adapté pour eux, avec un adulte pour environ quatre enfants.
+- **S'il y a des enfants**, l'atelier peut être adapté pour eux, avec un adulte pour quatre enfants.
 - **Si vous hésitez encore**, vous pouvez lire [atelier pizza ou pizza party : lequel choisir](/blog/atelier-pizza-ou-pizza-party-lequel-choisir), ou m'écrire directement.
 
 ## Comment réserver
