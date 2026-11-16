@@ -2262,12 +2262,14 @@ textarea:focus-visible {
 
 .prep__lines > div {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: baseline;
   gap: 1rem;
 }
 
 .prep__lines dt {
+  flex: 1 1 0;
   min-width: 0;
 }
 
@@ -2383,6 +2385,11 @@ textarea:focus-visible {
 .legal__form p { margin: 0.4rem 0; }
 
 .prep__offre dt, .prep__offre dd { color: var(--green-hover); font-weight: 600; }
+/* Texte long : sous l'intitulé, à la ligne, pour ne pas élargir la page sur téléphone */
+.prep__offre { flex-direction: column; gap: 0.2rem; }
+.prep__offre dt { flex: none; }
+.prep__lines dd { margin-left: auto; }
+.prep__offre dd { margin-left: 0; white-space: normal; text-align: left; }
 
 /* Boutons en haut de page : cadre « L'essentiel » des offres et haut de la page Bon cadeau */
 .facts__actions { display: flex; flex-wrap: wrap; align-items: center; gap: 0.6rem 1.2rem; margin: 1.4rem 0 0; }

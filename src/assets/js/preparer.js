@@ -82,7 +82,10 @@
     else total = 'sur devis';
     $('p-v-total').textContent = total;
 
-    const acompteBase = base !== null ? base + frais : null;
+    // Acompte calculé après la remise de Noël sur l'Initiation (décision de Pierre, 16 nov. 2026)
+    const noelEl = $('p-noel');
+    const remisePct = noelEl && key === 'initiation' ? Number(noelEl.dataset.remise) : 0;
+    const acompteBase = base !== null ? base * (1 - remisePct / 100) + frais : null;
     $('p-v-acompte').textContent = acompteBase === null ? 'sur devis'
       : eur(Math.round(acompteBase * P.acompte * 100) / 100);
 
